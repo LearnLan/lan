@@ -1,6 +1,6 @@
 [
   {
-    "f": "",
+    "sid": 1,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒmen huíjiābā 。",
@@ -11,7 +11,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 2,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wā ， yǒudiǎn rè a ！",
@@ -22,7 +22,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 3,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒmen kěyǐ yīqǐ qù gòuwù ma ？",
@@ -33,7 +33,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 4,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒ xiǎng mǎi yīxiē xīn de yīfú 。",
@@ -44,7 +44,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 5,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒ fēicháng xǐhuan nǐ de shǒujī ké 。",
@@ -55,7 +55,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 6,
     "Type": "",
     "Desc": "",
     "Pinyin1": "qǐng bǎ xíngli fàngzài zhèlǐ 。",
@@ -66,7 +66,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 7,
     "Type": "",
     "Desc": "",
     "Pinyin1": "nǐ zhīdào nǎlǐ yǒu dàngāo ma ？",
@@ -77,7 +77,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 8,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒyào zuò yīxiē miànbāo hé dàngāo 。",
@@ -88,7 +88,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 9,
     "Type": "",
     "Desc": "",
     "Pinyin1": "zhèjiàn jiākèshān tàixiǎo le ， kěyǐ huàn yīgè dà yīdiǎn de ma ？",
@@ -99,7 +99,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 10,
     "Type": "",
     "Desc": "",
     "Pinyin1": "nǐ xiǎngyào yībēi kāfēi ma ？",
@@ -110,7 +110,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 11,
     "Type": "",
     "Desc": "",
     "Pinyin1": "nǐ huì chàng zhè shǒugē ma ？",
@@ -121,7 +121,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 12,
     "Type": "",
     "Desc": "",
     "Pinyin1": "shéi zài qiāomén ？",
@@ -132,7 +132,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 13,
     "Type": "",
     "Desc": "",
     "Pinyin1": "tīng tiānqìyùbào shuō yǒu yǔ 。",
@@ -143,7 +143,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 14,
     "Type": "",
     "Desc": "",
     "Pinyin1": "qǐng bǎ zhuōzi cā gānjìng 。",
@@ -154,7 +154,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 15,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒ xiǎngyào pāi yīzhāng zhàopiàn",
@@ -165,7 +165,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 16,
     "Type": "",
     "Desc": "",
     "Pinyin1": "nǐ jīntiān zǎoshang gǎnjué zěnmeyàng ？",
@@ -176,7 +176,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 17,
     "Type": "",
     "Desc": "",
     "Pinyin1": "nǐhuì zuòdiǎn shénme ？",
@@ -187,7 +187,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 18,
     "Type": "",
     "Desc": "",
     "Pinyin1": "nǐ de yīngyǔ jìnbù hěnkuài 。",
@@ -198,7 +198,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 19,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒ zài děng gōnggòngqìchē 。",
@@ -209,7 +209,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 20,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒmen dào nǎlǐ qù lǚxíng ？",
@@ -220,7 +220,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 21,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒ xiǎng mǎi yībù shǒujī 。",
@@ -231,7 +231,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 22,
     "Type": "",
     "Desc": "",
     "Pinyin1": "nǐ shénme shíhou zhǔnbèi ？",
@@ -242,7 +242,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 23,
     "Type": "",
     "Desc": "",
     "Pinyin1": "nǐ zhīdào zěnme qù shāngchǎng ma ？",
@@ -253,7 +253,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 24,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒ xūyào yīzhāng qù guǎngzhōu de chēpiào 。",
@@ -264,7 +264,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 25,
     "Type": "",
     "Desc": "",
     "Pinyin1": "nǐ yǒu zìjǐ de xiǎochē ma ？",
@@ -275,7 +275,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 26,
     "Type": "",
     "Desc": "",
     "Pinyin1": "nǐ yǒu jīntiān de bàozhǐ ma ？",
@@ -286,7 +286,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 27,
     "Type": "",
     "Desc": "",
     "Pinyin1": "néng bāng wǒ mǎi yīxiē shuǐguǒ ma ？",
@@ -297,7 +297,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 28,
     "Type": "",
     "Desc": "",
     "Pinyin1": "nǐ yǒuméiyǒu kànguò zhèbù diànyǐng ？",
@@ -308,7 +308,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 29,
     "Type": "",
     "Desc": "",
     "Pinyin1": "nǐ yǒuméiyǒu tīngshuō guò zhège xīnwén ？",
@@ -319,7 +319,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 30,
     "Type": "",
     "Desc": "",
     "Pinyin1": "qǐng bǎ yǐzi yí dào nàbian qù 。",
@@ -330,7 +330,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 31,
     "Type": "",
     "Desc": "",
     "Pinyin1": "nǐ zhīdào zhè běnshū duōshǎo qián ma ？",
@@ -341,7 +341,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 32,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒ zhèngzài kàn zhè běnshū 。",
@@ -352,7 +352,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 33,
     "Type": "",
     "Desc": "",
     "Pinyin1": "nǐ zhīdào duōchángshíjiān kěyǐ dàodá ma ？",
@@ -363,7 +363,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 34,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒnéng nádào yīzhāng chēpiào ma ？",
@@ -374,7 +374,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 35,
     "Type": "",
     "Desc": "",
     "Pinyin1": "nǐ yǒu duōjiǔ méiyǒu huíjiā le ？",
@@ -385,7 +385,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 36,
     "Type": "",
     "Desc": "",
     "Pinyin1": "nǐ zhīdào jiàoshì zài nǎlǐ ma ？",
@@ -396,7 +396,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 37,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒ xūyào zhǔnbèi shénme dōngxi ？",
@@ -407,7 +407,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 38,
     "Type": "",
     "Desc": "",
     "Pinyin1": "jīnwǎn yànhuì yào kāishǐ le 。",
@@ -418,7 +418,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 39,
     "Type": "",
     "Desc": "",
     "Pinyin1": "qǐng bǎ chuānghù guānshàng 。",
@@ -429,7 +429,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 40,
     "Type": "",
     "Desc": "",
     "Pinyin1": "jīnwǎn de tiānqì rúhé ？",
@@ -440,7 +440,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 41,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒ xiǎng míngtiān qù gōngyuán 。",
@@ -451,7 +451,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 42,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒmen jīnwǎn kěyǐ qù kàn diànyǐng ma ？",
@@ -462,7 +462,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 43,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒyào qù nǎge yínháng ？",
@@ -473,7 +473,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 44,
     "Type": "",
     "Desc": "",
     "Pinyin1": "qǐng bùyào zài zhèlǐ xīyān 。",
@@ -484,7 +484,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 45,
     "Type": "",
     "Desc": "",
     "Pinyin1": "jīntiān kōngqìwūrǎn yánzhòng 。",
@@ -495,7 +495,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 46,
     "Type": "",
     "Desc": "",
     "Pinyin1": "bǎ yàoshi fàngdào nàli hǎo ma ？",
@@ -506,7 +506,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 47,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒ zhèngzài xuéxí zhōngwén 。",
@@ -517,7 +517,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 48,
     "Type": "",
     "Desc": "",
     "Pinyin1": "biéwàngle mǎi bàozhǐ 。",
@@ -528,7 +528,7 @@
     "Translate2": ""
   },
   {
-    "f": "",
+    "sid": 49,
     "Type": "",
     "Desc": "",
     "Pinyin1": "wǒmen xiànzài yīnggāi kāichē qù ma ？",
