@@ -176,17 +176,6 @@
     "Translate2": ""
   },
   {
-    "sid": 17,
-    "Type": "",
-    "Desc": "",
-    "Pinyin1": "nǐ zěnme méiyǒu wǒ de quàngào ？",
-    "Chinese1": "你怎么没有我的劝告？",
-    "Translate1": "Why don't you have my advice?",
-    "Pinyin2": "",
-    "Chinese2": "",
-    "Translate2": ""
-  },
-  {
     "sid": 18,
     "Type": "",
     "Desc": "",
@@ -226,17 +215,6 @@
     "Pinyin1": "wǒ bìxū zǒu le 。",
     "Chinese1": "我必须走了。",
     "Translate1": "I have to go.",
-    "Pinyin2": "",
-    "Chinese2": "",
-    "Translate2": ""
-  },
-  {
-    "sid": 22,
-    "Type": "",
-    "Desc": "",
-    "Pinyin1": "wǒ xūyào yīgè jiàn de yīfú 。",
-    "Chinese1": "我需要一个件的衣服。",
-    "Translate1": "I need a piece of clothing.",
     "Pinyin2": "",
     "Chinese2": "",
     "Translate2": ""
@@ -446,17 +424,6 @@
     "Pinyin1": "nǐ zuótiānwǎnshàng zuò le shénme ？",
     "Chinese1": "你昨天晚上做了什么？",
     "Translate1": "what did you do last night",
-    "Pinyin2": "",
-    "Chinese2": "",
-    "Translate2": ""
-  },
-  {
-    "sid": 42,
-    "Type": "",
-    "Desc": "",
-    "Pinyin1": "nǐ kěyǐ jiào wǒ nǎ yīshǒugē ma ？",
-    "Chinese1": "你可以教我哪一首歌吗？",
-    "Translate1": "Can you teach me which song?",
     "Pinyin2": "",
     "Chinese2": "",
     "Translate2": ""
