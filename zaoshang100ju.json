@@ -1,0 +1,874 @@
+[
+  {
+    "sid": 1,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ yǐjīng qǐchuáng le ， zhèngzài xǐshù 。",
+    "Chinese1": "我已经起床了，正在洗漱。",
+    "Translate1": "I'm up and getting ready."
+  },
+  {
+    "sid": 2,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jiēxiàlái wǒhuì shūtóu 。",
+    "Chinese1": "接下来我会梳头。",
+    "Translate1": "Next, I'll comb my hair."
+  },
+  {
+    "sid": 3,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒxiǎngjiā yīdiǎnr tiáowèiliào 。",
+    "Chinese1": "我想加一点儿调味料。",
+    "Translate1": "I'd like to add some seasoning."
+  },
+  {
+    "sid": 4,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyòng shūzi hé fàjiāo 。",
+    "Chinese1": "我用梳子和发胶。",
+    "Translate1": "I use a comb and hair gel."
+  },
+  {
+    "sid": 5,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyòng zhèzhǒng yágāo 。",
+    "Chinese1": "我用这种牙膏。",
+    "Translate1": "I use this kind of toothpaste."
+  },
+  {
+    "sid": 6,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ měitiān zǎoshang dōu hēyībēi kāfēi 。",
+    "Chinese1": "我每天早上都喝一杯咖啡。",
+    "Translate1": "I have a cup of coffee every morning."
+  },
+  {
+    "sid": 7,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "méi wèntí ， wǒ xiǎng hēyībēi chéngzhī 。",
+    "Chinese1": "没问题，我想喝一杯橙汁。",
+    "Translate1": "Sure, I'd like a glass of orange juice."
+  },
+  {
+    "sid": 8,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì zhěnglǐ wǒ de fángjiān hé chuángpù 。",
+    "Chinese1": "我会整理我的房间和床铺。",
+    "Translate1": "I'll tidy up my room and make my bed."
+  },
+  {
+    "sid": 9,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyào qù shàngbān ， nǐ ne ？",
+    "Chinese1": "我要去上班，你呢？",
+    "Translate1": "I'm headed to work, how about you?"
+  },
+  {
+    "sid": 10,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "ránhòu wǒ xūyào túshàng hùfūshuāng 。",
+    "Chinese1": "然后我需要涂上护肤霜。",
+    "Translate1": "Then I need to apply moisturizer."
+  },
+  {
+    "sid": 11,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xièxie ， wǒ zìjǐ néng gǎodìng 。",
+    "Chinese1": "谢谢，我自己能搞定。",
+    "Translate1": "Thanks, I can handle it myself."
+  },
+  {
+    "sid": 12,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yòng shénme xǐfàshuǐ ？",
+    "Chinese1": "你用什么洗发水？",
+    "Translate1": "What shampoo do you use?"
+  },
+  {
+    "sid": 13,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xūyào qù shuāyá hé xǐliǎn 。",
+    "Chinese1": "我需要去刷牙和洗脸。",
+    "Translate1": "I need to brush my teeth and wash my face."
+  },
+  {
+    "sid": 14,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan lǜchá hé hóngchá 。",
+    "Chinese1": "我喜欢绿茶和红茶。",
+    "Translate1": "I like green tea and black tea."
+  },
+  {
+    "sid": 15,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "ránhòu wǒhuì shūtóu 。",
+    "Chinese1": "然后我会梳头。",
+    "Translate1": "Then, I'll comb my hair."
+  },
+  {
+    "sid": 16,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jiēxiàlái ， wǒhuì xǐliǎn 。",
+    "Chinese1": "接下来，我会洗脸。",
+    "Translate1": "Next, I'll wash my face."
+  },
+  {
+    "sid": 17,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan hēyībēi chá 。",
+    "Chinese1": "我喜欢喝一杯茶。",
+    "Translate1": "I prefer to have a cup of tea."
+  },
+  {
+    "sid": 18,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yào huàzhuāng ma ？",
+    "Chinese1": "你要化妆吗？",
+    "Translate1": "Are you going to put on makeup?"
+  },
+  {
+    "sid": 19,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen de bùzhòu hěn xiāngsì 。",
+    "Chinese1": "我们的步骤很相似。",
+    "Translate1": "Our routines are pretty similar."
+  },
+  {
+    "sid": 20,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan ruǎn nuò de shuǐzhǔdàn 。",
+    "Chinese1": "我喜欢软糯的水煮蛋。",
+    "Translate1": "I like soft-boiled eggs."
+  },
+  {
+    "sid": 21,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zǎoshanghǎo ， nǐ qǐchuáng le ma ？",
+    "Chinese1": "早上好，你起床了吗？",
+    "Translate1": "Good morning, have you gotten up yet?"
+  },
+  {
+    "sid": 22,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyòng de shì zhège xǐmiànnǎi 。",
+    "Chinese1": "我用的是这个洗面奶。",
+    "Translate1": "I use this facial cleanser."
+  },
+  {
+    "sid": 23,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan mǒ shàng yīxiē guǒjiàng 。",
+    "Chinese1": "我喜欢抹上一些果酱。",
+    "Translate1": "I like to spread some jam on it."
+  },
+  {
+    "sid": 24,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ de máojīn zài yùshì de máojīnjià shàng 。",
+    "Chinese1": "我的毛巾在浴室的毛巾架上。",
+    "Translate1": "My towel is on the towel rack in the bathroom."
+  },
+  {
+    "sid": 25,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "ránhòu wǒyào chuānyīfú le 。",
+    "Chinese1": "然后我要穿衣服了。",
+    "Translate1": "Then, I'll get dressed."
+  },
+  {
+    "sid": 26,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhīhòu wǒhuì túshàng yǎnshuāng 。",
+    "Chinese1": "之后我会涂上眼霜。",
+    "Translate1": "After that, I'll apply eye cream."
+  },
+  {
+    "sid": 27,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xūyào bīngkuài ma ？",
+    "Chinese1": "你需要冰块吗？",
+    "Translate1": "Do you need ice cubes?"
+  },
+  {
+    "sid": 28,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "bùhuì ， wǒ hěnshǎo huàzhuāng 。",
+    "Chinese1": "不会，我很少化妆。",
+    "Translate1": "No, I rarely use makeup."
+  },
+  {
+    "sid": 29,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan jiā shénme zài miànbāo shàng ？",
+    "Chinese1": "你喜欢加什么在面包上？",
+    "Translate1": "What do you like to put on your bread?"
+  },
+  {
+    "sid": 30,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ tōngcháng liùdiǎnbàn qǐchuáng 。",
+    "Chinese1": "我通常六点半起床。",
+    "Translate1": "I usually wake up at 6:30."
+  },
+  {
+    "sid": 31,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ de máojīn zài nǎlǐ ？",
+    "Chinese1": "你的毛巾在哪里？",
+    "Translate1": "Where is your towel?"
+  },
+  {
+    "sid": 32,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyòng de shì zhèzhǒng yágāo 。",
+    "Chinese1": "我用的是这种牙膏。",
+    "Translate1": "I use this kind of toothpaste."
+  },
+  {
+    "sid": 33,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yào hē guǒzhī ma ？",
+    "Chinese1": "你要喝果汁吗？",
+    "Translate1": "Do you want some fruit juice?"
+  },
+  {
+    "sid": 34,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xiǎngyào jiādiǎn yán hé hújiāofěn ma ？",
+    "Chinese1": "你想要加点盐和胡椒粉吗？",
+    "Translate1": "Do you want to add some salt and pepper?"
+  },
+  {
+    "sid": 35,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan chī xiāngjiāo hé píngguǒ 。",
+    "Chinese1": "我喜欢吃香蕉和苹果。",
+    "Translate1": "I like bananas and apples."
+  },
+  {
+    "sid": 36,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ tōngcháng jǐdiǎn qǐchuáng ？",
+    "Chinese1": "你通常几点起床？",
+    "Translate1": "What time do you usually wake up?"
+  },
+  {
+    "sid": 37,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "shǒuxiān ， wǒyào xiān shuāyá 。",
+    "Chinese1": "首先，我要先刷牙。",
+    "Translate1": "First, I need to brush my teeth."
+  },
+  {
+    "sid": 38,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xǐwán liǎnhòu ， wǒhuì túshàng shuǎngfūshuǐ 。",
+    "Chinese1": "洗完脸后，我会涂上爽肤水。",
+    "Translate1": "After washing my face, I'll apply toner."
+  },
+  {
+    "sid": 39,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyòng shùkǒushuǐ zhīqián xiān yào shuāyá 。",
+    "Chinese1": "我用漱口水之前先要刷牙。",
+    "Translate1": "I always brush my teeth before using mouthwash."
+  },
+  {
+    "sid": 40,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "miànbāo yào kǎo yīxià ma ？",
+    "Chinese1": "面包要烤一下吗？",
+    "Translate1": "Do you want your bread toasted?"
+  },
+  {
+    "sid": 41,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan yòng nǎzhǒng yáshuā ？",
+    "Chinese1": "你喜欢用哪种牙刷？",
+    "Translate1": "What kind of toothbrush do you like to use?"
+  },
+  {
+    "sid": 42,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan chī jīdàn hé miànbāo 。",
+    "Chinese1": "我喜欢吃鸡蛋和面包。",
+    "Translate1": "I prefer to have eggs and bread."
+  },
+  {
+    "sid": 43,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì děng nǐ yòng wán yùshì zài jìnqù de 。",
+    "Chinese1": "我会等你用完浴室再进去的。",
+    "Translate1": "I'll wait until you're done with the bathroom."
+  },
+  {
+    "sid": 44,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan hēkāfēi háishi chá ？",
+    "Chinese1": "你喜欢喝咖啡还是茶？",
+    "Translate1": "Do you prefer coffee or tea?"
+  },
+  {
+    "sid": 45,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xūyào chōnggè zǎo 。",
+    "Chinese1": "我需要冲个澡。",
+    "Translate1": "I need to take a shower."
+  },
+  {
+    "sid": 46,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyòng zhège xǐmiànnǎi 。",
+    "Chinese1": "我用这个洗面奶。",
+    "Translate1": "I use this facial cleanser."
+  },
+  {
+    "sid": 47,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zǎoshanghǎo ！ nǐ shuì dé zěnmeyàng ？",
+    "Chinese1": "早上好！你睡得怎么样？",
+    "Translate1": "Good morning! How did you sleep?"
+  },
+  {
+    "sid": 48,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ juéde xiàoguǒ bùcuò 。",
+    "Chinese1": "我觉得效果不错。",
+    "Translate1": "I think it works well."
+  },
+  {
+    "sid": 49,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xiǎngyào chī huǒtuǐ háishi péigēn ？",
+    "Chinese1": "你想要吃火腿还是培根？",
+    "Translate1": "Do you want ham or bacon?"
+  },
+  {
+    "sid": 50,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xiǎngyào hēkāfēi háishi chá ？",
+    "Chinese1": "你想要喝咖啡还是茶？",
+    "Translate1": "Do you want coffee or tea?"
+  },
+  {
+    "sid": 51,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xiànzài wǒyào qǐchuáng xǐshù le 。",
+    "Chinese1": "现在我要起床洗漱了。",
+    "Translate1": "Now I'm going to wash up."
+  },
+  {
+    "sid": 52,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyòng wēnshuǐ hé xǐmiànnǎi 。",
+    "Chinese1": "我用温水和洗面奶。",
+    "Translate1": "I use warm water and face wash."
+  },
+  {
+    "sid": 53,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì zhěnglǐ wǒ de bāo hé fángjiān 。",
+    "Chinese1": "我会整理我的包和房间。",
+    "Translate1": "I'll organize my bag and room."
+  },
+  {
+    "sid": 54,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "bùyòng le ， xièxie ， wǒ zìjǐ kěyǐ nòng 。",
+    "Chinese1": "不用了，谢谢，我自己可以弄。",
+    "Translate1": "No, thank you. I can do it myself."
+  },
+  {
+    "sid": 55,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "bùyòng le ， wǒ zhǐhuìtú kǒuhóng 。",
+    "Chinese1": "不用了，我只会涂口红。",
+    "Translate1": "No, I only know how to apply lipstick."
+  },
+  {
+    "sid": 56,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyòng yágāo hé yáshuā 。",
+    "Chinese1": "我用牙膏和牙刷。",
+    "Translate1": "I use toothpaste and a toothbrush."
+  },
+  {
+    "sid": 57,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ bùchī zhūròu ， xièxie 。",
+    "Chinese1": "我不吃猪肉，谢谢。",
+    "Translate1": "（I don't eat pork, thank you."
+  },
+  {
+    "sid": 58,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zǎoān ， shuìdé zěnmeyàng ？",
+    "Chinese1": "早安，睡得怎么样？",
+    "Translate1": "Good morning, how did you sleep?"
+  },
+  {
+    "sid": 59,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ de dāochā hé sháozi zài cānzhuōshàng 。",
+    "Chinese1": "你的刀叉和勺子在餐桌上。",
+    "Translate1": "Your knife, fork, and spoon are on the table."
+  },
+  {
+    "sid": 60,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan chī shénme shuǐguǒ ？",
+    "Chinese1": "你喜欢吃什么水果？",
+    "Translate1": "What kind of fruit do you like?"
+  },
+  {
+    "sid": 61,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan shǐyòng diàndòngyáshuā 。",
+    "Chinese1": "我喜欢使用电动牙刷。",
+    "Translate1": "I like using an electric toothbrush."
+  },
+  {
+    "sid": 62,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xiǎng chī yīxiē miànbāo hé niúnǎi 。",
+    "Chinese1": "我想吃一些面包和牛奶。",
+    "Translate1": "I'd like to have some bread and milk."
+  },
+  {
+    "sid": 63,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ de cānjù zài nǎlǐ ？",
+    "Chinese1": "我的餐具在哪里？",
+    "Translate1": "Where are my utensils?"
+  },
+  {
+    "sid": 64,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "shuā wányá zhīhòu ， wǒhuì yòng shùkǒushuǐ 。",
+    "Chinese1": "刷完牙之后，我会用漱口水。",
+    "Translate1": "After brushing my teeth, I'll use mouthwash."
+  },
+  {
+    "sid": 65,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xūyào bāngmáng ma ？",
+    "Chinese1": "你需要帮忙吗？",
+    "Translate1": "Do you need any help?"
+  },
+  {
+    "sid": 66,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ juéde zǎoqǐ yǒu shénme hǎochu ？",
+    "Chinese1": "你觉得早起有什么好处？",
+    "Translate1": "What do you think are the benefits of waking up early?"
+  },
+  {
+    "sid": 67,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yòng nǎzhǒng yágāo ？",
+    "Chinese1": "你用哪种牙膏？",
+    "Translate1": "What kind of toothpaste do you use?"
+  },
+  {
+    "sid": 68,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hái méiyǒu juédìng ， nǐ ne ？",
+    "Chinese1": "我还没有决定，你呢？",
+    "Translate1": "I haven't decided yet, what about you?"
+  },
+  {
+    "sid": 69,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "ránhòu wǒyào shūtóu 。",
+    "Chinese1": "然后我要梳头。",
+    "Translate1": "Next, I'll comb my hair."
+  },
+  {
+    "sid": 70,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xūyào shūtóu ma ？",
+    "Chinese1": "你需要梳头吗？",
+    "Translate1": "Do you need to comb your hair?"
+  },
+  {
+    "sid": 71,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒxiǎngjiā yīdiǎnr fēngmì 。",
+    "Chinese1": "我想加一点儿蜂蜜。",
+    "Translate1": "I'd like to add a little bit of honey."
+  },
+  {
+    "sid": 72,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xūyào bāngmáng zhǔnbèi zǎocān ma ？",
+    "Chinese1": "你需要帮忙准备早餐吗？",
+    "Translate1": "Do you need any help preparing breakfast?"
+  },
+  {
+    "sid": 73,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jiēzhe wǒhuì xǐliǎn 。",
+    "Chinese1": "接着我会洗脸。",
+    "Translate1": "Then, I'll wash my face again."
+  },
+  {
+    "sid": 74,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zǎoshanghǎo ！ nǐ xiǎng chī diǎn shénme ？",
+    "Chinese1": "早上好！你想吃点什么？",
+    "Translate1": "Good morning! What would you like to eat?"
+  },
+  {
+    "sid": 75,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyào shuā liǎngfēnzhōng 。",
+    "Chinese1": "我要刷两分钟。",
+    "Translate1": "I brush for two minutes."
+  },
+  {
+    "sid": 76,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ jīntiān yào qù nǎlǐ ？",
+    "Chinese1": "你今天要去哪里？",
+    "Translate1": "Where are you headed today?"
+  },
+  {
+    "sid": 77,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ shuì dé hěn hǎo ， xièxie 。",
+    "Chinese1": "我睡得很好，谢谢。",
+    "Translate1": "I slept well, thank you."
+  },
+  {
+    "sid": 78,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "shǒuxiān ， wǒhuì shuāyá 。",
+    "Chinese1": "首先，我会刷牙。",
+    "Translate1": "First, I'll brush my teeth."
+  },
+  {
+    "sid": 79,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yào jiātáng háishi niúnǎi ？",
+    "Chinese1": "你要加糖还是牛奶？",
+    "Translate1": "Do you want sugar or milk?"
+  },
+  {
+    "sid": 80,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "ránhòu wǒhuì túshàng yǎnshuāng 。",
+    "Chinese1": "然后我会涂上眼霜。",
+    "Translate1": "Then, I'll apply eye cream."
+  },
+  {
+    "sid": 81,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yào chī yànmàipiàn ma ？",
+    "Chinese1": "你要吃燕麦片吗？",
+    "Translate1": "Do you want to have some oatmeal?"
+  },
+  {
+    "sid": 82,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyào ràng pífū bǎochí zīrùn 。",
+    "Chinese1": "我要让皮肤保持滋润。",
+    "Translate1": "I want to keep my skin moisturized."
+  },
+  {
+    "sid": 83,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "rúguǒ xūyào ， wǒhuì pēndiǎn xiāngshuǐ 。",
+    "Chinese1": "如果需要，我会喷点香水。",
+    "Translate1": "If needed, I'll spray some perfume."
+  },
+  {
+    "sid": 84,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "shì de ， wǒ yǐjīng qǐchuáng le 。",
+    "Chinese1": "是的，我已经起床了。",
+    "Translate1": "Yes, I'm up."
+  },
+  {
+    "sid": 85,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ zuótiānwǎnshàng shuìdé hěn xiāng 。",
+    "Chinese1": "我昨天晚上睡得很香。",
+    "Translate1": "I slept really well last night."
+  },
+  {
+    "sid": 86,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jiēxiàlái ， wǒyào xǐliǎn 。",
+    "Chinese1": "接下来，我要洗脸。",
+    "Translate1": "Next, I'll wash my face."
+  },
+  {
+    "sid": 87,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyào shūtóu 。",
+    "Chinese1": "我要梳头。",
+    "Translate1": "I comb my hair."
+  },
+  {
+    "sid": 88,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yòng nǎzhǒng xǐmiànnǎi ？",
+    "Chinese1": "你用哪种洗面奶？",
+    "Translate1": "What kind of facial cleanser do you use?"
+  },
+  {
+    "sid": 89,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xiǎng hēyībēi kāfēi 。",
+    "Chinese1": "我想喝一杯咖啡。",
+    "Translate1": "I would like a cup of coffee."
+  },
+  {
+    "sid": 90,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jiēxiàlái wǒhuì zàicì xǐliǎn 。",
+    "Chinese1": "接下来我会再次洗脸。",
+    "Translate1": "Next, I'll wash my face again."
+  },
+  {
+    "sid": 91,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xūyào tú yīdiǎnr hùfūshuāng 。",
+    "Chinese1": "我需要涂一点儿护肤霜。",
+    "Translate1": "I need to put on some moisturizer."
+  },
+  {
+    "sid": 92,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xiǎngyào yīxiē suānnǎi ma ？",
+    "Chinese1": "你想要一些酸奶吗？",
+    "Translate1": "Do you want some yogurt?"
+  },
+  {
+    "sid": 93,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyòng zhège páizi de xǐmiànnǎi 。",
+    "Chinese1": "我用这个牌子的洗面奶。",
+    "Translate1": "I use this brand of facial cleanser."
+  },
+  {
+    "sid": 94,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan hē nǎzhǒng chá ？",
+    "Chinese1": "你喜欢喝哪种茶？",
+    "Translate1": "What kind of tea do you like?"
+  },
+  {
+    "sid": 95,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "ránhòu wǒhuì túshàng hùfūshuāng 。",
+    "Chinese1": "然后我会涂上护肤霜。",
+    "Translate1": "Then, I'll apply moisturizer."
+  },
+  {
+    "sid": 96,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ dǎsuàn chuān shénme yīfú ？",
+    "Chinese1": "你打算穿什么衣服？",
+    "Translate1": "What are you going to wear?"
+  },
+  {
+    "sid": 97,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "shì de ， wǒ xiǎngyào yībēi suānnǎi 。",
+    "Chinese1": "是的，我想要一杯酸奶。",
+    "Translate1": "Yes, I'd like a cup of yogurt."
+  },
+  {
+    "sid": 98,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "yǒushíhou wǒhuì yòng fàlà dìngxíng 。",
+    "Chinese1": "有时候我会用发蜡定型。",
+    "Translate1": "Sometimes, I'll use hair wax to style my hair."
+  },
+  {
+    "sid": 99,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐng bǎ miànbāo shāowēi kǎo yīxià 。",
+    "Chinese1": "请把面包稍微烤一下。",
+    "Translate1": "Please toast the bread lightly."
+  },
+  {
+    "sid": 100,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénmeyàng de jīdàn ？",
+    "Chinese1": "你喜欢什么样的鸡蛋？",
+    "Translate1": "How do you like your eggs?"
+  },
+  {
+    "sid": 101,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ juéde zhè kuǎn hùfūshuāng zěnmeyàng ？",
+    "Chinese1": "你觉得这款护肤霜怎么样？",
+    "Translate1": "What do you think of this moisturizer?"
+  },
+  {
+    "sid": 102,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "ránhòu wǒhuì túshàng hùfūpǐn 。",
+    "Chinese1": "然后我会涂上护肤品。",
+    "Translate1": "Then, I'll apply skincare products."
+  },
+  {
+    "sid": 103,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "néng jièyòng yīxià nǐ de mùyùlù ma ？",
+    "Chinese1": "能借用一下你的沐浴露吗？",
+    "Translate1": "Can I borrow your body wash?"
+  },
+  {
+    "sid": 104,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ juéde qīngjié miànbù hěn zhòngyào 。",
+    "Chinese1": "我觉得清洁面部很重要。",
+    "Translate1": "I think it's important to clean my face."
+  },
+  {
+    "sid": 105,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ dǎsuàn chī zǎofàn ma ？",
+    "Chinese1": "你打算吃早饭吗？",
+    "Translate1": "Are you planning to have breakfast?"
+  },
+  {
+    "sid": 106,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì tiāoxuǎn shūshì de yīfú chuān 。",
+    "Chinese1": "我会挑选舒适的衣服穿。",
+    "Translate1": "I'll choose comfortable clothes to wear."
+  },
+  {
+    "sid": 107,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zǎoshanghǎo ！ nǐ qǐchuáng le ma ？",
+    "Chinese1": "早上好！你起床了吗？",
+    "Translate1": "Good morning! Did you get up?"
+  },
+  {
+    "sid": 108,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yào xǐliǎn ma ？",
+    "Chinese1": "你要洗脸吗？",
+    "Translate1": "Are you going to wash your face?"
+  },
+  {
+    "sid": 109,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐhuìyòng huàzhuāngpǐn ma ？",
+    "Chinese1": "你会用化妆品吗？",
+    "Translate1": "Do you use makeup?"
+  }
+]

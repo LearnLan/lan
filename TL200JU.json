@@ -1,0 +1,1738 @@
+[
+  {
+    "sid": 1,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐhǎo ！",
+    "Chinese1": "你好！",
+    "Translate1": "Hello!"
+  },
+  {
+    "sid": 2,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xièxie ！",
+    "Chinese1": "谢谢！",
+    "Translate1": "Thank you!"
+  },
+  {
+    "sid": 3,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "bù kèqi 。",
+    "Chinese1": "不客气。",
+    "Translate1": "You're welcome."
+  },
+  {
+    "sid": 4,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "duìbuqǐ 。",
+    "Chinese1": "对不起。",
+    "Translate1": "I'm sorry."
+  },
+  {
+    "sid": 5,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "méiguānxi 。",
+    "Chinese1": "没关系。",
+    "Translate1": "It's okay."
+  },
+  {
+    "sid": 6,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zàijiàn ！",
+    "Chinese1": "再见！",
+    "Translate1": "Goodbye!"
+  },
+  {
+    "sid": 7,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ jiào zhānglì 。",
+    "Chinese1": "我叫张丽。",
+    "Translate1": "My name is Zhang Li."
+  },
+  {
+    "sid": 8,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐhǎo ma ？",
+    "Chinese1": "你好吗？",
+    "Translate1": "How are you?"
+  },
+  {
+    "sid": 9,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn hǎo 。",
+    "Chinese1": "我很好。",
+    "Translate1": "I'm fine."
+  },
+  {
+    "sid": 10,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ shì nǎ guórén ？",
+    "Chinese1": "你是哪国人？",
+    "Translate1": "What's your nationality?"
+  },
+  {
+    "sid": 11,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ shì zhōngguó rén 。",
+    "Chinese1": "我是中国人。",
+    "Translate1": "I'm Chinese."
+  },
+  {
+    "sid": 12,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ huì shuō zhōngwén ma ？",
+    "Chinese1": "你会说中文吗？",
+    "Translate1": "Can you speak Chinese?"
+  },
+  {
+    "sid": 13,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "huì yīdiǎnr 。",
+    "Chinese1": "会一点儿。",
+    "Translate1": "I can speak a little bit."
+  },
+  {
+    "sid": 14,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn xǐshǒujiān zài nǎlǐ ？",
+    "Chinese1": "请问洗手间在哪里？",
+    "Translate1": "Excuse me, where is the bathroom?"
+  },
+  {
+    "sid": 15,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yào hēshuǐ ma ？",
+    "Chinese1": "你要喝水吗？",
+    "Translate1": "Do you want to drink water?"
+  },
+  {
+    "sid": 16,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xiǎng hēchá 。",
+    "Chinese1": "我想喝茶。",
+    "Translate1": "I want to drink tea."
+  },
+  {
+    "sid": 17,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèshì shénme ？",
+    "Chinese1": "这是什么？",
+    "Translate1": "What is this?"
+  },
+  {
+    "sid": 18,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nà shì shéi ？",
+    "Chinese1": "那是谁？",
+    "Translate1": "Who is that?"
+  },
+  {
+    "sid": 19,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan zhōngguó cài ma ？",
+    "Chinese1": "你喜欢中国菜吗？",
+    "Translate1": "Do you like Chinese food?"
+  },
+  {
+    "sid": 20,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn xǐhuan 。",
+    "Chinese1": "我很喜欢。",
+    "Translate1": "I like it very much."
+  },
+  {
+    "sid": 21,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jīntiāntiānqì zěnmeyàng ？",
+    "Chinese1": "今天天气怎么样？",
+    "Translate1": "How's the weather today?"
+  },
+  {
+    "sid": 22,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "hěn rè 。",
+    "Chinese1": "很热。",
+    "Translate1": "It's very hot."
+  },
+  {
+    "sid": 23,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "míngtiān huì xiàyǔ 。",
+    "Chinese1": "明天会下雨。",
+    "Translate1": "It will rain tomorrow."
+  },
+  {
+    "sid": 24,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ zài xué zhōngwén 。",
+    "Chinese1": "我在学中文。",
+    "Translate1": "I'm learning Chinese."
+  },
+  {
+    "sid": 25,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì lǎoshī 。",
+    "Chinese1": "她是老师。",
+    "Translate1": "She is a teacher."
+  },
+  {
+    "sid": 26,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ de shēngrì shì bāyuè yīhào 。",
+    "Chinese1": "我的生日是八月一号。",
+    "Translate1": "My birthday is on August 1st."
+  },
+  {
+    "sid": 27,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ qù kàn diànyǐngbā 。",
+    "Chinese1": "我们一起去看电影吧。",
+    "Translate1": "Let's go watch a movie together."
+  },
+  {
+    "sid": 28,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì kāichē 。",
+    "Chinese1": "我会开车。",
+    "Translate1": "I can drive."
+  },
+  {
+    "sid": 29,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan chànggē 。",
+    "Chinese1": "她喜欢唱歌。",
+    "Translate1": "She likes to sing."
+  },
+  {
+    "sid": 30,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù gōngyuán wánr bā 。",
+    "Chinese1": "我们去公园玩儿吧。",
+    "Translate1": "Let's go play in the park."
+  },
+  {
+    "sid": 31,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen jiāyǒu sìkǒu rén 。",
+    "Chinese1": "我们家有四口人。",
+    "Translate1": "There are four people in my family."
+  },
+  {
+    "sid": 32,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan yùndòng ma ？",
+    "Chinese1": "你喜欢运动吗？",
+    "Translate1": "Do you like sports?"
+  },
+  {
+    "sid": 33,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan dǎlánqiú 。",
+    "Chinese1": "我喜欢打篮球。",
+    "Translate1": "I like to play basketball."
+  },
+  {
+    "sid": 34,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhège duōshǎo qián ？",
+    "Chinese1": "这个多少钱？",
+    "Translate1": "How much is this?"
+  },
+  {
+    "sid": 35,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jīntiān jǐhào ？",
+    "Chinese1": "今天几号？",
+    "Translate1": "What's the date today?"
+  },
+  {
+    "sid": 36,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "ràng wǒ xiǎngyīxiǎng 。",
+    "Chinese1": "让我想一想。",
+    "Translate1": "Let me think about it."
+  },
+  {
+    "sid": 37,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn zhèshì nǎlǐ ？",
+    "Chinese1": "请问这是哪里？",
+    "Translate1": "Excuse me, where is this place?"
+  },
+  {
+    "sid": 38,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ bù zhīdào 。",
+    "Chinese1": "我不知道。",
+    "Translate1": "I don't know."
+  },
+  {
+    "sid": 39,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì yóuyǒng 。",
+    "Chinese1": "我会游泳。",
+    "Translate1": "I can swim."
+  },
+  {
+    "sid": 40,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jīntiān hěn lěng 。",
+    "Chinese1": "今天很冷。",
+    "Translate1": "It's very cold today."
+  },
+  {
+    "sid": 41,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèjiàn yīfú hěnpiāoliàng 。",
+    "Chinese1": "这件衣服很漂亮。",
+    "Translate1": "This piece of clothing is very pretty."
+  },
+  {
+    "sid": 42,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "huǒchēzhàn zài nǎlǐ ？",
+    "Chinese1": "火车站在哪里？",
+    "Translate1": "Where is the train station?"
+  },
+  {
+    "sid": 43,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn máng 。",
+    "Chinese1": "我很忙。",
+    "Translate1": "I'm very busy."
+  },
+  {
+    "sid": 44,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "ràng wǒmen yīqǐ qù chīfàn bā 。",
+    "Chinese1": "让我们一起去吃饭吧。",
+    "Translate1": "Let's go eat together."
+  },
+  {
+    "sid": 45,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan kàndiànshì 。",
+    "Chinese1": "他喜欢看电视。",
+    "Translate1": "He likes to watch TV."
+  },
+  {
+    "sid": 46,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā mǎi le yīgè xīnshǒujī 。",
+    "Chinese1": "她买了一个新手机。",
+    "Translate1": "She bought a new phone."
+  },
+  {
+    "sid": 47,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xuéxí zhōngwén hěn yǒuqù 。",
+    "Chinese1": "我们学习中文很有趣。",
+    "Translate1": "Learning Chinese is very interesting for us."
+  },
+  {
+    "sid": 48,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn ， xǐshǒujiān zài nǎr ？",
+    "Chinese1": "请问，洗手间在哪儿？",
+    "Translate1": "Excuse me, where is the restroom?"
+  },
+  {
+    "sid": 49,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ jiào zhāng sān 。",
+    "Chinese1": "我叫张三。",
+    "Translate1": "My name is Zhang San."
+  },
+  {
+    "sid": 50,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ bùhuì shuō zhōngwén 。",
+    "Chinese1": "我不会说中文。",
+    "Translate1": "I can't speak Chinese."
+  },
+  {
+    "sid": 51,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ huì shuō yīngwén ma ？",
+    "Chinese1": "你会说英文吗？",
+    "Translate1": "Do you speak English?"
+  },
+  {
+    "sid": 52,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn gāoxìng rènshi nǐ 。",
+    "Chinese1": "我很高兴认识你。",
+    "Translate1": "Nice to meet you."
+  },
+  {
+    "sid": 53,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù chīfàn bā ！",
+    "Chinese1": "我们去吃饭吧！",
+    "Translate1": "Let's go eat!"
+  },
+  {
+    "sid": 54,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhège duōshǎo qián ？",
+    "Chinese1": "这个多少钱？",
+    "Translate1": "How much does this cost?"
+  },
+  {
+    "sid": 55,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan zhōngguó cài 。",
+    "Chinese1": "我喜欢中国菜。",
+    "Translate1": "I like Chinese food."
+  },
+  {
+    "sid": 56,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ bù xǐhuan hēchá 。",
+    "Chinese1": "我不喜欢喝茶。",
+    "Translate1": "I don't like drinking tea."
+  },
+  {
+    "sid": 57,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì wǒ de péngyou 。",
+    "Chinese1": "他是我的朋友。",
+    "Translate1": "He is my friend."
+  },
+  {
+    "sid": 58,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěnpiāoliàng 。",
+    "Chinese1": "她很漂亮。",
+    "Translate1": "She is very pretty."
+  },
+  {
+    "sid": 59,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèlǐ hěn rè 。",
+    "Chinese1": "这里很热。",
+    "Translate1": "It's hot here."
+  },
+  {
+    "sid": 60,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nàgè rén shì shéi ？",
+    "Chinese1": "那个人是谁？",
+    "Translate1": "Who is that person?"
+  },
+  {
+    "sid": 61,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "bàbàmāmā dōu hěn máng 。",
+    "Chinese1": "爸爸妈妈都很忙。",
+    "Translate1": "Dad and Mom are both busy."
+  },
+  {
+    "sid": 62,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ xuéxí hànyǔ 。",
+    "Chinese1": "我们一起学习汉语。",
+    "Translate1": "Let's study Chinese together."
+  },
+  {
+    "sid": 63,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "néng bāng wǒ ma ？",
+    "Chinese1": "能帮我吗？",
+    "Translate1": "Can you help me?"
+  },
+  {
+    "sid": 64,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xiǎngyào yībēi kāfēi 。",
+    "Chinese1": "我想要一杯咖啡。",
+    "Translate1": "I want a cup of coffee."
+  },
+  {
+    "sid": 65,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan kàn diànyǐng 。",
+    "Chinese1": "他喜欢看电影。",
+    "Translate1": "He likes watching movies."
+  },
+  {
+    "sid": 66,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan chànggē 。",
+    "Chinese1": "她喜欢唱歌。",
+    "Translate1": "She likes singing."
+  },
+  {
+    "sid": 67,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen míngtiān jiàn 。",
+    "Chinese1": "我们明天见。",
+    "Translate1": "See you tomorrow."
+  },
+  {
+    "sid": 68,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyào mǎi yījiàn chènshān 。",
+    "Chinese1": "我要买一件衬衫。",
+    "Translate1": "I want to buy a shirt."
+  },
+  {
+    "sid": 69,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhège dìfāng hěn měi 。",
+    "Chinese1": "这个地方很美。",
+    "Translate1": "This place is beautiful."
+  },
+  {
+    "sid": 70,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn cōngming 。",
+    "Chinese1": "他很聪明。",
+    "Translate1": "He is intelligent."
+  },
+  {
+    "sid": 71,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn qínláo 。",
+    "Chinese1": "她很勤劳。",
+    "Translate1": "She is hardworking."
+  },
+  {
+    "sid": 72,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ zuò péngyou ma ？",
+    "Chinese1": "我们可以做朋友吗？",
+    "Translate1": "Can we be friends?"
+  },
+  {
+    "sid": 73,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ yīqǐ wánr 。",
+    "Chinese1": "我们可以一起玩儿。",
+    "Translate1": "We can play together."
+  },
+  {
+    "sid": 74,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ zhù zài běijīng 。",
+    "Chinese1": "我住在北京。",
+    "Translate1": "I live in Beijing."
+  },
+  {
+    "sid": 75,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme yánsè ？",
+    "Chinese1": "你喜欢什么颜色？",
+    "Translate1": "What's your favorite color?"
+  },
+  {
+    "sid": 76,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan chīshuǐguǒ 。",
+    "Chinese1": "他喜欢吃水果。",
+    "Translate1": "He likes eating fruit."
+  },
+  {
+    "sid": 77,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan guàngshāngchǎng 。",
+    "Chinese1": "她喜欢逛商场。",
+    "Translate1": "She likes shopping."
+  },
+  {
+    "sid": 78,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jīntiān xīngqī jǐ ？",
+    "Chinese1": "今天星期几？",
+    "Translate1": "What day is it today?"
+  },
+  {
+    "sid": 79,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ de diànhuàhàomǎ shì yīèrsān4wǔliù7 。",
+    "Chinese1": "我的电话号码是1234567。",
+    "Translate1": "My phone number is 1234567."
+  },
+  {
+    "sid": 80,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ yòng zhōngwén jiāotán 。",
+    "Chinese1": "我们可以用中文交谈。",
+    "Translate1": "We can talk in Chinese."
+  },
+  {
+    "sid": 81,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhège fángjiān hěndà 。",
+    "Chinese1": "这个房间很大。",
+    "Translate1": "This room is big."
+  },
+  {
+    "sid": 82,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhège diànshì hěn guì 。",
+    "Chinese1": "这个电视很贵。",
+    "Translate1": "This TV is expensive."
+  },
+  {
+    "sid": 83,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ ài wǒ de jiārén 。",
+    "Chinese1": "我爱我的家人。",
+    "Translate1": "I love my family."
+  },
+  {
+    "sid": 84,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn gāoxìng 。",
+    "Chinese1": "他很高兴。",
+    "Translate1": "He is happy."
+  },
+  {
+    "sid": 85,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn shāngxīn 。",
+    "Chinese1": "她很伤心。",
+    "Translate1": "She is sad."
+  },
+  {
+    "sid": 86,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yào qù nǎr ？",
+    "Chinese1": "我们要去哪儿？",
+    "Translate1": "Where are we going?"
+  },
+  {
+    "sid": 87,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen zài zuò shénme ？",
+    "Chinese1": "我们在做什么？",
+    "Translate1": "What are we doing?"
+  },
+  {
+    "sid": 88,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐng bùyào chǎo 。",
+    "Chinese1": "请不要吵。",
+    "Translate1": "Please don't be noisy."
+  },
+  {
+    "sid": 89,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xūyào yīzhāng piào 。",
+    "Chinese1": "我需要一张票。",
+    "Translate1": "I need a ticket."
+  },
+  {
+    "sid": 90,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì shuō hànyǔ 。",
+    "Chinese1": "我会说汉语。",
+    "Translate1": "I can speak Chinese."
+  },
+  {
+    "sid": 91,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ zuò chūzūchē qù 。",
+    "Chinese1": "我们可以坐出租车去。",
+    "Translate1": "We can take a taxi there."
+  },
+  {
+    "sid": 92,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xièxie 。",
+    "Chinese1": "谢谢。",
+    "Translate1": "Thank you."
+  },
+  {
+    "sid": 93,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "duìbuqǐ 。",
+    "Chinese1": "对不起。",
+    "Translate1": "Sorry."
+  },
+  {
+    "sid": 94,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "shì de 。",
+    "Chinese1": "是的。",
+    "Translate1": "Yes."
+  },
+  {
+    "sid": 95,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "bùshì 。",
+    "Chinese1": "不是。",
+    "Translate1": "No."
+  },
+  {
+    "sid": 96,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "shì a 。",
+    "Chinese1": "是啊。",
+    "Translate1": "Yeah."
+  },
+  {
+    "sid": 97,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "bùcuò 。",
+    "Chinese1": "不错。",
+    "Translate1": "Not bad."
+  },
+  {
+    "sid": 98,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "duōshǎo qián ？",
+    "Chinese1": "多少钱？",
+    "Translate1": "How much does it cost?"
+  },
+  {
+    "sid": 99,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kāishǐ bā 。",
+    "Chinese1": "我们开始吧。",
+    "Translate1": "Let's start."
+  },
+  {
+    "sid": 100,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xiànzài jǐdiǎn ？",
+    "Chinese1": "现在几点？",
+    "Translate1": "What time is it now?"
+  },
+  {
+    "sid": 101,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù nǎlǐ ？",
+    "Chinese1": "我们去哪里？",
+    "Translate1": "Where are we going?"
+  },
+  {
+    "sid": 102,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ è le 。",
+    "Chinese1": "我饿了。",
+    "Translate1": "I'm hungry."
+  },
+  {
+    "sid": 103,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒkě le 。",
+    "Chinese1": "我渴了。",
+    "Translate1": "I'm thirsty."
+  },
+  {
+    "sid": 104,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒlěi le 。",
+    "Chinese1": "我累了。",
+    "Translate1": "I'm tired."
+  },
+  {
+    "sid": 105,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn gāoxìng 。",
+    "Chinese1": "我很高兴。",
+    "Translate1": "I'm happy."
+  },
+  {
+    "sid": 106,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn nánguò 。",
+    "Chinese1": "我很难过。",
+    "Translate1": "I'm sad."
+  },
+  {
+    "sid": 107,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì shuō yīdiǎn zhōngwén 。",
+    "Chinese1": "我会说一点中文。",
+    "Translate1": "I can speak a little Chinese."
+  },
+  {
+    "sid": 108,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ tīngbudǒng 。",
+    "Chinese1": "我听不懂。",
+    "Translate1": "I don't understand."
+  },
+  {
+    "sid": 109,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐng zàishuō yībiàn 。",
+    "Chinese1": "请再说一遍。",
+    "Translate1": "Please say it again."
+  },
+  {
+    "sid": 110,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ huì jiǎng yīngyǔ ma ？",
+    "Chinese1": "你会讲英语吗？",
+    "Translate1": "Do you speak English?"
+  },
+  {
+    "sid": 111,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xiǎng qù běijīng 。",
+    "Chinese1": "我想去北京。",
+    "Translate1": "I want to go to Beijing."
+  },
+  {
+    "sid": 112,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhège dōngxi hěn piányi 。",
+    "Chinese1": "这个东西很便宜。",
+    "Translate1": "This thing is very cheap."
+  },
+  {
+    "sid": 113,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyào mǎi zhège 。",
+    "Chinese1": "我要买这个。",
+    "Translate1": "I want to buy this."
+  },
+  {
+    "sid": 114,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhè shì wǒ de péngyou 。",
+    "Chinese1": "这是我的朋友。",
+    "Translate1": "This is my friend."
+  },
+  {
+    "sid": 115,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen shì yījiārén 。",
+    "Chinese1": "我们是一家人。",
+    "Translate1": "We are a family."
+  },
+  {
+    "sid": 116,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì wǒ de lǎoshī 。",
+    "Chinese1": "他是我的老师。",
+    "Translate1": "He is my teacher."
+  },
+  {
+    "sid": 117,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì wǒ de tóngshì 。",
+    "Chinese1": "她是我的同事。",
+    "Translate1": "She is my colleague."
+  },
+  {
+    "sid": 118,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhè shì wǒ de diànhuàhàomǎ 。",
+    "Chinese1": "这是我的电话号码。",
+    "Translate1": "This is my telephone number."
+  },
+  {
+    "sid": 119,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan kàndiànshì 。",
+    "Chinese1": "我喜欢看电视。",
+    "Translate1": "I like watching TV."
+  },
+  {
+    "sid": 120,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ bù xǐhuan yùndòng 。",
+    "Chinese1": "我不喜欢运动。",
+    "Translate1": "I don't like sports."
+  },
+  {
+    "sid": 121,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ yǒu yīgè wèntí 。",
+    "Chinese1": "我有一个问题。",
+    "Translate1": "I have a question."
+  },
+  {
+    "sid": 122,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐng bāng wǒ 。",
+    "Chinese1": "请帮我。",
+    "Translate1": "Please help me."
+  },
+  {
+    "sid": 123,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "shéi zhīdào ？",
+    "Chinese1": "谁知道？",
+    "Translate1": "Who knows?"
+  },
+  {
+    "sid": 124,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ míngbai le 。",
+    "Chinese1": "我明白了。",
+    "Translate1": "I understand."
+  },
+  {
+    "sid": 125,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì huílai de 。",
+    "Chinese1": "我会回来的。",
+    "Translate1": "I will come back."
+  },
+  {
+    "sid": 126,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ zài xuéxí zhōngwén 。",
+    "Chinese1": "我在学习中文。",
+    "Translate1": "I'm learning Chinese."
+  },
+  {
+    "sid": 127,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ yǐjīng chīguòfàn le 。",
+    "Chinese1": "我已经吃过饭了。",
+    "Translate1": "I've already eaten."
+  },
+  {
+    "sid": 128,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hái méi chīfàn 。",
+    "Chinese1": "我还没吃饭。",
+    "Translate1": "I haven't eaten yet."
+  },
+  {
+    "sid": 129,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ kěyǐ yòng yīxià cèsuǒ ma ？",
+    "Chinese1": "我可以用一下厕所吗？",
+    "Translate1": "Can I use the restroom?"
+  },
+  {
+    "sid": 130,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèlǐ yǒu miǎnfèi de Wifi ma ？",
+    "Chinese1": "这里有免费的WiFi吗？",
+    "Translate1": "Is there free WiFi here?"
+  },
+  {
+    "sid": 131,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyào qù jīchǎng 。",
+    "Chinese1": "我要去机场。",
+    "Translate1": "I want to go to the airport."
+  },
+  {
+    "sid": 132,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ zhèngzài zhǎo gōngzuò 。",
+    "Chinese1": "我正在找工作。",
+    "Translate1": "I am looking for a job."
+  },
+  {
+    "sid": 133,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ qùguò shànghǎi 。",
+    "Chinese1": "我去过上海。",
+    "Translate1": "I have been to Shanghai."
+  },
+  {
+    "sid": 134,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ shì xuésheng 。",
+    "Chinese1": "我是学生。",
+    "Translate1": "I am a student."
+  },
+  {
+    "sid": 135,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ jiào shénme míngzì ？",
+    "Chinese1": "你叫什么名字？",
+    "Translate1": "What's your name?"
+  },
+  {
+    "sid": 136,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen shì péngyou 。",
+    "Chinese1": "我们是朋友。",
+    "Translate1": "We are friends."
+  },
+  {
+    "sid": 137,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jīntiāntiānqì hěn hǎo 。",
+    "Chinese1": "今天天气很好。",
+    "Translate1": "The weather is very nice today."
+  },
+  {
+    "sid": 138,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ huì shuō yīngyǔ ma ？",
+    "Chinese1": "你会说英语吗？",
+    "Translate1": "Do you speak English?"
+  },
+  {
+    "sid": 139,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù kàn diànyǐngbā 。",
+    "Chinese1": "我们去看电影吧。",
+    "Translate1": "Let's go watch a movie."
+  },
+  {
+    "sid": 140,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì wǒ de tóngxué 。",
+    "Chinese1": "她是我的同学。",
+    "Translate1": "She is my classmate."
+  },
+  {
+    "sid": 141,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan hēchá 。",
+    "Chinese1": "他喜欢喝茶。",
+    "Translate1": "He likes to drink tea."
+  },
+  {
+    "sid": 142,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā měitiān dōu qù shàngxué 。",
+    "Chinese1": "她每天都去上学。",
+    "Translate1": "She goes to school every day."
+  },
+  {
+    "sid": 143,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ zuòzài zhèlǐ ma ？",
+    "Chinese1": "我们可以坐在这里吗？",
+    "Translate1": "Can we sit here?"
+  },
+  {
+    "sid": 144,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xiǎng qù lǚyóu 。",
+    "Chinese1": "我们想去旅游。",
+    "Translate1": "We want to travel."
+  },
+  {
+    "sid": 145,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de hànyǔ hěn hǎo 。",
+    "Chinese1": "他的汉语很好。",
+    "Translate1": "His Chinese is very good."
+  },
+  {
+    "sid": 146,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de yīfú hěnpiāoliàng 。",
+    "Chinese1": "她的衣服很漂亮。",
+    "Translate1": "Her clothes are very pretty."
+  },
+  {
+    "sid": 147,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen yīqǐ gōngzuò 。",
+    "Chinese1": "他们一起工作。",
+    "Translate1": "They work together."
+  },
+  {
+    "sid": 148,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèshì shénme dōngxi ？",
+    "Chinese1": "这是什么东西？",
+    "Translate1": "What is this thing?"
+  },
+  {
+    "sid": 149,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nàgè dìfāng hěn yuǎn 。",
+    "Chinese1": "那个地方很远。",
+    "Translate1": "That place is far away."
+  },
+  {
+    "sid": 150,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xiǎng hēshuǐ ma ？",
+    "Chinese1": "你想喝水吗？",
+    "Translate1": "Do you want to drink water?"
+  },
+  {
+    "sid": 151,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen zài gōngyuán lǐ sànbù 。",
+    "Chinese1": "我们在公园里散步。",
+    "Translate1": "We are taking a walk in the park."
+  },
+  {
+    "sid": 152,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de gǒu hěn kěài 。",
+    "Chinese1": "她的狗很可爱。",
+    "Translate1": "Her dog is very cute."
+  },
+  {
+    "sid": 153,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ yīqǐ qù gòuwù 。",
+    "Chinese1": "我们可以一起去购物。",
+    "Translate1": "We can go shopping together."
+  },
+  {
+    "sid": 154,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhège cài hěn là 。",
+    "Chinese1": "这个菜很辣。",
+    "Translate1": "This dish is very spicy."
+  },
+  {
+    "sid": 155,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ dǎdiànhuà ma ？",
+    "Chinese1": "我们可以打电话吗？",
+    "Translate1": "Can we make a phone call?"
+  },
+  {
+    "sid": 156,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xiànzài jǐdiǎn le ？",
+    "Chinese1": "现在几点了？",
+    "Translate1": "What time is it now?"
+  },
+  {
+    "sid": 157,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "dàjiā hǎo ！",
+    "Chinese1": "大家好！",
+    "Translate1": "Hello, everyone!"
+  },
+  {
+    "sid": 158,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhège diànyǐng hěn yǒuqù 。",
+    "Chinese1": "这个电影很有趣。",
+    "Translate1": "This movie is very interesting."
+  },
+  {
+    "sid": 159,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ yīqǐ chīfàn ma ？",
+    "Chinese1": "我们可以一起吃饭吗？",
+    "Translate1": "Can we eat together?"
+  },
+  {
+    "sid": 160,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen zài xuéxiào lǐ xuéxí 。",
+    "Chinese1": "他们在学校里学习。",
+    "Translate1": "They study at school."
+  },
+  {
+    "sid": 161,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhè shì wǒ de shǒujī 。",
+    "Chinese1": "这是我的手机。",
+    "Translate1": "This is my cell phone."
+  },
+  {
+    "sid": 162,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme yánsè ？",
+    "Chinese1": "你喜欢什么颜色？",
+    "Translate1": "What color do you like?"
+  },
+  {
+    "sid": 163,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ zuòdìtiě qù nàr 。",
+    "Chinese1": "我们可以坐地铁去那儿。",
+    "Translate1": "We can take the subway there."
+  },
+  {
+    "sid": 164,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen xǐhuan kàndiànshì 。",
+    "Chinese1": "他们喜欢看电视。",
+    "Translate1": "They like to watch TV."
+  },
+  {
+    "sid": 165,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de shēngrì shì jǐyuè jǐhào ？",
+    "Chinese1": "她的生日是几月几号？",
+    "Translate1": "What is her birthday?"
+  },
+  {
+    "sid": 166,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ qù túshūguǎn ma ？",
+    "Chinese1": "我们可以去图书馆吗？",
+    "Translate1": "Can we go to the library?"
+  },
+  {
+    "sid": 167,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhège fángjiān hěndà 。",
+    "Chinese1": "这个房间很大。",
+    "Translate1": "This room is very big."
+  },
+  {
+    "sid": 168,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xǐhuan tīng yīnyuè 。",
+    "Chinese1": "我们喜欢听音乐。",
+    "Translate1": "We like listening to music."
+  },
+  {
+    "sid": 169,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen zài yóuyǒngchí lǐ yóuyǒng 。",
+    "Chinese1": "他们在游泳池里游泳。",
+    "Translate1": "They are swimming in the pool."
+  },
+  {
+    "sid": 170,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhè shì wǒ de jiā 。",
+    "Chinese1": "这是我的家。",
+    "Translate1": "This is my home."
+  },
+  {
+    "sid": 171,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ qù gōngyuán wán ma ？",
+    "Chinese1": "我们可以去公园玩吗？",
+    "Translate1": "Can we go play in the park?"
+  },
+  {
+    "sid": 172,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ de péngyou hěnduō 。",
+    "Chinese1": "我的朋友很多。",
+    "Translate1": "I have many friends."
+  },
+  {
+    "sid": 173,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan kàn diànyǐng 。",
+    "Chinese1": "她喜欢看电影。",
+    "Translate1": "She likes to watch movies."
+  },
+  {
+    "sid": 174,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn ， cèsuǒ zài nǎr ？",
+    "Chinese1": "请问，厕所在哪儿？",
+    "Translate1": "Excuse me, where is the restroom?"
+  },
+  {
+    "sid": 175,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nín guìxìng ？",
+    "Chinese1": "您贵姓？",
+    "Translate1": "What's your surname?"
+  },
+  {
+    "sid": 176,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn hǎo 。",
+    "Chinese1": "我很好。",
+    "Translate1": "I'm fine/very well."
+  },
+  {
+    "sid": 177,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyào yīgè kāfēi 。",
+    "Chinese1": "我要一个咖啡。",
+    "Translate1": "I want a coffee."
+  },
+  {
+    "sid": 178,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ kěyǐ bāng wǒ ma ？",
+    "Chinese1": "你可以帮我吗？",
+    "Translate1": "Can you help me?"
+  },
+  {
+    "sid": 179,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù kàn diànyǐngbā ！",
+    "Chinese1": "我们去看电影吧！",
+    "Translate1": "Let's go watch a movie!"
+  },
+  {
+    "sid": 180,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ kěyǐ yòng xìnyòngkǎ ma ？",
+    "Chinese1": "我可以用信用卡吗？",
+    "Translate1": "Can I use credit card?"
+  },
+  {
+    "sid": 181,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐng gěi wǒ yīpíng shuǐ 。",
+    "Chinese1": "请给我一瓶水。",
+    "Translate1": "Please give me a bottle of water."
+  },
+  {
+    "sid": 182,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xiànzài jǐdiǎnzhōng ？",
+    "Chinese1": "现在几点钟？",
+    "Translate1": "What time is it now?"
+  },
+  {
+    "sid": 183,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒxiǎngxué zhōngwén 。",
+    "Chinese1": "我想学中文。",
+    "Translate1": "I want to learn Chinese."
+  },
+  {
+    "sid": 184,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèlǐ yǒuméiyǒu miǎnfèi de Wi - fi ？",
+    "Chinese1": "这里有没有免费的Wi-Fi？",
+    "Translate1": "Is there free Wi-Fi here?"
+  },
+  {
+    "sid": 185,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngděngyīxià 。",
+    "Chinese1": "请等一下。",
+    "Translate1": "Please wait a moment."
+  },
+  {
+    "sid": 186,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xūyào yīgè dìtú 。",
+    "Chinese1": "我需要一个地图。",
+    "Translate1": "I need a map."
+  },
+  {
+    "sid": 187,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ kěyǐ gěi wǒ yīzhī bǐ ma ？",
+    "Chinese1": "你可以给我一支笔吗？",
+    "Translate1": "Can you give me a pen?"
+  },
+  {
+    "sid": 188,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì gè yīshēng 。",
+    "Chinese1": "他是个医生。",
+    "Translate1": "He is a doctor."
+  },
+  {
+    "sid": 189,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐng 。",
+    "Chinese1": "请。",
+    "Translate1": "Please."
+  },
+  {
+    "sid": 190,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "méiyǒu 。",
+    "Chinese1": "没有。",
+    "Translate1": "Don't have."
+  },
+  {
+    "sid": 191,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan 。",
+    "Chinese1": "我喜欢。",
+    "Translate1": "I like it."
+  },
+  {
+    "sid": 192,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ ne ？",
+    "Chinese1": "你呢？",
+    "Translate1": "How about you?"
+  },
+  {
+    "sid": 193,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyào 。",
+    "Chinese1": "我要。",
+    "Translate1": "I want."
+  },
+  {
+    "sid": 194,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "duìbuqǐ ， wǒ tīngbudǒng 。",
+    "Chinese1": "对不起，我听不懂。",
+    "Translate1": "Sorry, I don't understand."
+  },
+  {
+    "sid": 195,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xīngqī jǐ ？",
+    "Chinese1": "星期几？",
+    "Translate1": "What day is it?"
+  },
+  {
+    "sid": 196,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì shuō yīdiǎnr zhōngwén 。",
+    "Chinese1": "我会说一点儿中文。",
+    "Translate1": "I can speak a little Chinese."
+  },
+  {
+    "sid": 197,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐng gěi wǒ 。",
+    "Chinese1": "请给我。",
+    "Translate1": "Please give me."
+  },
+  {
+    "sid": 198,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhège zěnme shuō ？",
+    "Chinese1": "这个怎么说？",
+    "Translate1": "How do you say this?"
+  },
+  {
+    "sid": 199,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zuò zhèlǐ 。",
+    "Chinese1": "坐这里。",
+    "Translate1": "Sit here."
+  },
+  {
+    "sid": 200,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ bù xǐhuan 。",
+    "Chinese1": "我不喜欢。",
+    "Translate1": "I don't like it."
+  },
+  {
+    "sid": 201,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tàiguì le 。",
+    "Chinese1": "太贵了。",
+    "Translate1": "Too expensive."
+  },
+  {
+    "sid": 202,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ qù 。",
+    "Chinese1": "我去。",
+    "Translate1": "I'm going."
+  },
+  {
+    "sid": 203,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ zài nǎr ？",
+    "Chinese1": "你在哪儿？",
+    "Translate1": "Where are you?"
+  },
+  {
+    "sid": 204,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "chīfàn le ma ？",
+    "Chinese1": "吃饭了吗？",
+    "Translate1": "Have you eaten yet?"
+  },
+  {
+    "sid": 205,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ kěyǐ ma ？",
+    "Chinese1": "我可以吗？",
+    "Translate1": "Can I?"
+  },
+  {
+    "sid": 206,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "hǎokàn 。",
+    "Chinese1": "好看。",
+    "Translate1": "Good-looking."
+  },
+  {
+    "sid": 207,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒàinǐ 。",
+    "Chinese1": "我爱你。",
+    "Translate1": "I love you."
+  },
+  {
+    "sid": 208,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ de míngzì shì ...",
+    "Chinese1": "我的名字是...",
+    "Translate1": "My name is..."
+  },
+  {
+    "sid": 209,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ láizì ...",
+    "Chinese1": "我来自...",
+    "Translate1": "I come from..."
+  },
+  {
+    "sid": 210,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ zǒu bā 。",
+    "Chinese1": "我们一起走吧。",
+    "Translate1": "Let's go together."
+  },
+  {
+    "sid": 211,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhù nǐ shēngrìkuàilè ！",
+    "Chinese1": "祝你生日快乐！",
+    "Translate1": "Happy birthday to you!"
+  },
+  {
+    "sid": 212,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn xǐshǒujiān zài nǎlǐ ？",
+    "Chinese1": "请问洗手间在哪里？",
+    "Translate1": "Excuse me, where is the restroom?"
+  },
+  {
+    "sid": 213,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "hǎo de 。",
+    "Chinese1": "好的。",
+    "Translate1": "Okay."
+  },
+  {
+    "sid": 214,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù bā 。",
+    "Chinese1": "我们去吧。",
+    "Translate1": "Let's go."
+  },
+  {
+    "sid": 215,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tiānqì zěnmeyàng ？",
+    "Chinese1": "天气怎么样？",
+    "Translate1": "How's the weather?"
+  },
+  {
+    "sid": 216,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "méi wèntí 。",
+    "Chinese1": "没问题。",
+    "Translate1": "No problem."
+  },
+  {
+    "sid": 217,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "hái kěyǐ 。",
+    "Chinese1": "还可以。",
+    "Translate1": "It's okay."
+  }
+]

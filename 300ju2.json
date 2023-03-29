@@ -1,0 +1,2514 @@
+[
+  {
+    "sid": 1,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan zhège 。",
+    "Chinese1": "我喜欢这个。",
+    "Translate1": "I like this."
+  },
+  {
+    "sid": 2,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ duō dà le ？",
+    "Chinese1": "你多大了？",
+    "Translate1": "How old are you?"
+  },
+  {
+    "sid": 3,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù kàn diànyǐngbā 。",
+    "Chinese1": "我们去看电影吧。",
+    "Translate1": "Let's go watch a movie."
+  },
+  {
+    "sid": 4,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyào qù shuìjiào le 。",
+    "Chinese1": "我要去睡觉了。",
+    "Translate1": "I am going to bed."
+  },
+  {
+    "sid": 5,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénmeyàng de qìchē ？",
+    "Chinese1": "你喜欢什么样的汽车？",
+    "Translate1": "What kind of car do you like?"
+  },
+  {
+    "sid": 6,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒu zìxìn 。",
+    "Chinese1": "她很有自信。",
+    "Translate1": "She is confident."
+  },
+  {
+    "sid": 7,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ huì kāichē ma ？",
+    "Chinese1": "你会开车吗？",
+    "Translate1": "Do you know how to drive?"
+  },
+  {
+    "sid": 8,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù kàn huàjù bā 。",
+    "Chinese1": "我们去看话剧吧。",
+    "Translate1": "Let's go see a play."
+  },
+  {
+    "sid": 9,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan kànshū 。",
+    "Chinese1": "她喜欢看书。",
+    "Translate1": "She likes to read."
+  },
+  {
+    "sid": 10,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme gēshǒu ？",
+    "Chinese1": "你喜欢什么歌手？",
+    "Translate1": "What kind of singer do you like?"
+  },
+  {
+    "sid": 11,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù kàn gējù bā 。",
+    "Chinese1": "我们去看歌剧吧。",
+    "Translate1": "Let's go see an opera."
+  },
+  {
+    "sid": 12,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zàijiàn 。",
+    "Chinese1": "再见。",
+    "Translate1": "Goodbye."
+  },
+  {
+    "sid": 13,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan hēchá 。",
+    "Chinese1": "我喜欢喝茶。",
+    "Translate1": "I like to drink tea."
+  },
+  {
+    "sid": 14,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan dúshū 。",
+    "Chinese1": "她喜欢读书。",
+    "Translate1": "She likes to read books."
+  },
+  {
+    "sid": 15,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ qù kàn zhǎnlǎn bā 。",
+    "Chinese1": "我们一起去看展览吧。",
+    "Translate1": "Let's go to the exhibition together."
+  },
+  {
+    "sid": 16,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ qù páshān bā 。",
+    "Chinese1": "我们一起去爬山吧。",
+    "Translate1": "Let's go hiking together."
+  },
+  {
+    "sid": 17,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme diànyǐngmíngxīng ？",
+    "Chinese1": "你喜欢什么电影明星？",
+    "Translate1": "What kind of movie star do you like?"
+  },
+  {
+    "sid": 18,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn gǎnjī 。",
+    "Chinese1": "我很感激。",
+    "Translate1": "I am grateful."
+  },
+  {
+    "sid": 19,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù diàoyú bā 。",
+    "Chinese1": "我们去钓鱼吧。",
+    "Translate1": "Let's go fishing."
+  },
+  {
+    "sid": 20,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā měitiān dōu duànliànshēntǐ 。",
+    "Chinese1": "她每天都锻炼身体。",
+    "Translate1": "She exercises every day."
+  },
+  {
+    "sid": 21,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ hěn yǒu yōumògǎn 。",
+    "Chinese1": "你很有幽默感。",
+    "Translate1": "You have a sense of humor."
+  },
+  {
+    "sid": 22,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan zuòfàn 。",
+    "Chinese1": "她喜欢做饭。",
+    "Translate1": "She likes to cook."
+  },
+  {
+    "sid": 23,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ hěn yǒu àixīn 。",
+    "Chinese1": "你很有爱心。",
+    "Translate1": "You are caring."
+  },
+  {
+    "sid": 24,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn rè 。",
+    "Chinese1": "我很热。",
+    "Translate1": "I'm hot."
+  },
+  {
+    "sid": 25,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā àikàn diànyǐng 。",
+    "Chinese1": "他爱看电影。",
+    "Translate1": "He loves to watch movies."
+  },
+  {
+    "sid": 26,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒu língqì 。",
+    "Chinese1": "她很有灵气。",
+    "Translate1": "She is spiritual."
+  },
+  {
+    "sid": 27,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ chīfàn bā 。",
+    "Chinese1": "我们一起吃饭吧。",
+    "Translate1": "Let's eat together."
+  },
+  {
+    "sid": 28,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì yīmíng gōngchéngshī 。",
+    "Chinese1": "他是一名工程师。",
+    "Translate1": "He is an engineer."
+  },
+  {
+    "sid": 29,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn qiángzhuàng 。",
+    "Chinese1": "他很强壮。",
+    "Translate1": "He is strong."
+  },
+  {
+    "sid": 30,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒàinǐ 。",
+    "Chinese1": "我爱你。",
+    "Translate1": "I love you."
+  },
+  {
+    "sid": 31,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn xiǎngxué 。",
+    "Chinese1": "我很想学。",
+    "Translate1": "I want to learn."
+  },
+  {
+    "sid": 32,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan hēpíjiǔ ma ？",
+    "Chinese1": "你喜欢喝啤酒吗？",
+    "Translate1": "Do you like to drink beer?"
+  },
+  {
+    "sid": 33,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǎnān 。",
+    "Chinese1": "晚安。",
+    "Translate1": "Good night."
+  },
+  {
+    "sid": 34,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan chī tángguǒ ma",
+    "Chinese1": "你喜欢吃糖果吗",
+    "Translate1": "Do you like candy?"
+  },
+  {
+    "sid": 35,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ qù huáxuě bā 。",
+    "Chinese1": "我们一起去滑雪吧。",
+    "Translate1": "Let's go skiing together."
+  },
+  {
+    "sid": 36,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan chī shūcài ma ？",
+    "Chinese1": "你喜欢吃蔬菜吗？",
+    "Translate1": "Do you like vegetables?"
+  },
+  {
+    "sid": 37,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ qù yěcān bā 。",
+    "Chinese1": "我们一起去野餐吧。",
+    "Translate1": "Let's have a picnic together."
+  },
+  {
+    "sid": 38,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù chànggē bā 。",
+    "Chinese1": "我们去唱歌吧。",
+    "Translate1": "Let's go sing."
+  },
+  {
+    "sid": 39,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan chī zhájī ma ？",
+    "Chinese1": "你喜欢吃炸鸡吗？",
+    "Translate1": "Do you like fried chicken?"
+  },
+  {
+    "sid": 40,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan chànggē 。",
+    "Chinese1": "她喜欢唱歌。",
+    "Translate1": "She likes to sing."
+  },
+  {
+    "sid": 41,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme shūcài ？",
+    "Chinese1": "你喜欢什么蔬菜？",
+    "Translate1": "What's your favorite vegetable?"
+  },
+  {
+    "sid": 42,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme jiérì ？",
+    "Chinese1": "你喜欢什么节日？",
+    "Translate1": "What's your favorite holiday?"
+  },
+  {
+    "sid": 43,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn xiǎng xiào 。",
+    "Chinese1": "我很想笑。",
+    "Translate1": "I want to laugh."
+  },
+  {
+    "sid": 44,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénmeyàng de shǒubiǎo ？",
+    "Chinese1": "你喜欢什么样的手表？",
+    "Translate1": "What kind of watch do you like?"
+  },
+  {
+    "sid": 45,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme yīnyuè ？",
+    "Chinese1": "你喜欢什么音乐？",
+    "Translate1": "What's your favorite music?"
+  },
+  {
+    "sid": 46,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme shuǐguǒ ？",
+    "Chinese1": "你喜欢什么水果？",
+    "Translate1": "What's your favorite fruit?"
+  },
+  {
+    "sid": 47,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ huì shuō yīngyǔ ma ？",
+    "Chinese1": "你会说英语吗？",
+    "Translate1": "Do you speak English?"
+  },
+  {
+    "sid": 48,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan běijīng 。",
+    "Chinese1": "我喜欢北京。",
+    "Translate1": "I like Beijing."
+  },
+  {
+    "sid": 49,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme bāobāo ？",
+    "Chinese1": "你喜欢什么包包？",
+    "Translate1": "What's your favorite bag?"
+  },
+  {
+    "sid": 50,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan tīng yīnyuè ma ？",
+    "Chinese1": "你喜欢听音乐吗？",
+    "Translate1": "Do you like to listen to music?"
+  },
+  {
+    "sid": 51,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zǎoshanghǎo 。",
+    "Chinese1": "早上好。",
+    "Translate1": "Good morning."
+  },
+  {
+    "sid": 52,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénmeyàng de diànnǎo ？",
+    "Chinese1": "你喜欢什么样的电脑？",
+    "Translate1": "What kind of computer do you like?"
+  },
+  {
+    "sid": 53,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěnkě 。",
+    "Chinese1": "我很渴。",
+    "Translate1": "I'm thirsty."
+  },
+  {
+    "sid": 54,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme shū ？",
+    "Chinese1": "你喜欢什么书？",
+    "Translate1": "What kind of books do you like?"
+  },
+  {
+    "sid": 55,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn měi 。",
+    "Chinese1": "她很美。",
+    "Translate1": "She is beautiful."
+  },
+  {
+    "sid": 56,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan hēniúnǎi ma",
+    "Chinese1": "你喜欢喝牛奶吗",
+    "Translate1": "Do you like to drink milk?"
+  },
+  {
+    "sid": 57,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ qù kàn diànyǐngbā 。",
+    "Chinese1": "我们一起去看电影吧。",
+    "Translate1": "Let's go to the movies together."
+  },
+  {
+    "sid": 58,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì yīmíng lǜshī 。",
+    "Chinese1": "他是一名律师。",
+    "Translate1": "He is a lawyer."
+  },
+  {
+    "sid": 59,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xièxie 。",
+    "Chinese1": "谢谢。",
+    "Translate1": "Thank you."
+  },
+  {
+    "sid": 60,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan lǚyóu 。",
+    "Chinese1": "她喜欢旅游。",
+    "Translate1": "She likes to travel."
+  },
+  {
+    "sid": 61,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhùnǐhǎoyùn 。",
+    "Chinese1": "祝你好运。",
+    "Translate1": "Good luck."
+  },
+  {
+    "sid": 62,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan hēchá ma ?",
+    "Chinese1": "你喜欢喝茶吗?",
+    "Translate1": "Do you like to drink tea?"
+  },
+  {
+    "sid": 63,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù kàn zhǎnlǎn bā 。",
+    "Chinese1": "我们去看展览吧。",
+    "Translate1": "Let's go see an exhibition."
+  },
+  {
+    "sid": 64,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù guàngjiē bā 。",
+    "Chinese1": "我们去逛街吧。",
+    "Translate1": "Let's go shopping."
+  },
+  {
+    "sid": 65,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ hěn yǒnggǎn 。",
+    "Chinese1": "你很勇敢。",
+    "Translate1": "You are brave."
+  },
+  {
+    "sid": 66,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn xiǎng hē 。",
+    "Chinese1": "我很想喝。",
+    "Translate1": "I want to drink."
+  },
+  {
+    "sid": 67,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì yīmíng xiāoshòuyuán 。",
+    "Chinese1": "他是一名销售员。",
+    "Translate1": "He is a salesman."
+  },
+  {
+    "sid": 68,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn xiǎng kàn 。",
+    "Chinese1": "我很想看。",
+    "Translate1": "I want to watch."
+  },
+  {
+    "sid": 69,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan yùndòngxié 。",
+    "Chinese1": "我喜欢运动鞋。",
+    "Translate1": "I like sneakers."
+  },
+  {
+    "sid": 70,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan hē guǒzhī ma",
+    "Chinese1": "你喜欢喝果汁吗",
+    "Translate1": "Do you like to drink juice?"
+  },
+  {
+    "sid": 71,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù páshān bā 。",
+    "Chinese1": "我们去爬山吧。",
+    "Translate1": "Let's go hiking."
+  },
+  {
+    "sid": 72,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù dǎpái bā 。",
+    "Chinese1": "我们去打牌吧。",
+    "Translate1": "Let's go play cards."
+  },
+  {
+    "sid": 73,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan hēkāfēi ma ？",
+    "Chinese1": "你喜欢喝咖啡吗？",
+    "Translate1": "Do you like to drink coffee?"
+  },
+  {
+    "sid": 74,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ qù yóuyǒng bā 。",
+    "Chinese1": "我们一起去游泳吧。",
+    "Translate1": "Let's go swimming together."
+  },
+  {
+    "sid": 75,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme chéngshì ？",
+    "Chinese1": "你喜欢什么城市？",
+    "Translate1": "What's your favorite city?"
+  },
+  {
+    "sid": 76,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ qù guàngjiē bā 。",
+    "Chinese1": "我们一起去逛街吧。",
+    "Translate1": "Let's go shopping together."
+  },
+  {
+    "sid": 77,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan méiguīhuā 。",
+    "Chinese1": "我喜欢玫瑰花。",
+    "Translate1": "I like roses."
+  },
+  {
+    "sid": 78,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù dǎlánqiú bā 。",
+    "Chinese1": "我们去打篮球吧。",
+    "Translate1": "Let's go play basketball."
+  },
+  {
+    "sid": 79,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan chīshuǐguǒ ma ？",
+    "Chinese1": "你喜欢吃水果吗？",
+    "Translate1": "Do you like fruit?"
+  },
+  {
+    "sid": 80,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan hóngsè 。",
+    "Chinese1": "我喜欢红色。",
+    "Translate1": "I like red."
+  },
+  {
+    "sid": 81,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "méiguānxi 。",
+    "Chinese1": "没关系。",
+    "Translate1": "It's okay."
+  },
+  {
+    "sid": 82,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme shū ？",
+    "Chinese1": "你喜欢什么书？",
+    "Translate1": "What's your favorite book?"
+  },
+  {
+    "sid": 83,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn è 。",
+    "Chinese1": "我很饿。",
+    "Translate1": "I'm hungry."
+  },
+  {
+    "sid": 84,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn shīwàng 。",
+    "Chinese1": "我很失望。",
+    "Translate1": "I'm disappointed."
+  },
+  {
+    "sid": 85,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan xīhóngshì 。",
+    "Chinese1": "我喜欢西红柿。",
+    "Translate1": "I like tomatoes."
+  },
+  {
+    "sid": 86,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ jǐsuì le ？",
+    "Chinese1": "你几岁了？",
+    "Translate1": "How old are you?"
+  },
+  {
+    "sid": 87,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme péngyou ？",
+    "Chinese1": "你喜欢什么朋友？",
+    "Translate1": "What kind of friends do you like?"
+  },
+  {
+    "sid": 88,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐng jìn 。",
+    "Chinese1": "请进。",
+    "Translate1": "Please come in."
+  },
+  {
+    "sid": 89,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan chī tángguǒ ma ？",
+    "Chinese1": "你喜欢吃糖果吗？",
+    "Translate1": "Do you like candy?"
+  },
+  {
+    "sid": 90,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn máng 。",
+    "Chinese1": "我很忙。",
+    "Translate1": "I'm busy."
+  },
+  {
+    "sid": 91,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì yīmíng yǎnyuán 。",
+    "Chinese1": "他是一名演员。",
+    "Translate1": "He is an actor."
+  },
+  {
+    "sid": 92,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn xiǎng tīng 。",
+    "Chinese1": "我很想听。",
+    "Translate1": "I want to listen."
+  },
+  {
+    "sid": 93,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan shǒutíbāo 。",
+    "Chinese1": "我喜欢手提包。",
+    "Translate1": "I like handbags. Bonus sentence"
+  },
+  {
+    "sid": 94,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme shēnghuó",
+    "Chinese1": "你喜欢什么生活",
+    "Translate1": "What kind of life do you like?"
+  },
+  {
+    "sid": 95,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐhǎo ma ？",
+    "Chinese1": "你好吗？",
+    "Translate1": "How are you?"
+  },
+  {
+    "sid": 96,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme yùndòng ？",
+    "Chinese1": "你喜欢什么运动？",
+    "Translate1": "What sports do you like?"
+  },
+  {
+    "sid": 97,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒu yìlì 。",
+    "Chinese1": "她很有毅力。",
+    "Translate1": "She is perseverance."
+  },
+  {
+    "sid": 98,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù huáxuě bā 。",
+    "Chinese1": "我们去滑雪吧。",
+    "Translate1": "Let's go skiing."
+  },
+  {
+    "sid": 99,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme diànshìjiémù ？",
+    "Chinese1": "你喜欢什么电视节目？",
+    "Translate1": "What kind of TV show do you like?"
+  },
+  {
+    "sid": 100,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù kàn bālěiwǔ bā 。",
+    "Chinese1": "我们去看芭蕾舞吧。",
+    "Translate1": "Let's go see a ballet."
+  },
+  {
+    "sid": 101,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒu cáihuá 。",
+    "Chinese1": "她很有才华。",
+    "Translate1": "She is talented."
+  },
+  {
+    "sid": 102,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn xiǎng qù 。",
+    "Chinese1": "我很想去。",
+    "Translate1": "I want to go."
+  },
+  {
+    "sid": 103,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme dòngwù ？",
+    "Chinese1": "你喜欢什么动物？",
+    "Translate1": "What's your favorite animal?"
+  },
+  {
+    "sid": 104,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn shànliáng 。",
+    "Chinese1": "她很善良。",
+    "Translate1": "She is kind."
+  },
+  {
+    "sid": 105,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xiǎng chī shénme ？",
+    "Chinese1": "你想吃什么？",
+    "Translate1": "What do you want to eat?"
+  },
+  {
+    "sid": 106,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn hàipà 。",
+    "Chinese1": "我很害怕。",
+    "Translate1": "I'm scared."
+  },
+  {
+    "sid": 107,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn máng 。",
+    "Chinese1": "我很忙。",
+    "Translate1": "I am busy."
+  },
+  {
+    "sid": 108,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme zhíyè ？",
+    "Chinese1": "你喜欢什么职业？",
+    "Translate1": "What's your favorite profession?"
+  },
+  {
+    "sid": 109,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ qù dǎlánqiú bā 。",
+    "Chinese1": "我们一起去打篮球吧。",
+    "Translate1": "Let's play basketball together."
+  },
+  {
+    "sid": 110,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme yīfú ？",
+    "Chinese1": "你喜欢什么衣服？",
+    "Translate1": "What's your favorite clothing?"
+  },
+  {
+    "sid": 111,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn lěi 。",
+    "Chinese1": "我很累。",
+    "Translate1": "I am tired."
+  },
+  {
+    "sid": 112,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhù nǐ xīnniánkuàilè 。",
+    "Chinese1": "祝你新年快乐。",
+    "Translate1": "Happy New Year."
+  },
+  {
+    "sid": 113,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhù nǐ shèngdànkuàilè 。",
+    "Chinese1": "祝你圣诞快乐。",
+    "Translate1": "Merry Christmas."
+  },
+  {
+    "sid": 114,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn wúliáo 。",
+    "Chinese1": "我很无聊。",
+    "Translate1": "I'm bored."
+  },
+  {
+    "sid": 115,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù yóuyǒng bā 。",
+    "Chinese1": "我们去游泳吧。",
+    "Translate1": "Let's go swimming."
+  },
+  {
+    "sid": 116,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ hěn yǒu xiétiáo nénglì 。",
+    "Chinese1": "你很有协调能力。",
+    "Translate1": "You have coordination skills."
+  },
+  {
+    "sid": 117,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme yīnyuè",
+    "Chinese1": "你喜欢什么音乐",
+    "Translate1": "What kind of music do you like?"
+  },
+  {
+    "sid": 118,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǎnshàng hǎo 。",
+    "Chinese1": "晚上好。",
+    "Translate1": "Good evening."
+  },
+  {
+    "sid": 119,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù kàn bǐsài bā 。",
+    "Chinese1": "我们去看比赛吧。",
+    "Translate1": "Let's go watch a game."
+  },
+  {
+    "sid": 120,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn xiànmù 。",
+    "Chinese1": "我很羡慕。",
+    "Translate1": "I'm envious."
+  },
+  {
+    "sid": 121,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒu tóngqíngxīn 。",
+    "Chinese1": "他很有同情心。",
+    "Translate1": "He is sympathetic."
+  },
+  {
+    "sid": 122,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì yīmíng jǐngchá 。",
+    "Chinese1": "他是一名警察。",
+    "Translate1": "He is a police officer."
+  },
+  {
+    "sid": 123,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì yīmíng yīshēng 。",
+    "Chinese1": "他是一名医生。",
+    "Translate1": "He is a doctor."
+  },
+  {
+    "sid": 124,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn è 。",
+    "Chinese1": "我很饿。",
+    "Translate1": "I am hungry."
+  },
+  {
+    "sid": 125,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan kànshū ma ？",
+    "Chinese1": "你喜欢看书吗？",
+    "Translate1": "Do you like to read books?"
+  },
+  {
+    "sid": 126,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn wēnróu 。",
+    "Chinese1": "她很温柔。",
+    "Translate1": "She is gentle."
+  },
+  {
+    "sid": 127,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn gāngà 。",
+    "Chinese1": "我很尴尬。",
+    "Translate1": "I'm embarrassed."
+  },
+  {
+    "sid": 128,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan chī shénme ？",
+    "Chinese1": "你喜欢吃什么？",
+    "Translate1": "What do you like to eat?"
+  },
+  {
+    "sid": 129,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme yùndòngyuán ？",
+    "Chinese1": "你喜欢什么运动员？",
+    "Translate1": "What kind of athlete do you like?"
+  },
+  {
+    "sid": 130,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan chī là de ma ？",
+    "Chinese1": "你喜欢吃辣的吗？",
+    "Translate1": "Do you like spicy food?"
+  },
+  {
+    "sid": 131,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ zài nǎlǐ ？",
+    "Chinese1": "你在哪里？",
+    "Translate1": "Where are you?"
+  },
+  {
+    "sid": 132,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan hē guǒzhī ma ？",
+    "Chinese1": "你喜欢喝果汁吗？",
+    "Translate1": "Do you like to drink juice?"
+  },
+  {
+    "sid": 133,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan chī pīsà ma ？",
+    "Chinese1": "你喜欢吃披萨吗？",
+    "Translate1": "Do you like pizza?"
+  },
+  {
+    "sid": 134,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ jiào lǐmíng 。",
+    "Chinese1": "我叫李明。",
+    "Translate1": "My name is Li Ming."
+  },
+  {
+    "sid": 135,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan kàndiànshì ma ？",
+    "Chinese1": "你喜欢看电视吗？",
+    "Translate1": "Do you like to watch TV?"
+  },
+  {
+    "sid": 136,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù kàn yǎnchànghuì bā 。",
+    "Chinese1": "我们去看演唱会吧。",
+    "Translate1": "Let's go see a concert."
+  },
+  {
+    "sid": 137,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan tiàowǔ 。",
+    "Chinese1": "她喜欢跳舞。",
+    "Translate1": "She likes to dance."
+  },
+  {
+    "sid": 138,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn cōnghuì 。",
+    "Chinese1": "他很聪慧。",
+    "Translate1": "He is intelligent."
+  },
+  {
+    "sid": 139,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme yùndòng ？",
+    "Chinese1": "你喜欢什么运动？",
+    "Translate1": "What's your favorite sport?"
+  },
+  {
+    "sid": 140,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan hēniúnǎi ma ？",
+    "Chinese1": "你喜欢喝牛奶吗？",
+    "Translate1": "Do you like to drink milk?"
+  },
+  {
+    "sid": 141,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ jiào shénme míngzì ？",
+    "Chinese1": "你叫什么名字？",
+    "Translate1": "What's your name?"
+  },
+  {
+    "sid": 142,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme yǔyán ？",
+    "Chinese1": "你喜欢什么语言？",
+    "Translate1": "What's your favorite language?"
+  },
+  {
+    "sid": 143,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ qù diàoyú bā 。",
+    "Chinese1": "我们一起去钓鱼吧。",
+    "Translate1": "Let's go fishing together."
+  },
+  {
+    "sid": 144,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn yǒu pànduànlì 。",
+    "Chinese1": "我很有判断力。",
+    "Translate1": "I have judgment."
+  },
+  {
+    "sid": 145,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒu lǐngdǎolì 。",
+    "Chinese1": "他很有领导力。",
+    "Translate1": "He has leadership."
+  },
+  {
+    "sid": 146,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn 。",
+    "Chinese1": "请问。",
+    "Translate1": "Excuse me."
+  },
+  {
+    "sid": 147,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan hēchá ma ？",
+    "Chinese1": "你喜欢喝茶吗？",
+    "Translate1": "Do you like to drink tea?"
+  },
+  {
+    "sid": 148,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan kàn diànyǐng 。",
+    "Chinese1": "她喜欢看电影。",
+    "Translate1": "She likes to watch movies."
+  },
+  {
+    "sid": 149,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan hǎibiān 。",
+    "Chinese1": "我喜欢海边。",
+    "Translate1": "I like the beach."
+  },
+  {
+    "sid": 150,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan gǒu 。",
+    "Chinese1": "我喜欢狗。",
+    "Translate1": "I like dogs."
+  },
+  {
+    "sid": 151,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ hěn yǒu gǎnzhàolì 。",
+    "Chinese1": "你很有感召力。",
+    "Translate1": "You have charisma."
+  },
+  {
+    "sid": 152,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù kàn yīnyuèhuì bā 。",
+    "Chinese1": "我们去看音乐会吧。",
+    "Translate1": "Let's go see a music concert."
+  },
+  {
+    "sid": 153,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn gāoxìng 。",
+    "Chinese1": "我很高兴。",
+    "Translate1": "I'm happy."
+  },
+  {
+    "sid": 154,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěnkùn 。",
+    "Chinese1": "我很困。",
+    "Translate1": "I'm sleepy."
+  },
+  {
+    "sid": 155,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒu yǒngqì 。",
+    "Chinese1": "他很有勇气。",
+    "Translate1": "He is courageous."
+  },
+  {
+    "sid": 156,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ hěn yǒu nàixīn 。",
+    "Chinese1": "你很有耐心。",
+    "Translate1": "You are patient."
+  },
+  {
+    "sid": 157,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen qù lǚyóu bā 。",
+    "Chinese1": "我们去旅游吧。",
+    "Translate1": "Let's go travel."
+  },
+  {
+    "sid": 158,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì yīmíng jiànzhùshī 。",
+    "Chinese1": "他是一名建筑师。",
+    "Translate1": "He is an architect."
+  },
+  {
+    "sid": 159,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn hàoqí 。",
+    "Chinese1": "我很好奇。",
+    "Translate1": "I'm curious."
+  },
+  {
+    "sid": 160,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn xiǎng chī 。",
+    "Chinese1": "我很想吃。",
+    "Translate1": "I want to eat."
+  },
+  {
+    "sid": 161,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme shíwù",
+    "Chinese1": "你喜欢什么食物",
+    "Translate1": "What kind of food do you like?"
+  },
+  {
+    "sid": 162,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan chīhǎixiān ma ？",
+    "Chinese1": "你喜欢吃海鲜吗？",
+    "Translate1": "Do you like seafood?"
+  },
+  {
+    "sid": 163,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xiǎngniàn nǐ 。",
+    "Chinese1": "我想念你。",
+    "Translate1": "I miss you."
+  },
+  {
+    "sid": 164,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒu zhìhuì 。",
+    "Chinese1": "他很有智慧。",
+    "Translate1": "He is wise."
+  },
+  {
+    "sid": 165,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn gāo 。",
+    "Chinese1": "他很高。",
+    "Translate1": "He is tall."
+  },
+  {
+    "sid": 166,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan kàn diànshìjù 。",
+    "Chinese1": "她喜欢看电视剧。",
+    "Translate1": "She likes to watch TV dramas."
+  },
+  {
+    "sid": 167,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ qù wányóuxì bā 。",
+    "Chinese1": "我们一起去玩游戏吧。",
+    "Translate1": "Let's play games together."
+  },
+  {
+    "sid": 168,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme huā ？",
+    "Chinese1": "你喜欢什么花？",
+    "Translate1": "What's your favorite flower?"
+  },
+  {
+    "sid": 169,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan xiězuò 。",
+    "Chinese1": "她喜欢写作。",
+    "Translate1": "She likes to write."
+  },
+  {
+    "sid": 170,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ qù dǎwǎngqiú bā 。",
+    "Chinese1": "我们一起去打网球吧。",
+    "Translate1": "Let's play tennis together."
+  },
+  {
+    "sid": 171,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐhǎo 。",
+    "Chinese1": "你好。",
+    "Translate1": "Hello."
+  },
+  {
+    "sid": 172,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ shì nǎ guórén ？",
+    "Chinese1": "你是哪国人？",
+    "Translate1": "What's your nationality?"
+  },
+  {
+    "sid": 173,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒu zǔzhī nénglì 。",
+    "Chinese1": "她很有组织能力。",
+    "Translate1": "She has organizational skills."
+  },
+  {
+    "sid": 174,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì yīmíng lǎoshī 。",
+    "Chinese1": "他是一名老师。",
+    "Translate1": "He is a teacher."
+  },
+  {
+    "sid": 175,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan chīhǎixiān ma",
+    "Chinese1": "你喜欢吃海鲜吗",
+    "Translate1": "Do you like seafood?"
+  },
+  {
+    "sid": 176,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme lǐngdǎo ？",
+    "Chinese1": "你喜欢什么领导？",
+    "Translate1": "What kind of leader do you like?"
+  },
+  {
+    "sid": 177,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì yīmíng chéngxùyuán 。",
+    "Chinese1": "他是一名程序员。",
+    "Translate1": "He is a programmer."
+  },
+  {
+    "sid": 178,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme yìshù ？",
+    "Chinese1": "你喜欢什么艺术？",
+    "Translate1": "What kind of art do you like?"
+  },
+  {
+    "sid": 179,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan pǎobù 。",
+    "Chinese1": "她喜欢跑步。",
+    "Translate1": "She likes to run."
+  },
+  {
+    "sid": 180,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ qù chīfàn bā 。",
+    "Chinese1": "我们一起去吃饭吧。",
+    "Translate1": "Let's go eat together."
+  },
+  {
+    "sid": 181,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan dǎlánqiú 。",
+    "Chinese1": "我喜欢打篮球。",
+    "Translate1": "I like to play basketball."
+  },
+  {
+    "sid": 182,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme jìjié",
+    "Chinese1": "你喜欢什么季节",
+    "Translate1": "What's your favorite season?"
+  },
+  {
+    "sid": 183,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan gòuwù 。",
+    "Chinese1": "她喜欢购物。",
+    "Translate1": "She likes to shop."
+  },
+  {
+    "sid": 184,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan chī pīsà ma ?",
+    "Chinese1": "你喜欢吃披萨吗?",
+    "Translate1": "Do you like pizza?"
+  },
+  {
+    "sid": 185,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme fēngjǐng ？",
+    "Chinese1": "你喜欢什么风景？",
+    "Translate1": "What's your favorite scenery?"
+  },
+  {
+    "sid": 186,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì yīmíng kēxuéjiā 。",
+    "Chinese1": "他是一名科学家。",
+    "Translate1": "He is a scientist."
+  },
+  {
+    "sid": 187,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme yánsè ？",
+    "Chinese1": "你喜欢什么颜色？",
+    "Translate1": "What is your favorite color?"
+  },
+  {
+    "sid": 188,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan chīhuǒguō ma ？",
+    "Chinese1": "你喜欢吃火锅吗？",
+    "Translate1": "Do you like hot pot?"
+  },
+  {
+    "sid": 189,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan chuān niúzǎikù 。",
+    "Chinese1": "我喜欢穿牛仔裤。",
+    "Translate1": "I like to wear jeans."
+  },
+  {
+    "sid": 190,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn yǒu nàixìng 。",
+    "Chinese1": "我很有耐性。",
+    "Translate1": "I am patient."
+  },
+  {
+    "sid": 191,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme yǎnyuán ？",
+    "Chinese1": "你喜欢什么演员？",
+    "Translate1": "What kind of actor do you like?"
+  },
+  {
+    "sid": 192,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒu tónglǐ xīn 。",
+    "Chinese1": "她很有同理心。",
+    "Translate1": "She is empathetic."
+  },
+  {
+    "sid": 193,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn shēngqì 。",
+    "Chinese1": "我很生气。",
+    "Translate1": "I'm angry."
+  },
+  {
+    "sid": 194,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒu rènxìng 。",
+    "Chinese1": "她很有韧性。",
+    "Translate1": "She is tenacious."
+  },
+  {
+    "sid": 195,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan chī tián de ma ？",
+    "Chinese1": "你喜欢吃甜的吗？",
+    "Translate1": "Do you like sweet food?"
+  },
+  {
+    "sid": 196,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan yóuyǒng 。",
+    "Chinese1": "她喜欢游泳。",
+    "Translate1": "She likes to swim."
+  },
+  {
+    "sid": 197,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn jīngyà 。",
+    "Chinese1": "我很惊讶。",
+    "Translate1": "I'm surprised."
+  },
+  {
+    "sid": 198,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì yīmíng yīnyuèjiā 。",
+    "Chinese1": "他是一名音乐家。",
+    "Translate1": "He is a musician."
+  },
+  {
+    "sid": 199,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme jìjié ？",
+    "Chinese1": "你喜欢什么季节？",
+    "Translate1": "What's your favorite season?"
+  },
+  {
+    "sid": 200,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn jǐnzhāng 。",
+    "Chinese1": "我很紧张。",
+    "Translate1": "I'm nervous."
+  },
+  {
+    "sid": 201,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn ？",
+    "Chinese1": "请问？",
+    "Translate1": "Excuse me?"
+  },
+  {
+    "sid": 202,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "bù kèqi 。",
+    "Chinese1": "不客气。",
+    "Translate1": "You're welcome."
+  },
+  {
+    "sid": 203,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan kàn shénme diànyǐng ？",
+    "Chinese1": "你喜欢看什么电影？",
+    "Translate1": "What kind of movies do you like?"
+  },
+  {
+    "sid": 204,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ hěn yǒu chuàngyì 。",
+    "Chinese1": "你很有创意。",
+    "Translate1": "You are creative."
+  },
+  {
+    "sid": 205,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ èrshísuì 。",
+    "Chinese1": "我二十岁。",
+    "Translate1": "I'm 20 years old."
+  },
+  {
+    "sid": 206,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénmeyàng de shǒujī ？",
+    "Chinese1": "你喜欢什么样的手机？",
+    "Translate1": "What kind of phone do you like?"
+  },
+  {
+    "sid": 207,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme wénhuà ？",
+    "Chinese1": "你喜欢什么文化？",
+    "Translate1": "What kind of culture do you like?"
+  },
+  {
+    "sid": 208,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì yīmíng shèjìshī 。",
+    "Chinese1": "他是一名设计师。",
+    "Translate1": "He is a designer."
+  },
+  {
+    "sid": 209,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn nánguò 。",
+    "Chinese1": "我很难过。",
+    "Translate1": "I'm sad."
+  },
+  {
+    "sid": 210,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn hàipà 。",
+    "Chinese1": "我很害怕。",
+    "Translate1": "I am scared."
+  },
+  {
+    "sid": 211,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn xīngfèn 。",
+    "Chinese1": "我很兴奋。",
+    "Translate1": "I'm excited."
+  },
+  {
+    "sid": 212,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme lǐngyù ？",
+    "Chinese1": "你喜欢什么领域？",
+    "Translate1": "What's your favorite field?"
+  },
+  {
+    "sid": 213,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan 《 tàitǎnníkèhào 》 。",
+    "Chinese1": "我喜欢《泰坦尼克号》。",
+    "Translate1": "I like Titanic."
+  },
+  {
+    "sid": 214,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan hēkāfēi 。",
+    "Chinese1": "我喜欢喝咖啡。",
+    "Translate1": "I like to drink coffee."
+  },
+  {
+    "sid": 215,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn kāixīn 。",
+    "Chinese1": "我很开心。",
+    "Translate1": "I am happy."
+  },
+  {
+    "sid": 216,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan huàhuà 。",
+    "Chinese1": "她喜欢画画。",
+    "Translate1": "She likes to paint."
+  },
+  {
+    "sid": 217,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme dòngwù ？",
+    "Chinese1": "你喜欢什么动物？",
+    "Translate1": "What kind of animals do you like?"
+  },
+  {
+    "sid": 218,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan píngguǒ 。",
+    "Chinese1": "我喜欢苹果。",
+    "Translate1": "I like apples."
+  },
+  {
+    "sid": 219,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme yúlè ？",
+    "Chinese1": "你喜欢什么娱乐？",
+    "Translate1": "What kind of entertainment do you like?"
+  },
+  {
+    "sid": 220,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen jiāyǒu yīzhī gǒu 。",
+    "Chinese1": "我们家有一只狗。",
+    "Translate1": "We have a dog at home."
+  },
+  {
+    "sid": 221,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xièxie nǐ 。",
+    "Chinese1": "谢谢你。",
+    "Translate1": "Thank you."
+  },
+  {
+    "sid": 222,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme yánsè ？",
+    "Chinese1": "你喜欢什么颜色？",
+    "Translate1": "What's your favorite color?"
+  },
+  {
+    "sid": 223,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yǒu xiōngdìjiěmèi ma ？",
+    "Chinese1": "你有兄弟姐妹吗？",
+    "Translate1": "Do you have siblings?"
+  },
+  {
+    "sid": 224,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn kuàilè 。",
+    "Chinese1": "我很快乐。",
+    "Translate1": "I'm joyful."
+  },
+  {
+    "sid": 225,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒu mèilì 。",
+    "Chinese1": "她很有魅力。",
+    "Translate1": "She is charming."
+  },
+  {
+    "sid": 226,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan liúxíngyīnyuè 。",
+    "Chinese1": "我喜欢流行音乐。",
+    "Translate1": "I like pop music."
+  },
+  {
+    "sid": 227,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan chī hànbǎo ma ？",
+    "Chinese1": "你喜欢吃汉堡吗？",
+    "Translate1": "Do you like hamburgers?"
+  },
+  {
+    "sid": 228,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "duìbuqǐ 。",
+    "Chinese1": "对不起。",
+    "Translate1": "Sorry."
+  },
+  {
+    "sid": 229,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan hē shénme ？",
+    "Chinese1": "你喜欢喝什么？",
+    "Translate1": "What do you like to drink?"
+  },
+  {
+    "sid": 230,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn yǒu xìnxīn 。",
+    "Chinese1": "我很有信心。",
+    "Translate1": "I am confident."
+  },
+  {
+    "sid": 231,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn lěng 。",
+    "Chinese1": "我很冷。",
+    "Translate1": "I'm cold."
+  },
+  {
+    "sid": 232,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan chī miàntiáo 。",
+    "Chinese1": "我喜欢吃面条。",
+    "Translate1": "I like to eat noodles."
+  },
+  {
+    "sid": 233,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn jídù 。",
+    "Chinese1": "我很嫉妒。",
+    "Translate1": "I'm jealous."
+  },
+  {
+    "sid": 234,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì yīmíng kuàijìshī 。",
+    "Chinese1": "他是一名会计师。",
+    "Translate1": "He is an accountant."
+  },
+  {
+    "sid": 235,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒuqián 。",
+    "Chinese1": "他很有钱。",
+    "Translate1": "He is rich."
+  },
+  {
+    "sid": 236,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénmeyàng de xiézi ？",
+    "Chinese1": "你喜欢什么样的鞋子？",
+    "Translate1": "What kind of shoes do you like?"
+  },
+  {
+    "sid": 237,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme guójiā ？",
+    "Chinese1": "你喜欢什么国家？",
+    "Translate1": "What's your favorite country?"
+  },
+  {
+    "sid": 238,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì yīmíng jìzhě 。",
+    "Chinese1": "他是一名记者。",
+    "Translate1": "He is a journalist."
+  },
+  {
+    "sid": 239,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì yīmíng zuòjiā 。",
+    "Chinese1": "他是一名作家。",
+    "Translate1": "He is a writer."
+  },
+  {
+    "sid": 240,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ jiào shénme míngzì",
+    "Chinese1": "你叫什么名字",
+    "Translate1": "What's your name?"
+  },
+  {
+    "sid": 241,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn gǎndòng 。",
+    "Chinese1": "我很感动。",
+    "Translate1": "I'm touched."
+  },
+  {
+    "sid": 242,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme lǚyóu ？",
+    "Chinese1": "你喜欢什么旅游？",
+    "Translate1": "What kind of travel do you like?"
+  },
+  {
+    "sid": 243,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme jiātíng ？",
+    "Chinese1": "你喜欢什么家庭？",
+    "Translate1": "What kind of family do you like?"
+  },
+  {
+    "sid": 244,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ hěn yǒuqù 。",
+    "Chinese1": "你很有趣。",
+    "Translate1": "You are interesting."
+  },
+  {
+    "sid": 245,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn gǎnjī 。",
+    "Chinese1": "我很感激。",
+    "Translate1": "I'm grateful."
+  },
+  {
+    "sid": 246,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn lěi 。",
+    "Chinese1": "我很累。",
+    "Translate1": "I'm tired."
+  },
+  {
+    "sid": 247,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan chī tián de ma",
+    "Chinese1": "你喜欢吃甜的吗",
+    "Translate1": "Do you like sweet food?"
+  },
+  {
+    "sid": 248,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒu nàilì 。",
+    "Chinese1": "他很有耐力。",
+    "Translate1": "He is endurance."
+  },
+  {
+    "sid": 249,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒu jiějuéwèntí de nénglì 。",
+    "Chinese1": "她很有解决问题的能力。",
+    "Translate1": "She has problemsolving skills."
+  },
+  {
+    "sid": 250,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xiàwǔ hǎo ！",
+    "Chinese1": "下午好！",
+    "Translate1": "Good afternoon!"
+  },
+  {
+    "sid": 251,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénmeyàng de bāobāo ？",
+    "Chinese1": "你喜欢什么样的包包？",
+    "Translate1": "What kind of bag do you like?"
+  },
+  {
+    "sid": 252,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ hěnpiāoliàng 。",
+    "Chinese1": "你很漂亮。",
+    "Translate1": "You are pretty."
+  },
+  {
+    "sid": 253,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan shèngdànjié 。",
+    "Chinese1": "我喜欢圣诞节。",
+    "Translate1": "I like Christmas."
+  },
+  {
+    "sid": 254,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒu zérènxīn 。",
+    "Chinese1": "他很有责任心。",
+    "Translate1": "He is responsible."
+  },
+  {
+    "sid": 255,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn zìháo 。",
+    "Chinese1": "我很自豪。",
+    "Translate1": "I'm proud."
+  },
+  {
+    "sid": 256,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "duìbuqǐ 。",
+    "Chinese1": "对不起。",
+    "Translate1": "I'm sorry."
+  },
+  {
+    "sid": 257,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan 《 hālìbō tè 》 。",
+    "Chinese1": "我喜欢《哈利波特》。",
+    "Translate1": "I like Harry Potter."
+  },
+  {
+    "sid": 258,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme yánsè de yīfú ？",
+    "Chinese1": "你喜欢什么颜色的衣服？",
+    "Translate1": "What color clothes do you like?"
+  },
+  {
+    "sid": 259,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ shì zhōngguó rén 。",
+    "Chinese1": "我是中国人。",
+    "Translate1": "I'm Chinese."
+  },
+  {
+    "sid": 260,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒu gōutōng nénglì 。",
+    "Chinese1": "他很有沟通能力。",
+    "Translate1": "He has communication skills."
+  },
+  {
+    "sid": 261,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐng zuò 。",
+    "Chinese1": "请坐。",
+    "Translate1": "Please sit down."
+  },
+  {
+    "sid": 262,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan chūntiān 。",
+    "Chinese1": "我喜欢春天。",
+    "Translate1": "I like spring."
+  },
+  {
+    "sid": 263,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒàinǐ ，",
+    "Chinese1": "我爱你，",
+    "Translate1": "I love you."
+  },
+  {
+    "sid": 264,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ hěn yǒu juécè nénglì 。",
+    "Chinese1": "你很有决策能力。",
+    "Translate1": "You have decisionmaking skills."
+  },
+  {
+    "sid": 265,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn xiǎng wán 。",
+    "Chinese1": "我很想玩。",
+    "Translate1": "I want to play."
+  },
+  {
+    "sid": 266,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā hěn yǒu lǐmào 。",
+    "Chinese1": "他很有礼貌。",
+    "Translate1": "He is polite."
+  },
+  {
+    "sid": 267,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ hěn cōngming 。",
+    "Chinese1": "你很聪明。",
+    "Translate1": "You are smart."
+  },
+  {
+    "sid": 268,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn yǒu zérèngǎn 。",
+    "Chinese1": "我很有责任感。",
+    "Translate1": "I have a sense of responsibility."
+  },
+  {
+    "sid": 269,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme xiézi ？",
+    "Chinese1": "你喜欢什么鞋子？",
+    "Translate1": "What's your favorite shoes?"
+  },
+  {
+    "sid": 270,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn xiǎng shuì 。",
+    "Chinese1": "我很想睡。",
+    "Translate1": "I want to sleep."
+  },
+  {
+    "sid": 271,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn mǎnyì 。",
+    "Chinese1": "我很满意。",
+    "Translate1": "I'm satisfied."
+  },
+  {
+    "sid": 272,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ qù kàn yǎnchànghuì bā 。",
+    "Chinese1": "我们一起去看演唱会吧。",
+    "Translate1": "Let's go to the concert together."
+  },
+  {
+    "sid": 273,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn yǒu mǔài 。",
+    "Chinese1": "我很有母爱。",
+    "Translate1": "I have maternal love."
+  },
+  {
+    "sid": 274,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhù nǐ shēngrìkuàilè 。",
+    "Chinese1": "祝你生日快乐。",
+    "Translate1": "Happy birthday."
+  },
+  {
+    "sid": 275,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn yǒu zhíxínglì 。",
+    "Chinese1": "我很有执行力。",
+    "Translate1": "I have execution power."
+  },
+  {
+    "sid": 276,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme kējì ？",
+    "Chinese1": "你喜欢什么科技？",
+    "Translate1": "What kind of technology do you like?"
+  },
+  {
+    "sid": 277,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ hěn yǒu fùài 。",
+    "Chinese1": "你很有父爱。",
+    "Translate1": "You have paternal love."
+  },
+  {
+    "sid": 278,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan shénme diànyǐng ？",
+    "Chinese1": "你喜欢什么电影？",
+    "Translate1": "What's your favorite movie?"
+  },
+  {
+    "sid": 279,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ zài jiālǐ kàn diànyǐng 。",
+    "Chinese1": "我们可以在家里看电影。",
+    "Translate1": "We can watch a movie at home."
+  },
+  {
+    "sid": 280,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào mǎi xiē shuǐguǒ 。",
+    "Chinese1": "我们需要买些水果。",
+    "Translate1": "We need to buy some fruit."
+  },
+  {
+    "sid": 281,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ zài kāfēiguǎn lǐ hēkāfēi 。",
+    "Chinese1": "我们可以在咖啡馆里喝咖啡。",
+    "Translate1": "We can have coffee at a café."
+  },
+  {
+    "sid": 282,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ zài zhèlǐ tíngliú yīhuìr 。",
+    "Chinese1": "我们可以在这里停留一会儿。",
+    "Translate1": "We can stay here for a while."
+  },
+  {
+    "sid": 283,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ zài yóuyǒngchí lǐ yóuyǒng 。",
+    "Chinese1": "我们可以在游泳池里游泳。",
+    "Translate1": "We can swim in the pool."
+  },
+  {
+    "sid": 284,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào qù chāoshì mǎi xiē dōngxi 。",
+    "Chinese1": "我们需要去超市买些东西。",
+    "Translate1": "We need to go to the supermarket to buy some things."
+  },
+  {
+    "sid": 285,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā zhèngzài xiě zuòyè 。",
+    "Chinese1": "她正在写作业。",
+    "Translate1": "She is doing homework."
+  },
+  {
+    "sid": 286,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xiǎng hēdiǎn shénme ？",
+    "Chinese1": "你想喝点什么？",
+    "Translate1": "What would you like to drink?"
+  },
+  {
+    "sid": 287,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xǐhuan lǚyóu 。",
+    "Chinese1": "我们喜欢旅游。",
+    "Translate1": "We like to travel."
+  },
+  {
+    "sid": 288,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāhuìdàn jítā 。",
+    "Chinese1": "他会弹吉他。",
+    "Translate1": "He can play the guitar."
+  },
+  {
+    "sid": 289,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xǐhuan tīng yīnyuè 。",
+    "Chinese1": "我们喜欢听音乐。",
+    "Translate1": "We like to listen to music."
+  },
+  {
+    "sid": 290,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yào qù lǚxíng 。",
+    "Chinese1": "我们要去旅行。",
+    "Translate1": "We are going to travel."
+  },
+  {
+    "sid": 291,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan kànshū 。",
+    "Chinese1": "她喜欢看书。",
+    "Translate1": "She likes to read books."
+  },
+  {
+    "sid": 292,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ zài gōngyuán lǐ sànbù 。",
+    "Chinese1": "我们可以在公园里散步。",
+    "Translate1": "We can take a walk in the park."
+  },
+  {
+    "sid": 293,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jīntiāntiānqì zhēn hǎo 。",
+    "Chinese1": "今天天气真好。",
+    "Translate1": "The weather is really nice today."
+  },
+  {
+    "sid": 294,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan huàhuà 。",
+    "Chinese1": "她喜欢画画。",
+    "Translate1": "She likes to draw."
+  },
+  {
+    "sid": 295,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen zài pǎobù 。",
+    "Chinese1": "他们在跑步。",
+    "Translate1": "They are running."
+  },
+  {
+    "sid": 296,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ chī guò zǎofàn le ma ？",
+    "Chinese1": "你吃过早饭了吗？",
+    "Translate1": "Have you had breakfast yet?"
+  },
+  {
+    "sid": 297,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen zài kàndiànshì 。",
+    "Chinese1": "他们在看电视。",
+    "Translate1": "They are watching TV."
+  },
+  {
+    "sid": 298,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā zhèngzài zuòfàn 。",
+    "Chinese1": "她正在做饭。",
+    "Translate1": "She is cooking."
+  },
+  {
+    "sid": 299,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ yīqǐ qù lǚxíng 。",
+    "Chinese1": "我们可以一起去旅行。",
+    "Translate1": "We can travel together."
+  },
+  {
+    "sid": 300,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xǐhuan chīhuǒguō 。",
+    "Chinese1": "我们喜欢吃火锅。",
+    "Translate1": "We like to eat hot pot."
+  },
+  {
+    "sid": 301,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐhǎo ， wǒ jiào xiǎomíng 。",
+    "Chinese1": "你好，我叫小明。",
+    "Translate1": "Hello, my name is Xiaoming."
+  },
+  {
+    "sid": 302,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan chī zhōngcān 。",
+    "Chinese1": "我喜欢吃中餐。",
+    "Translate1": "I like to eat Chinese food."
+  },
+  {
+    "sid": 303,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yào qù gòuwù 。",
+    "Chinese1": "我们要去购物。",
+    "Translate1": "We are going shopping."
+  },
+  {
+    "sid": 304,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yào qù kàn diànyǐng 。",
+    "Chinese1": "我们要去看电影。",
+    "Translate1": "We are going to watch a movie."
+  },
+  {
+    "sid": 305,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ yīqǐ zuòfàn 。",
+    "Chinese1": "我们可以一起做饭。",
+    "Translate1": "We can cook together."
+  },
+  {
+    "sid": 306,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ yīqǐ qù sànbù 。",
+    "Chinese1": "我们可以一起去散步。",
+    "Translate1": "We can go for a walk together."
+  },
+  {
+    "sid": 307,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā zhèngzài dǎdiànhuà 。",
+    "Chinese1": "她正在打电话。",
+    "Translate1": "She is making a phone call."
+  },
+  {
+    "sid": 308,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen zài liáotiān 。",
+    "Chinese1": "他们在聊天。",
+    "Translate1": "They are chatting."
+  },
+  {
+    "sid": 309,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen zài xuéxí yīngyǔ 。",
+    "Chinese1": "他们在学习英语。",
+    "Translate1": "They are learning English."
+  },
+  {
+    "sid": 310,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan kàn diànyǐng 。",
+    "Chinese1": "我喜欢看电影。",
+    "Translate1": "I like to watch movies."
+  },
+  {
+    "sid": 311,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen zài chànggē 。",
+    "Chinese1": "他们在唱歌。",
+    "Translate1": "They are singing."
+  },
+  {
+    "sid": 312,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ zài cāntīng lǐ chīwǎnfàn 。",
+    "Chinese1": "我们可以在餐厅里吃晚饭。",
+    "Translate1": "We can have dinner at a restaurant."
+  },
+  {
+    "sid": 313,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen zài dǎlánqiú 。",
+    "Chinese1": "他们在打篮球。",
+    "Translate1": "They are playing basketball."
+  },
+  {
+    "sid": 314,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan chī qiǎokèlì 。",
+    "Chinese1": "她喜欢吃巧克力。",
+    "Translate1": "She likes to eat chocolate."
+  }
+]
