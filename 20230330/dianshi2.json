@@ -1,0 +1,1634 @@
+[
+  {
+    "sid": 1,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhù nǐhǎo mèng 。",
+    "Chinese1": "祝你好梦。",
+    "Translate1": "Sweet dreams to you."
+  },
+  {
+    "sid": 2,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā yǒu yīgè wěidà de gèxìng 。",
+    "Chinese1": "他有一个伟大的个性。",
+    "Translate1": "He has a great personality."
+  },
+  {
+    "sid": 3,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ kěyǐ bāng wǒ wánchéng zhège rènwu ma ？",
+    "Chinese1": "你可以帮我完成这个任务吗？",
+    "Translate1": "Can you help me complete this task?"
+  },
+  {
+    "sid": 4,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn bàoqiàn dǎrǎo nǐ 。",
+    "Chinese1": "我很抱歉打扰你。",
+    "Translate1": "I'm sorry to bother you."
+  },
+  {
+    "sid": 5,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de cáihuá hěn chūzhòng 。",
+    "Chinese1": "她的才华很出众。",
+    "Translate1": "Her talent is very outstanding."
+  },
+  {
+    "sid": 6,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "méi wèntí ， wǒhuì zuòdào 。",
+    "Chinese1": "没问题，我会做到。",
+    "Translate1": "No problem, I can do it."
+  },
+  {
+    "sid": 7,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen de jìhuà hěn wēixiǎn 。",
+    "Chinese1": "他们的计划很危险。",
+    "Translate1": "Their plan is very dangerous."
+  },
+  {
+    "sid": 8,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen de xiǎngfǎ hěn pǔtōng 。",
+    "Chinese1": "他们的想法很普通。",
+    "Translate1": "Their idea is very ordinary."
+  },
+  {
+    "sid": 9,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū chángshì xīn de dōngxi 。",
+    "Chinese1": "我们必须尝试新的东西。",
+    "Translate1": "We have to try new things."
+  },
+  {
+    "sid": 10,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen de àiqíng shì wúfǎ bèi zǔdǎng de 。",
+    "Chinese1": "我们的爱情是无法被阻挡的。",
+    "Translate1": "Our love is unobstructable."
+  },
+  {
+    "sid": 11,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào gēng duō de zhīchí 。",
+    "Chinese1": "我们需要更多的支持。",
+    "Translate1": "We need more support."
+  },
+  {
+    "sid": 12,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen de àiqíng shì wúfǎ bèi fēngē de 。",
+    "Chinese1": "我们的爱情是无法被分割的。",
+    "Translate1": "Our love is indivisible."
+  },
+  {
+    "sid": 13,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào gēng duō de hézuò 。",
+    "Chinese1": "我们需要更多的合作。",
+    "Translate1": "We need more cooperation."
+  },
+  {
+    "sid": 14,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "duìbuqǐ ， wǒ wǎndào le 。",
+    "Chinese1": "对不起，我晚到了。",
+    "Translate1": "Sorry, I'm late."
+  },
+  {
+    "sid": 15,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū jiānchídàodǐ 。",
+    "Chinese1": "我们必须坚持到底。",
+    "Translate1": "We must persevere."
+  },
+  {
+    "sid": 16,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhùnǐhǎoyùn ！",
+    "Chinese1": "祝你好运！",
+    "Translate1": "Good luck to you!"
+  },
+  {
+    "sid": 17,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ shì wǒ de xīwàng 。",
+    "Chinese1": "你是我的希望。",
+    "Translate1": "You are my hope."
+  },
+  {
+    "sid": 18,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen de àiqíng shì wúfǎ bèi zǔdǎng de 。",
+    "Chinese1": "我们的爱情是无法被阻挡的。",
+    "Translate1": "Our love is unimpeded."
+  },
+  {
+    "sid": 19,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyào zǒu le 。",
+    "Chinese1": "我要走了。",
+    "Translate1": "I have to go."
+  },
+  {
+    "sid": 20,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì bǎoshǒu mìmì de 。",
+    "Chinese1": "我会保守秘密的。",
+    "Translate1": "I will keep the secret."
+  },
+  {
+    "sid": 21,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "yǒu kěnéng 。",
+    "Chinese1": "有可能。",
+    "Translate1": "It's possible."
+  },
+  {
+    "sid": 22,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ néng bāng wǒ ma ？",
+    "Chinese1": "你能帮我吗？",
+    "Translate1": "Can you help me?"
+  },
+  {
+    "sid": 23,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒcuò le 。",
+    "Chinese1": "我错了。",
+    "Translate1": "I'm sorry."
+  },
+  {
+    "sid": 24,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì xiǎngniàn nǐ de 。",
+    "Chinese1": "我会想念你的。",
+    "Translate1": "I'll miss you."
+  },
+  {
+    "sid": 25,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de shēnghuó hěn píngfán 。",
+    "Chinese1": "她的生活很平凡。",
+    "Translate1": "Her life is very ordinary."
+  },
+  {
+    "sid": 26,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū yào miànduìxiànshí 。",
+    "Chinese1": "我们必须要面对现实。",
+    "Translate1": "We have to face reality."
+  },
+  {
+    "sid": 27,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yǒngyuǎn zài yīqǐ 。",
+    "Chinese1": "我们永远在一起。",
+    "Translate1": "We'll be together forever."
+  },
+  {
+    "sid": 28,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen de jìhuà hěn zhōumì 。",
+    "Chinese1": "他们的计划很周密。",
+    "Translate1": "Their plan is very well thought out."
+  },
+  {
+    "sid": 29,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ zěnme néng zhèyàng duì wǒ ？",
+    "Chinese1": "你怎么能这样对我？",
+    "Translate1": "How could you do this to me?"
+  },
+  {
+    "sid": 30,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen xūyào yīgè lǐngxiù 。",
+    "Chinese1": "他们需要一个领袖。",
+    "Translate1": "They need a leader."
+  },
+  {
+    "sid": 31,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì yīgè hěn yǒu mèilì de nǚrén 。",
+    "Chinese1": "她是一个很有魅力的女人。",
+    "Translate1": "She is a very charming woman."
+  },
+  {
+    "sid": 32,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen de jìhuà hěn shībài 。",
+    "Chinese1": "他们的计划很失败。",
+    "Translate1": "Their plan is very unsuccessful."
+  },
+  {
+    "sid": 33,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào gēnsuí jìhuà 。",
+    "Chinese1": "我们需要跟随计划。",
+    "Translate1": "We need to follow the plan."
+  },
+  {
+    "sid": 34,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "bùyào tíngxiàlái 。",
+    "Chinese1": "不要停下来。",
+    "Translate1": "Don't stop."
+  },
+  {
+    "sid": 35,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā zài nǎlǐ ？",
+    "Chinese1": "他在哪里？",
+    "Translate1": "Where is he?"
+  },
+  {
+    "sid": 36,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zài nǎr ？",
+    "Chinese1": "在哪儿？",
+    "Translate1": "Where is it?"
+  },
+  {
+    "sid": 37,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "méiguānxi 。",
+    "Chinese1": "没关系。",
+    "Translate1": "It's okay."
+  },
+  {
+    "sid": 38,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen de mùbiāo hěn yuǎndà 。",
+    "Chinese1": "他们的目标很远大。",
+    "Translate1": "Their goal is very ambitious."
+  },
+  {
+    "sid": 39,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen de àiqíng shì wúfǎ bèi pòhuài de 。",
+    "Chinese1": "我们的爱情是无法被破坏的。",
+    "Translate1": "Our love is indestructible."
+  },
+  {
+    "sid": 40,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū nǔlì cáinéng dáchéng mùbiāo 。",
+    "Chinese1": "我们必须努力才能达成目标。",
+    "Translate1": "We have to work hard to achieve our goals."
+  },
+  {
+    "sid": 41,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào yīgè xīn de jìhuà 。",
+    "Chinese1": "我们需要一个新的计划。",
+    "Translate1": "We need a new plan."
+  },
+  {
+    "sid": 42,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhù nǐ shēngrìkuàilè 。",
+    "Chinese1": "祝你生日快乐。",
+    "Translate1": "Happy birthday to you."
+  },
+  {
+    "sid": 43,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de guòqu hěn tòngkǔ 。",
+    "Chinese1": "她的过去很痛苦。",
+    "Translate1": "Her past is very painful."
+  },
+  {
+    "sid": 44,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bùnéng fàngqì xīwàng 。",
+    "Chinese1": "我们不能放弃希望。",
+    "Translate1": "We can't give up hope."
+  },
+  {
+    "sid": 45,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì bǎohù nǐ de 。",
+    "Chinese1": "我会保护你的。",
+    "Translate1": "I will protect you."
+  },
+  {
+    "sid": 46,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì xiǎngniàn nǐ de 。",
+    "Chinese1": "我会想念你的。",
+    "Translate1": "I will miss you."
+  },
+  {
+    "sid": 47,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de tàidu hěn xiāojí 。",
+    "Chinese1": "她的态度很消极。",
+    "Translate1": "Her attitude is very negative."
+  },
+  {
+    "sid": 48,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bùshì zuìhǎo de péngyou 。",
+    "Chinese1": "我们不是最好的朋友。",
+    "Translate1": "We're not best friends."
+  },
+  {
+    "sid": 49,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ kěyǐ bāng wǒ jiějué zhège kùnnán ma ？",
+    "Chinese1": "你可以帮我解决这个困难吗？",
+    "Translate1": "Can you help me overcome this difficulty?"
+  },
+  {
+    "sid": 50,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen de guānxi yǐjīng jiéshù le 。",
+    "Chinese1": "我们的关系已经结束了。",
+    "Translate1": "Our relationship is over."
+  },
+  {
+    "sid": 51,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "kuài zǒu ！",
+    "Chinese1": "快走！",
+    "Translate1": "Hurry up and go!"
+  },
+  {
+    "sid": 52,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "rén zǒngshì zài bùduàn chéngzhǎng de 。",
+    "Chinese1": "人总是在不断成长的。",
+    "Translate1": "People are always growing."
+  },
+  {
+    "sid": 53,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de xīnqíng hěn fùzá 。",
+    "Chinese1": "她的心情很复杂。",
+    "Translate1": "Her mood is very complicated."
+  },
+  {
+    "sid": 54,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū bǎochí zhuānzhù 。",
+    "Chinese1": "我们必须保持专注。",
+    "Translate1": "We have to stay focused."
+  },
+  {
+    "sid": 55,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ shuōdéduì 。",
+    "Chinese1": "你说得对。",
+    "Translate1": "You're right."
+  },
+  {
+    "sid": 56,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xūyào yīxiē shíjiān lái lěngjìng yīxià 。",
+    "Chinese1": "我需要一些时间来冷静一下。",
+    "Translate1": "I need some time to calm down."
+  },
+  {
+    "sid": 57,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū yào xiāngxìn wèilái 。",
+    "Chinese1": "我们必须要相信未来。",
+    "Translate1": "We have to believe in the future."
+  },
+  {
+    "sid": 58,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de wàibiǎo hěn pǔtōng 。",
+    "Chinese1": "她的外表很普通。",
+    "Translate1": "Her appearance is very ordinary."
+  },
+  {
+    "sid": 59,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen de xìnniàn hěn bóruò 。",
+    "Chinese1": "他们的信念很薄弱。",
+    "Translate1": "Their belief is very weak."
+  },
+  {
+    "sid": 60,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen de xiǎngfǎ hěn dútè 。",
+    "Chinese1": "他们的想法很独特。",
+    "Translate1": "Their idea is very unique."
+  },
+  {
+    "sid": 61,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū kèfúkùnnán 。",
+    "Chinese1": "我们必须克服困难。",
+    "Translate1": "We have to overcome difficulties."
+  },
+  {
+    "sid": 62,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ shì wǒ de yángguāng 。",
+    "Chinese1": "你是我的阳光。",
+    "Translate1": "You are my sunshine."
+  },
+  {
+    "sid": 63,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de tàidu hěn jījí 。",
+    "Chinese1": "她的态度很积极。",
+    "Translate1": "Her attitude is very positive."
+  },
+  {
+    "sid": 64,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "néng gàosu wǒ zhēnxiàng ma ？",
+    "Chinese1": "能告诉我真相吗？",
+    "Translate1": "Can you tell me the truth?"
+  },
+  {
+    "sid": 65,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tíngxiàlái ！",
+    "Chinese1": "停下来！",
+    "Translate1": "Stop!"
+  },
+  {
+    "sid": 66,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ zài xiǎng shénme ？",
+    "Chinese1": "你在想什么？",
+    "Translate1": "What are you thinking?"
+  },
+  {
+    "sid": 67,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū yào yǒnggǎn 。",
+    "Chinese1": "我们必须要勇敢。",
+    "Translate1": "We have to be brave."
+  },
+  {
+    "sid": 68,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen de yǒuyì hěn cuìruò 。",
+    "Chinese1": "他们的友谊很脆弱。",
+    "Translate1": "Their friendship is very fragile."
+  },
+  {
+    "sid": 69,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū zǒu 。",
+    "Chinese1": "我们必须走。",
+    "Translate1": "We have to go."
+  },
+  {
+    "sid": 70,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū yào nǔlì 。",
+    "Chinese1": "我们必须要努力。",
+    "Translate1": "We have to work hard."
+  },
+  {
+    "sid": 71,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de xuǎnzé hěn míngzhì 。",
+    "Chinese1": "她的选择很明智。",
+    "Translate1": "Her choice is very wise."
+  },
+  {
+    "sid": 72,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de biǎoxiàn hěn chūsè 。",
+    "Chinese1": "她的表现很出色。",
+    "Translate1": "Her performance is very outstanding."
+  },
+  {
+    "sid": 73,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "duìbuqǐ 。",
+    "Chinese1": "对不起。",
+    "Translate1": "I'm sorry."
+  },
+  {
+    "sid": 74,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "hěn gāoxìng rènshi nǐ 。",
+    "Chinese1": "很高兴认识你。",
+    "Translate1": "Nice to meet you."
+  },
+  {
+    "sid": 75,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ shì wǒ de jiùmìngēnrén 。",
+    "Chinese1": "你是我的救命恩人。",
+    "Translate1": "You are my lifesaver."
+  },
+  {
+    "sid": 76,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "kuàidiǎn ！",
+    "Chinese1": "快点！",
+    "Translate1": "Hurry up!"
+  },
+  {
+    "sid": 77,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen de àiqíng shì wúfǎ bèi zǔdǎng de 。",
+    "Chinese1": "我们的爱情是无法被阻挡的。",
+    "Translate1": "Our love is unimpedable."
+  },
+  {
+    "sid": 78,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ kěyǐ bāng wǒ shíxiàn zhège ma ？",
+    "Chinese1": "你可以帮我实现这个吗？",
+    "Translate1": "Can you help me achieve this?"
+  },
+  {
+    "sid": 79,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào gēng duō de chuàngxīn 。",
+    "Chinese1": "我们需要更多的创新。",
+    "Translate1": "We need more innovation."
+  },
+  {
+    "sid": 80,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jiāyóu ！",
+    "Chinese1": "加油！",
+    "Translate1": "Keep going!"
+  },
+  {
+    "sid": 81,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒlěi le 。",
+    "Chinese1": "我累了。",
+    "Translate1": "I'm tired."
+  },
+  {
+    "sid": 82,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū yào miànduì tiǎozhàn 。",
+    "Chinese1": "我们必须要面对挑战。",
+    "Translate1": "We have to face challenges."
+  },
+  {
+    "sid": 83,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xūyào fàngsōng yīxià 。",
+    "Chinese1": "你需要放松一下。",
+    "Translate1": "You need to relax."
+  },
+  {
+    "sid": 84,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì yīzhí zhīchí nǐ 。",
+    "Chinese1": "我会一直支持你。",
+    "Translate1": "I'll always support you."
+  },
+  {
+    "sid": 85,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū yào lěngjìng 。",
+    "Chinese1": "我们必须要冷静。",
+    "Translate1": "We have to be calm."
+  },
+  {
+    "sid": 86,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xiāngxìn nǐ yīdìng xíng 。",
+    "Chinese1": "我相信你一定行。",
+    "Translate1": "I believe you can do it."
+  },
+  {
+    "sid": 87,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "fēichánggǎnxiè nǐ de bāngzhù 。",
+    "Chinese1": "非常感谢你的帮助。",
+    "Translate1": "Thank you very much for your help."
+  },
+  {
+    "sid": 88,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen de jìhuà hěn jiǎndān 。",
+    "Chinese1": "他们的计划很简单。",
+    "Translate1": "Their plan is very simple."
+  },
+  {
+    "sid": 89,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn gāoxìng 。",
+    "Chinese1": "我很高兴。",
+    "Translate1": "I'm very happy."
+  },
+  {
+    "sid": 90,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "méishìr 。",
+    "Chinese1": "没事儿。",
+    "Translate1": "It's nothing."
+  },
+  {
+    "sid": 91,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xūyào yīgè xīn de kāishǐ 。",
+    "Chinese1": "我需要一个新的开始。",
+    "Translate1": "I need a fresh start."
+  },
+  {
+    "sid": 92,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ kěyǐ bāng wǒ zuò zhège ma ？",
+    "Chinese1": "你可以帮我做这个吗？",
+    "Translate1": "Can you help me do this?"
+  },
+  {
+    "sid": 93,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyào bàojǐng le ！",
+    "Chinese1": "我要报警了！",
+    "Translate1": "I'm calling the cops!"
+  },
+  {
+    "sid": 94,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ méishì 。",
+    "Chinese1": "我没事。",
+    "Translate1": "I'm fine."
+  },
+  {
+    "sid": 95,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen de kùnjìng hěn pǔbiàn 。",
+    "Chinese1": "他们的困境很普遍。",
+    "Translate1": "Their predicament is very common."
+  },
+  {
+    "sid": 96,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yǒu shíjiān ma ？",
+    "Chinese1": "你有时间吗？",
+    "Translate1": "Do you have time?"
+  },
+  {
+    "sid": 97,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ è le ， xiǎng chī diǎn dōngxi 。",
+    "Chinese1": "我饿了，想吃点东西。",
+    "Translate1": "I'm hungry, I want something to eat."
+  },
+  {
+    "sid": 98,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū yào jiānqiáng 。",
+    "Chinese1": "我们必须要坚强。",
+    "Translate1": "We have to be strong."
+  },
+  {
+    "sid": 99,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen de guānxi hěn fùzá 。",
+    "Chinese1": "他们的关系很复杂。",
+    "Translate1": "Their relationship is very complicated."
+  },
+  {
+    "sid": 100,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū miànduìxiànshí 。",
+    "Chinese1": "我们必须面对现实。",
+    "Translate1": "We must face reality."
+  },
+  {
+    "sid": 101,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū líkāi 。",
+    "Chinese1": "我们必须离开。",
+    "Translate1": "We have to leave."
+  },
+  {
+    "sid": 102,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèshì zhēnshí de shēnghuó 。",
+    "Chinese1": "这是真实的生活。",
+    "Translate1": "This is real life."
+  },
+  {
+    "sid": 103,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū yào zhēnxī xiànzài 。",
+    "Chinese1": "我们必须要珍惜现在。",
+    "Translate1": "We have to cherish the present."
+  },
+  {
+    "sid": 104,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū jìnkuài cǎiqǔxíngdòng 。",
+    "Chinese1": "我们必须尽快采取行动。",
+    "Translate1": "We have to take action as soon as possible."
+  },
+  {
+    "sid": 105,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xiāngxìn yīqiè duō huì hǎo qǐlai de 。",
+    "Chinese1": "我相信一切都会好起来的。",
+    "Translate1": "I believe everything will be alright."
+  },
+  {
+    "sid": 106,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen de àiqíng shì wúfǎ bèi zǔdǎng de 。",
+    "Chinese1": "我们的爱情是无法被阻挡的。",
+    "Translate1": "Our love is unstoppable."
+  },
+  {
+    "sid": 107,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū yào yíng 。",
+    "Chinese1": "我们必须要赢。",
+    "Translate1": "We have to win."
+  },
+  {
+    "sid": 108,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū yào gǎibiàn 。",
+    "Chinese1": "我们必须要改变。",
+    "Translate1": "We have to change."
+  },
+  {
+    "sid": 109,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngyuánliàng wǒ de guòshī 。",
+    "Chinese1": "请原谅我的过失。",
+    "Translate1": "Please forgive my mistake."
+  },
+  {
+    "sid": 110,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ zuò péngyou ma ？",
+    "Chinese1": "我们可以做朋友吗？",
+    "Translate1": "Can we be friends?"
+  },
+  {
+    "sid": 111,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen de guānxi hěn jǐnzhāng 。",
+    "Chinese1": "他们的关系很紧张。",
+    "Translate1": "Their relationship is very tense."
+  },
+  {
+    "sid": 112,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen de àiqíng bùhuì bèi shíjiān chōngdàn 。",
+    "Chinese1": "我们的爱情不会被时间冲淡。",
+    "Translate1": "Our love will not be diluted by time."
+  },
+  {
+    "sid": 113,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ kěyǐ děng yīxià ma ？",
+    "Chinese1": "你可以等一下吗？",
+    "Translate1": "Can you wait a moment?"
+  },
+  {
+    "sid": 114,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen hézuò bā 。",
+    "Chinese1": "我们合作吧。",
+    "Translate1": "Let's work together."
+  },
+  {
+    "sid": 115,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen de àiqíng shì yǒnghéng de 。",
+    "Chinese1": "我们的爱情是永恒的。",
+    "Translate1": "Our love is eternal."
+  },
+  {
+    "sid": 116,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhēndejiǎ de ？",
+    "Chinese1": "真的假的？",
+    "Translate1": "Really?"
+  },
+  {
+    "sid": 117,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ tài lìhai le ！",
+    "Chinese1": "你太厉害了！",
+    "Translate1": "You're so amazing!"
+  },
+  {
+    "sid": 118,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "duìbuqǐ ， wǒ wùhuì le 。",
+    "Chinese1": "对不起，我误会了。",
+    "Translate1": "Sorry, I misunderstood."
+  },
+  {
+    "sid": 119,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ kěyǐ bāng wǒ zhǎo yīxià ma ？",
+    "Chinese1": "你可以帮我找一下吗？",
+    "Translate1": "Can you help me find it?"
+  },
+  {
+    "sid": 120,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū bǎochí lěngjìng 。",
+    "Chinese1": "我们必须保持冷静。",
+    "Translate1": "We must stay calm."
+  },
+  {
+    "sid": 121,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de jīnglì hěn píngfán 。",
+    "Chinese1": "她的经历很平凡。",
+    "Translate1": "Her experience is very ordinary."
+  },
+  {
+    "sid": 122,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ bùnéng ràng wǒ shīwàng 。",
+    "Chinese1": "你不能让我失望。",
+    "Translate1": "You can't let me down."
+  },
+  {
+    "sid": 123,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū zuòchū xuǎnzé 。",
+    "Chinese1": "我们必须做出选择。",
+    "Translate1": "We must make a choice."
+  },
+  {
+    "sid": 124,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒcuò le 。",
+    "Chinese1": "我错了。",
+    "Translate1": "I was wrong."
+  },
+  {
+    "sid": 125,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "fēichánggǎnxiè 。",
+    "Chinese1": "非常感谢。",
+    "Translate1": "Thank you very much."
+  },
+  {
+    "sid": 126,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen de àiqíng shì wúfǎ bèi fǒurèn de 。",
+    "Chinese1": "我们的爱情是无法被否认的。",
+    "Translate1": "Our love is undeniable."
+  },
+  {
+    "sid": 127,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xūyào yīxiē bāngzhù 。",
+    "Chinese1": "我需要一些帮助。",
+    "Translate1": "I need some help."
+  },
+  {
+    "sid": 128,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "méiyǒu bǐjiā gēng wēnnuǎn de dìfāng le 。",
+    "Chinese1": "没有比家更温暖的地方了。",
+    "Translate1": "There's no place warmer than home."
+  },
+  {
+    "sid": 129,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "kuài qù bā 。",
+    "Chinese1": "快去吧。",
+    "Translate1": "Go quickly."
+  },
+  {
+    "sid": 130,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ kěyǐ gěi wǒ yīxiē jiànyì ma ？",
+    "Chinese1": "你可以给我一些建议吗？",
+    "Translate1": "Can you give me some advice?"
+  },
+  {
+    "sid": 131,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen de xìnniàn hěn jiāndìng 。",
+    "Chinese1": "他们的信念很坚定。",
+    "Translate1": "Their belief is very firm."
+  },
+  {
+    "sid": 132,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhè bùhǎobàn 。",
+    "Chinese1": "这不好办。",
+    "Translate1": "This is not easy to deal with."
+  },
+  {
+    "sid": 133,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū yào xiānghùlǐjiě 。",
+    "Chinese1": "我们必须要相互理解。",
+    "Translate1": "We have to understand each other."
+  },
+  {
+    "sid": 134,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ míngbai le 。",
+    "Chinese1": "我明白了。",
+    "Translate1": "I understand."
+  },
+  {
+    "sid": 135,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ zài shuō shénme a ？",
+    "Chinese1": "你在说什么啊？",
+    "Translate1": "What are you talking about?"
+  },
+  {
+    "sid": 136,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhè hěn zhòngyào 。",
+    "Chinese1": "这很重要。",
+    "Translate1": "This is very important."
+  },
+  {
+    "sid": 137,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ kěyǐ gàosu wǒ nǐ de dìzhǐ ma ？",
+    "Chinese1": "你可以告诉我你的地址吗？",
+    "Translate1": "Can you tell me your address?"
+  },
+  {
+    "sid": 138,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ shì wǒ de quánbù 。",
+    "Chinese1": "你是我的全部。",
+    "Translate1": "You are my everything."
+  },
+  {
+    "sid": 139,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào gēng duō de jīhuì 。",
+    "Chinese1": "我们需要更多的机会。",
+    "Translate1": "We need more opportunities."
+  },
+  {
+    "sid": 140,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de biǎoxiàn hěn píngyōng 。",
+    "Chinese1": "她的表现很平庸。",
+    "Translate1": "Her performance is very mediocre."
+  },
+  {
+    "sid": 141,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen de àiqíng shì wúfǎ bèi jībài de 。",
+    "Chinese1": "我们的爱情是无法被击败的。",
+    "Translate1": "Our love is unbeatable."
+  },
+  {
+    "sid": 142,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ kěyǐ bāng wǒ lǐjiě zhège ma ？",
+    "Chinese1": "你可以帮我理解这个吗？",
+    "Translate1": "Can you help me understand this?"
+  },
+  {
+    "sid": 143,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì jìnlìérwéi 。",
+    "Chinese1": "我会尽力而为。",
+    "Translate1": "I'll do my best."
+  },
+  {
+    "sid": 144,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào gēng duō de chénggōng 。",
+    "Chinese1": "我们需要更多的成功。",
+    "Translate1": "We need more success."
+  },
+  {
+    "sid": 145,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào zǒu le 。",
+    "Chinese1": "我们需要走了。",
+    "Translate1": "We need to go."
+  },
+  {
+    "sid": 146,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ kànqǐlai hěnpiāoliàng 。",
+    "Chinese1": "你看起来很漂亮。",
+    "Translate1": "You look beautiful."
+  },
+  {
+    "sid": 147,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen de jìhuà jiàng wúfǎ shíxiàn 。",
+    "Chinese1": "他们的计划将无法实现。",
+    "Translate1": "Their plan will not work."
+  },
+  {
+    "sid": 148,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū yào xuéxí 。",
+    "Chinese1": "我们必须要学习。",
+    "Translate1": "We have to learn."
+  },
+  {
+    "sid": 149,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū yào pīnbó 。",
+    "Chinese1": "我们必须要拼搏。",
+    "Translate1": "We have to fight."
+  },
+  {
+    "sid": 150,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ cóngwèijiànguò rúcǐ měilì de jǐngsè 。",
+    "Chinese1": "我从未见过如此美丽的景色。",
+    "Translate1": "I've never seen such a beautiful view."
+  },
+  {
+    "sid": 151,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen de juédìng hěn míngzhì 。",
+    "Chinese1": "他们的决定很明智。",
+    "Translate1": "Their decision is very wise."
+  },
+  {
+    "sid": 152,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "méi wèntí ！",
+    "Chinese1": "没问题！",
+    "Translate1": "No problem!"
+  },
+  {
+    "sid": 153,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de jīnglì hěn fēngfù 。",
+    "Chinese1": "她的经历很丰富。",
+    "Translate1": "Her experience is very rich."
+  },
+  {
+    "sid": 154,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐng xiāngxìn wǒ 。",
+    "Chinese1": "请相信我。",
+    "Translate1": "Please trust me."
+  },
+  {
+    "sid": 155,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ zuò dé hěn hǎo 。",
+    "Chinese1": "你做得很好。",
+    "Translate1": "You did a great job."
+  },
+  {
+    "sid": 156,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ zài kāiwánxiào bā ？",
+    "Chinese1": "你在开玩笑吧？",
+    "Translate1": "Are you kidding me?"
+  },
+  {
+    "sid": 157,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tàihǎole ！",
+    "Chinese1": "太好了！",
+    "Translate1": "That's great!"
+  },
+  {
+    "sid": 158,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "ràng wǒmen kāishǐ bā 。",
+    "Chinese1": "让我们开始吧。",
+    "Translate1": "Let's get started."
+  },
+  {
+    "sid": 159,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "děng yīxià 。",
+    "Chinese1": "等一下。",
+    "Translate1": "Wait a moment."
+  },
+  {
+    "sid": 160,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xiǎngniàn nǐ 。",
+    "Chinese1": "我想念你。",
+    "Translate1": "I miss you."
+  },
+  {
+    "sid": 161,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yǒngyuǎn bùhuì míngbai wǒ de gǎnshòu 。",
+    "Chinese1": "你永远不会明白我的感受。",
+    "Translate1": "You'll never understand how I feel."
+  },
+  {
+    "sid": 162,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ wèishénme yào zhèyàng zuò ？",
+    "Chinese1": "你为什么要这样做？",
+    "Translate1": "Why did you do that?"
+  },
+  {
+    "sid": 163,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yǒngyuǎn shì wǒ de péngyou 。",
+    "Chinese1": "你永远是我的朋友。",
+    "Translate1": "You will always be my friend."
+  },
+  {
+    "sid": 164,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào gēng duō de gōutōng 。",
+    "Chinese1": "我们需要更多的沟通。",
+    "Translate1": "We need more communication."
+  },
+  {
+    "sid": 165,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā shì gè hěn cōngming de nǚhái 。",
+    "Chinese1": "她是个很聪明的女孩。",
+    "Translate1": "She is a very smart girl."
+  },
+  {
+    "sid": 166,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ kěyǐ zuòdào de 。",
+    "Chinese1": "你可以做到的。",
+    "Translate1": "You can do it."
+  },
+  {
+    "sid": 167,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen bìxū bǎochí jījítàidù 。",
+    "Chinese1": "我们必须保持积极态度。",
+    "Translate1": "We have to stay positive."
+  },
+  {
+    "sid": 168,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào gēng duō de gǎibiàn 。",
+    "Chinese1": "我们需要更多的改变。",
+    "Translate1": "We need more change."
+  },
+  {
+    "sid": 169,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ shì wǒ de yīngxióng 。",
+    "Chinese1": "你是我的英雄。",
+    "Translate1": "You're my hero."
+  },
+  {
+    "sid": 170,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì jìnlìérwéi de 。",
+    "Chinese1": "我会尽力而为的。",
+    "Translate1": "I will do my best."
+  },
+  {
+    "sid": 171,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de jiātíng hěn fùyǒu 。",
+    "Chinese1": "她的家庭很富有。",
+    "Translate1": "Her family is very wealthy."
+  },
+  {
+    "sid": 172,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ shì wǒ de línghún bànlǚ 。",
+    "Chinese1": "你是我的灵魂伴侣。",
+    "Translate1": "You are my soulmate."
+  },
+  {
+    "sid": 173,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ shì wǒ de wéiyī 。",
+    "Chinese1": "你是我的唯一。",
+    "Translate1": "You are my only one."
+  },
+  {
+    "sid": 174,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen de àiqíng shì wúfǎ bèi yāzhì de 。",
+    "Chinese1": "我们的爱情是无法被压制的。",
+    "Translate1": "Our love is unoppressable."
+  },
+  {
+    "sid": 175,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ bùnéng méiyǒu nǐ 。",
+    "Chinese1": "我不能没有你。",
+    "Translate1": "I can't live without you."
+  },
+  {
+    "sid": 176,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ qù nǎr ？",
+    "Chinese1": "你去哪儿？",
+    "Translate1": "Where are you going?"
+  },
+  {
+    "sid": 177,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ shì wǒ de shīfu 。",
+    "Chinese1": "你是我的师父。",
+    "Translate1": "You are my master."
+  },
+  {
+    "sid": 178,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ bùnéng zhèyàng duì tā 。",
+    "Chinese1": "你不能这样对他。",
+    "Translate1": "You can't treat him like this."
+  },
+  {
+    "sid": 179,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì wéi nǐ bàochóu 。",
+    "Chinese1": "我会为你报仇。",
+    "Translate1": "I will avenge you."
+  },
+  {
+    "sid": 180,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ bùnéng zhèyàng duì wǒmen 。",
+    "Chinese1": "你不能这样对我们。",
+    "Translate1": "You can't treat us like this."
+  },
+  {
+    "sid": 181,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ bùnéng zhèyàng duì wǒmen de guójiā 。",
+    "Chinese1": "你不能这样对我们的国家。",
+    "Translate1": "You can't treat our country like this."
+  },
+  {
+    "sid": 182,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ bùhuì ràng nǐ déchěng 。",
+    "Chinese1": "我不会让你得逞。",
+    "Translate1": "I won't let you succeed."
+  },
+  {
+    "sid": 183,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ shì wǒ de àiren 。",
+    "Chinese1": "你是我的爱人。",
+    "Translate1": "You are my lover."
+  },
+  {
+    "sid": 184,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì wéi nǐ zhàndòu dàodǐ 。",
+    "Chinese1": "我会为你战斗到底。",
+    "Translate1": "I will fight for you to the end."
+  },
+  {
+    "sid": 185,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ shì wǒ de xiōngdì 。",
+    "Chinese1": "你是我的兄弟。",
+    "Translate1": "You are my brother."
+  },
+  {
+    "sid": 186,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì wéi nǐ fàngqì yīqiè 。",
+    "Chinese1": "我会为你放弃一切。",
+    "Translate1": "I will give up everything for you."
+  },
+  {
+    "sid": 187,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì wéi nǐ bǎohù jiāzú róngyù 。",
+    "Chinese1": "我会为你保护家族荣誉。",
+    "Translate1": "I will protect the honor of our family for you."
+  },
+  {
+    "sid": 188,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì bǎohù nǐ 。",
+    "Chinese1": "我会保护你。",
+    "Translate1": "I will protect you."
+  },
+  {
+    "sid": 189,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì yīzhí péi zhe nǐ 。",
+    "Chinese1": "我会一直陪着你。",
+    "Translate1": "I will always be with you."
+  },
+  {
+    "sid": 190,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì wéi nǐ fùtāngdǎohuǒ 。",
+    "Chinese1": "我会为你赴汤蹈火。",
+    "Translate1": "I will go through fire and water for you."
+  },
+  {
+    "sid": 191,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ shì wǒ de qīnrén 。",
+    "Chinese1": "你是我的亲人。",
+    "Translate1": "You are my relative."
+  },
+  {
+    "sid": 192,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì wéi nǐ fēndān yīqiè 。",
+    "Chinese1": "我会为你分担一切。",
+    "Translate1": "I will share everything with you."
+  },
+  {
+    "sid": 193,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ bùnéng zhèyàng duì wǒ 。",
+    "Chinese1": "你不能这样对我。",
+    "Translate1": "You can't treat me like this."
+  },
+  {
+    "sid": 194,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì wéi nǐ bǎowèiguójiā ānquán 。",
+    "Chinese1": "我会为你保卫国家安全。",
+    "Translate1": "I will defend the security of our country for you."
+  },
+  {
+    "sid": 195,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì wéi nǐ shǒuhù dàodǐ 。",
+    "Chinese1": "我会为你守护到底。",
+    "Translate1": "I will protect you to the end."
+  },
+  {
+    "sid": 196,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì wéi nǐ xiànchū shēngmìng 。",
+    "Chinese1": "我会为你献出生命。",
+    "Translate1": "I will sacrifice my life for you."
+  },
+  {
+    "sid": 197,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ shì wǒ de dírén 。",
+    "Chinese1": "你是我的敌人。",
+    "Translate1": "You are my enemy."
+  },
+  {
+    "sid": 198,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ bùyào shānghài tā 。",
+    "Chinese1": "你不要伤害她。",
+    "Translate1": "Don't hurt her."
+  },
+  {
+    "sid": 199,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ shì wǒ de duìshǒu 。",
+    "Chinese1": "你是我的对手。",
+    "Translate1": "You are my opponent."
+  },
+  {
+    "sid": 200,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ bùnéng zhèyàng duì tā 。",
+    "Chinese1": "你不能这样对她。",
+    "Translate1": "You can't treat her like this."
+  },
+  {
+    "sid": 201,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì wéi nǐ zuò rènhé shì 。",
+    "Chinese1": "我会为你做任何事。",
+    "Translate1": "I will do anything for you."
+  },
+  {
+    "sid": 202,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì wéi nǐ shǒuhù yīshēng 。",
+    "Chinese1": "我会为你守护一生。",
+    "Translate1": "I will protect you for a lifetime."
+  },
+  {
+    "sid": 203,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒhuì wéi nǐ fùchū yīqiè 。",
+    "Chinese1": "我会为你付出一切。",
+    "Translate1": "I will give everything for you."
+  },
+  {
+    "sid": 204,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ bùnéng zhèyàng duì wǒmen jiāzú 。",
+    "Chinese1": "你不能这样对我们家族。",
+    "Translate1": "You can't treat our family like this."
+  }
+]

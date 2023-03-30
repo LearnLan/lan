@@ -1,0 +1,866 @@
+[
+  {
+    "sid": 1,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào zhùyì shénme ？",
+    "Chinese1": "我们需要注意什么？",
+    "Translate1": "What should we be aware of?"
+  },
+  {
+    "sid": 2,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "néng bùnéng kàndào měijǐng ？",
+    "Chinese1": "能不能看到美景？",
+    "Translate1": "Can we see beautiful scenery?"
+  },
+  {
+    "sid": 3,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yào pá dào nǎlǐ ？",
+    "Chinese1": "我们要爬到哪里？",
+    "Translate1": "Where are we climbing to?"
+  },
+  {
+    "sid": 4,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "gòngtóngnǔlì cáinéng chénggōng 。",
+    "Chinese1": "共同努力才能成功。",
+    "Translate1": "We can only succeed if we work together."
+  },
+  {
+    "sid": 5,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "néngfǒu gàosu wǒ xiàshān de lù zěnme zǒu ？",
+    "Chinese1": "能否告诉我下山的路怎么走？",
+    "Translate1": "Can you tell me how to get down the mountain?"
+  },
+  {
+    "sid": 6,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "shǒutào wàngjì dài le zěnmebàn ？",
+    "Chinese1": "手套忘记带了怎么办？",
+    "Translate1": "What do I do if I forgot my gloves?"
+  },
+  {
+    "sid": 7,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "kuàizhào shíjiān lái le ！",
+    "Chinese1": "快照时间来了！",
+    "Translate1": "It's time for a photo!"
+  },
+  {
+    "sid": 8,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhège lùbiāo zhǐxiàng shāndǐng ma ？",
+    "Chinese1": "这个路标指向山顶吗？",
+    "Translate1": "Does this sign point to the mountain top?"
+  },
+  {
+    "sid": 9,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào dàishàng shǒudiàntǒng ma ？",
+    "Chinese1": "我们需要带上手电筒吗？",
+    "Translate1": "Do we need to bring a flashlight?"
+  },
+  {
+    "sid": 10,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen zǒu nǎtiáo lùxiàn ？",
+    "Chinese1": "我们走哪条路线？",
+    "Translate1": "Which route are we taking?"
+  },
+  {
+    "sid": 11,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "yǒuméiyǒu rén hàipà gāodù ？",
+    "Chinese1": "有没有人害怕高度？",
+    "Translate1": "Is anyone afraid of heights?"
+  },
+  {
+    "sid": 12,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào chuānguò zhètiáo hé ma ？",
+    "Chinese1": "我们需要穿过这条河吗？",
+    "Translate1": "Do we need to cross this river?"
+  },
+  {
+    "sid": 13,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xiǎoxīn jiǎoxià 。",
+    "Chinese1": "小心脚下。",
+    "Translate1": "Be careful of your footing."
+  },
+  {
+    "sid": 14,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "dàjiā dōu hěn yǒu jīngshén ！",
+    "Chinese1": "大家都很有精神！",
+    "Translate1": "Everyone is very energetic!"
+  },
+  {
+    "sid": 15,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīnggāi zūnshǒu nǎxiē xíngwéizhǔnzé ？",
+    "Chinese1": "我们应该遵守哪些行为准则？",
+    "Translate1": "What code of conduct should we follow?"
+  },
+  {
+    "sid": 16,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèlǐ de lùkuàng rúhé ？",
+    "Chinese1": "这里的路况如何？",
+    "Translate1": "What are the road conditions here?"
+  },
+  {
+    "sid": 17,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐng dàjiā bǎochí ānjìng 。",
+    "Chinese1": "请大家保持安静。",
+    "Translate1": "Please keep quiet."
+  },
+  {
+    "sid": 18,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "kàn nàbian de jǐngsè zhēnměi a ！",
+    "Chinese1": "看那边的景色真美啊！",
+    "Translate1": "The scenery over there is so beautiful!"
+  },
+  {
+    "sid": 19,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn zhè tiáo lùtōng bù tōngwǎng shāndǐng ？",
+    "Chinese1": "请问这条路通不通往山顶？",
+    "Translate1": "Excuse me, does this road lead to the mountain top?"
+  },
+  {
+    "sid": 20,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yào qù nǎge fāngxiàng ？",
+    "Chinese1": "我们要去哪个方向？",
+    "Translate1": "Which direction should we go in?"
+  },
+  {
+    "sid": 21,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn zhèlǐ yǒuméiyǒu shuǐyuán ？",
+    "Chinese1": "请问这里有没有水源？",
+    "Translate1": "Is there a water source here?"
+  },
+  {
+    "sid": 22,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "shìfǒu kěyǐ dài chǒngwù yīqǐ dēngshān ？",
+    "Chinese1": "是否可以带宠物一起登山？",
+    "Translate1": "Can we bring pets to climb?"
+  },
+  {
+    "sid": 23,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèlǐ yǒuméiyǒu xiǎnxiànghuánshēng de dìfāng ？",
+    "Chinese1": "这里有没有险象环生的地方？",
+    "Translate1": "Are there any dangerous areas around here?"
+  },
+  {
+    "sid": 24,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xūyào zhùyì shénme ānquán wèntí ma ？",
+    "Chinese1": "需要注意什么安全问题吗？",
+    "Translate1": "Are there any safety concerns we should be aware of?"
+  },
+  {
+    "sid": 25,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen shìfǒu kěyǐ zài zhèlǐ shāokǎo ？",
+    "Chinese1": "我们是否可以在这里烧烤？",
+    "Translate1": "Can we have a barbecue here?"
+  },
+  {
+    "sid": 26,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào xiàng shàngpá duōshǎo gè gāodù ？",
+    "Chinese1": "我们需要向上爬多少个高度？",
+    "Translate1": "How many elevations do we need to climb?"
+  },
+  {
+    "sid": 27,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "páshān nán bùnán ？",
+    "Chinese1": "爬山难不难？",
+    "Translate1": "Is mountain climbing difficult?"
+  },
+  {
+    "sid": 28,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ zài nǎlǐ zhǎodào dìtú ？",
+    "Chinese1": "我们可以在哪里找到地图？",
+    "Translate1": "Where can we find a map?"
+  },
+  {
+    "sid": 29,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "shìfǒu kěyǐ zài zhèlǐ diàoyú huò yóuyǒng ？",
+    "Chinese1": "是否可以在这里钓鱼或游泳？",
+    "Translate1": "Can we fish or swim here?"
+  },
+  {
+    "sid": 30,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "bǎ lājī dàihuíqù 。",
+    "Chinese1": "把垃圾带回去。",
+    "Translate1": "Take your trash with you."
+  },
+  {
+    "sid": 31,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xūyào wǒ bāng nǐ xiédài shénme ma ？",
+    "Chinese1": "你需要我帮你携带什么吗？",
+    "Translate1": "Do you need me to carry anything for you?"
+  },
+  {
+    "sid": 32,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèlǐ yǒuméiyǒu fēn chālùkǒu ？",
+    "Chinese1": "这里有没有分叉路口？",
+    "Translate1": "Are there any forks in the road here?"
+  },
+  {
+    "sid": 33,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yào zěnme zǒu cáinéng dàodá shāndǐng ？",
+    "Chinese1": "我们要怎么走才能到达山顶？",
+    "Translate1": "How can we get to the mountain top?"
+  },
+  {
+    "sid": 34,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn zhètiáo lù tōngwǎng shāndǐng ma ？",
+    "Chinese1": "请问这条路通往山顶吗？",
+    "Translate1": "Is this road leading to the mountain top?"
+  },
+  {
+    "sid": 35,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào xiǎoxīn kuàguò zhètiáo hé ma ？",
+    "Chinese1": "我们需要小心跨过这条河吗？",
+    "Translate1": "Do we need to be careful crossing this river?"
+  },
+  {
+    "sid": 36,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn zhèlǐ yǒuméiyǒu dēngshān dìtú ？",
+    "Chinese1": "请问这里有没有登山地图？",
+    "Translate1": "Do you have a hiking map here?"
+  },
+  {
+    "sid": 37,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "shìfǒu xūyào dàishàng fángwényè ？",
+    "Chinese1": "是否需要带上防蚊液？",
+    "Translate1": "Do we need to bring mosquito repellent?"
+  },
+  {
+    "sid": 38,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhètiáo lù tōngwǎng shāndǐng ma ？",
+    "Chinese1": "这条路通往山顶吗？",
+    "Translate1": "Does this path lead to the mountain peak?"
+  },
+  {
+    "sid": 39,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīnggāi dàishàng duōshǎo shuǐ ？",
+    "Chinese1": "我们应该带上多少水？",
+    "Translate1": "How much water should we bring?"
+  },
+  {
+    "sid": 40,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào pānpá xuányá ma ？",
+    "Chinese1": "我们需要攀爬悬崖吗？",
+    "Translate1": "Do we need to climb cliffs?"
+  },
+  {
+    "sid": 41,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "dōu ná hǎo zhuāngbèi le ma ？",
+    "Chinese1": "都拿好装备了吗？",
+    "Translate1": "Does everyone have their gear ready?"
+  },
+  {
+    "sid": 42,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xūyào wǎng nǎge fāngxiàng zǒu ne ？",
+    "Chinese1": "需要往哪个方向走呢？",
+    "Translate1": "- Which direction do you need to go?"
+  },
+  {
+    "sid": 43,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jǐngsè zhēnshìtài zhuàngguān le ！",
+    "Chinese1": "景色真是太壮观了！",
+    "Translate1": "The view is really spectacular!"
+  },
+  {
+    "sid": 44,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào chuān shénmeyàng de yīfú ？",
+    "Chinese1": "我们需要穿什么样的衣服？",
+    "Translate1": "What kind of clothes should we wear?"
+  },
+  {
+    "sid": 45,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhè tiáo lùxiàn de chángdù shì duōshǎo ？",
+    "Chinese1": "这条路线的长度是多少？",
+    "Translate1": "What is the length of this trail?"
+  },
+  {
+    "sid": 46,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yǒuméiyǒu zúgòu de shíwù hé shuǐ ？",
+    "Chinese1": "我们有没有足够的食物和水？",
+    "Translate1": "Do we have enough food and water?"
+  },
+  {
+    "sid": 47,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīnggāi zūnshǒu nǎxiē guīdìng ？",
+    "Chinese1": "我们应该遵守哪些规定？",
+    "Translate1": "What regulations should we follow?"
+  },
+  {
+    "sid": 48,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào xiān chuānguò zhèpiàn shùlín ma ？",
+    "Chinese1": "我们需要先穿过这片树林吗？",
+    "Translate1": "Do we need to pass through this forest first?"
+  },
+  {
+    "sid": 49,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào zhùyì nǎxiē yěshēngdòngwù ？",
+    "Chinese1": "我们需要注意哪些野生动物？",
+    "Translate1": "What kind of wildlife should we be aware of?"
+  },
+  {
+    "sid": 50,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn zhèlǐ yǒuméiyǒu zhǐshìpái ？",
+    "Chinese1": "请问这里有没有指示牌？",
+    "Translate1": "Are there any signs here?"
+  },
+  {
+    "sid": 51,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīnggāi zěnyàng chǔlǐ lājī ？",
+    "Chinese1": "我们应该怎样处理垃圾？",
+    "Translate1": "How should we handle our trash?"
+  },
+  {
+    "sid": 52,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "dàtuǐ hǎosuān a ， xūyào xiūxi yīxià 。",
+    "Chinese1": "大腿好酸啊，需要休息一下。",
+    "Translate1": "My thighs are so sore, I need to rest for a bit."
+  },
+  {
+    "sid": 53,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "gǎnjué zìjǐ xiàng gè zhēngfúzhě ！",
+    "Chinese1": "感觉自己像个征服者！",
+    "Translate1": "I feel like a conqueror!"
+  },
+  {
+    "sid": 54,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào dàishàng shénme zhuāngbèi ma ？",
+    "Chinese1": "我们需要带上什么装备吗？",
+    "Translate1": "Do we need to bring any equipment?"
+  },
+  {
+    "sid": 55,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xūyào duōhēshuǐ bǎochí shēntǐ shuǐfèn 。",
+    "Chinese1": "需要多喝水保持身体水分。",
+    "Translate1": "Drink more water to stay hydrated."
+  },
+  {
+    "sid": 56,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào chuānguò zhèpiàn cǎodì ma ？",
+    "Chinese1": "我们需要穿过这片草地吗？",
+    "Translate1": "Do we need to go through this grassland?"
+  },
+  {
+    "sid": 57,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào chuānguò zhèpiàn yánshí qū ma ？",
+    "Chinese1": "我们需要穿过这片岩石区吗？",
+    "Translate1": "Do we need to go through this rocky area?"
+  },
+  {
+    "sid": 58,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen shìbùshì zǒu cuòlù le ？",
+    "Chinese1": "我们是不是走错路了？",
+    "Translate1": "Are we on the wrong trail?"
+  },
+  {
+    "sid": 59,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn zhèlǐ yǒuméiyǒu shānlù ？",
+    "Chinese1": "请问这里有没有山路？",
+    "Translate1": "Is there a mountain road here?"
+  },
+  {
+    "sid": 60,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn qù shāndǐng de lù zěnme zǒu ？",
+    "Chinese1": "请问去山顶的路怎么走？",
+    "Translate1": "Excuse me, how do I get to the mountain peak?"
+  },
+  {
+    "sid": 61,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhè yīduànlù bǐjiào nán zǒu ma ？",
+    "Chinese1": "这一段路比较难走吗？",
+    "Translate1": "Is this section of the trail difficult?"
+  },
+  {
+    "sid": 62,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "yīqǐ jiāyóu ！",
+    "Chinese1": "一起加油！",
+    "Translate1": "Let's go!"
+  },
+  {
+    "sid": 63,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào chuānguò zhèpiàn sēnlín ma ？",
+    "Chinese1": "我们需要穿过这片森林吗？",
+    "Translate1": "Do we need to go through this forest?"
+  },
+  {
+    "sid": 64,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jīntiān de lùxiàn yǒu duōcháng ？",
+    "Chinese1": "今天的路线有多长？",
+    "Translate1": "How long is today's route?"
+  },
+  {
+    "sid": 65,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tiānqìyùbào zěnmeyàng ？",
+    "Chinese1": "天气预报怎么样？",
+    "Translate1": "What's the weather forecast?"
+  },
+  {
+    "sid": 66,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèlǐ de fēngjǐng zhēnshìtài měimiào le ！",
+    "Chinese1": "这里的风景真是太美妙了！",
+    "Translate1": "The scenery here is truly magnificent!"
+  },
+  {
+    "sid": 67,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào xiàng nǎge fāngxiàng zǒu ？",
+    "Chinese1": "我们需要向哪个方向走？",
+    "Translate1": "Which direction should we go?"
+  },
+  {
+    "sid": 68,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen zhōngyú dàodá shāndǐng le ！",
+    "Chinese1": "我们终于到达山顶了！",
+    "Translate1": "We finally reached the summit!"
+  },
+  {
+    "sid": 69,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào chuānguò zhèpiàn huǒshānqū ma ？",
+    "Chinese1": "我们需要穿过这片火山区吗？",
+    "Translate1": "Do we need to go through this volcanic area?"
+  },
+  {
+    "sid": 70,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen hái xūyào pānpá duōjiǔ ？",
+    "Chinese1": "我们还需要攀爬多久？",
+    "Translate1": "How much more climbing do we have to do?"
+  },
+  {
+    "sid": 71,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn zhèlǐ yǒuméiyǒu xiūxi diǎn ？",
+    "Chinese1": "请问这里有没有休息点？",
+    "Translate1": "Excuse me, is there a rest stop here?"
+  },
+  {
+    "sid": 72,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "yào bùyào xiūxi yīxià ？",
+    "Chinese1": "要不要休息一下？",
+    "Translate1": "Should we take a break?"
+  },
+  {
+    "sid": 73,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "yào zhùyìānquán ó ！",
+    "Chinese1": "要注意安全哦！",
+    "Translate1": "Remember to be safe!"
+  },
+  {
+    "sid": 74,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "bùyào líkāi duìwǔ 。",
+    "Chinese1": "不要离开队伍。",
+    "Translate1": "Don't leave the group."
+  },
+  {
+    "sid": 75,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhè tiáo lùxiàn shìfǒu xūyào dǎoyóu ？",
+    "Chinese1": "这条路线是否需要导游？",
+    "Translate1": "Do we need a guide for this trail?"
+  },
+  {
+    "sid": 76,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào dàishàng shénme zhuāngbèi ？",
+    "Chinese1": "我们需要带上什么装备？",
+    "Translate1": "What equipment do we need to bring?"
+  },
+  {
+    "sid": 77,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xīwàng wǒmen quányuán dōu néng chénggōng dēngdǐng 。",
+    "Chinese1": "希望我们全员都能成功登顶。",
+    "Translate1": "I hope everyone can successfully reach the summit."
+  },
+  {
+    "sid": 78,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèlǐ shìfǒu yǒu lājītǒng ？",
+    "Chinese1": "这里是否有垃圾桶？",
+    "Translate1": "Is there a garbage bin here?"
+  },
+  {
+    "sid": 79,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "ràng wǒmen kuàidiǎn kāishǐ bā ！",
+    "Chinese1": "让我们快点开始吧！",
+    "Translate1": "Let's start quickly!"
+  },
+  {
+    "sid": 80,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yào bùyào dàishàng yǔjù ？",
+    "Chinese1": "我们要不要带上雨具？",
+    "Translate1": "Should we bring rain gear?"
+  },
+  {
+    "sid": 81,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "shēntǐjiànkāng hěn zhòngyào 。",
+    "Chinese1": "身体健康很重要。",
+    "Translate1": "Physical health is important."
+  },
+  {
+    "sid": 82,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǎng zuǒ guǎi jiù néng dàodá shāndǐng 。",
+    "Chinese1": "往左拐就能到达山顶。",
+    "Translate1": "- Turn left and you'll reach the mountaintop."
+  },
+  {
+    "sid": 83,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèlǐ de tiānqìqíngkuàng rúhé ？",
+    "Chinese1": "这里的天气情况如何？",
+    "Translate1": "What's the weather like here?"
+  },
+  {
+    "sid": 84,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīnggāi wǎng nǎge fāngxiàng zǒu ？",
+    "Chinese1": "我们应该往哪个方向走？",
+    "Translate1": "Which direction should we go?"
+  },
+  {
+    "sid": 85,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yào pāndēng duōgāo de shānfēng ？",
+    "Chinese1": "我们要攀登多高的山峰？",
+    "Translate1": "How high is the peak we're climbing?"
+  },
+  {
+    "sid": 86,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào pānpá zhèzuò shān ma ？",
+    "Chinese1": "我们需要攀爬这座山吗？",
+    "Translate1": "Do we need to climb this mountain?"
+  },
+  {
+    "sid": 87,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen shìfǒu kěyǐ zài zhèlǐ lùyíng ？",
+    "Chinese1": "我们是否可以在这里露营？",
+    "Translate1": "Can we camp here?"
+  },
+  {
+    "sid": 88,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn zhèlǐ yǒuméiyǒu shāndòng ？",
+    "Chinese1": "请问这里有没有山洞？",
+    "Translate1": "Are there any caves here?"
+  },
+  {
+    "sid": 89,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhè tiáo lùxiàn bǐjiào shìhé chūxuézhě ma ？",
+    "Chinese1": "这条路线比较适合初学者吗？",
+    "Translate1": "Is this trail suitable for beginners?"
+  },
+  {
+    "sid": 90,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīnggāi wǎng zuǒ háishi wǎngyòu zǒu ？",
+    "Chinese1": "我们应该往左还是往右走？",
+    "Translate1": "Should we go left or right?"
+  },
+  {
+    "sid": 91,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xūyào jiǎonà rùshānfèi ma ？",
+    "Chinese1": "需要缴纳入山费吗？",
+    "Translate1": "Do we need to pay an entrance fee?"
+  },
+  {
+    "sid": 92,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn zhèlǐ yǒuméiyǒu xǐshǒujiān ？",
+    "Chinese1": "请问这里有没有洗手间？",
+    "Translate1": "Excuse me, is there a restroom here?"
+  },
+  {
+    "sid": 93,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "bùyào hētàiduōshuǐ 。",
+    "Chinese1": "不要喝太多水。",
+    "Translate1": "Don't drink too much water."
+  },
+  {
+    "sid": 94,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèlǐ shìfǒu yǒu lùtiān huò shìnèi xiūxi chù ？",
+    "Chinese1": "这里是否有露天或室内休息处？",
+    "Translate1": "Is there an outdoor or indoor rest area here?"
+  },
+  {
+    "sid": 95,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn zhèlǐ yǒuméiyǒu tíngchēchǎng ？",
+    "Chinese1": "请问这里有没有停车场？",
+    "Translate1": "Excuse me, is there a parking lot here?"
+  },
+  {
+    "sid": 96,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen shìfǒu xūyào dēngjì xǔkězhèng ？",
+    "Chinese1": "我们是否需要登记许可证？",
+    "Translate1": "Do we need to register for permits?"
+  },
+  {
+    "sid": 97,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xūyào chuānguò zhèpiàn zhǎozé ma ？",
+    "Chinese1": "我们需要穿过这片沼泽吗？",
+    "Translate1": "Do we need to go through this swamp?"
+  },
+  {
+    "sid": 98,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "dàibùdài shéngsuǒ ？",
+    "Chinese1": "带不带绳索？",
+    "Translate1": "Should we bring ropes?"
+  },
+  {
+    "sid": 99,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèlǐ de kōngqì hǎo qīngxīn a ！",
+    "Chinese1": "这里的空气好清新啊！",
+    "Translate1": "The air here is so fresh!"
+  },
+  {
+    "sid": 100,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīnggāi zěnyàng zhǎodào huíchéng de lù ？",
+    "Chinese1": "我们应该怎样找到回程的路？",
+    "Translate1": "How can we find our way back?"
+  },
+  {
+    "sid": 101,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèlǐ yǒuméiyǒu kěyǐ yěyíng de dìfāng ？",
+    "Chinese1": "这里有没有可以野营的地方？",
+    "Translate1": "Are there any places to camp around here?"
+  },
+  {
+    "sid": 102,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qǐngwèn zhèlǐ yǒuméiyǒu shāndǐng de gps ？",
+    "Chinese1": "请问这里有没有山顶的GPS？",
+    "Translate1": "Do you have a GPS for the mountain top here?"
+  },
+  {
+    "sid": 103,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīnggāi gēn jǐn qiánmiàn de rén ma ？",
+    "Chinese1": "我们应该跟紧前面的人吗？",
+    "Translate1": "Should we keep up with the person in front of us?"
+  },
+  {
+    "sid": 104,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèlǐ yǒuméiyǒu dǒuqiào huò wēixiǎn de dìfāng ？",
+    "Chinese1": "这里有没有陡峭或危险的地方？",
+    "Translate1": "Are there any steep or dangerous sections here?"
+  },
+  {
+    "sid": 105,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kuàidào shāndǐng le ma ？",
+    "Chinese1": "我们快到山顶了吗？",
+    "Translate1": "Are we close to the summit?"
+  },
+  {
+    "sid": 106,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhège lùxiàn shìhé chūxuézhě ma ？",
+    "Chinese1": "这个路线适合初学者吗？",
+    "Translate1": "Is this trail suitable for beginners?"
+  },
+  {
+    "sid": 107,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xūyào zhǔnbèi xiē shénme ？",
+    "Chinese1": "需要准备些什么？",
+    "Translate1": "What do we need to prepare?"
+  },
+  {
+    "sid": 108,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "shìfǒu xūyào tíqián yùyuē ？",
+    "Chinese1": "是否需要提前预约？",
+    "Translate1": "Do we need to make reservations in advance?"
+  }
+]

@@ -1,0 +1,1002 @@
+[
+  {
+    "sid": 1,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xūyào yīxiē bāngzhù 。",
+    "Chinese1": "我需要一些帮助。",
+    "Translate1": "I could use some help with that."
+  },
+  {
+    "sid": 2,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ yě shì 。",
+    "Chinese1": "我也是。",
+    "Translate1": "Me too."
+  },
+  {
+    "sid": 3,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "yào bùyào qù kàn diànyǐng ？",
+    "Chinese1": "要不要去看电影？",
+    "Translate1": "Want to go to the movies?"
+  },
+  {
+    "sid": 4,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐhǎo ma ？",
+    "Chinese1": "你好吗？",
+    "Translate1": "How are you?"
+  },
+  {
+    "sid": 5,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "gōngzuò zěnmeyàng ？",
+    "Chinese1": "工作怎么样？",
+    "Translate1": "How's work going?"
+  },
+  {
+    "sid": 6,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "yào bùyào yīqǐ hēdiǎn dōngxi ？",
+    "Chinese1": "要不要一起喝点东西？",
+    "Translate1": "Want to grab a drink?"
+  },
+  {
+    "sid": 7,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ shì yīmíng lǎoshī 。",
+    "Chinese1": "我是一名老师。",
+    "Translate1": "I'm a teacher."
+  },
+  {
+    "sid": 8,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "hǎo a ， wǒmen yīqǐ qù bā 。",
+    "Chinese1": "好啊，我们一起去吧。",
+    "Translate1": "Okay, let's go together."
+  },
+  {
+    "sid": 9,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wánměi 。",
+    "Chinese1": "完美。",
+    "Translate1": "Perfect."
+  },
+  {
+    "sid": 10,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zǎoshanghǎo 。",
+    "Chinese1": "早上好。",
+    "Translate1": "Good morning."
+  },
+  {
+    "sid": 11,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ qù kàn yǎnchànghuì bā 。",
+    "Chinese1": "我们一起去看演唱会吧。",
+    "Translate1": "Let's go to a concert together."
+  },
+  {
+    "sid": 12,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ hěn gāoxìng rènshi nǐ 。",
+    "Chinese1": "我很高兴认识你。",
+    "Translate1": "I'm glad to know you."
+  },
+  {
+    "sid": 13,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xiǎng tīngdiǎn shénme yīnyuè ？",
+    "Chinese1": "你想听点什么音乐？",
+    "Translate1": "What kind of music do you want to listen to?"
+  },
+  {
+    "sid": 14,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "hěn hǎo ， xièxie 。",
+    "Chinese1": "很好，谢谢。",
+    "Translate1": "Good, thanks."
+  },
+  {
+    "sid": 15,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tīng qǐlai hěn wúliáo 。",
+    "Chinese1": "听起来很无聊。",
+    "Translate1": "That sounds boring."
+  },
+  {
+    "sid": 16,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "méiyǒu ， nǐ ne ？",
+    "Chinese1": "没有，你呢？",
+    "Translate1": "No, how about you?"
+  },
+  {
+    "sid": 17,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ zěnme le ？ xūyào bāngmáng ma ？",
+    "Chinese1": "你怎么了？需要帮忙吗？",
+    "Translate1": "What's wrong? Do you need help?"
+  },
+  {
+    "sid": 18,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "hái bùcuò 。",
+    "Chinese1": "还不错。",
+    "Translate1": "It was good."
+  },
+  {
+    "sid": 19,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ yīqǐ zuòfàn ma ？",
+    "Chinese1": "我们可以一起做饭吗？",
+    "Translate1": "Can we cook together?"
+  },
+  {
+    "sid": 20,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ juéde zhège gùshi zěnmeyàng ？",
+    "Chinese1": "你觉得这个故事怎么样？",
+    "Translate1": "What do you think of this story?"
+  },
+  {
+    "sid": 21,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ juéde zhège chéngshì zěnmeyàng ？",
+    "Chinese1": "你觉得这个城市怎么样？",
+    "Translate1": "What do you think of this city?"
+  },
+  {
+    "sid": 22,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen néng bùnéng huàngè huàtí ？",
+    "Chinese1": "我们能不能换个话题？",
+    "Translate1": "Can we change the topic?"
+  },
+  {
+    "sid": 23,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "méishénme 。",
+    "Chinese1": "没什么。",
+    "Translate1": "Not much."
+  },
+  {
+    "sid": 24,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "méiyǒu 。",
+    "Chinese1": "没有。",
+    "Translate1": "Not really."
+  },
+  {
+    "sid": 25,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yǒu shénme hǎokàn de diànyǐng tuījiàn ma ？",
+    "Chinese1": "你有什么好看的电影推荐吗？",
+    "Translate1": "Do you have any good movie recommendations?"
+  },
+  {
+    "sid": 26,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ qù lǚyóu 。",
+    "Chinese1": "我们一起去旅游。",
+    "Translate1": "We are going on a trip together."
+  },
+  {
+    "sid": 27,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xièxie ， nà tàihǎole 。",
+    "Chinese1": "谢谢，那太好了。",
+    "Translate1": "Thanks, that would be great."
+  },
+  {
+    "sid": 28,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒyào yībēi mǎgélìtè 。",
+    "Chinese1": "我要一杯玛格丽特。",
+    "Translate1": "I'll have a margarita."
+  },
+  {
+    "sid": 29,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǎnān 。",
+    "Chinese1": "晚安。",
+    "Translate1": "Good night."
+  },
+  {
+    "sid": 30,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ jīntiān guòdé zěnmeyàng ？",
+    "Chinese1": "你今天过得怎么样？",
+    "Translate1": "How was your day?"
+  },
+  {
+    "sid": 31,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ shì zuò shénme gōngzuò de ？",
+    "Chinese1": "你是做什么工作的？",
+    "Translate1": "What do you do again?"
+  },
+  {
+    "sid": 32,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "dāngrán ， qù nǎlǐ ？",
+    "Chinese1": "当然，去哪里？",
+    "Translate1": "Sure, where?"
+  },
+  {
+    "sid": 33,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yǒu shénme hǎo de jiànyì ma ？",
+    "Chinese1": "你有什么好的建议吗？",
+    "Translate1": "Do you have any good suggestions?"
+  },
+  {
+    "sid": 34,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yǒu shénme hǎo de tuījiàn diànyǐng ma ？",
+    "Chinese1": "你有什么好的推荐电影吗？",
+    "Translate1": "Do you have any good movie recommendations?"
+  },
+  {
+    "sid": 35,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "huì yīdiǎndiǎn 。",
+    "Chinese1": "会一点点。",
+    "Translate1": "I can speak a little bit."
+  },
+  {
+    "sid": 36,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zuìjìn wǒ zài xuéxí xīn de jìnéng 。",
+    "Chinese1": "最近我在学习新的技能。",
+    "Translate1": "Recently, I've been learning new skills."
+  },
+  {
+    "sid": 37,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yǒu shénme àihào ？",
+    "Chinese1": "你有什么爱好？",
+    "Translate1": "What are your hobbies?"
+  },
+  {
+    "sid": 38,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā de shēngrì shì xiàgèyuè 。",
+    "Chinese1": "她的生日是下个月。",
+    "Translate1": "Her birthday is next month."
+  },
+  {
+    "sid": 39,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xiǎng hē shénme ？",
+    "Chinese1": "你想喝什么？",
+    "Translate1": "What do you want to drink?"
+  },
+  {
+    "sid": 40,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ tīngshuō le ma ？ tāmen yào jiéhūn le 。",
+    "Chinese1": "你听说了吗？他们要结婚了。",
+    "Translate1": "Have you heard? They are getting married."
+  },
+  {
+    "sid": 41,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒàinǐ 。",
+    "Chinese1": "我爱你。",
+    "Translate1": "I love you."
+  },
+  {
+    "sid": 42,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xièxie nǐ 。",
+    "Chinese1": "谢谢你。",
+    "Translate1": "Thank you."
+  },
+  {
+    "sid": 43,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ jīntiān kànqǐlai hěn kāixīn 。",
+    "Chinese1": "你今天看起来很开心。",
+    "Translate1": "You look very happy today."
+  },
+  {
+    "sid": 44,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "shì a ， yángguāngmíngmèi 。",
+    "Chinese1": "是啊，阳光明媚。",
+    "Translate1": "Yes, the sun is shining."
+  },
+  {
+    "sid": 45,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ wǔfàn chī le shénme ？",
+    "Chinese1": "你午饭吃了什么？",
+    "Translate1": "What did you eat for lunch?"
+  },
+  {
+    "sid": 46,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xiǎng chī shénme ？",
+    "Chinese1": "你想吃什么？",
+    "Translate1": "What do you want to eat?"
+  },
+  {
+    "sid": 47,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ zuò le shénme yǒuqù de shìqing ma ？",
+    "Chinese1": "你做了什么有趣的事情吗？",
+    "Translate1": "Did you do anything fun?"
+  },
+  {
+    "sid": 48,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐhǎo ！ zuìjìn zěnmeyàng",
+    "Chinese1": "你好！最近怎么样",
+    "Translate1": "Hi! How are you?"
+  },
+  {
+    "sid": 49,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "néng jiè wǒ yīzhāng zhǐ ma ？",
+    "Chinese1": "能借我一张纸吗？",
+    "Translate1": "Can I borrow a piece of paper?"
+  },
+  {
+    "sid": 50,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "yào bùyào xiān qù chīwǎnfàn ？",
+    "Chinese1": "要不要先去吃晚饭？",
+    "Translate1": "Do you want to grab dinner before?"
+  },
+  {
+    "sid": 51,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan chī tiánshí 。",
+    "Chinese1": "她喜欢吃甜食。",
+    "Translate1": "She likes to eat sweets."
+  },
+  {
+    "sid": 52,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xiǎng qù nǎlǐ lǚxíng ？",
+    "Chinese1": "你想去哪里旅行？",
+    "Translate1": "Where do you want to travel?"
+  },
+  {
+    "sid": 53,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jīntiān shì xīngqī jǐ ？",
+    "Chinese1": "今天是星期几？",
+    "Translate1": "What day is it today?"
+  },
+  {
+    "sid": 54,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zuótiānwǎnshàng wándé zěnmeyàng ？",
+    "Chinese1": "昨天晚上玩得怎么样？",
+    "Translate1": "How was your night yesterday?"
+  },
+  {
+    "sid": 55,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yīqǐ qù sànbù bā 。",
+    "Chinese1": "我们一起去散步吧。",
+    "Translate1": "Let's take a walk together."
+  },
+  {
+    "sid": 56,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan qù hǎibiān 。",
+    "Chinese1": "我喜欢去海边。",
+    "Translate1": "I like to go to the beach."
+  },
+  {
+    "sid": 57,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan hēkāfēi háishi chá ？",
+    "Chinese1": "你喜欢喝咖啡还是茶？",
+    "Translate1": "Do you like coffee or tea?"
+  },
+  {
+    "sid": 58,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "en ， wǒ yě shì 。",
+    "Chinese1": "嗯，我也是。",
+    "Translate1": "Yum, me too."
+  },
+  {
+    "sid": 59,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ jīntiān hěn máng 。",
+    "Chinese1": "我今天很忙。",
+    "Translate1": "I am very busy today."
+  },
+  {
+    "sid": 60,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan chī qiǎokèlì 。",
+    "Chinese1": "我喜欢吃巧克力。",
+    "Translate1": "I like to eat chocolate."
+  },
+  {
+    "sid": 61,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ zài gànshénme ？",
+    "Chinese1": "你在干什么？",
+    "Translate1": "What are you up to?"
+  },
+  {
+    "sid": 62,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ juéde zhèbù diànshìjù hěn hǎokàn 。",
+    "Chinese1": "我觉得这部电视剧很好看。",
+    "Translate1": "I think this TV show is very good."
+  },
+  {
+    "sid": 63,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jīntiān wǒ méiyǒu shíjiān 。",
+    "Chinese1": "今天我没有时间。",
+    "Translate1": "I don't have time today."
+  },
+  {
+    "sid": 64,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xīn de yìdàlì cāntīng zěnmeyàng ？",
+    "Chinese1": "新的意大利餐厅怎么样？",
+    "Translate1": "How about that new Italian place?"
+  },
+  {
+    "sid": 65,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xǐhuan dǎlánqiú 。",
+    "Chinese1": "我喜欢打篮球。",
+    "Translate1": "I like to play basketball."
+  },
+  {
+    "sid": 66,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen lái pāigè zhào bā 。",
+    "Chinese1": "我们来拍个照吧。",
+    "Translate1": "Let's take a picture together."
+  },
+  {
+    "sid": 67,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "yǒu shénme xīnxiānshì ma ？",
+    "Chinese1": "有什么新鲜事吗？",
+    "Translate1": "What's new?"
+  },
+  {
+    "sid": 68,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "xīn de mànwēi diànyǐng 。",
+    "Chinese1": "新的漫威电影。",
+    "Translate1": "The new Marvel movie."
+  },
+  {
+    "sid": 69,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jiùshì xiánguàng 。",
+    "Chinese1": "就是闲逛。",
+    "Translate1": "Just hanging out."
+  },
+  {
+    "sid": 70,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tā xǐhuan kàn diànyǐng 。",
+    "Chinese1": "他喜欢看电影。",
+    "Translate1": "He likes to watch movies."
+  },
+  {
+    "sid": 71,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan nǎ zhǒng yīnyuè ？",
+    "Chinese1": "你喜欢哪种音乐？",
+    "Translate1": "What kind of music do you like?"
+  },
+  {
+    "sid": 72,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nàme ， nǐ zuìjìn yǒu shénme xīnxiānshì ma ？",
+    "Chinese1": "那么，你最近有什么新鲜事吗？",
+    "Translate1": "So, what's new with you?"
+  },
+  {
+    "sid": 73,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jīntiāntiānqì bùcuò 。",
+    "Chinese1": "今天天气不错。",
+    "Translate1": "The weather is nice today."
+  },
+  {
+    "sid": 74,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ juéde zhè dàocài hàochī ma ？",
+    "Chinese1": "你觉得这道菜好吃吗？",
+    "Translate1": "Do you think this dish is delicious?"
+  },
+  {
+    "sid": 75,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "hěn hǎo ， xièxie 。",
+    "Chinese1": "很好，谢谢。",
+    "Translate1": "Very good, thank you."
+  },
+  {
+    "sid": 76,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ yě xǐhuan 。",
+    "Chinese1": "我也喜欢。",
+    "Translate1": "I like it too."
+  },
+  {
+    "sid": 77,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yǒu shénme jìhuà ma ？",
+    "Chinese1": "你有什么计划吗？",
+    "Translate1": "Do you have any plans?"
+  },
+  {
+    "sid": 78,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ chī le ma ？",
+    "Chinese1": "你吃了吗？",
+    "Translate1": "Have you eaten?"
+  },
+  {
+    "sid": 79,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zàijiàn 。",
+    "Chinese1": "再见。",
+    "Translate1": "Goodbye."
+  },
+  {
+    "sid": 80,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ huì yóuyǒng ma ？",
+    "Chinese1": "你会游泳吗？",
+    "Translate1": "Can you swim?"
+  },
+  {
+    "sid": 81,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zuìjìn wǒ xǐhuan shàng le yuèdú 。",
+    "Chinese1": "最近我喜欢上了阅读。",
+    "Translate1": "Recently, I've developed a love for reading."
+  },
+  {
+    "sid": 82,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhèzhāng zhàopiàn zhēn piàoliang 。",
+    "Chinese1": "这张照片真漂亮。",
+    "Translate1": "This photo is really beautiful."
+  },
+  {
+    "sid": 83,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ yǒu shénme jìhuà ？",
+    "Chinese1": "你有什么计划？",
+    "Translate1": "Do you have any plans?"
+  },
+  {
+    "sid": 84,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ zài nǎlǐ ？",
+    "Chinese1": "你在哪里？",
+    "Translate1": "Where are you?"
+  },
+  {
+    "sid": 85,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jiēshang de jiǔbā zěnmeyàng ？",
+    "Chinese1": "街上的酒吧怎么样？",
+    "Translate1": "How about the bar down the street?"
+  },
+  {
+    "sid": 86,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jǐdiǎn ？",
+    "Chinese1": "几点？",
+    "Translate1": "What time?"
+  },
+  {
+    "sid": 87,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ de gōngzuò zěnmeyàng ？",
+    "Chinese1": "你的工作怎么样？",
+    "Translate1": "How is your job going?"
+  },
+  {
+    "sid": 88,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "yībēi píjiǔ 。",
+    "Chinese1": "一杯啤酒。",
+    "Translate1": "A beer, please."
+  },
+  {
+    "sid": 89,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xiǎng mǎi yīshuāng xīnxié 。",
+    "Chinese1": "我想买一双新鞋。",
+    "Translate1": "I want to buy a new pair of shoes."
+  },
+  {
+    "sid": 90,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "yǒu shénme hǎokàn de ？",
+    "Chinese1": "有什么好看的？",
+    "Translate1": "What's playing?"
+  },
+  {
+    "sid": 91,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "hěn máng ， dànshì háihǎo 。",
+    "Chinese1": "很忙，但是还好。",
+    "Translate1": "It's busy, but good."
+  },
+  {
+    "sid": 92,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan lǚyóu ma ？",
+    "Chinese1": "你喜欢旅游吗？",
+    "Translate1": "Do you like to travel?"
+  },
+  {
+    "sid": 93,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen kěyǐ liáo yīxià zúqiúbǐsài ma ？",
+    "Chinese1": "我们可以聊一下足球比赛吗？",
+    "Translate1": "Can we talk about the football game?"
+  },
+  {
+    "sid": 94,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nà hěnkù 。",
+    "Chinese1": "那很酷。",
+    "Translate1": "That's cool."
+  },
+  {
+    "sid": 95,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ yě méi chī 。",
+    "Chinese1": "我也没吃。",
+    "Translate1": "I haven't eaten either."
+  },
+  {
+    "sid": 96,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xiǎng chī diǎn shénme ？",
+    "Chinese1": "你想吃点什么？",
+    "Translate1": "What do you want to eat?"
+  },
+  {
+    "sid": 97,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhège zhōumò nǐ yǒu shénme jìhuà ？",
+    "Chinese1": "这个周末你有什么计划？",
+    "Translate1": "What are you doing this weekend?"
+  },
+  {
+    "sid": 98,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen yào qù gòuwùzhōngxīn 。",
+    "Chinese1": "我们要去购物中心。",
+    "Translate1": "We are going to the shopping mall."
+  },
+  {
+    "sid": 99,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "háihǎo lā 。",
+    "Chinese1": "还好啦。",
+    "Translate1": "It was fine."
+  },
+  {
+    "sid": 100,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen míngtiān jiàn 。",
+    "Chinese1": "我们明天见。",
+    "Translate1": "See you tomorrow."
+  },
+  {
+    "sid": 101,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ jiào shénme ？",
+    "Chinese1": "你教什么？",
+    "Translate1": "What do you teach?"
+  },
+  {
+    "sid": 102,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "qīdiǎn zěnmeyàng ？",
+    "Chinese1": "七点怎么样？",
+    "Translate1": "How about 7 pm?"
+  },
+  {
+    "sid": 103,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ huì shuō zhōngwén ma ？",
+    "Chinese1": "你会说中文吗？",
+    "Translate1": "Do you speak Chinese?"
+  },
+  {
+    "sid": 104,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xūyào wǒ zuòxiē shénme ？",
+    "Chinese1": "你需要我做些什么？",
+    "Translate1": "What do you need me to do?"
+  },
+  {
+    "sid": 105,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xiǎng qù kàn diànyǐng 。",
+    "Chinese1": "我想去看电影。",
+    "Translate1": "I want to go see a movie."
+  },
+  {
+    "sid": 106,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "zhù nǐ shēngrìkuàilè ！",
+    "Chinese1": "祝你生日快乐！",
+    "Translate1": "Happy birthday to you!"
+  },
+  {
+    "sid": 107,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "hǎo a 。",
+    "Chinese1": "好啊。",
+    "Translate1": "Sounds good."
+  },
+  {
+    "sid": 108,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "méishénme ， jiùshì gōngzuò 。",
+    "Chinese1": "没什么，就是工作。",
+    "Translate1": "Not much, just working."
+  },
+  {
+    "sid": 109,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ zài jiālǐ 。",
+    "Chinese1": "我在家里。",
+    "Translate1": "I'm at home."
+  },
+  {
+    "sid": 110,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒmen xiàzhōu kěyǐ yīqǐ qù kàn diànyǐng 。",
+    "Chinese1": "我们下周可以一起去看电影。",
+    "Translate1": "We can go watch a movie together next week."
+  },
+  {
+    "sid": 111,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "hǎo de ， wǒ qù kànkan 。",
+    "Chinese1": "好的，我去看看。",
+    "Translate1": "Okay, I'll go check it out."
+  },
+  {
+    "sid": 112,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "duì wǒ láishuō hěn hǎo 。",
+    "Chinese1": "对我来说很好。",
+    "Translate1": "Sounds good to me."
+  },
+  {
+    "sid": 113,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "dāngrán ， wǒ kěyǐ gěi nǐ yīxiē jiànyì 。",
+    "Chinese1": "当然，我可以给你一些建议。",
+    "Translate1": "Sure, I can give you some tips."
+  },
+  {
+    "sid": 114,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "hǎojiǔbujiàn le ， zuìjìn zěnmeyàng ？",
+    "Chinese1": "好久不见了，最近怎么样？",
+    "Translate1": "Long time no see, how have you been?"
+  },
+  {
+    "sid": 115,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "jīntiāntiānqì zhēnbùcuò 。",
+    "Chinese1": "今天天气真不错。",
+    "Translate1": "The weather is really nice today."
+  },
+  {
+    "sid": 116,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "méiguānxi 。",
+    "Chinese1": "没关系。",
+    "Translate1": "It's okay."
+  },
+  {
+    "sid": 117,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "dāngrán ， nǐ xiǎng qù nǎlǐ ？",
+    "Chinese1": "当然，你想去哪里？",
+    "Translate1": "Sure, where do you want to go?"
+  },
+  {
+    "sid": 118,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "gānbēi ！",
+    "Chinese1": "干杯！",
+    "Translate1": "Cheers!"
+  },
+  {
+    "sid": 119,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "wǒ xiǎng chī miàntiáo 。",
+    "Chinese1": "我想吃面条。",
+    "Translate1": "I want to eat noodles."
+  },
+  {
+    "sid": 120,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "duìbuqǐ 。",
+    "Chinese1": "对不起。",
+    "Translate1": "I'm sorry."
+  },
+  {
+    "sid": 121,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "hái bù quèdìng 。",
+    "Chinese1": "还不确定。",
+    "Translate1": "Not sure yet."
+  },
+  {
+    "sid": 122,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "nǐ xǐhuan kànshū ma ？",
+    "Chinese1": "你喜欢看书吗？",
+    "Translate1": "Do you like to read books?"
+  },
+  {
+    "sid": 123,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tāmen zài xuéxí zhōngwén 。",
+    "Chinese1": "他们在学习中文。",
+    "Translate1": "They are learning Chinese."
+  },
+  {
+    "sid": 124,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "tīng qǐlai hěn yǒuqù 。",
+    "Chinese1": "听起来很有趣。",
+    "Translate1": "Sounds fun."
+  },
+  {
+    "sid": 125,
+    "Type": "",
+    "Desc": "",
+    "Pinyin1": "yīgè sānmíngzhì 。",
+    "Chinese1": "一个三明治。",
+    "Translate1": "A sandwich."
+  }
+]
