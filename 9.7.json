@@ -1,0 +1,1087 @@
+[
+  {
+    "Pinyin1": "nǐhǎo ！",
+    "Chinese1": "你好！",
+    "Translate1": "Hello!"
+  },
+  {
+    "Pinyin1": "xièxie ！",
+    "Chinese1": "谢谢！",
+    "Translate1": "Thank you!"
+  },
+  {
+    "Pinyin1": "bù kèqi 。",
+    "Chinese1": "不客气。",
+    "Translate1": "You're welcome."
+  },
+  {
+    "Pinyin1": "duìbuqǐ 。",
+    "Chinese1": "对不起。",
+    "Translate1": "I'm sorry."
+  },
+  {
+    "Pinyin1": "méiguānxi 。",
+    "Chinese1": "没关系。",
+    "Translate1": "It's okay."
+  },
+  {
+    "Pinyin1": "zàijiàn ！",
+    "Chinese1": "再见！",
+    "Translate1": "Goodbye!"
+  },
+  {
+    "Pinyin1": "wǒ jiào zhānglì 。",
+    "Chinese1": "我叫张丽。",
+    "Translate1": "My name is Zhang Li."
+  },
+  {
+    "Pinyin1": "nǐhǎo ma ？",
+    "Chinese1": "你好吗？",
+    "Translate1": "How are you?"
+  },
+  {
+    "Pinyin1": "wǒ hěn hǎo 。",
+    "Chinese1": "我很好。",
+    "Translate1": "I'm fine."
+  },
+  {
+    "Pinyin1": "nǐ shì nǎ guórén ？",
+    "Chinese1": "你是哪国人？",
+    "Translate1": "What's your nationality?"
+  },
+  {
+    "Pinyin1": "wǒ shì zhōngguó rén 。",
+    "Chinese1": "我是中国人。",
+    "Translate1": "I'm Chinese."
+  },
+  {
+    "Pinyin1": "nǐ huì shuō zhōngwén ma ？",
+    "Chinese1": "你会说中文吗？",
+    "Translate1": "Can you speak Chinese?"
+  },
+  {
+    "Pinyin1": "huì yīdiǎnr 。",
+    "Chinese1": "会一点儿。",
+    "Translate1": "I can speak a little bit."
+  },
+  {
+    "Pinyin1": "qǐngwèn xǐshǒujiān zài nǎlǐ ？",
+    "Chinese1": "请问洗手间在哪里？",
+    "Translate1": "Excuse me, where is the bathroom?"
+  },
+  {
+    "Pinyin1": "nǐ yào hēshuǐ ma ？",
+    "Chinese1": "你要喝水吗？",
+    "Translate1": "Do you want to drink water?"
+  },
+  {
+    "Pinyin1": "wǒ xiǎng hēchá 。",
+    "Chinese1": "我想喝茶。",
+    "Translate1": "I want to drink tea."
+  },
+  {
+    "Pinyin1": "zhèshì shénme ？",
+    "Chinese1": "这是什么？",
+    "Translate1": "What is this?"
+  },
+  {
+    "Pinyin1": "nà shì shéi ？",
+    "Chinese1": "那是谁？",
+    "Translate1": "Who is that?"
+  },
+  {
+    "Pinyin1": "nǐ xǐhuan zhōngguó cài ma ？",
+    "Chinese1": "你喜欢中国菜吗？",
+    "Translate1": "Do you like Chinese food?"
+  },
+  {
+    "Pinyin1": "wǒ hěn xǐhuan 。",
+    "Chinese1": "我很喜欢。",
+    "Translate1": "I like it very much."
+  },
+  {
+    "Pinyin1": "jīntiāntiānqì zěnmeyàng ？",
+    "Chinese1": "今天天气怎么样？",
+    "Translate1": "How's the weather today?"
+  },
+  {
+    "Pinyin1": "hěn rè 。",
+    "Chinese1": "很热。",
+    "Translate1": "It's very hot."
+  },
+  {
+    "Pinyin1": "míngtiān huì xiàyǔ 。",
+    "Chinese1": "明天会下雨。",
+    "Translate1": "It will rain tomorrow."
+  },
+  {
+    "Pinyin1": "wǒ zài xué zhōngwén 。",
+    "Chinese1": "我在学中文。",
+    "Translate1": "I'm learning Chinese."
+  },
+  {
+    "Pinyin1": "tā shì lǎoshī 。",
+    "Chinese1": "她是老师。",
+    "Translate1": "She is a teacher."
+  },
+  {
+    "Pinyin1": "wǒ de shēngrì shì bāyuè yīhào 。",
+    "Chinese1": "我的生日是八月一号。",
+    "Translate1": "My birthday is on August 1st."
+  },
+  {
+    "Pinyin1": "wǒmen yīqǐ qù kàn diànyǐngbā 。",
+    "Chinese1": "我们一起去看电影吧。",
+    "Translate1": "Let's go watch a movie together."
+  },
+  {
+    "Pinyin1": "wǒhuì kāichē 。",
+    "Chinese1": "我会开车。",
+    "Translate1": "I can drive."
+  },
+  {
+    "Pinyin1": "tā xǐhuan chànggē 。",
+    "Chinese1": "她喜欢唱歌。",
+    "Translate1": "She likes to sing."
+  },
+  {
+    "Pinyin1": "wǒmen qù gōngyuán wánr bā 。",
+    "Chinese1": "我们去公园玩儿吧。",
+    "Translate1": "Let's go play in the park."
+  },
+  {
+    "Pinyin1": "wǒmen jiāyǒu sìkǒu rén 。",
+    "Chinese1": "我们家有四口人。",
+    "Translate1": "There are four people in my family."
+  },
+  {
+    "Pinyin1": "nǐ xǐhuan yùndòng ma ？",
+    "Chinese1": "你喜欢运动吗？",
+    "Translate1": "Do you like sports?"
+  },
+  {
+    "Pinyin1": "wǒ xǐhuan dǎlánqiú 。",
+    "Chinese1": "我喜欢打篮球。",
+    "Translate1": "I like to play basketball."
+  },
+  {
+    "Pinyin1": "zhège duōshǎo qián ？",
+    "Chinese1": "这个多少钱？",
+    "Translate1": "How much is this?"
+  },
+  {
+    "Pinyin1": "jīntiān jǐhào ？",
+    "Chinese1": "今天几号？",
+    "Translate1": "What's the date today?"
+  },
+  {
+    "Pinyin1": "ràng wǒ xiǎngyīxiǎng 。",
+    "Chinese1": "让我想一想。",
+    "Translate1": "Let me think about it."
+  },
+  {
+    "Pinyin1": "qǐngwèn zhèshì nǎlǐ ？",
+    "Chinese1": "请问这是哪里？",
+    "Translate1": "Excuse me, where is this place?"
+  },
+  {
+    "Pinyin1": "wǒ bù zhīdào 。",
+    "Chinese1": "我不知道。",
+    "Translate1": "I don't know."
+  },
+  {
+    "Pinyin1": "wǒhuì yóuyǒng 。",
+    "Chinese1": "我会游泳。",
+    "Translate1": "I can swim."
+  },
+  {
+    "Pinyin1": "jīntiān hěn lěng 。",
+    "Chinese1": "今天很冷。",
+    "Translate1": "It's very cold today."
+  },
+  {
+    "Pinyin1": "zhèjiàn yīfú hěnpiāoliàng 。",
+    "Chinese1": "这件衣服很漂亮。",
+    "Translate1": "This piece of clothing is very pretty."
+  },
+  {
+    "Pinyin1": "huǒchēzhàn zài nǎlǐ ？",
+    "Chinese1": "火车站在哪里？",
+    "Translate1": "Where is the train station?"
+  },
+  {
+    "Pinyin1": "wǒ hěn máng 。",
+    "Chinese1": "我很忙。",
+    "Translate1": "I'm very busy."
+  },
+  {
+    "Pinyin1": "ràng wǒmen yīqǐ qù chīfàn bā 。",
+    "Chinese1": "让我们一起去吃饭吧。",
+    "Translate1": "Let's go eat together."
+  },
+  {
+    "Pinyin1": "tā xǐhuan kàndiànshì 。",
+    "Chinese1": "他喜欢看电视。",
+    "Translate1": "He likes to watch TV."
+  },
+  {
+    "Pinyin1": "tā mǎi le yīgè xīnshǒujī 。",
+    "Chinese1": "她买了一个新手机。",
+    "Translate1": "She bought a new phone."
+  },
+  {
+    "Pinyin1": "wǒmen xuéxí zhōngwén hěn yǒuqù 。",
+    "Chinese1": "我们学习中文很有趣。",
+    "Translate1": "Learning Chinese is very interesting for us."
+  },
+  {
+    "Pinyin1": "qǐngwèn ， xǐshǒujiān zài nǎr ？",
+    "Chinese1": "请问，洗手间在哪儿？",
+    "Translate1": "Excuse me, where is the restroom?"
+  },
+  {
+    "Pinyin1": "wǒ jiào zhāng sān 。",
+    "Chinese1": "我叫张三。",
+    "Translate1": "My name is Zhang San."
+  },
+  {
+    "Pinyin1": "wǒ bùhuì shuō zhōngwén 。",
+    "Chinese1": "我不会说中文。",
+    "Translate1": "I can't speak Chinese."
+  },
+  {
+    "Pinyin1": "nǐ huì shuō yīngwén ma ？",
+    "Chinese1": "你会说英文吗？",
+    "Translate1": "Do you speak English?"
+  },
+  {
+    "Pinyin1": "wǒ hěn gāoxìng rènshi nǐ 。",
+    "Chinese1": "我很高兴认识你。",
+    "Translate1": "Nice to meet you."
+  },
+  {
+    "Pinyin1": "wǒmen qù chīfàn bā ！",
+    "Chinese1": "我们去吃饭吧！",
+    "Translate1": "Let's go eat!"
+  },
+  {
+    "Pinyin1": "zhège duōshǎo qián ？",
+    "Chinese1": "这个多少钱？",
+    "Translate1": "How much does this cost?"
+  },
+  {
+    "Pinyin1": "wǒ xǐhuan zhōngguó cài 。",
+    "Chinese1": "我喜欢中国菜。",
+    "Translate1": "I like Chinese food."
+  },
+  {
+    "Pinyin1": "wǒ bù xǐhuan hēchá 。",
+    "Chinese1": "我不喜欢喝茶。",
+    "Translate1": "I don't like drinking tea."
+  },
+  {
+    "Pinyin1": "tā shì wǒ de péngyou 。",
+    "Chinese1": "他是我的朋友。",
+    "Translate1": "He is my friend."
+  },
+  {
+    "Pinyin1": "tā hěnpiāoliàng 。",
+    "Chinese1": "她很漂亮。",
+    "Translate1": "She is very pretty."
+  },
+  {
+    "Pinyin1": "zhèlǐ hěn rè 。",
+    "Chinese1": "这里很热。",
+    "Translate1": "It's hot here."
+  },
+  {
+    "Pinyin1": "nàgè rén shì shéi ？",
+    "Chinese1": "那个人是谁？",
+    "Translate1": "Who is that person?"
+  },
+  {
+    "Pinyin1": "bàbàmāmā dōu hěn máng 。",
+    "Chinese1": "爸爸妈妈都很忙。",
+    "Translate1": "Dad and Mom are both busy."
+  },
+  {
+    "Pinyin1": "wǒmen yīqǐ xuéxí hànyǔ 。",
+    "Chinese1": "我们一起学习汉语。",
+    "Translate1": "Let's study Chinese together."
+  },
+  {
+    "Pinyin1": "néng bāng wǒ ma ？",
+    "Chinese1": "能帮我吗？",
+    "Translate1": "Can you help me?"
+  },
+  {
+    "Pinyin1": "wǒ xiǎngyào yībēi kāfēi 。",
+    "Chinese1": "我想要一杯咖啡。",
+    "Translate1": "I want a cup of coffee."
+  },
+  {
+    "Pinyin1": "tā xǐhuan kàn diànyǐng 。",
+    "Chinese1": "他喜欢看电影。",
+    "Translate1": "He likes watching movies."
+  },
+  {
+    "Pinyin1": "tā xǐhuan chànggē 。",
+    "Chinese1": "她喜欢唱歌。",
+    "Translate1": "She likes singing."
+  },
+  {
+    "Pinyin1": "wǒmen míngtiān jiàn 。",
+    "Chinese1": "我们明天见。",
+    "Translate1": "See you tomorrow."
+  },
+  {
+    "Pinyin1": "wǒyào mǎi yījiàn chènshān 。",
+    "Chinese1": "我要买一件衬衫。",
+    "Translate1": "I want to buy a shirt."
+  },
+  {
+    "Pinyin1": "zhège dìfāng hěn měi 。",
+    "Chinese1": "这个地方很美。",
+    "Translate1": "This place is beautiful."
+  },
+  {
+    "Pinyin1": "tā hěn cōngming 。",
+    "Chinese1": "他很聪明。",
+    "Translate1": "He is intelligent."
+  },
+  {
+    "Pinyin1": "tā hěn qínláo 。",
+    "Chinese1": "她很勤劳。",
+    "Translate1": "She is hardworking."
+  },
+  {
+    "Pinyin1": "wǒmen kěyǐ zuò péngyou ma ？",
+    "Chinese1": "我们可以做朋友吗？",
+    "Translate1": "Can we be friends?"
+  },
+  {
+    "Pinyin1": "wǒmen kěyǐ yīqǐ wánr 。",
+    "Chinese1": "我们可以一起玩儿。",
+    "Translate1": "We can play together."
+  },
+  {
+    "Pinyin1": "wǒ zhù zài běijīng 。",
+    "Chinese1": "我住在北京。",
+    "Translate1": "I live in Beijing."
+  },
+  {
+    "Pinyin1": "nǐ xǐhuan shénme yánsè ？",
+    "Chinese1": "你喜欢什么颜色？",
+    "Translate1": "What's your favorite color?"
+  },
+  {
+    "Pinyin1": "tā xǐhuan chīshuǐguǒ 。",
+    "Chinese1": "他喜欢吃水果。",
+    "Translate1": "He likes eating fruit."
+  },
+  {
+    "Pinyin1": "tā xǐhuan guàngshāngchǎng 。",
+    "Chinese1": "她喜欢逛商场。",
+    "Translate1": "She likes shopping."
+  },
+  {
+    "Pinyin1": "jīntiān xīngqī jǐ ？",
+    "Chinese1": "今天星期几？",
+    "Translate1": "What day is it today?"
+  },
+  {
+    "Pinyin1": "wǒ de diànhuàhàomǎ shì yīèrsān4wǔliù7 。",
+    "Chinese1": "我的电话号码是1234567。",
+    "Translate1": "My phone number is 1234567."
+  },
+  {
+    "Pinyin1": "wǒmen kěyǐ yòng zhōngwén jiāotán 。",
+    "Chinese1": "我们可以用中文交谈。",
+    "Translate1": "We can talk in Chinese."
+  },
+  {
+    "Pinyin1": "zhège fángjiān hěndà 。",
+    "Chinese1": "这个房间很大。",
+    "Translate1": "This room is big."
+  },
+  {
+    "Pinyin1": "zhège diànshì hěn guì 。",
+    "Chinese1": "这个电视很贵。",
+    "Translate1": "This TV is expensive."
+  },
+  {
+    "Pinyin1": "wǒ ài wǒ de jiārén 。",
+    "Chinese1": "我爱我的家人。",
+    "Translate1": "I love my family."
+  },
+  {
+    "Pinyin1": "tā hěn gāoxìng 。",
+    "Chinese1": "他很高兴。",
+    "Translate1": "He is happy."
+  },
+  {
+    "Pinyin1": "tā hěn shāngxīn 。",
+    "Chinese1": "她很伤心。",
+    "Translate1": "She is sad."
+  },
+  {
+    "Pinyin1": "wǒmen yào qù nǎr ？",
+    "Chinese1": "我们要去哪儿？",
+    "Translate1": "Where are we going?"
+  },
+  {
+    "Pinyin1": "wǒmen zài zuò shénme ？",
+    "Chinese1": "我们在做什么？",
+    "Translate1": "What are we doing?"
+  },
+  {
+    "Pinyin1": "qǐng bùyào chǎo 。",
+    "Chinese1": "请不要吵。",
+    "Translate1": "Please don't be noisy."
+  },
+  {
+    "Pinyin1": "wǒ xūyào yīzhāng piào 。",
+    "Chinese1": "我需要一张票。",
+    "Translate1": "I need a ticket."
+  },
+  {
+    "Pinyin1": "wǒhuì shuō hànyǔ 。",
+    "Chinese1": "我会说汉语。",
+    "Translate1": "I can speak Chinese."
+  },
+  {
+    "Pinyin1": "wǒmen kěyǐ zuò chūzūchē qù 。",
+    "Chinese1": "我们可以坐出租车去。",
+    "Translate1": "We can take a taxi there."
+  },
+  {
+    "Pinyin1": "xièxie 。",
+    "Chinese1": "谢谢。",
+    "Translate1": "Thank you."
+  },
+  {
+    "Pinyin1": "duìbuqǐ 。",
+    "Chinese1": "对不起。",
+    "Translate1": "Sorry."
+  },
+  {
+    "Pinyin1": "shì de 。",
+    "Chinese1": "是的。",
+    "Translate1": "Yes."
+  },
+  {
+    "Pinyin1": "bùshì 。",
+    "Chinese1": "不是。",
+    "Translate1": "No."
+  },
+  {
+    "Pinyin1": "shì a 。",
+    "Chinese1": "是啊。",
+    "Translate1": "Yeah."
+  },
+  {
+    "Pinyin1": "bùcuò 。",
+    "Chinese1": "不错。",
+    "Translate1": "Not bad."
+  },
+  {
+    "Pinyin1": "duōshǎo qián ？",
+    "Chinese1": "多少钱？",
+    "Translate1": "How much does it cost?"
+  },
+  {
+    "Pinyin1": "wǒmen kāishǐ bā 。",
+    "Chinese1": "我们开始吧。",
+    "Translate1": "Let's start."
+  },
+  {
+    "Pinyin1": "xiànzài jǐdiǎn ？",
+    "Chinese1": "现在几点？",
+    "Translate1": "What time is it now?"
+  },
+  {
+    "Pinyin1": "wǒmen qù nǎlǐ ？",
+    "Chinese1": "我们去哪里？",
+    "Translate1": "Where are we going?"
+  },
+  {
+    "Pinyin1": "wǒ è le 。",
+    "Chinese1": "我饿了。",
+    "Translate1": "I'm hungry."
+  },
+  {
+    "Pinyin1": "wǒkě le 。",
+    "Chinese1": "我渴了。",
+    "Translate1": "I'm thirsty."
+  },
+  {
+    "Pinyin1": "wǒlěi le 。",
+    "Chinese1": "我累了。",
+    "Translate1": "I'm tired."
+  },
+  {
+    "Pinyin1": "wǒ hěn gāoxìng 。",
+    "Chinese1": "我很高兴。",
+    "Translate1": "I'm happy."
+  },
+  {
+    "Pinyin1": "wǒ hěn nánguò 。",
+    "Chinese1": "我很难过。",
+    "Translate1": "I'm sad."
+  },
+  {
+    "Pinyin1": "wǒhuì shuō yīdiǎn zhōngwén 。",
+    "Chinese1": "我会说一点中文。",
+    "Translate1": "I can speak a little Chinese."
+  },
+  {
+    "Pinyin1": "wǒ tīngbudǒng 。",
+    "Chinese1": "我听不懂。",
+    "Translate1": "I don't understand."
+  },
+  {
+    "Pinyin1": "qǐng zàishuō yībiàn 。",
+    "Chinese1": "请再说一遍。",
+    "Translate1": "Please say it again."
+  },
+  {
+    "Pinyin1": "nǐ huì jiǎng yīngyǔ ma ？",
+    "Chinese1": "你会讲英语吗？",
+    "Translate1": "Do you speak English?"
+  },
+  {
+    "Pinyin1": "wǒ xiǎng qù běijīng 。",
+    "Chinese1": "我想去北京。",
+    "Translate1": "I want to go to Beijing."
+  },
+  {
+    "Pinyin1": "zhège dōngxi hěn piányi 。",
+    "Chinese1": "这个东西很便宜。",
+    "Translate1": "This thing is very cheap."
+  },
+  {
+    "Pinyin1": "wǒyào mǎi zhège 。",
+    "Chinese1": "我要买这个。",
+    "Translate1": "I want to buy this."
+  },
+  {
+    "Pinyin1": "zhè shì wǒ de péngyou 。",
+    "Chinese1": "这是我的朋友。",
+    "Translate1": "This is my friend."
+  },
+  {
+    "Pinyin1": "wǒmen shì yījiārén 。",
+    "Chinese1": "我们是一家人。",
+    "Translate1": "We are a family."
+  },
+  {
+    "Pinyin1": "tā shì wǒ de lǎoshī 。",
+    "Chinese1": "他是我的老师。",
+    "Translate1": "He is my teacher."
+  },
+  {
+    "Pinyin1": "tā shì wǒ de tóngshì 。",
+    "Chinese1": "她是我的同事。",
+    "Translate1": "She is my colleague."
+  },
+  {
+    "Pinyin1": "zhè shì wǒ de diànhuàhàomǎ 。",
+    "Chinese1": "这是我的电话号码。",
+    "Translate1": "This is my telephone number."
+  },
+  {
+    "Pinyin1": "wǒ xǐhuan kàndiànshì 。",
+    "Chinese1": "我喜欢看电视。",
+    "Translate1": "I like watching TV."
+  },
+  {
+    "Pinyin1": "wǒ bù xǐhuan yùndòng 。",
+    "Chinese1": "我不喜欢运动。",
+    "Translate1": "I don't like sports."
+  },
+  {
+    "Pinyin1": "wǒ yǒu yīgè wèntí 。",
+    "Chinese1": "我有一个问题。",
+    "Translate1": "I have a question."
+  },
+  {
+    "Pinyin1": "qǐng bāng wǒ 。",
+    "Chinese1": "请帮我。",
+    "Translate1": "Please help me."
+  },
+  {
+    "Pinyin1": "shéi zhīdào ？",
+    "Chinese1": "谁知道？",
+    "Translate1": "Who knows?"
+  },
+  {
+    "Pinyin1": "wǒ míngbai le 。",
+    "Chinese1": "我明白了。",
+    "Translate1": "I understand."
+  },
+  {
+    "Pinyin1": "wǒhuì huílai de 。",
+    "Chinese1": "我会回来的。",
+    "Translate1": "I will come back."
+  },
+  {
+    "Pinyin1": "wǒ zài xuéxí zhōngwén 。",
+    "Chinese1": "我在学习中文。",
+    "Translate1": "I'm learning Chinese."
+  },
+  {
+    "Pinyin1": "wǒ yǐjīng chīguòfàn le 。",
+    "Chinese1": "我已经吃过饭了。",
+    "Translate1": "I've already eaten."
+  },
+  {
+    "Pinyin1": "wǒ hái méi chīfàn 。",
+    "Chinese1": "我还没吃饭。",
+    "Translate1": "I haven't eaten yet."
+  },
+  {
+    "Pinyin1": "wǒ kěyǐ yòng yīxià cèsuǒ ma ？",
+    "Chinese1": "我可以用一下厕所吗？",
+    "Translate1": "Can I use the restroom?"
+  },
+  {
+    "Pinyin1": "zhèlǐ yǒu miǎnfèi de Wifi ma ？",
+    "Chinese1": "这里有免费的WiFi吗？",
+    "Translate1": "Is there free WiFi here?"
+  },
+  {
+    "Pinyin1": "wǒyào qù jīchǎng 。",
+    "Chinese1": "我要去机场。",
+    "Translate1": "I want to go to the airport."
+  },
+  {
+    "Pinyin1": "wǒ zhèngzài zhǎo gōngzuò 。",
+    "Chinese1": "我正在找工作。",
+    "Translate1": "I am looking for a job."
+  },
+  {
+    "Pinyin1": "wǒ qùguò shànghǎi 。",
+    "Chinese1": "我去过上海。",
+    "Translate1": "I have been to Shanghai."
+  },
+  {
+    "Pinyin1": "wǒ shì xuésheng 。",
+    "Chinese1": "我是学生。",
+    "Translate1": "I am a student."
+  },
+  {
+    "Pinyin1": "nǐ jiào shénme míngzì ？",
+    "Chinese1": "你叫什么名字？",
+    "Translate1": "What's your name?"
+  },
+  {
+    "Pinyin1": "wǒmen shì péngyou 。",
+    "Chinese1": "我们是朋友。",
+    "Translate1": "We are friends."
+  },
+  {
+    "Pinyin1": "jīntiāntiānqì hěn hǎo 。",
+    "Chinese1": "今天天气很好。",
+    "Translate1": "The weather is very nice today."
+  },
+  {
+    "Pinyin1": "nǐ huì shuō yīngyǔ ma ？",
+    "Chinese1": "你会说英语吗？",
+    "Translate1": "Do you speak English?"
+  },
+  {
+    "Pinyin1": "wǒmen qù kàn diànyǐngbā 。",
+    "Chinese1": "我们去看电影吧。",
+    "Translate1": "Let's go watch a movie."
+  },
+  {
+    "Pinyin1": "tā shì wǒ de tóngxué 。",
+    "Chinese1": "她是我的同学。",
+    "Translate1": "She is my classmate."
+  },
+  {
+    "Pinyin1": "tā xǐhuan hēchá 。",
+    "Chinese1": "他喜欢喝茶。",
+    "Translate1": "He likes to drink tea."
+  },
+  {
+    "Pinyin1": "tā měitiān dōu qù shàngxué 。",
+    "Chinese1": "她每天都去上学。",
+    "Translate1": "She goes to school every day."
+  },
+  {
+    "Pinyin1": "wǒmen kěyǐ zuòzài zhèlǐ ma ？",
+    "Chinese1": "我们可以坐在这里吗？",
+    "Translate1": "Can we sit here?"
+  },
+  {
+    "Pinyin1": "wǒmen xiǎng qù lǚyóu 。",
+    "Chinese1": "我们想去旅游。",
+    "Translate1": "We want to travel."
+  },
+  {
+    "Pinyin1": "tā de hànyǔ hěn hǎo 。",
+    "Chinese1": "他的汉语很好。",
+    "Translate1": "His Chinese is very good."
+  },
+  {
+    "Pinyin1": "tā de yīfú hěnpiāoliàng 。",
+    "Chinese1": "她的衣服很漂亮。",
+    "Translate1": "Her clothes are very pretty."
+  },
+  {
+    "Pinyin1": "tāmen yīqǐ gōngzuò 。",
+    "Chinese1": "他们一起工作。",
+    "Translate1": "They work together."
+  },
+  {
+    "Pinyin1": "zhèshì shénme dōngxi ？",
+    "Chinese1": "这是什么东西？",
+    "Translate1": "What is this thing?"
+  },
+  {
+    "Pinyin1": "nàgè dìfāng hěn yuǎn 。",
+    "Chinese1": "那个地方很远。",
+    "Translate1": "That place is far away."
+  },
+  {
+    "Pinyin1": "nǐ xiǎng hēshuǐ ma ？",
+    "Chinese1": "你想喝水吗？",
+    "Translate1": "Do you want to drink water?"
+  },
+  {
+    "Pinyin1": "wǒmen zài gōngyuán lǐ sànbù 。",
+    "Chinese1": "我们在公园里散步。",
+    "Translate1": "We are taking a walk in the park."
+  },
+  {
+    "Pinyin1": "tā de gǒu hěn kěài 。",
+    "Chinese1": "她的狗很可爱。",
+    "Translate1": "Her dog is very cute."
+  },
+  {
+    "Pinyin1": "wǒmen kěyǐ yīqǐ qù gòuwù 。",
+    "Chinese1": "我们可以一起去购物。",
+    "Translate1": "We can go shopping together."
+  },
+  {
+    "Pinyin1": "zhège cài hěn là 。",
+    "Chinese1": "这个菜很辣。",
+    "Translate1": "This dish is very spicy."
+  },
+  {
+    "Pinyin1": "wǒmen kěyǐ dǎdiànhuà ma ？",
+    "Chinese1": "我们可以打电话吗？",
+    "Translate1": "Can we make a phone call?"
+  },
+  {
+    "Pinyin1": "xiànzài jǐdiǎn le ？",
+    "Chinese1": "现在几点了？",
+    "Translate1": "What time is it now?"
+  },
+  {
+    "Pinyin1": "dàjiā hǎo ！",
+    "Chinese1": "大家好！",
+    "Translate1": "Hello, everyone!"
+  },
+  {
+    "Pinyin1": "zhège diànyǐng hěn yǒuqù 。",
+    "Chinese1": "这个电影很有趣。",
+    "Translate1": "This movie is very interesting."
+  },
+  {
+    "Pinyin1": "wǒmen kěyǐ yīqǐ chīfàn ma ？",
+    "Chinese1": "我们可以一起吃饭吗？",
+    "Translate1": "Can we eat together?"
+  },
+  {
+    "Pinyin1": "tāmen zài xuéxiào lǐ xuéxí 。",
+    "Chinese1": "他们在学校里学习。",
+    "Translate1": "They study at school."
+  },
+  {
+    "Pinyin1": "zhè shì wǒ de shǒujī 。",
+    "Chinese1": "这是我的手机。",
+    "Translate1": "This is my cell phone."
+  },
+  {
+    "Pinyin1": "nǐ xǐhuan shénme yánsè ？",
+    "Chinese1": "你喜欢什么颜色？",
+    "Translate1": "What color do you like?"
+  },
+  {
+    "Pinyin1": "wǒmen kěyǐ zuòdìtiě qù nàr 。",
+    "Chinese1": "我们可以坐地铁去那儿。",
+    "Translate1": "We can take the subway there."
+  },
+  {
+    "Pinyin1": "tāmen xǐhuan kàndiànshì 。",
+    "Chinese1": "他们喜欢看电视。",
+    "Translate1": "They like to watch TV."
+  },
+  {
+    "Pinyin1": "tā de shēngrì shì jǐyuè jǐhào ？",
+    "Chinese1": "她的生日是几月几号？",
+    "Translate1": "What is her birthday?"
+  },
+  {
+    "Pinyin1": "wǒmen kěyǐ qù túshūguǎn ma ？",
+    "Chinese1": "我们可以去图书馆吗？",
+    "Translate1": "Can we go to the library?"
+  },
+  {
+    "Pinyin1": "zhège fángjiān hěndà 。",
+    "Chinese1": "这个房间很大。",
+    "Translate1": "This room is very big."
+  },
+  {
+    "Pinyin1": "wǒmen xǐhuan tīng yīnyuè 。",
+    "Chinese1": "我们喜欢听音乐。",
+    "Translate1": "We like listening to music."
+  },
+  {
+    "Pinyin1": "tāmen zài yóuyǒngchí lǐ yóuyǒng 。",
+    "Chinese1": "他们在游泳池里游泳。",
+    "Translate1": "They are swimming in the pool."
+  },
+  {
+    "Pinyin1": "zhè shì wǒ de jiā 。",
+    "Chinese1": "这是我的家。",
+    "Translate1": "This is my home."
+  },
+  {
+    "Pinyin1": "wǒmen kěyǐ qù gōngyuán wán ma ？",
+    "Chinese1": "我们可以去公园玩吗？",
+    "Translate1": "Can we go play in the park?"
+  },
+  {
+    "Pinyin1": "wǒ de péngyou hěnduō 。",
+    "Chinese1": "我的朋友很多。",
+    "Translate1": "I have many friends."
+  },
+  {
+    "Pinyin1": "tā xǐhuan kàn diànyǐng 。",
+    "Chinese1": "她喜欢看电影。",
+    "Translate1": "She likes to watch movies."
+  },
+  {
+    "Pinyin1": "qǐngwèn ， cèsuǒ zài nǎr ？",
+    "Chinese1": "请问，厕所在哪儿？",
+    "Translate1": "Excuse me, where is the restroom?"
+  },
+  {
+    "Pinyin1": "nín guìxìng ？",
+    "Chinese1": "您贵姓？",
+    "Translate1": "What's your surname?"
+  },
+  {
+    "Pinyin1": "wǒ hěn hǎo 。",
+    "Chinese1": "我很好。",
+    "Translate1": "I'm fine/very well."
+  },
+  {
+    "Pinyin1": "wǒyào yīgè kāfēi 。",
+    "Chinese1": "我要一个咖啡。",
+    "Translate1": "I want a coffee."
+  },
+  {
+    "Pinyin1": "nǐ kěyǐ bāng wǒ ma ？",
+    "Chinese1": "你可以帮我吗？",
+    "Translate1": "Can you help me?"
+  },
+  {
+    "Pinyin1": "wǒmen qù kàn diànyǐngbā ！",
+    "Chinese1": "我们去看电影吧！",
+    "Translate1": "Let's go watch a movie!"
+  },
+  {
+    "Pinyin1": "wǒ kěyǐ yòng xìnyòngkǎ ma ？",
+    "Chinese1": "我可以用信用卡吗？",
+    "Translate1": "Can I use credit card?"
+  },
+  {
+    "Pinyin1": "qǐng gěi wǒ yīpíng shuǐ 。",
+    "Chinese1": "请给我一瓶水。",
+    "Translate1": "Please give me a bottle of water."
+  },
+  {
+    "Pinyin1": "xiànzài jǐdiǎnzhōng ？",
+    "Chinese1": "现在几点钟？",
+    "Translate1": "What time is it now?"
+  },
+  {
+    "Pinyin1": "wǒxiǎngxué zhōngwén 。",
+    "Chinese1": "我想学中文。",
+    "Translate1": "I want to learn Chinese."
+  },
+  {
+    "Pinyin1": "zhèlǐ yǒuméiyǒu miǎnfèi de Wi - fi ？",
+    "Chinese1": "这里有没有免费的Wi-Fi？",
+    "Translate1": "Is there free Wi-Fi here?"
+  },
+  {
+    "Pinyin1": "qǐngděngyīxià 。",
+    "Chinese1": "请等一下。",
+    "Translate1": "Please wait a moment."
+  },
+  {
+    "Pinyin1": "wǒ xūyào yīgè dìtú 。",
+    "Chinese1": "我需要一个地图。",
+    "Translate1": "I need a map."
+  },
+  {
+    "Pinyin1": "nǐ kěyǐ gěi wǒ yīzhī bǐ ma ？",
+    "Chinese1": "你可以给我一支笔吗？",
+    "Translate1": "Can you give me a pen?"
+  },
+  {
+    "Pinyin1": "tā shì gè yīshēng 。",
+    "Chinese1": "他是个医生。",
+    "Translate1": "He is a doctor."
+  },
+  {
+    "Pinyin1": "qǐng 。",
+    "Chinese1": "请。",
+    "Translate1": "Please."
+  },
+  {
+    "Pinyin1": "méiyǒu 。",
+    "Chinese1": "没有。",
+    "Translate1": "Don't have."
+  },
+  {
+    "Pinyin1": "wǒ xǐhuan 。",
+    "Chinese1": "我喜欢。",
+    "Translate1": "I like it."
+  },
+  {
+    "Pinyin1": "nǐ ne ？",
+    "Chinese1": "你呢？",
+    "Translate1": "How about you?"
+  },
+  {
+    "Pinyin1": "wǒyào 。",
+    "Chinese1": "我要。",
+    "Translate1": "I want."
+  },
+  {
+    "Pinyin1": "duìbuqǐ ， wǒ tīngbudǒng 。",
+    "Chinese1": "对不起，我听不懂。",
+    "Translate1": "Sorry, I don't understand."
+  },
+  {
+    "Pinyin1": "xīngqī jǐ ？",
+    "Chinese1": "星期几？",
+    "Translate1": "What day is it?"
+  },
+  {
+    "Pinyin1": "wǒhuì shuō yīdiǎnr zhōngwén 。",
+    "Chinese1": "我会说一点儿中文。",
+    "Translate1": "I can speak a little Chinese."
+  },
+  {
+    "Pinyin1": "qǐng gěi wǒ 。",
+    "Chinese1": "请给我。",
+    "Translate1": "Please give me."
+  },
+  {
+    "Pinyin1": "zhège zěnme shuō ？",
+    "Chinese1": "这个怎么说？",
+    "Translate1": "How do you say this?"
+  },
+  {
+    "Pinyin1": "zuò zhèlǐ 。",
+    "Chinese1": "坐这里。",
+    "Translate1": "Sit here."
+  },
+  {
+    "Pinyin1": "wǒ bù xǐhuan 。",
+    "Chinese1": "我不喜欢。",
+    "Translate1": "I don't like it."
+  },
+  {
+    "Pinyin1": "tàiguì le 。",
+    "Chinese1": "太贵了。",
+    "Translate1": "Too expensive."
+  },
+  {
+    "Pinyin1": "wǒ qù 。",
+    "Chinese1": "我去。",
+    "Translate1": "I'm going."
+  },
+  {
+    "Pinyin1": "nǐ zài nǎr ？",
+    "Chinese1": "你在哪儿？",
+    "Translate1": "Where are you?"
+  },
+  {
+    "Pinyin1": "chīfàn le ma ？",
+    "Chinese1": "吃饭了吗？",
+    "Translate1": "Have you eaten yet?"
+  },
+  {
+    "Pinyin1": "wǒ kěyǐ ma ？",
+    "Chinese1": "我可以吗？",
+    "Translate1": "Can I?"
+  },
+  {
+    "Pinyin1": "hǎokàn 。",
+    "Chinese1": "好看。",
+    "Translate1": "Good-looking."
+  },
+  {
+    "Pinyin1": "wǒàinǐ 。",
+    "Chinese1": "我爱你。",
+    "Translate1": "I love you."
+  },
+  {
+    "Pinyin1": "wǒ de míngzì shì ...",
+    "Chinese1": "我的名字是...",
+    "Translate1": "My name is..."
+  },
+  {
+    "Pinyin1": "wǒ láizì ...",
+    "Chinese1": "我来自...",
+    "Translate1": "I come from..."
+  },
+  {
+    "Pinyin1": "wǒmen yīqǐ zǒu bā 。",
+    "Chinese1": "我们一起走吧。",
+    "Translate1": "Let's go together."
+  },
+  {
+    "Pinyin1": "zhù nǐ shēngrìkuàilè ！",
+    "Chinese1": "祝你生日快乐！",
+    "Translate1": "Happy birthday to you!"
+  },
+  {
+    "Pinyin1": "qǐngwèn xǐshǒujiān zài nǎlǐ ？",
+    "Chinese1": "请问洗手间在哪里？",
+    "Translate1": "Excuse me, where is the restroom?"
+  },
+  {
+    "Pinyin1": "hǎo de 。",
+    "Chinese1": "好的。",
+    "Translate1": "Okay."
+  },
+  {
+    "Pinyin1": "wǒmen qù bā 。",
+    "Chinese1": "我们去吧。",
+    "Translate1": "Let's go."
+  },
+  {
+    "Pinyin1": "tiānqì zěnmeyàng ？",
+    "Chinese1": "天气怎么样？",
+    "Translate1": "How's the weather?"
+  },
+  {
+    "Pinyin1": "méi wèntí 。",
+    "Chinese1": "没问题。",
+    "Translate1": "No problem."
+  },
+  {
+    "Pinyin1": "hái kěyǐ 。",
+    "Chinese1": "还可以。",
+    "Translate1": "It's okay."
+  }
+]
