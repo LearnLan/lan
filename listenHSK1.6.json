@@ -1,0 +1,302 @@
+[
+  {
+    "sid": 1,
+    "Pinyin1": "wǒ bù tài dǒng 。",
+    "Chinese1": "我不太懂。",
+    "Translate1": "I do not understand."
+  },
+  {
+    "sid": 2,
+    "Pinyin1": "tā shì lǎobǎn ma ？",
+    "Chinese1": "他是老板吗？",
+    "Translate1": "Is he the boss?"
+  },
+  {
+    "sid": 3,
+    "Pinyin1": "tā yě yǒu yīgè érzi 。",
+    "Chinese1": "她也有一个儿子。",
+    "Translate1": "She also has a son."
+  },
+  {
+    "sid": 4,
+    "Pinyin1": "wǒmen dōu qù chīfàn le 。",
+    "Chinese1": "我们都去吃饭了。",
+    "Translate1": "We all went to eat."
+  },
+  {
+    "sid": 5,
+    "Pinyin1": "tā hěn gāoxìng 。",
+    "Chinese1": "她很高兴。",
+    "Translate1": "She was very happy."
+  },
+  {
+    "sid": 6,
+    "Pinyin1": "wǒ xiǎng chī pīsà 。",
+    "Chinese1": "我想吃披萨。",
+    "Translate1": "I want to eat pizza."
+  },
+  {
+    "sid": 7,
+    "Pinyin1": "nǐ néng zàishuō yībiàn ma ？",
+    "Chinese1": "你能再说一遍吗？",
+    "Translate1": "Can you say it again?"
+  },
+  {
+    "sid": 8,
+    "Pinyin1": "nǐ nǚér huì tīng nǐ dehuà 。",
+    "Chinese1": "你女儿会听你的话。",
+    "Translate1": "Your daughter will listen to you."
+  },
+  {
+    "sid": 9,
+    "Pinyin1": "wǒ yǒu yīgè mèimei hé yīgè gēge 。",
+    "Chinese1": "我有一个妹妹和一个哥哥。",
+    "Translate1": "I have a sister and a brother."
+  },
+  {
+    "sid": 10,
+    "Pinyin1": "tāmen bùshì huàiháizi 。",
+    "Chinese1": "他们不是坏孩子。",
+    "Translate1": "They are not bad kids."
+  },
+  {
+    "sid": 11,
+    "Pinyin1": "nǐ xǐhuan pǎobù ma ？",
+    "Chinese1": "你喜欢跑步吗？",
+    "Translate1": "Do you like running?"
+  },
+  {
+    "sid": 12,
+    "Pinyin1": "wǒ jiào lìlì 。",
+    "Chinese1": "我叫丽丽。",
+    "Translate1": "My name is Lili."
+  },
+  {
+    "sid": 13,
+    "Pinyin1": "tā shì wǒ de lǎoshī 。",
+    "Chinese1": "她是我的老师。",
+    "Translate1": "She is my teacher."
+  },
+  {
+    "sid": 14,
+    "Pinyin1": "nǐ xǐhuan chī shénme cài ？",
+    "Chinese1": "你喜欢吃什么菜？",
+    "Translate1": "what dishes do you like to eat?"
+  },
+  {
+    "sid": 15,
+    "Pinyin1": "wǒmen zhèngzài zuòzuòyè 。",
+    "Chinese1": "我们正在做作业。",
+    "Translate1": "We are doing our homework."
+  },
+  {
+    "sid": 16,
+    "Pinyin1": "nǐ shì shéi de péngyou ？",
+    "Chinese1": "你是谁的朋友？",
+    "Translate1": "Whose friend are you?"
+  },
+  {
+    "sid": 17,
+    "Pinyin1": "tāmen zài jiāoyì 。",
+    "Chinese1": "他们在交易。",
+    "Translate1": "They are trading."
+  },
+  {
+    "sid": 18,
+    "Pinyin1": "xiàgèxīngqī tā yào huíguó 。",
+    "Chinese1": "下个星期他要回国。",
+    "Translate1": "He is going back to China next week."
+  },
+  {
+    "sid": 19,
+    "Pinyin1": "zàijiàn 。",
+    "Chinese1": "再见。",
+    "Translate1": "goodbye."
+  },
+  {
+    "sid": 20,
+    "Pinyin1": "xiànzài liǎngdiǎn shífēn 。",
+    "Chinese1": "现在两点十分。",
+    "Translate1": "It's ten past two."
+  },
+  {
+    "sid": 21,
+    "Pinyin1": "zhè shì wǒ de diànhuà 。",
+    "Chinese1": "这是我的电话。",
+    "Translate1": "This is my phone."
+  },
+  {
+    "sid": 22,
+    "Pinyin1": "tāmen bùtàixiǎng qù 。",
+    "Chinese1": "他们不太想去。",
+    "Translate1": "They don't really want to go."
+  },
+  {
+    "sid": 23,
+    "Pinyin1": "xiàwǔ liǎngdiǎn bàn 。",
+    "Chinese1": "下午两点半。",
+    "Translate1": "Half past two in the afternoon."
+  },
+  {
+    "sid": 24,
+    "Pinyin1": "nǐ de xīnshǒujī zěnmeyàng ？",
+    "Chinese1": "你的新手机怎么样？",
+    "Translate1": "How is your new phone?"
+  },
+  {
+    "sid": 25,
+    "Pinyin1": "wǒmen xuéxiào hěndà 。",
+    "Chinese1": "我们学校很大。",
+    "Translate1": "Our school is very big."
+  },
+  {
+    "sid": 26,
+    "Pinyin1": "wǒmen shì zuótiān dào de 。",
+    "Chinese1": "我们是昨天到的。",
+    "Translate1": "We arrived yesterday."
+  },
+  {
+    "sid": 27,
+    "Pinyin1": "tā tàishuài le 。",
+    "Chinese1": "他太帅了。",
+    "Translate1": "He is so handsome."
+  },
+  {
+    "sid": 28,
+    "Pinyin1": "nǐ huì shuō yīngwén ma ？",
+    "Chinese1": "你会说英文吗？",
+    "Translate1": "Can you speak English?"
+  },
+  {
+    "sid": 29,
+    "Pinyin1": "wǒ bùhuì shuō yīngwén 。",
+    "Chinese1": "我不会说英文。",
+    "Translate1": "I can not speak English."
+  },
+  {
+    "sid": 30,
+    "Pinyin1": "nǐ néng gěi wǒ yīzhāng zhàopiàn ma ？",
+    "Chinese1": "你能给我一张照片吗？",
+    "Translate1": "Can you give me a photo?"
+  },
+  {
+    "sid": 31,
+    "Pinyin1": "tā shì yòng shénme dǎ nǐ de ？",
+    "Chinese1": "他是用什么打你的？",
+    "Translate1": "What did he hit you with?"
+  },
+  {
+    "sid": 32,
+    "Pinyin1": "wǒ bù xǐhuan xuéxí 。",
+    "Chinese1": "我不喜欢学习。",
+    "Translate1": "I don't like studying."
+  },
+  {
+    "sid": 33,
+    "Pinyin1": "gōngsī de lǎobǎn",
+    "Chinese1": "公司的老板",
+    "Translate1": "boss of company"
+  },
+  {
+    "sid": 34,
+    "Pinyin1": "tāmen yě huì qù ma ？",
+    "Chinese1": "他们也会去吗？",
+    "Translate1": "Will they go too?"
+  },
+  {
+    "sid": 35,
+    "Pinyin1": "zuòyè nǐ xiě wán le ma ？",
+    "Chinese1": "作业你写完了吗？",
+    "Translate1": "Have you finished your homework?"
+  },
+  {
+    "sid": 36,
+    "Pinyin1": "wǒyào yīgè píngguǒ 。",
+    "Chinese1": "我要一个苹果。",
+    "Translate1": "I want an apple."
+  },
+  {
+    "sid": 37,
+    "Pinyin1": "tā gěi wǒ dài le yīxiē shū 。",
+    "Chinese1": "他给我带了一些书。",
+    "Translate1": "He brought me some books."
+  },
+  {
+    "sid": 38,
+    "Pinyin1": "wǒ méi kànjiàn",
+    "Chinese1": "我没看见",
+    "Translate1": "I do not see it"
+  },
+  {
+    "sid": 39,
+    "Pinyin1": "nǐ néng gěi wǒ yīzhī bǐ ma ？",
+    "Chinese1": "你能给我一支笔吗？",
+    "Translate1": "Can you give me a pen?"
+  },
+  {
+    "sid": 40,
+    "Pinyin1": "wǒ zài nǐ de fángjiān 。",
+    "Chinese1": "我在你的房间。",
+    "Translate1": "I'm in your room."
+  },
+  {
+    "sid": 41,
+    "Pinyin1": "wǒ bù xǐhuan chī niúròu 。",
+    "Chinese1": "我不喜欢吃牛肉。",
+    "Translate1": "I don't like to eat beef."
+  },
+  {
+    "sid": 42,
+    "Pinyin1": "nǐ tǎoyàn kàndiànshì ma ？",
+    "Chinese1": "你讨厌看电视吗？",
+    "Translate1": "Do you hate watching TV?"
+  },
+  {
+    "sid": 43,
+    "Pinyin1": "wǒ yǒu yīgè yuēhuì 。",
+    "Chinese1": "我有一个约会。",
+    "Translate1": "I have a date."
+  },
+  {
+    "sid": 44,
+    "Pinyin1": "wǒmen xiànzài qù gōngyuán 。",
+    "Chinese1": "我们现在去公园。",
+    "Translate1": "Let's go to the park now."
+  },
+  {
+    "sid": 45,
+    "Pinyin1": "nǐ yào gēn wǒmen yīqǐ qù dǎqiú ma ?",
+    "Chinese1": "你要跟我们一起去打球吗?",
+    "Translate1": "Do you want to play ball with us?"
+  },
+  {
+    "sid": 46,
+    "Pinyin1": "wǒ méiyǒu shíjiān 。",
+    "Chinese1": "我没有时间。",
+    "Translate1": "I don't have time."
+  },
+  {
+    "sid": 47,
+    "Pinyin1": "nǐ zěnme qù běijīng ？",
+    "Chinese1": "你怎么去北京？",
+    "Translate1": "How do you get to Beijing?"
+  },
+  {
+    "sid": 48,
+    "Pinyin1": "zhè dōu shì nǐ de qián 。",
+    "Chinese1": "这都是你的钱。",
+    "Translate1": "It's all your money."
+  },
+  {
+    "sid": 49,
+    "Pinyin1": "nǐ shì lǎobǎn ma ？",
+    "Chinese1": "你是老板吗？",
+    "Translate1": "Are you the boss?"
+  },
+  {
+    "sid": 50,
+    "Pinyin1": "wǒ hěn xǐhuan wǒmen gōngsī 。",
+    "Chinese1": "我很喜欢我们公司。",
+    "Translate1": "I like our company very much."
+  }
+]
