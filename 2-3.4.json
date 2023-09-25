@@ -1,0 +1,602 @@
+[
+  {
+    "sid": 1,
+    "one": "wǒ de jiālí xuéxiào hěn yuǎn 。",
+    "two": "我的家离学校很远。",
+    "three": "My home is far away from school."
+  },
+  {
+    "sid": 2,
+    "one": "tā de bàba shì yīshēng 。",
+    "two": "他的爸爸是医生。",
+    "three": "His father is a doctor."
+  },
+  {
+    "sid": 3,
+    "one": "wǒmen yīqǐ qù dǎpīngpāngqiú bā ！",
+    "two": "我们一起去打乒乓球吧！",
+    "three": "Let's go play table tennis together!"
+  },
+  {
+    "sid": 4,
+    "one": "tā de zhōngwén hěn hǎo 。",
+    "two": "他的中文很好。",
+    "three": "His Chinese is very good."
+  },
+  {
+    "sid": 5,
+    "one": "tāmen měitiān dōu xiěrìjì 。",
+    "two": "他们每天都写日记。",
+    "three": "They write diaries every day."
+  },
+  {
+    "sid": 6,
+    "one": "tā de māo zài tā de fángjiān 。",
+    "two": "他的猫在他的房间。",
+    "three": "His cat is in his room."
+  },
+  {
+    "sid": 7,
+    "one": "zhè liǎnggè yínháng nǎge gēngjìn ？",
+    "two": "这两个银行哪个更近？",
+    "three": "Which of these two banks is closer?"
+  },
+  {
+    "sid": 8,
+    "one": "tā měitiān dōu duànliànshēntǐ 。",
+    "two": "他每天都锻炼身体。",
+    "three": "He works out every day."
+  },
+  {
+    "sid": 9,
+    "one": "tā nǚpéngyou piàoliang bù piàoliang ？",
+    "two": "他女朋友漂亮不漂亮？",
+    "three": "Is his girlfriend pretty?"
+  },
+  {
+    "sid": 10,
+    "one": "wǒ shì zài shànghǎi xué de zhōngwén 。",
+    "two": "我是在上海学的中文。",
+    "three": "I learned Chinese in Shanghai."
+  },
+  {
+    "sid": 11,
+    "one": "wǒmen zǎojiù bìyè le 。",
+    "two": "我们早就毕业了。",
+    "three": "We have graduated a long time ago."
+  },
+  {
+    "sid": 12,
+    "one": "tā zhèngzài kàndiànshì 。",
+    "two": "她正在看电视。",
+    "three": "She is watching TV."
+  },
+  {
+    "sid": 13,
+    "one": "jīntiān zhēnrè ！",
+    "two": "今天真热！",
+    "three": "It's so hot today!"
+  },
+  {
+    "sid": 14,
+    "one": "nàgè ⋯ ⋯ wǒyào qù kāihuì le 。",
+    "two": "那个⋯⋯我要去开会了。",
+    "three": "Well...I'm going to a meeting."
+  },
+  {
+    "sid": 15,
+    "one": "tā de xiǎomāo sǐ le ， tā zěnme bù nánguò ？",
+    "two": "她的小猫死了，她怎么不难过？",
+    "three": "Her kitten died, why wasn't she sad?"
+  },
+  {
+    "sid": 16,
+    "one": "wǒ kànjiàn le 。",
+    "two": "我看见了。",
+    "three": "I saw it."
+  },
+  {
+    "sid": 17,
+    "one": "nǐ de fángjiān hěn zhěngjié 。",
+    "two": "你的房间很整洁。",
+    "three": "Your room is very tidy."
+  },
+  {
+    "sid": 18,
+    "one": "wǒmen yīqǐ qù lǚxíng bā ！",
+    "two": "我们一起去旅行吧！",
+    "three": "Let's go on a trip together!"
+  },
+  {
+    "sid": 19,
+    "one": "wǒmen lǎobǎn hái bùcuò 。",
+    "two": "我们老板还不错。",
+    "three": "Our boss is not bad."
+  },
+  {
+    "sid": 20,
+    "one": "kěbùkěyǐ huàngè shíjiān ？",
+    "two": "可不可以换个时间？",
+    "three": "Can you change the time?"
+  },
+  {
+    "sid": 21,
+    "one": "tā qùguò zhōngguó ma ？",
+    "two": "他去过中国吗？",
+    "three": "Has he been to China?"
+  },
+  {
+    "sid": 22,
+    "one": "wǒ xǐhuan chànggē  tiàowǔ hé huàhuà 。",
+    "two": "我喜欢唱歌、跳舞和画画。",
+    "three": "I like singing, dancing and drawing."
+  },
+  {
+    "sid": 23,
+    "one": "wǒmen kěyǐ zài zhèlǐ pāizhào ma ？",
+    "two": "我们可以在这里拍照吗？",
+    "three": "Can we take pictures here?"
+  },
+  {
+    "sid": 24,
+    "one": "nǐ de dàxué lí nǐ lǎojiā hěnyuǎn ma ？",
+    "two": "你的大学离你老家很远吗？",
+    "three": "Is your university far from your hometown?"
+  },
+  {
+    "sid": 25,
+    "one": "wǒ de jiějie shì kuàijìshī 。",
+    "two": "我的姐姐是会计师。",
+    "three": "My sister is an accountant."
+  },
+  {
+    "sid": 26,
+    "one": "tā sòng le nǚpéngyou hěnduō huā 。",
+    "two": "他送了女朋友很多花。",
+    "three": "He gave his girlfriend a lot of flowers."
+  },
+  {
+    "sid": 27,
+    "one": "nǐ de qiánbāo zài nǎlǐ ？",
+    "two": "你的钱包在哪里？",
+    "three": "Where is your wallet?"
+  },
+  {
+    "sid": 28,
+    "one": "shìyīxià bā 。",
+    "two": "试一下吧。",
+    "three": "Give it a try."
+  },
+  {
+    "sid": 29,
+    "one": "wǒ de fùmǔ hěn zhīchí wǒ 。",
+    "two": "我的父母很支持我。",
+    "three": "My parents are very supportive."
+  },
+  {
+    "sid": 30,
+    "one": "wǒ de yínhángkǎ diū le 。",
+    "two": "我的银行卡丢了。",
+    "three": "I lost my bank card."
+  },
+  {
+    "sid": 31,
+    "one": "wǒmen yīqǐ qù kàn diànyǐngbā ！",
+    "two": "我们一起去看电影吧！",
+    "three": "Let's go to the movies together!"
+  },
+  {
+    "sid": 32,
+    "one": "wǒmen yào qù cānjiā pàiduì 。",
+    "two": "我们要去参加派对。",
+    "three": "We're going to a party."
+  },
+  {
+    "sid": 33,
+    "one": "xiǎo lǐbǐ xiǎozhāng gāo 。",
+    "two": "小李比小张高。",
+    "three": "Xiao Li is taller than Xiao Zhang."
+  },
+  {
+    "sid": 34,
+    "one": "wǒmen míngtiān yīqǐ qù gòuwù 。",
+    "two": "我们明天一起去购物。",
+    "three": "Let's go shopping together tomorrow."
+  },
+  {
+    "sid": 35,
+    "one": "wǒ měitiān dōu kàndiànshì 。",
+    "two": "我每天都看电视。",
+    "three": "I watch TV every day."
+  },
+  {
+    "sid": 36,
+    "one": "wǒmen yīqǐ chīfàn bā ！",
+    "two": "我们一起吃饭吧！",
+    "three": "Let's eat together!"
+  },
+  {
+    "sid": 37,
+    "one": "zhège wèntí hěn yǒu yìyì 。",
+    "two": "这个问题很有意义。",
+    "three": "This question makes sense."
+  },
+  {
+    "sid": 38,
+    "one": "wǒmen yào qù cānguān dòngwùyuán 。",
+    "two": "我们要去参观动物园。",
+    "three": "We are going to visit the zoo."
+  },
+  {
+    "sid": 39,
+    "one": "wǒmen yīqǐ qù dǎwǎngqiú bā ！",
+    "two": "我们一起去打网球吧！",
+    "three": "Let's go play tennis together!"
+  },
+  {
+    "sid": 40,
+    "one": "wǒmen yīqǐ qù dǎlánqiú bā ！",
+    "two": "我们一起去打篮球吧！",
+    "three": "Let's go play basketball together!"
+  },
+  {
+    "sid": 41,
+    "one": "nǐ de shūbāo zài nǎlǐ ？",
+    "two": "你的书包在哪里？",
+    "three": "Where is your school bag?"
+  },
+  {
+    "sid": 42,
+    "one": "wǒ kěyǐ zài zhèlǐ tíngchē ma ？",
+    "two": "我可以在这里停车吗？",
+    "three": "Can I park here?"
+  },
+  {
+    "sid": 43,
+    "one": "yīnwèi wǒ hěn lěi ， suǒyǐ yào xiūxi 。",
+    "two": "因为我很累，所以要休息。",
+    "three": "Because I am very tired, I need to rest."
+  },
+  {
+    "sid": 44,
+    "one": "wǒ de fángzi hěndà 。",
+    "two": "我的房子很大。",
+    "three": "My house is big."
+  },
+  {
+    "sid": 45,
+    "one": "wǒ zuówǎn bādiǎnbàn jiù shuìjiào le 。",
+    "two": "我昨晚八点半就睡觉了。",
+    "three": "I went to bed at half past eight last night."
+  },
+  {
+    "sid": 46,
+    "one": "wǒ de tóngxué hěn cōngming 。",
+    "two": "我的同学很聪明。",
+    "three": "My classmates are very smart."
+  },
+  {
+    "sid": 47,
+    "one": "wǒmen yīqǐ qù kàn diànyǐngbā 。",
+    "two": "我们一起去看电影吧。",
+    "three": "Let's go to the movies together."
+  },
+  {
+    "sid": 48,
+    "one": "wǒ méi chībǎo 。",
+    "two": "我没吃饱。",
+    "three": "I didn't eat enough."
+  },
+  {
+    "sid": 49,
+    "one": "tāmen gōngzuò le 。",
+    "two": "他们工作了。",
+    "three": "They worked."
+  },
+  {
+    "sid": 50,
+    "one": "wǒmen kěyǐ zuòdìtiě qù ma ？",
+    "two": "我们可以坐地铁去吗？",
+    "three": "Can we go by subway?"
+  },
+  {
+    "sid": 51,
+    "one": "gōngsī de yuángōng dōu hěn hǎo 。",
+    "two": "公司的员工都很好。",
+    "three": "The company's employees are very nice."
+  },
+  {
+    "sid": 52,
+    "one": "wǒ qǐng nǐ chīwǎnfàn 。",
+    "two": "我请你吃晚饭。",
+    "three": "I'll treat you to dinner."
+  },
+  {
+    "sid": 53,
+    "one": "nín guìxìng ？",
+    "two": "您贵姓？",
+    "three": "Your name?"
+  },
+  {
+    "sid": 54,
+    "one": "wǒ de yīfú hěn piányi 。",
+    "two": "我的衣服很便宜。",
+    "three": "My clothes are cheap."
+  },
+  {
+    "sid": 55,
+    "one": "jīntiān wǒmen dōu bù hējiǔ ， hǎo ma ？",
+    "two": "今天我们都不喝酒，好吗？",
+    "three": "Let's not drink today, okay?"
+  },
+  {
+    "sid": 56,
+    "one": "nǐ xǐhuan chī shénme ？",
+    "two": "你喜欢吃什么？",
+    "three": "What do you like to eat?"
+  },
+  {
+    "sid": 57,
+    "one": "zhè běnshū hěn yǒuyòng 。",
+    "two": "这本书很有用。",
+    "three": "This book is very useful."
+  },
+  {
+    "sid": 58,
+    "one": "wǒ de jiārén dōu hěn jiànkāng 。",
+    "two": "我的家人都很健康。",
+    "three": "My family is healthy."
+  },
+  {
+    "sid": 59,
+    "one": "tā zhīdào le 。",
+    "two": "他知道了。",
+    "three": "He got it."
+  },
+  {
+    "sid": 60,
+    "one": "nǐ néng gěi wǒ yīzhāng zhàopiàn ma ？",
+    "two": "你能给我一张照片吗？",
+    "three": "Can you give me a photo?"
+  },
+  {
+    "sid": 61,
+    "one": "wǒmen yīqǐ qù dǎwǎngqiú bā 。",
+    "two": "我们一起去打网球吧。",
+    "three": "Let's go play tennis together."
+  },
+  {
+    "sid": 62,
+    "one": "nǐ de fángjiān hěnpiāoliàng 。",
+    "two": "你的房间很漂亮。",
+    "three": "Your room is beautiful."
+  },
+  {
+    "sid": 63,
+    "one": "tā xǐhuan dǎpīngpāngqiú 。",
+    "two": "他喜欢打乒乓球。",
+    "three": "He likes to play table tennis."
+  },
+  {
+    "sid": 64,
+    "one": "wǒ měicì wán zhège yóuxì dōu shū 。",
+    "two": "我每次玩这个游戏都输。",
+    "three": "I lose every time I play this game."
+  },
+  {
+    "sid": 65,
+    "one": "nǐ de yīfú hěn shíshàng 。",
+    "two": "你的衣服很时尚。",
+    "three": "Your clothes are very fashionable."
+  },
+  {
+    "sid": 66,
+    "one": "nǐ méi tīngdào ma ？",
+    "two": "你没听到吗？",
+    "three": "Didn't you hear that?"
+  },
+  {
+    "sid": 67,
+    "one": "tādú le hǎojǐbiàn 。",
+    "two": "他读了好几遍。",
+    "three": "He read it several times."
+  },
+  {
+    "sid": 68,
+    "one": "tā zhèngzài zuòfàn 。",
+    "two": "她正在做饭。",
+    "three": "She is cooking."
+  },
+  {
+    "sid": 69,
+    "one": "nǐ jiéhūn de shíhou zěnme bù gàosu wǒ ？",
+    "two": "你结婚的时候怎么不告诉我？",
+    "three": "Why didn't you tell me when you got married?"
+  },
+  {
+    "sid": 70,
+    "one": "tā zài nàr zhù le èrshíduōtiān le 。",
+    "two": "他在那儿住了二十多天了。",
+    "three": "He has lived there for more than twenty days."
+  },
+  {
+    "sid": 71,
+    "one": "zhège diànyǐng hěn bēishāng 。",
+    "two": "这个电影很悲伤。",
+    "three": "This movie is very sad."
+  },
+  {
+    "sid": 72,
+    "one": "wǒmen yīqǐ qù diàoyú bā ！",
+    "two": "我们一起去钓鱼吧！",
+    "three": "Let's go fishing together!"
+  },
+  {
+    "sid": 73,
+    "one": "nǐ huí bù huíjiā ？",
+    "two": "你回不回家？",
+    "three": "Will you go home?"
+  },
+  {
+    "sid": 74,
+    "one": "wǒmen wǎnshàng yīqǐ qù dǎlánqiú bā ！",
+    "two": "我们晚上一起去打篮球吧！",
+    "three": "Let's go play basketball together in the evening!"
+  },
+  {
+    "sid": 75,
+    "one": "nǐhǎo ma ？",
+    "two": "你好吗？",
+    "three": "Are you OK?"
+  },
+  {
+    "sid": 76,
+    "one": "kāihuì de shíhou bùyào liáotiān 。",
+    "two": "开会的时候不要聊天。",
+    "three": "Don't chat during meetings."
+  },
+  {
+    "sid": 77,
+    "one": "wǒ háihǎo 。",
+    "two": "我还好。",
+    "three": "I'm okay."
+  },
+  {
+    "sid": 78,
+    "one": "wǒmen yīqǐ qù yóuyǒng bā 。",
+    "two": "我们一起去游泳吧。",
+    "three": "Let's go swimming."
+  },
+  {
+    "sid": 79,
+    "one": "wǒ xiǎng nǐ 。",
+    "two": "我想你。",
+    "three": "I miss you."
+  },
+  {
+    "sid": 80,
+    "one": "míngtiān shì wǒ de shēngrì 。",
+    "two": "明天是我的生日。",
+    "three": "Tomorrow is my birthday."
+  },
+  {
+    "sid": 81,
+    "one": "wǒmen míngtiān yào qù huáshuǐ 。",
+    "two": "我们明天要去滑水。",
+    "three": "We're going water skiing tomorrow."
+  },
+  {
+    "sid": 82,
+    "one": "wǒ bǎ zhè běnshū kàn wán le 。",
+    "two": "我把这本书看完了。",
+    "three": "I've finished reading this book."
+  },
+  {
+    "sid": 83,
+    "one": "zhège diànyǐng hěn yǒuyìsi 。",
+    "two": "这个电影很有意思。",
+    "three": "This movie is very interesting."
+  },
+  {
+    "sid": 84,
+    "one": "tāmen měitiān dōu wèi māo 。",
+    "two": "他们每天都喂猫。",
+    "three": "They feed the cats every day."
+  },
+  {
+    "sid": 85,
+    "one": "zhège diànshì tàiguì le 。",
+    "two": "这个电视太贵了。",
+    "three": "This TV is too expensive."
+  },
+  {
+    "sid": 86,
+    "one": "wǒmen míngtiān yào qù páshān 。",
+    "two": "我们明天要去爬山。",
+    "three": "We are going to climb a mountain tomorrow."
+  },
+  {
+    "sid": 87,
+    "one": "zhège chéngshì hěn yíjū 。",
+    "two": "这个城市很宜居。",
+    "three": "The city is very livable."
+  },
+  {
+    "sid": 88,
+    "one": "qǐng nǐ bāng wǒ jiějué zhège wèntí 。",
+    "two": "请你帮我解决这个问题。",
+    "three": "Please help me solve this problem."
+  },
+  {
+    "sid": 89,
+    "one": "wǒ xiànzài xiǎng qù xǐshǒujiān ， kěyǐ ma ？",
+    "two": "我现在想去洗手间，可以吗？",
+    "three": "I want to go to the bathroom now, is that okay?"
+  },
+  {
+    "sid": 90,
+    "one": "nǐ nǚpéngyou yǐjīng hěnpiāoliàng le ！",
+    "two": "你女朋友已经很漂亮了！",
+    "three": "Your girlfriend is already very beautiful!"
+  },
+  {
+    "sid": 91,
+    "one": "nǐ kàn yīxià 。",
+    "two": "你看一下。",
+    "three": "Take a look."
+  },
+  {
+    "sid": 92,
+    "one": "wǒ xǐhuan kàn diànyǐng 。",
+    "two": "我喜欢看电影。",
+    "three": "I like going to the movies."
+  },
+  {
+    "sid": 93,
+    "one": "tā xǐhuan huàhuà hé chànggē 。",
+    "two": "她喜欢画画和唱歌。",
+    "three": "She likes to draw and sing."
+  },
+  {
+    "sid": 94,
+    "one": "nǐ huì yóuyǒng ma ？",
+    "two": "你会游泳吗？",
+    "three": "Can you swim?"
+  },
+  {
+    "sid": 95,
+    "one": "zhè běnshū hěn yǒuqù 。",
+    "two": "这本书很有趣。",
+    "three": "This book is very interesting."
+  },
+  {
+    "sid": 96,
+    "one": "tā shì wǒ de hǎo péngyou 。",
+    "two": "他是我的好朋友。",
+    "three": "He is my good friend."
+  },
+  {
+    "sid": 97,
+    "one": "wǒmen yīqǐ qù gòuwù bā ！",
+    "two": "我们一起去购物吧！",
+    "three": "Let's go shopping together!"
+  },
+  {
+    "sid": 98,
+    "one": "zhège chéngshì hěn měilì 。",
+    "two": "这个城市很美丽。",
+    "three": "The city is beautiful."
+  },
+  {
+    "sid": 99,
+    "one": "wǒxiǎngyǎng yīzhí māomī 。",
+    "two": "我想养一直猫咪。",
+    "three": "I want to keep a cat."
+  },
+  {
+    "sid": 100,
+    "one": "míngtiān wǒnéng qù zhǎo nǐ ma ？",
+    "two": "明天我能去找你吗？",
+    "three": "Can I come to you tomorrow?"
+  }
+]
