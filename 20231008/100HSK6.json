@@ -1,0 +1,608 @@
+[
+  {
+    "sid": 1,
+    "one": "tā de tǐlì zhújiàn huīfù le 。",
+    "two": "他的体力逐渐恢复了。",
+    "three": "His strength gradually returned."
+  },
+  {
+    "sid": 2,
+    "one": "wǒmen fēi zhuā dào tā bùkě 。",
+    "two": "我们非抓到他不可。",
+    "three": "We must catch him."
+  },
+  {
+    "sid": 3,
+    "one": "nǐ píngcháng huì qù jiànshēn ma ？",
+    "two": "你平常会去健身吗？",
+    "three": "Do you usually go to the gym?"
+  },
+  {
+    "sid": 4,
+    "one": "nǐ mèimei hěnpiāoliàng ma 。",
+    "two": "你妹妹很漂亮嘛。",
+    "three": "Your sister is very beautiful."
+  },
+  {
+    "sid": 5,
+    "one": "bùfáng xiān shìshi zàishuō 。",
+    "two": "不妨先试试再说。",
+    "three": "You might as well give it a try first."
+  },
+  {
+    "sid": 6,
+    "one": "wǒ fēi wèn qīngchu bùkě 。",
+    "two": "我非问清楚不可。",
+    "three": "I had to ask clearly."
+  },
+  {
+    "sid": 7,
+    "one": "jīntiān rèdé bùdéliǎo 。",
+    "two": "今天热得不得了。",
+    "three": "It's extremely hot today."
+  },
+  {
+    "sid": 8,
+    "one": "wǒ píngcháng bùchī là de shíwù 。",
+    "two": "我平常不吃辣的食物。",
+    "three": "I usually don't eat spicy food."
+  },
+  {
+    "sid": 9,
+    "one": "dàjiā yǒuhuà jiù shuō ma 。",
+    "two": "大家有话就说嘛。",
+    "three": "If you have anything to say, just say it."
+  },
+  {
+    "sid": 10,
+    "one": "tā de shēntǐ yǐjīng huīfù le 。",
+    "two": "他的身体已经恢复了。",
+    "three": "His body has recovered."
+  },
+  {
+    "sid": 11,
+    "one": "zhèjiàn shì bìxū zhèyàng zuò 。",
+    "two": "这件事必须这样做。",
+    "three": "This must be done."
+  },
+  {
+    "sid": 12,
+    "one": "yǔqí děng ， bùrú xiān qù 。",
+    "two": "与其等，不如先去。",
+    "three": "Rather than wait, it’s better to go first."
+  },
+  {
+    "sid": 13,
+    "one": "zhème zuòhuì xiǎnde nǐ hěn bèn 。",
+    "two": "这么做会显得你很笨。",
+    "three": "Doing so will make you look stupid."
+  },
+  {
+    "sid": 14,
+    "one": "yīnyuè shì wǒ xīnlíng de ānwèi 。",
+    "two": "音乐是我心灵的安慰。",
+    "three": "Music is the comfort of my soul."
+  },
+  {
+    "sid": 15,
+    "one": "bùxiǎng qù jiù bùyào qù ma 。",
+    "two": "不想去就不要去嘛。",
+    "three": "If you don't want to go, don't go."
+  },
+  {
+    "sid": 16,
+    "one": "hébì wěiqu le zìjǐ ？",
+    "two": "何必委屈了自己？",
+    "three": "Why should you wrong yourself?"
+  },
+  {
+    "sid": 17,
+    "one": "nǐ píngshí kàndǒuyīn ma ？",
+    "two": "你平时看抖音吗？",
+    "three": "Do you usually watch TikTok?"
+  },
+  {
+    "sid": 18,
+    "one": "wǒmen jìhuà zài zhèlǐ guò jiàqī 。",
+    "two": "我们计划在这里过假期。",
+    "three": "We plan to spend our holidays here."
+  },
+  {
+    "sid": 19,
+    "one": "tā de wēixiào biǎoshì le tā de mǎnyì 。",
+    "two": "他的微笑表示了他的满意。",
+    "three": "His smile expressed his satisfaction."
+  },
+  {
+    "sid": 20,
+    "one": "tāmen de guānxi zhōngyú huīfù le 。",
+    "two": "他们的关系终于恢复了。",
+    "three": "Their relationship was finally restored."
+  },
+  {
+    "sid": 21,
+    "one": "tā zhèyàng de rén ràng wǒ hěn shì pèifú 。",
+    "two": "她这样的人让我很是佩服。",
+    "three": "I admire people like her very much."
+  },
+  {
+    "sid": 22,
+    "one": "jīntiān kànqǐlai hěn liángshuǎng 。",
+    "two": "今天看起来很凉爽。",
+    "three": "It's looking cool today."
+  },
+  {
+    "sid": 23,
+    "one": "zhège cài làdé bùdéliǎo 。",
+    "two": "这个菜辣得不得了。",
+    "three": "This dish is extremely spicy."
+  },
+  {
+    "sid": 24,
+    "one": "tā de huàyǔ gěi le wǒ ānwèi 。",
+    "two": "他的话语给了我安慰。",
+    "three": "His words gave me comfort."
+  },
+  {
+    "sid": 25,
+    "one": "shì de ， wǒ xiǎng dé dǎo jiǎndān ！",
+    "two": "是的，我想得倒简单！",
+    "three": "Yes, I thought it was simple!"
+  },
+  {
+    "sid": 26,
+    "one": "zhège xiāoxi bǎ tā zhènjīng dé bùdéliǎo 。",
+    "two": "这个消息把她震惊得不得了。",
+    "three": "The news shocked her beyond measure."
+  },
+  {
+    "sid": 27,
+    "one": "zhèyàng chuān xiǎnde wǒ bǐjiào piàoliang 。",
+    "two": "这样穿显得我比较漂亮。",
+    "three": "I look prettier when I wear it this way."
+  },
+  {
+    "sid": 28,
+    "one": "tā de guāndiǎn fāshēng le biànhuà 。",
+    "two": "她的观点发生了变化。",
+    "three": "Her perspective changed."
+  },
+  {
+    "sid": 29,
+    "one": "tāmen fēnbié zài bùtóng de gōngsī gōngzuò 。",
+    "two": "他们分别在不同的公司工作。",
+    "three": "They work in different companies."
+  },
+  {
+    "sid": 30,
+    "one": "dāngdì de měishí xīyǐn le xǔduō yóukè 。",
+    "two": "当地的美食吸引了许多游客。",
+    "three": "Local cuisine attracts many tourists."
+  },
+  {
+    "sid": 31,
+    "one": "nàyàng shuō xiǎnde tā hěn jìjiào 。",
+    "two": "那样说显得她很计较。",
+    "three": "It sounds like she cares a lot."
+  },
+  {
+    "sid": 32,
+    "one": "nǐ zàishuōxiàqù ， wǒfēi shēngqì bùkě 。",
+    "two": "你再说下去，我非生气不可。",
+    "three": "If you keep talking, I will be angry."
+  },
+  {
+    "sid": 33,
+    "one": "mòfēi tā zhēnde shì nǐ nánpéngyou ？",
+    "two": "莫非她真的是你男朋友？",
+    "three": "Could it be that she is really your boyfriend?"
+  },
+  {
+    "sid": 34,
+    "one": "nàli yīn fēngfù de wénhuàyíchǎn ér wénmíng 。",
+    "two": "那里因丰富的文化遗产而闻名。",
+    "three": "It is famous for its rich cultural heritage."
+  },
+  {
+    "sid": 35,
+    "one": "diànyǐng zhǐ zhǎnshì le yīxiǎobùfèn gùshi 。",
+    "two": "电影只展示了一小部分故事。",
+    "three": "The movie only shows a small part of the story."
+  },
+  {
+    "sid": 36,
+    "one": "wǒmen zài bù chūmén ， fēi chídào bùkě 。",
+    "two": "我们再不出门，非迟到不可。",
+    "three": "If we don't go out, we will be late."
+  },
+  {
+    "sid": 37,
+    "one": "zhèpiān bàodào jiēlù le chǒuwén de zhēnxiàng 。",
+    "two": "这篇报道揭露了丑闻的真相。",
+    "three": "This report revealed the true nature of the scandal."
+  },
+  {
+    "sid": 38,
+    "one": "tā de yǎnjiǎng qǔdé le jùdà de chénggōng 。",
+    "two": "她的演讲取得了巨大的成功。",
+    "three": "Her speech was a great success."
+  },
+  {
+    "sid": 39,
+    "one": "wǒmen cānguān le dāngdì de bówùguǎn 。",
+    "two": "我们参观了当地的博物馆。",
+    "three": "We visited a local museum."
+  },
+  {
+    "sid": 40,
+    "one": "tā suīrán xiǎo ， dàn hěn shì huì chànggē 。",
+    "two": "她虽然小，但很是会唱歌。",
+    "three": "Although she is small, she can sing very well."
+  },
+  {
+    "sid": 41,
+    "one": "wǒ bùràng nǐ qù ， nǐ piānpiān yào qù 。",
+    "two": "我不让你去，你偏偏要去。",
+    "three": "I won't let you go, but you insist on going."
+  },
+  {
+    "sid": 42,
+    "one": "tā wēixiào zhe biǎoshì duì zhǎngbèi de zūnjìng 。",
+    "two": "他微笑着表示对长辈的尊敬。",
+    "three": "He smiled to show respect for his elders."
+  },
+  {
+    "sid": 43,
+    "one": "nǐ jīntiān kànqǐlai hěn yōuyǎ 。",
+    "two": "你今天看起来很优雅。",
+    "three": "You look elegant today."
+  },
+  {
+    "sid": 44,
+    "one": "tā píngshí bùmǎi bāobāo 。",
+    "two": "她平时不买包包。",
+    "three": "She doesn't usually buy bags."
+  },
+  {
+    "sid": 45,
+    "one": "nǐ zhèyàng xiǎoqì ràng rén hěn shì shòubùliǎo 。",
+    "two": "你这样小气让人很是受不了。",
+    "three": "It's very intolerable that you are so stingy."
+  },
+  {
+    "sid": 46,
+    "one": "nǐ dǎo tǐng yǒnggǎn de 。",
+    "two": "你倒挺勇敢的。",
+    "three": "You are quite brave."
+  },
+  {
+    "sid": 47,
+    "one": "shuō dé róngyì ， nǐ lái bā ！",
+    "two": "说得容易，你来吧！",
+    "three": "It's easy to say, just do it!"
+  },
+  {
+    "sid": 48,
+    "one": "tā de biǎoyǎn yǐnqǐ le guānzhòng de zhǎngshēng 。",
+    "two": "他的表演引起了观众的掌声。",
+    "three": "His performance drew applause from the audience."
+  },
+  {
+    "sid": 49,
+    "one": "dàjiā tōngguò chuàngzào biǎodá zìjǐ de qínggǎn 。",
+    "two": "大家通过创造表达自己的情感。",
+    "three": "Everyone expresses their emotions through creation."
+  },
+  {
+    "sid": 50,
+    "one": "jiāotōngyōngdǔ dǎozhì le wǒ chídào le huìyì 。",
+    "two": "交通拥堵导致了我迟到了会议。",
+    "three": "The traffic jam caused me to be late for the meeting."
+  },
+  {
+    "sid": 51,
+    "one": "zhèlǐ de qìhòu fēicháng yírén 。",
+    "two": "这里的气候非常宜人。",
+    "three": "The climate here is very pleasant."
+  },
+  {
+    "sid": 52,
+    "one": "wǒ hěn shì xǐhuan nǐ de bànshì fāngshì 。",
+    "two": "我很是喜欢你的办事方式。",
+    "three": "I really like the way you do things."
+  },
+  {
+    "sid": 53,
+    "one": "mòfēi nǐ xiāngxìn tā ？",
+    "two": "莫非你相信他？",
+    "three": "Do you believe him?"
+  },
+  {
+    "sid": 54,
+    "one": "nǐbié tài qiānxū ma 。",
+    "two": "你别太谦虚嘛。",
+    "three": "Don't be too modest."
+  },
+  {
+    "sid": 55,
+    "one": "biǎoyǎn ràng guānzhòng liúliánwàngfǎn 。",
+    "two": "表演让观众流连忘返。",
+    "three": "The performance kept the audience entertained."
+  },
+  {
+    "sid": 56,
+    "one": "wǒ biǎoxiàn dé ràng tā hěn shì mǎnyì 。",
+    "two": "我表现得让她很是满意。",
+    "three": "I behaved to her satisfaction."
+  },
+  {
+    "sid": 57,
+    "one": "zhèlǐ de wénhuàyíchǎn fēicháng fēngfù duōyàng 。",
+    "two": "这里的文化遗产非常丰富多样。",
+    "three": "The cultural heritage here is very rich and diverse."
+  },
+  {
+    "sid": 58,
+    "one": "wǒmen bìxū bàodào zhēnshíqíngkuàng 。",
+    "two": "我们必须报道真实情况。",
+    "three": "We must report the real story."
+  },
+  {
+    "sid": 59,
+    "one": "shìchǎng de wěndìngxìng yǐjīng huīfù le 。",
+    "two": "市场的稳定性已经恢复了。",
+    "three": "Market stability has been restored."
+  },
+  {
+    "sid": 60,
+    "one": "fánshì zhèlǐ de rén ， dōu kěyǐ lǐngqǔ 。",
+    "two": "凡是这里的人，都可以领取。",
+    "three": "Anyone here can receive it."
+  },
+  {
+    "sid": 61,
+    "one": "nǐ xiǎngdedào měi ！ wǒ cái bù mǎi gěi nǐ 。",
+    "two": "你想得到美！我才不买给你。",
+    "three": "You want to be beautiful! I won't buy it for you."
+  },
+  {
+    "sid": 62,
+    "one": "wǒ bùràng nǐ hē ， nǐ piānpiān yào hē 。",
+    "two": "我不让你喝，你偏偏要喝。",
+    "three": "I won't let you drink, but you insist on drinking."
+  },
+  {
+    "sid": 63,
+    "one": "xiàngmù de yùsuàn dàyuē shì yībǎiwànměiyuán 。",
+    "two": "项目的预算大约是一百万美元。",
+    "three": "The budget for the project is approximately $1 million."
+  },
+  {
+    "sid": 64,
+    "one": "dàyuē xūyào bànxiǎoshí cáinéng dàodá mùdìdì 。",
+    "two": "大约需要半小时才能到达目的地。",
+    "three": "It takes about half an hour to reach your destination."
+  },
+  {
+    "sid": 65,
+    "one": "bùfáng xiāndào nàli le zài shuō 。",
+    "two": "不妨先到那里了在说。",
+    "three": "You might as well get there first and talk about it."
+  },
+  {
+    "sid": 66,
+    "one": "zāogāo de tiānqì dǎozhì le bǐsài de yánqī 。",
+    "two": "糟糕的天气导致了比赛的延期。",
+    "three": "Bad weather caused the game to be postponed."
+  },
+  {
+    "sid": 67,
+    "one": "zhège xūyào yīzhǒng xìtǒngxìng de fāngfǎ lái zuò 。",
+    "two": "这个需要一种系统性的方法来做。",
+    "three": "This requires a systematic approach."
+  },
+  {
+    "sid": 68,
+    "one": "tāyòng xīn de fāngfǎ jiějué le zhège wèntí 。",
+    "two": "他用新的方法解决了这个问题。",
+    "three": "He solved the problem with a new approach."
+  },
+  {
+    "sid": 69,
+    "one": "wǒ gēn nǐ shuō guò ， nǐ jiù piānpiān bù xìn 。",
+    "two": "我跟你说过，你就偏偏不信。",
+    "three": "I told you, but you just didn’t believe me."
+  },
+  {
+    "sid": 70,
+    "one": "wǒ zài dāngdì de mǎi le yīxiē jìniànpǐn 。",
+    "two": "我在当地的买了一些纪念品。",
+    "three": "I bought some souvenirs locally."
+  },
+  {
+    "sid": 71,
+    "one": "yǐnshí jūnhéng shì bǎochí jiànkāng de chángshí 。",
+    "two": "饮食均衡是保持健康的常识。",
+    "three": "Eating a balanced diet is common sense to stay healthy."
+  },
+  {
+    "sid": 72,
+    "one": "tā de wēixiào shì wǒ zuìdà de ānwèi 。",
+    "two": "她的微笑是我最大的安慰。",
+    "three": "Her smile is my greatest comfort."
+  },
+  {
+    "sid": 73,
+    "one": "zhè jǐnián cūnlǐ biànhuàhěndà 。",
+    "two": "这几年村里变化很大。",
+    "three": "The village has changed a lot in recent years."
+  },
+  {
+    "sid": 74,
+    "one": "tā zhǐ wánchéng le gōngzuò de yībùfen 。",
+    "two": "他只完成了工作的一部分。",
+    "three": "He only did part of the job."
+  },
+  {
+    "sid": 75,
+    "one": "wǒ zhǐ chī le wǎncān de yīxiǎobùfèn 。",
+    "two": "我只吃了晚餐的一小部分。",
+    "three": "I only ate a small portion of my dinner."
+  },
+  {
+    "sid": 76,
+    "one": "tā fùzé bàodào dāngdì de xīnwén 。",
+    "two": "他负责报道当地的新闻。",
+    "three": "He covers local news."
+  },
+  {
+    "sid": 77,
+    "one": "nàyàng chī xiǎnde nǐ hěn cūlǔ 。",
+    "two": "那样吃显得你很粗鲁。",
+    "three": "Eating like that makes you look rude."
+  },
+  {
+    "sid": 78,
+    "one": "tā de yǎnshén biǎoshì le nèixīn de bùān 。",
+    "two": "她的眼神表示了内心的不安。",
+    "three": "Her eyes expressed inner uneasiness."
+  },
+  {
+    "sid": 79,
+    "one": "mòfēi bù xiāngxìn wǒ ？",
+    "two": "莫非不相信我？",
+    "three": "Do you not believe me?"
+  },
+  {
+    "sid": 80,
+    "one": "péngyou de zhīchí shì zuìhǎo de ānwèi 。",
+    "two": "朋友的支持是最好的安慰。",
+    "three": "The support of friends is the best comfort."
+  },
+  {
+    "sid": 81,
+    "one": "zhèjiàn shì ràng tā hěn shì bù xǐhuan 。",
+    "two": "这件事让他很是不喜欢。",
+    "three": "He didn't like this very much."
+  },
+  {
+    "sid": 82,
+    "one": "tā nǔlì gōngzuò qǔdé le chénggōng 。",
+    "two": "他努力工作取得了成功。",
+    "three": "He worked hard and succeeded."
+  },
+  {
+    "sid": 83,
+    "one": "wǒmen fēnbié qù le bùtóng de chéngshì 。",
+    "two": "我们分别去了不同的城市。",
+    "three": "We went to different cities separately."
+  },
+  {
+    "sid": 84,
+    "one": "fánshì zhèlǐ de rén ， dōu hěn lìhai 。",
+    "two": "凡是这里的人，都很厉害。",
+    "three": "Everyone here is awesome."
+  },
+  {
+    "sid": 85,
+    "one": "kàndào zhèfú huà ， nǐ zěnme xiǎng ？",
+    "two": "看到这幅画，你怎么想？",
+    "three": "What do you think when you see this painting?"
+  },
+  {
+    "sid": 86,
+    "one": "míngtiān nàli huì xiàyǔ ma ？",
+    "two": "明天那里会下雨吗？",
+    "three": "Will it rain there tomorrow?"
+  },
+  {
+    "sid": 87,
+    "one": "nǐ zuìjìn cānguān guò nǎxiēdìfāng ？",
+    "two": "你最近参观过哪些地方？",
+    "three": "Where have you visited recently?"
+  },
+  {
+    "sid": 88,
+    "one": "jīntiān zǎoshang tā qù zuò shénme le ？",
+    "two": "今天早上她去做什么了？",
+    "three": "What did she do this morning?"
+  },
+  {
+    "sid": 89,
+    "one": "nǐ liǎojiě zhōngguóxiàngqí ma ？",
+    "two": "你了解中国象棋吗？",
+    "three": "Do you know Chinese chess?"
+  },
+  {
+    "sid": 90,
+    "one": "nǐ zhème zuò ， jiéguǒ fǎnér bùhǎo 。",
+    "two": "你这么做，结果反而不好。",
+    "three": "If you do this, the consequences will be bad."
+  },
+  {
+    "sid": 91,
+    "one": "nǐ zhème zuò ， fǎnér bùxíng 。",
+    "two": "你这么做，反而不行。",
+    "three": "If you do this, it won't work."
+  },
+  {
+    "sid": 92,
+    "one": "wàimiàn xiàyǔ ， tā què méidài sǎn 。",
+    "two": "外面下雨，他却没带伞。",
+    "three": "It was raining outside, but he didn't bring an umbrella."
+  },
+  {
+    "sid": 93,
+    "one": "wǒ bāng le tā ， tā què mányuàn wǒ 。",
+    "two": "我帮了他，他却埋怨我。",
+    "three": "I helped him, but he blamed me."
+  },
+  {
+    "sid": 94,
+    "one": "jīntiān xīnwénbàodào le nàjiànshì 。",
+    "two": "今天新闻报道了那件事。",
+    "three": "That was on the news today."
+  },
+  {
+    "sid": 95,
+    "one": "zhèshì gēnjù shìshí bàodào de 。",
+    "two": "这是根据事实报道的。",
+    "three": "This is reported based on facts."
+  },
+  {
+    "sid": 96,
+    "one": "gēnjù shíjì qíngkuàng bàodào 。",
+    "two": "根据实际情况报道。",
+    "three": "Report based on actual situation."
+  },
+  {
+    "sid": 97,
+    "one": "jùshuō tā yǐjīng qù le shànghǎi 。",
+    "two": "据说他已经去了上海。",
+    "three": "It is said that he has gone to Shanghai."
+  },
+  {
+    "sid": 98,
+    "one": "jīntiān de tiānqì rúhé ？",
+    "two": "今天的天气如何？",
+    "three": "How is the weather today?"
+  },
+  {
+    "sid": 99,
+    "one": "nǐ zài zhège gōngsī gōngzuò duōjiǔ le ？",
+    "two": "你在这个公司工作多久了？",
+    "three": "How long have you been working for this company?"
+  },
+  {
+    "sid": 100,
+    "one": "nǐ fùmǔ cóngshì shénme zhíyè ？",
+    "two": "你父母从事什么职业？",
+    "three": "What are your parents' professions?"
+  },
+  {
+    "sid": 101,
+    "one": "wǒmen dōu qīwàng tā néng zài jīnnián bìyè 。",
+    "two": "我们都期望他能在今年毕业。",
+    "three": "We all expect him to graduate this year."
+  }
+]
