@@ -1,0 +1,734 @@
+[
+  {
+    "sid": 1,
+    "one": "zhège duōshǎo qián ？",
+    "two": "这个多少钱？",
+    "three": "how much is this?"
+  },
+  {
+    "sid": 2,
+    "one": "zhège de chángdù shì duōshǎo 。",
+    "two": "这个的长度是多少。",
+    "three": "What is the length of this."
+  },
+  {
+    "sid": 3,
+    "one": "zhège kěyǐ shìyòng ma ？",
+    "two": "这个可以试用吗？",
+    "three": "Can this be tried?"
+  },
+  {
+    "sid": 4,
+    "one": "wǒ zài zhǎo yīfù tàiyángjìng 。",
+    "two": "我在找一副太阳镜。",
+    "three": "I'm looking for a pair of sunglasses."
+  },
+  {
+    "sid": 5,
+    "one": "zhège shì zuìxīn kuǎnshi 。",
+    "two": "这个是最新款式。",
+    "three": "This is the latest style."
+  },
+  {
+    "sid": 6,
+    "one": "zhège yǒu bǎoyǎng fāngfǎ 。",
+    "two": "这个有保养方法。",
+    "three": "There are maintenance methods for this."
+  },
+  {
+    "sid": 7,
+    "one": "tígōng wéixiūfúwù ma ？",
+    "two": "提供维修服务吗？",
+    "three": "Do you provide maintenance services?"
+  },
+  {
+    "sid": 8,
+    "one": "wǒ zài zhǎo yīshuāng xīn pǎoxié 。",
+    "two": "我在找一双新跑鞋。",
+    "three": "I'm looking for a new pair of running shoes."
+  },
+  {
+    "sid": 9,
+    "one": "qǐngwèn zhège yǒu bǎoxiǎn ma ？",
+    "two": "请问这个有保险吗？",
+    "three": "Is this covered by insurance?"
+  },
+  {
+    "sid": 10,
+    "one": "yǒu fángshài gōngnéng 。",
+    "two": "有防晒功能。",
+    "three": "Has sun protection function."
+  },
+  {
+    "sid": 11,
+    "one": "zhège kěyǐ dìngzhì 。",
+    "two": "这个可以定制。",
+    "three": "This can be customized."
+  },
+  {
+    "sid": 12,
+    "one": "fēicháng nàiyòng 。",
+    "two": "非常耐用。",
+    "three": "Very durable."
+  },
+  {
+    "sid": 13,
+    "one": "zhège bǎoxiū ma ？",
+    "two": "这个保修吗？",
+    "three": "Is this a warranty?"
+  },
+  {
+    "sid": 14,
+    "one": "zhège yǒu diànchí 。",
+    "two": "这个有电池。",
+    "three": "This one has batteries."
+  },
+  {
+    "sid": 15,
+    "one": "gāodù shì duōshǎo 。",
+    "two": "高度是多少。",
+    "three": "What is the height."
+  },
+  {
+    "sid": 16,
+    "one": "qǐng suíbiàn shìshi 。",
+    "two": "请随便试试。",
+    "three": "Please feel free to try it."
+  },
+  {
+    "sid": 17,
+    "one": "zhège yǒu duōchóng ？",
+    "two": "这个有多重？",
+    "three": "How much does this weigh?"
+  },
+  {
+    "sid": 18,
+    "one": "zhège yǒu zhìliàngbǎozhèng 。",
+    "two": "这个有质量保证。",
+    "three": "This one has quality assurance."
+  },
+  {
+    "sid": 19,
+    "one": "wǒmen tígōng wéixiūfúwù 。",
+    "two": "我们提供维修服务。",
+    "three": "We provide repair services."
+  },
+  {
+    "sid": 20,
+    "one": "zhège shì xiànliàngbǎn 。",
+    "two": "这个是限量版。",
+    "three": "This is a limited edition."
+  },
+  {
+    "sid": 21,
+    "one": "zhège yǒu bǎoxiǎn fúwù 。",
+    "two": "这个有保险服务。",
+    "three": "This has insurance service."
+  },
+  {
+    "sid": 22,
+    "one": "gāi shāngpǐn kěyǐ tuìkuǎn ma ？",
+    "two": "该商品可以退款吗？",
+    "three": "Is this item refundable?"
+  },
+  {
+    "sid": 23,
+    "one": "nǐmen yǒu qítā kuǎnshi de ma ？",
+    "two": "你们有其他款式的吗？",
+    "three": "Do you have other styles?"
+  },
+  {
+    "sid": 24,
+    "one": "wǒ zhǐshì xiānkàn yīxià 。",
+    "two": "我只是先看一下。",
+    "three": "I'll just take a look first."
+  },
+  {
+    "sid": 25,
+    "one": "qǐngwèn zhège yǒu duōcháng ？",
+    "two": "请问这个有多长？",
+    "three": "How long is this?"
+  },
+  {
+    "sid": 26,
+    "one": "zhège yǒu pèijiàn kěyǐ gòumǎi 。",
+    "two": "这个有配件可以购买。",
+    "three": "Accessories are available for purchase."
+  },
+  {
+    "sid": 27,
+    "one": "nǐmen yǒu kùcún ma ？",
+    "two": "你们有库存吗？",
+    "three": "Do you have it in stock?"
+  },
+  {
+    "sid": 28,
+    "one": "yǒuméiyǒu shǐyòng shuōmíngshū ？",
+    "two": "有没有使用说明书？",
+    "three": "Is there an instruction manual?"
+  },
+  {
+    "sid": 29,
+    "one": "wǒ zài xúnzhǎo shēngrilǐwù 。",
+    "two": "我在寻找生日礼物。",
+    "three": "I'm looking for a birthday gift."
+  },
+  {
+    "sid": 30,
+    "one": "zhège yǒu bǎoxiū fúwù 。",
+    "two": "这个有保修服务。",
+    "three": "This one comes with a warranty."
+  },
+  {
+    "sid": 31,
+    "one": "zhège shì zhèngpǐn bǎozhèng 。",
+    "two": "这个是正品保证。",
+    "three": "This is guaranteed to be authentic."
+  },
+  {
+    "sid": 32,
+    "one": "nǐmen yǒu qítā chǐmǎ ma ？",
+    "two": "你们有其他尺码吗？",
+    "three": "Do you have other sizes?"
+  },
+  {
+    "sid": 33,
+    "one": "kěyǐ shǐyòng yōuhuìquàn ma ？",
+    "two": "可以使用优惠券吗？",
+    "three": "Can I use coupons?"
+  },
+  {
+    "sid": 34,
+    "one": "wǒmen jiēshòu xìnyòngkǎ zhīfù 。",
+    "two": "我们接受信用卡支付。",
+    "three": "We accept credit card payments."
+  },
+  {
+    "sid": 35,
+    "one": "yǒu qítā de gōngxiào de ma ？",
+    "two": "有其他的功效的吗？",
+    "three": "Does it have other effects?"
+  },
+  {
+    "sid": 36,
+    "one": "zhège yǒu chōngdiànqì 。",
+    "two": "这个有充电器。",
+    "three": "This one has a charger."
+  },
+  {
+    "sid": 37,
+    "one": "yǒuméiyǒu fángshuǐ gōngnéng ？",
+    "two": "有没有防水功能？",
+    "three": "Is it waterproof?"
+  },
+  {
+    "sid": 38,
+    "one": "nǐmen kěyǐ sònghuòshàngmén ma ？",
+    "two": "你们可以送货上门吗？",
+    "three": "Can you deliver to your door?"
+  },
+  {
+    "sid": 39,
+    "one": "qǐngwèn zhège yǒu shénme cáizhì ？",
+    "two": "请问这个有什么材质？",
+    "three": "What material is this made of?"
+  },
+  {
+    "sid": 40,
+    "one": "wǒ zhǔnbèi mǎi yīliàng xīnchē 。",
+    "two": "我准备买一辆新车。",
+    "three": "I'm going to buy a new car."
+  },
+  {
+    "sid": 41,
+    "one": "jiàgé zhēnde hěn hélǐ 。",
+    "two": "价格真的很合理。",
+    "three": "The price is really reasonable."
+  },
+  {
+    "sid": 42,
+    "one": "zhège kěyǐ tuìhuànhuò 。",
+    "two": "这个可以退换货。",
+    "three": "This can be returned or exchanged."
+  },
+  {
+    "sid": 43,
+    "one": "wǒ kěyǐ shìchuān zhèjiàn chènshān ma ？",
+    "two": "我可以试穿这件衬衫吗？",
+    "three": "Can I try on this shirt?"
+  },
+  {
+    "sid": 44,
+    "one": "shìhé shénme fūzhì shǐyòng ？",
+    "two": "适合什么肤质使用？",
+    "three": "What skin type is it suitable for?"
+  },
+  {
+    "sid": 45,
+    "one": "zhège yǒuméiyǒu pèijiàn ？",
+    "two": "这个有没有配件？",
+    "three": "Are there any accessories for this?"
+  },
+  {
+    "sid": 46,
+    "one": "qǐngwèn nǐmen yǒu huìyuánkǎ ma ？",
+    "two": "请问你们有会员卡吗？",
+    "three": "Do you have a membership card?"
+  },
+  {
+    "sid": 47,
+    "one": "wǒmen háiyǒu qítā fēnggé kě xuǎn 。",
+    "two": "我们还有其他风格可选。",
+    "three": "We also have other styles available."
+  },
+  {
+    "sid": 48,
+    "one": "yǒu tèbié de gōngnéng 。",
+    "two": "有特别的功能。",
+    "three": "Has special functions."
+  },
+  {
+    "sid": 49,
+    "one": "gāi shāngpǐn yǒu zhékòu ma ？",
+    "two": "该商品有折扣吗？",
+    "three": "Is there a discount on this item?"
+  },
+  {
+    "sid": 50,
+    "one": "shāngdiàn tígōng miǎnfèi sònghuò fúwù 。",
+    "two": "商店提供免费送货服务。",
+    "three": "The store offers free shipping."
+  },
+  {
+    "sid": 51,
+    "one": "nǐmen yǒu qítā pǐnpái de ma ？",
+    "two": "你们有其他品牌的吗？",
+    "three": "Do you have other brands?"
+  },
+  {
+    "sid": 52,
+    "one": "wǒyào yīkuǎn xīn xiāngshuǐ 。",
+    "two": "我要一款新香水。",
+    "three": "I want a new perfume."
+  },
+  {
+    "sid": 53,
+    "one": "qǐngwèn zhège shì xīnkuǎn ma ？",
+    "two": "请问这个是新款吗？",
+    "three": "Is this a new model?"
+  },
+  {
+    "sid": 54,
+    "one": "shāngdiàn xiànshí chūshòu diànzichǎnpǐn 。",
+    "two": "商店限时出售电子产品。",
+    "three": "The store sells electronics for a limited time."
+  },
+  {
+    "sid": 55,
+    "one": "wǒ zài zhǎo kāfēi 。",
+    "two": "我在找咖啡。",
+    "three": "I'm looking for coffee."
+  },
+  {
+    "sid": 56,
+    "one": "wǒmen háiyǒu qítā xiāngwèi kě xuǎn 。",
+    "two": "我们还有其他香味可选。",
+    "three": "We also have other scents available."
+  },
+  {
+    "sid": 57,
+    "one": "zhège kěyǐ zài shuǐlǐ shǐyòng 。",
+    "two": "这个可以在水里使用。",
+    "three": "This can be used in water."
+  },
+  {
+    "sid": 58,
+    "one": "shāngdiàn háiyǒu yīlíng fēnzhōng jiù guānmén le 。",
+    "two": "商店还有10分钟就关门了。",
+    "three": "The store closes in 10 minutes."
+  },
+  {
+    "sid": 59,
+    "one": "zhège shìhé gèzhǒng fūzhì shǐyòng 。",
+    "two": "这个适合各种肤质使用。",
+    "three": "This is suitable for all skin types."
+  },
+  {
+    "sid": 60,
+    "one": "wǒ māma yào mǎi yībù xīnshǒujī 。",
+    "two": "我妈妈要买一部新手机。",
+    "three": "My mother wants to buy a new mobile phone."
+  },
+  {
+    "sid": 61,
+    "one": "shāngdiàn zhèngzài jìnxíng qīngcāng cùxiāo 。",
+    "two": "商店正在进行清仓促销。",
+    "three": "The store is having a clearance sale."
+  },
+  {
+    "sid": 62,
+    "one": "wǒ xūyào mǎi yīxiē záhuò 。",
+    "two": "我需要买一些杂货。",
+    "three": "I need to buy some groceries."
+  },
+  {
+    "sid": 63,
+    "one": "wǒ xǐhuan zhōumò qù gòuwù 。",
+    "two": "我喜欢周末去购物。",
+    "three": "I like to go shopping on weekends."
+  },
+  {
+    "sid": 64,
+    "one": "wǒ kěyǐ gòumǎi cǐ shāngpǐn ma ？",
+    "two": "我可以购买此商品吗？",
+    "three": "Can I purchase this item?"
+  },
+  {
+    "sid": 65,
+    "one": "zhège shìhé gèzhǒng chǎnghé chuān 。",
+    "two": "这个适合各种场合穿。",
+    "three": "This one is suitable for various occasions."
+  },
+  {
+    "sid": 66,
+    "one": "wǒmen háiyǒu qítā gōngxiào kě xuǎn 。",
+    "two": "我们还有其他功效可选。",
+    "three": "We also have other features available."
+  },
+  {
+    "sid": 67,
+    "one": "nǐmen yǒu qítā kǒuwèi de ma ？",
+    "two": "你们有其他口味的吗？",
+    "three": "Do you have any other flavors?"
+  },
+  {
+    "sid": 68,
+    "one": "zhège yǒuméiyǒu tuìhuò zhèngcè ？",
+    "two": "这个有没有退货政策？",
+    "three": "Is there a return policy for this?"
+  },
+  {
+    "sid": 69,
+    "one": "yǒuméiyǒu fángshài gōngnéng ？",
+    "two": "有没有防晒功能？",
+    "three": "Does it have sun protection function?"
+  },
+  {
+    "sid": 70,
+    "one": "qǐngwèn zhège yǒu duōshǎo kùcún ？",
+    "two": "请问这个有多少库存？",
+    "three": "How much stock does this have?"
+  },
+  {
+    "sid": 71,
+    "one": "nín kěyǐ shìyòng yīxià 。",
+    "two": "您可以试用一下。",
+    "three": "You can try it out."
+  },
+  {
+    "sid": 72,
+    "one": "zhège yǒuméiyǒu diànchí ？",
+    "two": "这个有没有电池？",
+    "three": "Does this have batteries?"
+  },
+  {
+    "sid": 73,
+    "one": "yǒu shǐyòng shuōmíngshū 。",
+    "two": "有使用说明书。",
+    "three": "There is an instruction manual."
+  },
+  {
+    "sid": 74,
+    "one": "nǐ néng tuījiàn yìběn hǎoshū ma ？",
+    "two": "你能推荐一本好书吗？",
+    "three": "Can you recommend a good book?"
+  },
+  {
+    "sid": 75,
+    "one": "wǒ xūyào qítā de chǐmǎ 。",
+    "two": "我需要其他的尺码。",
+    "three": "I need other sizes."
+  },
+  {
+    "sid": 76,
+    "one": "wǒmen háiyǒu qítā pǐnpái de shāngpǐn 。",
+    "two": "我们还有其他品牌的商品。",
+    "three": "We also have items from other brands."
+  },
+  {
+    "sid": 77,
+    "one": "zhège de róngliàng shì duōshǎo 。",
+    "two": "这个的容量是多少。",
+    "three": "What is the capacity of this."
+  },
+  {
+    "sid": 78,
+    "one": "wǒmen háiyǒu qítā kǒuwèi kě xuǎn 。",
+    "two": "我们还有其他口味可选。",
+    "three": "We also have other flavors available."
+  },
+  {
+    "sid": 79,
+    "one": "qǐngwèn zhège yǒu duō kuān ？",
+    "two": "请问这个有多宽？",
+    "three": "How wide is this?"
+  },
+  {
+    "sid": 80,
+    "one": "shāngdiàn lǐ jǐmǎn le rén 。",
+    "two": "商店里挤满了人。",
+    "three": "The store was packed with people."
+  },
+  {
+    "sid": 81,
+    "one": "nǐmen jiēshòu xìnyòngkǎ ma ？",
+    "two": "你们接受信用卡吗？",
+    "three": "Do you accept credit cards?"
+  },
+  {
+    "sid": 82,
+    "one": "wǒ xiǎng mǎi yīshuāng xīnxié 。",
+    "two": "我想买一双新鞋。",
+    "three": "I want to buy a new pair of shoes."
+  },
+  {
+    "sid": 83,
+    "one": "néng gěi wǒ yīgè fāpiào ma ？",
+    "two": "能给我一个发票吗？",
+    "three": "Can you give me an invoice?"
+  },
+  {
+    "sid": 84,
+    "one": "zhège yǒuméiyǒu zhìliàngbǎozhèng ？",
+    "two": "这个有没有质量保证？",
+    "three": "Is there any quality assurance for this?"
+  },
+  {
+    "sid": 85,
+    "one": "tígōng sònghuòshàngmén fúwù 。",
+    "two": "提供送货上门服务。",
+    "three": "Provide door-to-door delivery service."
+  },
+  {
+    "sid": 86,
+    "one": "wǒyào mǎi yītái diànnǎo 。",
+    "two": "我要买一台电脑。",
+    "three": "I want to buy a computer."
+  },
+  {
+    "sid": 87,
+    "one": "zhège shìhé shénme jìjié chuān ？",
+    "two": "这个适合什么季节穿？",
+    "three": "What season is this suitable for?"
+  },
+  {
+    "sid": 88,
+    "one": "wǒmen háiyǒu qítā xínghào kě xuǎn 。",
+    "two": "我们还有其他型号可选。",
+    "three": "We also have other models available."
+  },
+  {
+    "sid": 89,
+    "one": "zhège zhèngzài dǎzhé 。",
+    "two": "这个正在打折。",
+    "three": "This one is on sale."
+  },
+  {
+    "sid": 90,
+    "one": "wǒmen háiyǒu qítā chǐmǎ kě xuǎn 。",
+    "two": "我们还有其他尺码可选。",
+    "three": "We also have other sizes available."
+  },
+  {
+    "sid": 91,
+    "one": "qǐngwèn zhège shì zhèngpǐn ma ？",
+    "two": "请问这个是正品吗？",
+    "three": "Is this genuine?"
+  },
+  {
+    "sid": 92,
+    "one": "yǒuméiyǒu dǎzhé de ？",
+    "two": "有没有打折的？",
+    "three": "Are there any discounts?"
+  },
+  {
+    "sid": 93,
+    "one": "qǐngwèn zhège yǒu duō gāo ？",
+    "two": "请问这个有多高？",
+    "three": "How high is this?"
+  },
+  {
+    "sid": 94,
+    "one": "zhège kěyǐ dìngzhì ma ？",
+    "two": "这个可以定制吗？",
+    "three": "Can this be customized?"
+  },
+  {
+    "sid": 95,
+    "one": "qǐngwèn zhège yǒu duō dàróngliàng ？",
+    "two": "请问这个有多大容量？",
+    "three": "What is the capacity of this?"
+  },
+  {
+    "sid": 96,
+    "one": "zhège shì yīlínglíng yuán 。",
+    "two": "这个是100元。",
+    "three": "This is 100 yuan."
+  },
+  {
+    "sid": 97,
+    "one": "zhège yǒu fángshuǐ gōngnéng 。",
+    "two": "这个有防水功能。",
+    "three": "This one is waterproof."
+  },
+  {
+    "sid": 98,
+    "one": "kěyǐ zài shuǐlǐ shǐyòng ma ？",
+    "two": "可以在水里使用吗？",
+    "three": "Can it be used in water?"
+  },
+  {
+    "sid": 99,
+    "one": "zhège kěyǐ wǎnggòu ma ？",
+    "two": "这个可以网购吗？",
+    "three": "Can this be purchased online?"
+  },
+  {
+    "sid": 100,
+    "one": "zhège de kuāndù shì duōshǎo 。",
+    "two": "这个的宽度是多少。",
+    "three": "What's the width of this."
+  },
+  {
+    "sid": 101,
+    "one": "nǐmen yǒu qítā yánsè ma ？",
+    "two": "你们有其他颜色吗？",
+    "three": "Do you have other colors?"
+  },
+  {
+    "sid": 102,
+    "one": "zhège yǒuméiyǒu guòqī rìqī ？",
+    "two": "这个有没有过期日期？",
+    "three": "Does this have an expiration date?"
+  },
+  {
+    "sid": 103,
+    "one": "qǐngwèn zhège shì xiànliàngbǎn ma ？",
+    "two": "请问这个是限量版吗？",
+    "three": "Is this a limited edition?"
+  },
+  {
+    "sid": 104,
+    "one": "nǐmen yǒu qítā xínghào de ma ？",
+    "two": "你们有其他型号的吗？",
+    "three": "Do you have other models?"
+  },
+  {
+    "sid": 105,
+    "one": "wǒmen háiyǒu qítā kuǎnshi kě xuǎn 。",
+    "two": "我们还有其他款式可选。",
+    "three": "We also have other styles available."
+  },
+  {
+    "sid": 106,
+    "one": "wǒ kěyǐ shìshi ma ？",
+    "two": "我可以试试吗？",
+    "three": "Can I try it?"
+  },
+  {
+    "sid": 107,
+    "one": "zhèjiàn yīfú tàiguì le 。",
+    "two": "这件衣服太贵了。",
+    "three": "This dress is too expensive."
+  },
+  {
+    "sid": 108,
+    "one": "zhège yǒu duō nàiyòng ？",
+    "two": "这个有多耐用？",
+    "three": "How durable is this?"
+  },
+  {
+    "sid": 109,
+    "one": "wǒ zài zhǎo yǒujī nóngchǎnpǐn 。",
+    "two": "我在找有机农产品。",
+    "three": "I'm looking for organic produce."
+  },
+  {
+    "sid": 110,
+    "one": "zhège yǒuméiyǒu bǎoyǎng fāngfǎ ？",
+    "two": "这个有没有保养方法？",
+    "three": "Is there any maintenance method for this?"
+  },
+  {
+    "sid": 111,
+    "one": "zhège kěyǐ wǎngshàng gòumǎi 。",
+    "two": "这个可以网上购买。",
+    "three": "This can be purchased online."
+  },
+  {
+    "sid": 112,
+    "one": "qǐngwèn zhège yǒu duō bó ？",
+    "two": "请问这个有多薄？",
+    "three": "How thin is this?"
+  },
+  {
+    "sid": 113,
+    "one": "zhège hěn bó 。",
+    "two": "这个很薄。",
+    "three": "This one is very thin."
+  },
+  {
+    "sid": 114,
+    "one": "nǐ néng bāng wǒ zhǎodào zhège wùpǐn ma ？",
+    "two": "你能帮我找到这个物品吗？",
+    "three": "Can you help me find this item?"
+  },
+  {
+    "sid": 115,
+    "one": "zhège shìhé shénme chǎnghé chuān ？",
+    "two": "这个适合什么场合穿？",
+    "three": "What occasion is this suitable for?"
+  },
+  {
+    "sid": 116,
+    "one": "zhège yǒuméiyǒu chōngdiànqì ？",
+    "two": "这个有没有充电器？",
+    "three": "Does this have a charger?"
+  },
+  {
+    "sid": 117,
+    "one": "zhège shì yòng shénme cáizhì zhìzuò de 。",
+    "two": "这个是用什么材质制作的。",
+    "three": "What material is this made of?"
+  },
+  {
+    "sid": 118,
+    "one": "nǐmen yǒu qítā xiāngwèi de ma ？",
+    "two": "你们有其他香味的吗？",
+    "three": "Do you have any other scents?"
+  },
+  {
+    "sid": 119,
+    "one": "zhège de zhòngliàng shì duōshǎo 。",
+    "two": "这个的重量是多少。",
+    "three": "How much does this weigh."
+  },
+  {
+    "sid": 120,
+    "one": "shāngdiàn bù tuìhuò 。",
+    "two": "商店不退货。",
+    "three": "The store does not accept returns."
+  },
+  {
+    "sid": 121,
+    "one": "zhège shìhé chūnxiàqiūdōng chuān 。",
+    "two": "这个适合春夏秋冬穿。",
+    "three": "This is suitable for spring, summer, autumn and winter wear."
+  },
+  {
+    "sid": 122,
+    "one": "shì de ， zhège yǒu guòqī rìqī 。",
+    "two": "是的，这个有过期日期。",
+    "three": "Yes, this one has an expiration date."
+  }
+]

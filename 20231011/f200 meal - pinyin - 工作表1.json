@@ -1,0 +1,1298 @@
+[
+  {
+    "sid": 1,
+    "one": "néng duō gěi wǒdiǎn fānqiéjiàng ma ？",
+    "two": "能多给我点番茄酱吗？",
+    "three": "Can you give me more ketchup?"
+  },
+  {
+    "sid": 2,
+    "one": "hǎo de ， wǒ mǎshàng nálái 。",
+    "two": "好的，我马上拿来。",
+    "three": "Okay, I'll get it right away."
+  },
+  {
+    "sid": 3,
+    "one": "càidān shàng nín huì tuījiàn shénme ？",
+    "two": "菜单上您会推荐什么？",
+    "three": "What would you recommend on the menu?"
+  },
+  {
+    "sid": 4,
+    "one": "sānwényú ， tā hěn shòuhuānyíng 。",
+    "two": "三文鱼，它很受欢迎。",
+    "three": "Salmon, it's very popular."
+  },
+  {
+    "sid": 5,
+    "one": "néng gěi wǒ dāochā ma ？",
+    "two": "能给我刀叉吗？",
+    "three": "Can you give me a knife and fork?"
+  },
+  {
+    "sid": 6,
+    "one": "dāngrán kěyǐ 。",
+    "two": "当然可以。",
+    "three": "sure."
+  },
+  {
+    "sid": 7,
+    "one": "qǐng gěi wǒ yībēi kāfēi 。",
+    "two": "请给我一杯咖啡。",
+    "three": "I'd like some coffee, please."
+  },
+  {
+    "sid": 8,
+    "one": "hǎo de ， qǐng děng yīhuì 。",
+    "two": "好的，请等一会。",
+    "three": "OK, please wait a moment."
+  },
+  {
+    "sid": 9,
+    "one": "càidān shàng yǒu sùshí ma ？",
+    "two": "菜单上有素食吗？",
+    "three": "Are there any vegetarian options on the menu?"
+  },
+  {
+    "sid": 10,
+    "one": "yǒu de ， zhèlǐ 。",
+    "two": "有的，这里。",
+    "three": "Yes, here."
+  },
+  {
+    "sid": 11,
+    "one": "yǒu értóng càidān ma ？",
+    "two": "有儿童菜单吗？",
+    "three": "Is there a children's menu?"
+  },
+  {
+    "sid": 12,
+    "one": "wǒmen yǒu zhuānmén de értóng càidān 。",
+    "two": "我们有专门的儿童菜单。",
+    "three": "We have a dedicated children's menu."
+  },
+  {
+    "sid": 13,
+    "one": "nǐmen yǒu shénme tiándiǎn ？",
+    "two": "你们有什么甜点？",
+    "three": "What desserts do you have?"
+  },
+  {
+    "sid": 14,
+    "one": "zhīshì  qiǎokèlì dàngāo hé píngguǒpài 。",
+    "two": "芝士、巧克力蛋糕和苹果派。",
+    "three": "Cheese, chocolate cake and apple pie."
+  },
+  {
+    "sid": 15,
+    "one": "wǒ kěyǐ pèi yífèn shǔtiáo ma ？",
+    "two": "我可以配一份薯条吗？",
+    "three": "Can I have fries with it?"
+  },
+  {
+    "sid": 16,
+    "one": "dāngrán kěyǐ 。",
+    "two": "当然可以。",
+    "three": "sure."
+  },
+  {
+    "sid": 17,
+    "one": "néng gěi wǒ yībēi sūdáshuǐ ma ？",
+    "two": "能给我一杯苏打水吗？",
+    "three": "Can I get a soda?"
+  },
+  {
+    "sid": 18,
+    "one": "hǎo de ， wǒ mǎshàng qù ná 。",
+    "two": "好的，我马上去拿。",
+    "three": "Okay, I'll get it right away."
+  },
+  {
+    "sid": 19,
+    "one": "néng gěi wǒ yībēi rè hóngchá ma ？",
+    "two": "能给我一杯热红茶吗？",
+    "three": "Can you give me a cup of hot black tea?"
+  },
+  {
+    "sid": 20,
+    "one": "wǒ gěi nǐ zhǔnbèi yīxià 。",
+    "two": "我给你准备一下。",
+    "three": "Let me prepare it for you."
+  },
+  {
+    "sid": 21,
+    "one": "wǒmen kěyǐ xiān hēdiǎn shuǐ ma ？",
+    "two": "我们可以先喝点水吗？",
+    "three": "Can we have some water first?"
+  },
+  {
+    "sid": 22,
+    "one": "hǎo de 。",
+    "two": "好的。",
+    "three": "OK"
+  },
+  {
+    "sid": 23,
+    "one": "yǒu értóng yóulèqū ma ？",
+    "two": "有儿童游乐区吗？",
+    "three": "Is there a children's play area?"
+  },
+  {
+    "sid": 24,
+    "one": "bàoqiàn ， wǒmen méiyǒu 。",
+    "two": "抱歉，我们没有。",
+    "three": "Sorry, we don't have that."
+  },
+  {
+    "sid": 25,
+    "one": "yǒu lùtái zuòwèi ma ？",
+    "two": "有露台座位吗？",
+    "three": "Is there patio seating?"
+  },
+  {
+    "sid": 26,
+    "one": "shì de ， wǒmen yǒu hùwài zuòwèi 。",
+    "two": "是的，我们有户外座位。",
+    "three": "Yes, we have outdoor seating."
+  },
+  {
+    "sid": 27,
+    "one": "néng gěi wǒ yībēi bīngchá ma ？",
+    "two": "能给我一杯冰茶吗？",
+    "three": "Can I have a cup of iced tea?"
+  },
+  {
+    "sid": 28,
+    "one": "jiātáng háishi bù jiātáng ？",
+    "two": "加糖还是不加糖？",
+    "three": "To add sugar or not to add sugar?"
+  },
+  {
+    "sid": 29,
+    "one": "néng gěi wǒ yībēi chéngzhī ma ？",
+    "two": "能给我一杯橙汁吗？",
+    "three": "Can I have a glass of orange juice?"
+  },
+  {
+    "sid": 30,
+    "one": "xiānzhà de háishi pǔtōng de ？",
+    "two": "鲜榨的还是普通的？",
+    "three": "Fresh squeezed or regular?"
+  },
+  {
+    "sid": 31,
+    "one": "zìdài jiǔshuǐ xūyào jiā kāipíngfèi ma ？",
+    "two": "自带酒水需要加开瓶费吗？",
+    "three": "Is there a corkage fee for bringing your own wine?"
+  },
+  {
+    "sid": 32,
+    "one": "měipíng yàoshōu kāipíngfèi wǔ měiyuán 。",
+    "two": "每瓶要收开瓶费5美元。",
+    "three": "There is a corkage fee of $5 per bottle."
+  },
+  {
+    "sid": 33,
+    "one": "yǒu zìzhùcān ma ？",
+    "two": "有自助餐吗？",
+    "three": "Is there a buffet?"
+  },
+  {
+    "sid": 34,
+    "one": "bù ， wǒmen méiyǒu zìzhùcān 。",
+    "two": "不，我们没有自助餐。",
+    "three": "No, we don't have a buffet."
+  },
+  {
+    "sid": 35,
+    "one": "nǐ néng bǎ yán dìgěi wǒ ma ？",
+    "two": "你能把盐递给我吗？",
+    "three": "Can you pass me the salt?"
+  },
+  {
+    "sid": 36,
+    "one": "dāngrán ， gěi nǐ 。",
+    "two": "当然，给你。",
+    "three": "Of course, here you go."
+  },
+  {
+    "sid": 37,
+    "one": "nǐ chī niúpái ma ？",
+    "two": "你吃牛排吗？",
+    "three": "Do you eat steak?"
+  },
+  {
+    "sid": 38,
+    "one": "en ， wǒ xǐhuan chī niúpái 。",
+    "two": "嗯，我喜欢吃牛排。",
+    "three": "Well, I like steak."
+  },
+  {
+    "sid": 39,
+    "one": "nǐ zuì xǐhuan de tiándiǎn shì shénme ？",
+    "two": "你最喜欢的甜点是什么？",
+    "three": "What's your favorite dessert?"
+  },
+  {
+    "sid": 40,
+    "one": "qiǎokèlì róngyán dàngāo 。",
+    "two": "巧克力熔岩蛋糕。",
+    "three": "Chocolate lava cake."
+  },
+  {
+    "sid": 41,
+    "one": "nín yǒu shénme jiànyì ma ？",
+    "two": "您有什么建议吗？",
+    "three": "Do you have any suggestions?"
+  },
+  {
+    "sid": 42,
+    "one": "yìdàlì miàn tǐngbùcuò de 。",
+    "two": "意大利面挺不错的。",
+    "three": "The pasta is pretty good."
+  },
+  {
+    "sid": 43,
+    "one": "nǐ zuì xǐhuan shénme càixì ？",
+    "two": "你最喜欢什么菜系？",
+    "three": "What's your favorite cuisine?"
+  },
+  {
+    "sid": 44,
+    "one": "wǒ fēicháng xǐhuan tàiguócài 。",
+    "two": "我非常喜欢泰国菜。",
+    "three": "I like Thai food very much."
+  },
+  {
+    "sid": 45,
+    "one": "qǐngwèn wǒ kěyǐ xùbēi ma ？",
+    "two": "请问我可以续杯吗？",
+    "three": "Can I get a refill please?"
+  },
+  {
+    "sid": 46,
+    "one": "dāngrán kěyǐ 。",
+    "two": "当然可以。",
+    "three": "sure."
+  },
+  {
+    "sid": 47,
+    "one": "yǒu kěgōng liǎngrén shǐyòng de zhuōzi ma ？",
+    "two": "有可供两人使用的桌子吗？",
+    "three": "Are there tables for two?"
+  },
+  {
+    "sid": 48,
+    "one": "yǒu de ， qǐng zhèbiān zǒu 。",
+    "two": "有的，请这边走。",
+    "three": "Yes, please go this way."
+  },
+  {
+    "sid": 49,
+    "one": "wǒmen kěyǐ kàn yīxià càidān ma ？",
+    "two": "我们可以看一下菜单吗？",
+    "three": "Can we take a look at the menu?"
+  },
+  {
+    "sid": 50,
+    "one": "dāngrán kěyǐ 。",
+    "two": "当然可以。",
+    "three": "sure."
+  },
+  {
+    "sid": 51,
+    "one": "qǐngwèn kěyǐ gěi wǒ zhàngdān ma ？",
+    "two": "请问可以给我账单吗？",
+    "three": "Could you please give me the bill?"
+  },
+  {
+    "sid": 52,
+    "one": "dāngrán kěyǐ ， wǒ mǎshàng nálái 。",
+    "two": "当然可以，我马上拿来。",
+    "three": "Of course, I'll get it right away."
+  },
+  {
+    "sid": 53,
+    "one": "zuìhòu xiàdān de shíjiān shì jǐdiǎn ？",
+    "two": "最后下单的时间是几点？",
+    "three": "When is the last time to place an order?"
+  },
+  {
+    "sid": 54,
+    "one": "wǎnshàng jiǔ diǎn 。",
+    "two": "晚上9点。",
+    "three": "9 pm."
+  },
+  {
+    "sid": 55,
+    "one": "wǒnéng yào yīzhāng gāojiǎo yǐ ma ？",
+    "two": "我能要一张高脚椅吗？",
+    "three": "Can I have a high chair?"
+  },
+  {
+    "sid": 56,
+    "one": "dāngrán kěyǐ 。",
+    "two": "当然可以。",
+    "three": "sure."
+  },
+  {
+    "sid": 57,
+    "one": "nǐmen yǒuwú fūzhì de xuǎnzé ma ？",
+    "two": "你们有无麸质的选择吗？",
+    "three": "Do you have gluten free options?"
+  },
+  {
+    "sid": 58,
+    "one": "wǒmen yǒu dāndú de wú fūzhì càidān 。",
+    "two": "我们有单独的无麸质菜单。",
+    "three": "We have a separate gluten-free menu."
+  },
+  {
+    "sid": 59,
+    "one": "kěyǐ gěi wǒmen zhīpiào ma ？",
+    "two": "可以给我们支票吗？",
+    "three": "Can you give us a check?"
+  },
+  {
+    "sid": 60,
+    "one": "dāngrán kěyǐ 。",
+    "two": "当然可以。",
+    "three": "sure."
+  },
+  {
+    "sid": 61,
+    "one": "xiǎofèi bāohán zài zhàngdān lǐ ma ？",
+    "two": "小费包含在账单里吗？",
+    "three": "Is tip included in the bill?"
+  },
+  {
+    "sid": 62,
+    "one": "zhàngdān lǐ bù bāokuò xiǎofèi 。",
+    "two": "账单里不包括小费。",
+    "three": "Tips are not included in the bill."
+  },
+  {
+    "sid": 63,
+    "one": "néng gěi wǒ yīgè hézi ma ？",
+    "two": "能给我一个盒子吗？",
+    "three": "Can you give me a box?"
+  },
+  {
+    "sid": 64,
+    "one": "dāngrán 。 wǒ mǎshàng gěi nǐ ná 。",
+    "two": "当然。我马上给你拿。",
+    "three": "certainly. I'll get it for you right away."
+  },
+  {
+    "sid": 65,
+    "one": "nǐmen yǒu měirì tèjià ma ？",
+    "two": "你们有每日特价吗？",
+    "three": "Do you have any daily specials?"
+  },
+  {
+    "sid": 66,
+    "one": "yǒu de ， jīntiān shì kǎo niúpái 。",
+    "two": "有的，今天是烤牛排。",
+    "three": "Yes, today is grilled steak."
+  },
+  {
+    "sid": 67,
+    "one": "wǒ kěyǐ bǎ tiáoliào fàngzài yībiān ma ？",
+    "two": "我可以把调料放在一边吗？",
+    "three": "Can I leave the dressing on the side?"
+  },
+  {
+    "sid": 68,
+    "one": "hǎo de ， wǒhuì jìxiàlái de 。",
+    "two": "好的，我会记下来的。",
+    "three": "Okay, I'll make a note of it."
+  },
+  {
+    "sid": 69,
+    "one": "néng gěi wǒ yībēi hóngjiǔ ma ？",
+    "two": "能给我一杯红酒吗？",
+    "three": "Can I have a glass of red wine?"
+  },
+  {
+    "sid": 70,
+    "one": "nín xiǎngyào nǎ zhǒng lèixíng de hóngjiǔ ？",
+    "two": "您想要哪种类型的红酒？",
+    "three": "What type of red wine do you want?"
+  },
+  {
+    "sid": 71,
+    "one": "nǐmen yǒuwú jiānguǒ de xuǎnzé ma ？",
+    "two": "你们有无坚果的选择吗？",
+    "three": "Do you have nut-free options?"
+  },
+  {
+    "sid": 72,
+    "one": "wǒmen yǒu bùjiā jiānguǒ de càiyáo 。",
+    "two": "我们有不加坚果的菜肴。",
+    "three": "We have nut-free dishes."
+  },
+  {
+    "sid": 73,
+    "one": "néng gěi wǒ yīxiē éwài de cānjīn ma ？",
+    "two": "能给我一些额外的餐巾吗？",
+    "three": "Can I have some extra napkins?"
+  },
+  {
+    "sid": 74,
+    "one": "wǒ mǎshàng qù gěi nǐ ná 。",
+    "two": "我马上去给你拿。",
+    "three": "I'll get it for you right away."
+  },
+  {
+    "sid": 75,
+    "one": "xìnyòngkǎ yǒu zuìdī shōufèi ma ？",
+    "two": "信用卡有最低收费吗？",
+    "three": "Are there any minimum fees for credit cards?"
+  },
+  {
+    "sid": 76,
+    "one": "zhèlǐ xìnyòngkǎ méiyǒu zuìdī shōufèi 。",
+    "two": "这里信用卡没有最低收费。",
+    "three": "There is no minimum charge for credit cards here."
+  },
+  {
+    "sid": 77,
+    "one": "kěyǐ yòng xiànjīnzhīfù ma ？",
+    "two": "可以用现金支付吗？",
+    "three": "Can I pay in cash?"
+  },
+  {
+    "sid": 78,
+    "one": "kěyǐ de 。",
+    "two": "可以的。",
+    "three": "OK."
+  },
+  {
+    "sid": 79,
+    "one": "nǐmen yǒuwú rǔtáng de xuǎnzé ma ？",
+    "two": "你们有无乳糖的选择吗？",
+    "three": "Do you have lactose-free options?"
+  },
+  {
+    "sid": 80,
+    "one": "wǒmen yǒu bù hán rǔtáng de càiyáo 。",
+    "two": "我们有不含乳糖的菜肴。",
+    "three": "We have lactose-free dishes."
+  },
+  {
+    "sid": 81,
+    "one": "néng gěi wǒ yībēi zìláishuǐ ma ？",
+    "two": "能给我一杯自来水吗？",
+    "three": "Can I have a glass of tap water?"
+  },
+  {
+    "sid": 82,
+    "one": "hǎo de ， wǒ mǎshàng nálái 。",
+    "two": "好的，我马上拿来。",
+    "three": "Okay, I'll get it right away."
+  },
+  {
+    "sid": 83,
+    "one": "néng gěi wǒ yībēi báipútaojiǔ ma ？",
+    "two": "能给我一杯白葡萄酒吗？",
+    "three": "Can I have a glass of white wine?"
+  },
+  {
+    "sid": 84,
+    "one": "nín xiǎngyào nǎ zhǒng lèixíng de ？",
+    "two": "您想要哪种类型的？",
+    "three": "Which type do you want?"
+  },
+  {
+    "sid": 85,
+    "one": "nǐmen yǒu chúnsù tiándiǎn ma ？",
+    "two": "你们有纯素甜点吗？",
+    "three": "Do you have any vegan desserts?"
+  },
+  {
+    "sid": 86,
+    "one": "bùhǎoyìsi ， méiyǒu 。",
+    "two": "不好意思，没有。",
+    "three": "Sorry, no."
+  },
+  {
+    "sid": 87,
+    "one": "nǐmen yǒuwú táng de xuǎnzé ma ？",
+    "two": "你们有无糖的选择吗？",
+    "three": "Do you have any sugar free options?"
+  },
+  {
+    "sid": 88,
+    "one": "wǒmen yǒuwú táng càiyáo 。",
+    "two": "我们有无糖菜肴。",
+    "three": "We have sugar-free dishes."
+  },
+  {
+    "sid": 89,
+    "one": "yǒu fúwùfèi ma ？",
+    "two": "有服务费吗？",
+    "three": "Is there a service fee?"
+  },
+  {
+    "sid": 90,
+    "one": "wǒmen bù shōuqǔ fúwùfèi 。",
+    "two": "我们不收取服务费。",
+    "three": "We do not charge service fees."
+  },
+  {
+    "sid": 91,
+    "one": "néng gěi wǒ yībēi níngméngshuǐ ma ？",
+    "two": "能给我一杯柠檬水吗？",
+    "three": "Can I have a glass of lemonade?"
+  },
+  {
+    "sid": 92,
+    "one": "nǐ xiǎngyào jiātáng háishi bù jiātáng ？",
+    "two": "你想要加糖还是不加糖？",
+    "three": "Do you want it with sugar or no sugar?"
+  },
+  {
+    "sid": 93,
+    "one": "néng gěi wǒ yībēi rè qiǎokèlì ma ？",
+    "two": "能给我一杯热巧克力吗？",
+    "three": "Can I have a cup of hot chocolate?"
+  },
+  {
+    "sid": 94,
+    "one": "hǎo de ， nín xūyào jiā shēng nǎiyóu ma ？",
+    "two": "好的，您需要加生奶油吗？",
+    "three": "Okay, do you want whipped cream?"
+  },
+  {
+    "sid": 95,
+    "one": "nǐmen yǒuwú bèilèi de xuǎnzé ma ？",
+    "two": "你们有无贝类的选择吗？",
+    "three": "Do you have any shellfish-free options?"
+  },
+  {
+    "sid": 96,
+    "one": "wǒmen yǒu bù hán bèilèi de càiyáo 。",
+    "two": "我们有不含贝类的菜肴。",
+    "three": "We have dishes that do not contain shellfish."
+  },
+  {
+    "sid": 97,
+    "one": "néng gěi wǒ yībēi guǒzhī ma ？",
+    "two": "能给我一杯果汁吗？",
+    "three": "Can I have a glass of juice?"
+  },
+  {
+    "sid": 98,
+    "one": "qǐngwèn nín yào hē shénme guǒzhī ？",
+    "two": "请问您要喝什么果汁？",
+    "three": "What kind of juice do you want to drink?"
+  },
+  {
+    "sid": 99,
+    "one": "kěyǐ wàimài ma ？",
+    "two": "可以外卖吗？",
+    "three": "Can I order takeout?"
+  },
+  {
+    "sid": 100,
+    "one": "kěyǐ ， zài guìtái xià dìngdān 。",
+    "two": "可以，在柜台下订单。",
+    "three": "Yes, orders can be placed at the counter."
+  },
+  {
+    "sid": 101,
+    "one": "néng gěi wǒ yībēi bīngshuǐ ma ？",
+    "two": "能给我一杯冰水吗？",
+    "three": "Can you give me a glass of ice water?"
+  },
+  {
+    "sid": 102,
+    "one": "hǎo de ， wǒ mǎshàng nálái 。",
+    "two": "好的，我马上拿来。",
+    "three": "Okay, I'll get it right away."
+  },
+  {
+    "sid": 103,
+    "one": "yǒu sònghuò fèi ma ？",
+    "two": "有送货费吗？",
+    "three": "Are there delivery fees?"
+  },
+  {
+    "sid": 104,
+    "one": "yǒu de ， dànshì huì shōufèi 。",
+    "two": "有的，但是会收费。",
+    "three": "Yes, but there will be a fee."
+  },
+  {
+    "sid": 105,
+    "one": "néng gěi wǒ yībēi qiǎokèlì niúnǎi ma ？",
+    "two": "能给我一杯巧克力牛奶吗？",
+    "three": "Can I have a glass of chocolate milk?"
+  },
+  {
+    "sid": 106,
+    "one": "nín xiǎngyào rè de háishi lěng de ？",
+    "two": "您想要热的还是冷的？",
+    "three": "Do you want it hot or cold?"
+  },
+  {
+    "sid": 107,
+    "one": "yǒu zhuózhuāng yāoqiú ma ？",
+    "two": "有着装要求吗？",
+    "three": "Is there a dress code?"
+  },
+  {
+    "sid": 108,
+    "one": "méiyǒu jùtǐ de zhuózhuāng yāoqiú 。",
+    "two": "没有具体的着装要求。",
+    "three": "There is no specific dress code."
+  },
+  {
+    "sid": 109,
+    "one": "nǐmen yǒuwú yú de xuǎnzé ma ？",
+    "two": "你们有无鱼的选择吗？",
+    "three": "Do you have any fishless options?"
+  },
+  {
+    "sid": 110,
+    "one": "wǒmen yǒu bùjiā yú de càiyáo 。",
+    "two": "我们有不加鱼的菜肴。",
+    "three": "We have dishes without fish."
+  },
+  {
+    "sid": 111,
+    "one": "néng gěi wǒ yībēi bōluózhī ma ？",
+    "two": "能给我一杯菠萝汁吗？",
+    "three": "Can I have a glass of pineapple juice?"
+  },
+  {
+    "sid": 112,
+    "one": "hǎo de ， wǒ mǎshàng nálái 。",
+    "two": "好的，我马上拿来。",
+    "three": "Okay, I'll get it right away."
+  },
+  {
+    "sid": 113,
+    "one": "yǒu zhítōngchē ma ？",
+    "two": "有直通车吗？",
+    "three": "Is there a through train?"
+  },
+  {
+    "sid": 114,
+    "one": "wǒmen méiyǒu zhítōngchē 。",
+    "two": "我们没有直通车。",
+    "three": "We don't have a through train."
+  },
+  {
+    "sid": 115,
+    "one": "néng gěi wǒ yībēi rè lǜchá ma ？",
+    "two": "能给我一杯热绿茶吗？",
+    "three": "Can I have a cup of hot green tea?"
+  },
+  {
+    "sid": 116,
+    "one": "dāngrán 。   wǒ gěi nǐ zhǔnbèi yīxià 。",
+    "two": "当然。 我给你准备一下。",
+    "three": "certainly. Let me prepare it for you."
+  },
+  {
+    "sid": 117,
+    "one": "nǐmen yǒuwú táng tiándiǎn ma ？",
+    "two": "你们有无糖甜点吗？",
+    "three": "Do you have sugar-free desserts?"
+  },
+  {
+    "sid": 118,
+    "one": "wǒmen yǒuwú táng de tiándiǎn 。",
+    "two": "我们有无糖的甜点。",
+    "three": "We have sugar-free desserts."
+  },
+  {
+    "sid": 119,
+    "one": "yǒu shìwài zuòwèi ma ？",
+    "two": "有室外座位吗？",
+    "three": "Is there outdoor seating?"
+  },
+  {
+    "sid": 120,
+    "one": "shì de ， wǒmen yǒu hùwài zuòwèi 。",
+    "two": "是的，我们有户外座位。",
+    "three": "Yes, we have outdoor seating."
+  },
+  {
+    "sid": 121,
+    "one": "yǒu jiǔbā qū ma ？",
+    "two": "有酒吧区吗？",
+    "three": "Is there a bar area?"
+  },
+  {
+    "sid": 122,
+    "one": "wǒmen yǒu yīgè jiǔbā qū 。",
+    "two": "我们有一个酒吧区。",
+    "three": "We have a bar area."
+  },
+  {
+    "sid": 123,
+    "one": "zhèjiā diàn wèidao zěnmeyàng ？",
+    "two": "这家店味道怎么样？",
+    "three": "How does this store taste?"
+  },
+  {
+    "sid": 124,
+    "one": "wèidao bàngjíle 。",
+    "two": "味道棒极了。",
+    "three": "It tastes great."
+  },
+  {
+    "sid": 125,
+    "one": "nǐ chángguò zhèlǐ de kāiwèicài ma ？",
+    "two": "你尝过这里的开胃菜吗？",
+    "three": "Have you tried the appetizers here?"
+  },
+  {
+    "sid": 126,
+    "one": "wǒ chī guò yìshì kǎomiànbāo 。",
+    "two": "我吃过意式烤面包。",
+    "three": "I had bruschetta."
+  },
+  {
+    "sid": 127,
+    "one": "nǐ yǒu shénme yǐnshí xiànzhì ma ？",
+    "two": "你有什么饮食限制吗？",
+    "three": "Do you have any dietary restrictions?"
+  },
+  {
+    "sid": 128,
+    "one": "wǒ duì jiānguǒ guòmǐn 。",
+    "two": "我对坚果过敏。",
+    "three": "I am allergic to nuts."
+  },
+  {
+    "sid": 129,
+    "one": "nǐ xǐhuan kělè háishi sūdáshuǐ ？",
+    "two": "你喜欢可乐还是苏打水？",
+    "three": "Do you like Coke or soda?"
+  },
+  {
+    "sid": 130,
+    "one": "qǐng gěi wǒ yībēi chúnjìngshuǐ 。",
+    "two": "请给我一杯纯净水。",
+    "three": "Please give me a glass of pure water."
+  },
+  {
+    "sid": 131,
+    "one": "nǐ yǐqián láiguò zhèjiā cāntīng ma ？",
+    "two": "你以前来过这家餐厅吗？",
+    "three": "Have you been to this restaurant before?"
+  },
+  {
+    "sid": 132,
+    "one": "bù ， zhè shì wǒ dìyīcì 。",
+    "two": "不，这是我第一次。",
+    "three": "No, this is my first time."
+  },
+  {
+    "sid": 133,
+    "one": "nǐ xǐhuan chī là ma ？",
+    "two": "你喜欢吃辣吗？",
+    "three": "Do you like spicy food?"
+  },
+  {
+    "sid": 134,
+    "one": "wǒ xǐhuan chī là de 。",
+    "two": "我喜欢吃辣的。",
+    "three": "I like spicy food."
+  },
+  {
+    "sid": 135,
+    "one": "nǐ xiǎng chī shénme ？",
+    "two": "你想吃什么？",
+    "three": "What do you want to eat?"
+  },
+  {
+    "sid": 136,
+    "one": "wǒ xiǎng chī kǎoyā 。",
+    "two": "我想吃烤鸭。",
+    "three": "I want to eat roast duck."
+  },
+  {
+    "sid": 137,
+    "one": "zhèjiā cāntīng de cài zěnmeyàng ？",
+    "two": "这家餐厅的菜怎么样？",
+    "three": "How is the food at this restaurant?"
+  },
+  {
+    "sid": 138,
+    "one": "hěn bùcuò ， hàochī 。",
+    "two": "很不错，好吃。",
+    "three": "Very good and delicious."
+  },
+  {
+    "sid": 139,
+    "one": "wǒmen diǎn jǐge cài ？",
+    "two": "我们点几个菜？",
+    "three": "How many dishes should we order?"
+  },
+  {
+    "sid": 140,
+    "one": "shǎo diǎn yīxiē ， wǒmen rénshǎo 。",
+    "two": "少点一些，我们人少。",
+    "three": "Fewer, there are fewer of us."
+  },
+  {
+    "sid": 141,
+    "one": "zhège càilà ma ？",
+    "two": "这个菜辣吗？",
+    "three": "Is this dish spicy?"
+  },
+  {
+    "sid": 142,
+    "one": "bùtàilà ， nǐ kěyǐ shìshi 。",
+    "two": "不太辣，你可以试试。",
+    "three": "It's not too spicy, you can try it."
+  },
+  {
+    "sid": 143,
+    "one": "fúwùyuán ， mǎidān ！",
+    "two": "服务员，买单！",
+    "three": "Waiter, Checkout!"
+  },
+  {
+    "sid": 144,
+    "one": "hǎo de ， wǒlái jiézhàng 。",
+    "two": "好的，我来结账。",
+    "three": "OK, I'll pay."
+  },
+  {
+    "sid": 145,
+    "one": "qǐngwèn yǒu shénme tèsècài tuījiàn ma ？",
+    "two": "请问有什么特色菜推荐吗？",
+    "three": "Do you have any special dishes to recommend?"
+  },
+  {
+    "sid": 146,
+    "one": "hóngshāoròu hěn yǒumíng 。",
+    "two": "红烧肉很有名。",
+    "three": "Braised pork is very famous."
+  },
+  {
+    "sid": 147,
+    "one": "zhège cài shì là de ， nǐ néng chī ma ？",
+    "two": "这个菜是辣的，你能吃吗？",
+    "three": "This dish is spicy, can you eat it?"
+  },
+  {
+    "sid": 148,
+    "one": "wǒ kěyǐ chī yīdiǎn là 。",
+    "two": "我可以吃一点辣。",
+    "three": "I could do with a little spicy."
+  },
+  {
+    "sid": 149,
+    "one": "wǒmen háiyào zàidiǎn yífèn mǐfàn 。",
+    "two": "我们还要再点一份米饭。",
+    "three": "We will also order another rice dish."
+  },
+  {
+    "sid": 150,
+    "one": "hǎo de ， wǒ gàosu fúwùyuán 。",
+    "two": "好的，我告诉服务员。",
+    "three": "OK, I told the waiter."
+  },
+  {
+    "sid": 151,
+    "one": "zhège cài de fènliang gòu ma ？",
+    "two": "这个菜的份量够吗？",
+    "three": "Is the portion of this dish enough?"
+  },
+  {
+    "sid": 152,
+    "one": "yīnggāi gòu wǒmen liǎnggè rén chī 。",
+    "two": "应该够我们两个人吃。",
+    "three": "It should be enough for the two of us."
+  },
+  {
+    "sid": 153,
+    "one": "nǐ xǐhuan chī là ma ？",
+    "two": "你喜欢吃辣吗？",
+    "three": "Do you like spicy food?"
+  },
+  {
+    "sid": 154,
+    "one": "shì de ， wǒ hěn xǐhuan chī là de 。",
+    "two": "是的，我很喜欢吃辣的。",
+    "three": "Yes, I like spicy food."
+  },
+  {
+    "sid": 155,
+    "one": "zhèjiā cāntīng de huánjìng tǐng hǎo de 。",
+    "two": "这家餐厅的环境挺好的。",
+    "three": "The environment of this restaurant is quite good."
+  },
+  {
+    "sid": 156,
+    "one": "shì de ， zhuāngxiū dé hěnpiāoliàng 。",
+    "two": "是的，装修得很漂亮。",
+    "three": "Yes, it's beautifully decorated."
+  },
+  {
+    "sid": 157,
+    "one": "tāmen de fúwùtàidù hěn hǎo 。",
+    "two": "他们的服务态度很好。",
+    "three": "Their service attitude is very good."
+  },
+  {
+    "sid": 158,
+    "one": "shì de ， fúwùyuán hěn rèqíng 。",
+    "two": "是的，服务员很热情。",
+    "three": "Yes, the waiters are very welcoming."
+  },
+  {
+    "sid": 159,
+    "one": "zhège cài de wèidao zěnmeyàng ？",
+    "two": "这个菜的味道怎么样？",
+    "three": "How does this dish taste?"
+  },
+  {
+    "sid": 160,
+    "one": "wèidao hěn hǎo ， hěn dìdao de zhōngcān 。",
+    "two": "味道很好，很地道的中餐。",
+    "three": "Tastes very good, very authentic Chinese food."
+  },
+  {
+    "sid": 161,
+    "one": "zhè dàocài yǒu shénme tèbié de ma ？",
+    "two": "这道菜有什么特别的吗？",
+    "three": "Is there anything special about this dish?"
+  },
+  {
+    "sid": 162,
+    "one": "zhè dàocài yǒudiǎn málà 。",
+    "two": "这道菜有点麻辣。",
+    "three": "This dish is a bit spicy."
+  },
+  {
+    "sid": 163,
+    "one": "wǒmen kěyǐ diǎn yīgè tiándiǎn ma ？",
+    "two": "我们可以点一个甜点吗？",
+    "three": "Can we order a dessert?"
+  },
+  {
+    "sid": 164,
+    "one": "tāmen de mángguǒ bùdīng hěn bùcuò 。",
+    "two": "他们的芒果布丁很不错。",
+    "three": "Their mango pudding is pretty good."
+  },
+  {
+    "sid": 165,
+    "one": "nǐ juéde zhège cài hàochī ma ？",
+    "two": "你觉得这个菜好吃吗？",
+    "three": "Do you think this dish is delicious?"
+  },
+  {
+    "sid": 166,
+    "one": "wǒ juéde hái kěyǐ 。",
+    "two": "我觉得还可以。",
+    "three": "I think it is ok."
+  },
+  {
+    "sid": 167,
+    "one": "nǐ xiǎng hēdiǎn shénme ？",
+    "two": "你想喝点什么？",
+    "three": "What would you like to drink?"
+  },
+  {
+    "sid": 168,
+    "one": "wǒ xiǎng hēyībēi bīnghóngchá 。",
+    "two": "我想喝一杯冰红茶。",
+    "three": "I'd like to drink a glass of iced tea."
+  },
+  {
+    "sid": 169,
+    "one": "nǐ chībǎo le ma ？",
+    "two": "你吃饱了吗？",
+    "three": "are you full?"
+  },
+  {
+    "sid": 170,
+    "one": "hái méi chībǎo ， zài lái yífèn chǎomiàn 。",
+    "two": "还没吃饱，再来一份炒面。",
+    "three": "Not full yet, I want another fried noodles."
+  },
+  {
+    "sid": 171,
+    "one": "zhège cài de zuòfǎ shì zěnyàng de ？",
+    "two": "这个菜的做法是怎样的？",
+    "three": "How to make this dish?"
+  },
+  {
+    "sid": 172,
+    "one": "zhège cài shì hóngshāo de 。",
+    "two": "这个菜是红烧的。",
+    "three": "This dish is braised."
+  },
+  {
+    "sid": 173,
+    "one": "tāmen de càidān shàng yǒu sùcài ma ？",
+    "two": "他们的菜单上有素菜吗？",
+    "three": "Do they have vegetarian dishes on their menu?"
+  },
+  {
+    "sid": 174,
+    "one": "hǎo de ， wǒ mǎshàng gěi nín huàn 。",
+    "two": "好的，我马上给您换。",
+    "three": "OK, I'll change it for you right away."
+  },
+  {
+    "sid": 175,
+    "one": "nǐ juéde zhège cài de fènliang gòu ma ？",
+    "two": "你觉得这个菜的份量够吗？",
+    "three": "Do you think this dish is big enough?"
+  },
+  {
+    "sid": 176,
+    "one": "gòu le ， háiyǒu qítā de cài 。",
+    "two": "够了，还有其他的菜。",
+    "three": "Enough, there are other dishes."
+  },
+  {
+    "sid": 177,
+    "one": "tāmen de càipǐn xīnxiān ma ？",
+    "two": "他们的菜品新鲜吗？",
+    "three": "Are their dishes fresh?"
+  },
+  {
+    "sid": 178,
+    "one": "shì de ， tāmen de càipǐn dōu hěn xīnxiān 。",
+    "two": "是的，他们的菜品都很新鲜。",
+    "three": "Yes, their dishes are fresh."
+  },
+  {
+    "sid": 179,
+    "one": "nǐ xiǎngdiǎn diǎnxin ma ？",
+    "two": "你想点点心吗？",
+    "three": "Would you like some snacks?"
+  },
+  {
+    "sid": 180,
+    "one": "hǎo de ， wǒmen lái diǎn xiǎolóngbāo bā 。",
+    "two": "好的，我们来点小笼包吧。",
+    "three": "Okay, let's get some xiao long bao."
+  },
+  {
+    "sid": 181,
+    "one": "tāmen yǒu wàimài fúwù ma ？",
+    "two": "他们有外卖服务吗？",
+    "three": "Do they have takeout service?"
+  },
+  {
+    "sid": 182,
+    "one": "nǐ kěyǐ dǎdiànhuà dìng wàimài 。",
+    "two": "你可以打电话订外卖。",
+    "three": "You can call and order takeout."
+  },
+  {
+    "sid": 183,
+    "one": "zhège cài de kǒuwèi piānzhòng ma ？",
+    "two": "这个菜的口味偏重吗？",
+    "three": "Does this dish have a strong taste?"
+  },
+  {
+    "sid": 184,
+    "one": "zhège cài de kǒuwèi bǐjiào nóng 。",
+    "two": "这个菜的口味比较浓。",
+    "three": "The taste of this dish is relatively strong."
+  },
+  {
+    "sid": 185,
+    "one": "nǐmen yǒu tígōng miǎnfèi de cháshuǐ ma ？",
+    "two": "你们有提供免费的茶水吗？",
+    "three": "Do you provide free tea?"
+  },
+  {
+    "sid": 186,
+    "one": "wǒmen yǒu miǎnfèi de cháshuǐgōngyìng 。",
+    "two": "我们有免费的茶水供应。",
+    "three": "We have free tea supply."
+  },
+  {
+    "sid": 187,
+    "one": "qǐngwèn zhège cài shì là de ma ？",
+    "two": "请问这个菜是辣的吗？",
+    "three": "Is this dish spicy?"
+  },
+  {
+    "sid": 188,
+    "one": "shì de ， zhège cài yǒu yīdiǎn là 。",
+    "two": "是的，这个菜有一点辣。",
+    "three": "Yes, this dish is a little spicy."
+  },
+  {
+    "sid": 189,
+    "one": "fúwùyuán ， gěi wǒmen shàng yīpíng píjiǔ 。",
+    "two": "服务员，给我们上一瓶啤酒。",
+    "three": "Waiter, give us a bottle of beer."
+  },
+  {
+    "sid": 190,
+    "one": "hǎo de ， wǒ mǎshàng gěi nín shàng 。",
+    "two": "好的，我马上给您上。",
+    "three": "Okay, I'll get it to you right away."
+  },
+  {
+    "sid": 191,
+    "one": "zhège cài de zuòfǎ hěn fùzá ma ？",
+    "two": "这个菜的做法很复杂吗？",
+    "three": "Is this dish complicated to make?"
+  },
+  {
+    "sid": 192,
+    "one": "bù fùzá ， nǐ kěyǐ shìzhe zài zuò 。",
+    "two": "不复杂，你可以试着在做。",
+    "three": "It's not complicated, you can try it."
+  },
+  {
+    "sid": 193,
+    "one": "nǐ juéde zhège cài de wèidao zěnmeyàng ？",
+    "two": "你觉得这个菜的味道怎么样？",
+    "three": "What do you think of the taste of this dish?"
+  },
+  {
+    "sid": 194,
+    "one": "hěn bùcuò ， hěn dìdao 。",
+    "two": "很不错，很地道。",
+    "three": "Very good, very authentic."
+  },
+  {
+    "sid": 195,
+    "one": "nǐ chīsù ma ？",
+    "two": "你吃素吗？",
+    "three": "Are you vegetarian?"
+  },
+  {
+    "sid": 196,
+    "one": "shì de ， wǒ chīsù 。",
+    "two": "是的，我吃素。",
+    "three": "Yes, I am vegetarian."
+  },
+  {
+    "sid": 197,
+    "one": "nǐ xǐhuan chī tiándiǎn ma ？",
+    "two": "你喜欢吃甜点吗？",
+    "three": "Do you like dessert?"
+  },
+  {
+    "sid": 198,
+    "one": "wǒ hěn xǐhuan chī tiándiǎn 。",
+    "two": "我很喜欢吃甜点。",
+    "three": "I love desserts."
+  },
+  {
+    "sid": 199,
+    "one": "zhège cài de fènliang gòu ma ？",
+    "two": "这个菜的份量够吗？",
+    "three": "Is the portion of this dish enough?"
+  },
+  {
+    "sid": 200,
+    "one": "gòu le ， wǒmen diǎn le hěnduō cài 。",
+    "two": "够了，我们点了很多菜。",
+    "three": "Enough, we ordered a lot of dishes."
+  },
+  {
+    "sid": 201,
+    "one": "nǐ xiǎng chángshì yīxià tāmen de zhāopáicài ma ？",
+    "two": "你想尝试一下他们的招牌菜吗？",
+    "three": "Do you want to try their signature dishes?"
+  },
+  {
+    "sid": 202,
+    "one": "wǒmen kěyǐ diǎn yífèn lái chángcháng 。",
+    "two": "我们可以点一份来尝尝。",
+    "three": "We can order one to try."
+  },
+  {
+    "sid": 203,
+    "one": "zhège cài de kǒuwèi piānsuān ma ？",
+    "two": "这个菜的口味偏酸吗？",
+    "three": "Does this dish taste sour?"
+  },
+  {
+    "sid": 204,
+    "one": "zhège cài yǒu yīdiǎn suān 。",
+    "two": "这个菜有一点酸。",
+    "three": "This dish is a little sour."
+  },
+  {
+    "sid": 205,
+    "one": "fúwùyuán ， wǒyào jiā yìwǎn mǐfàn 。",
+    "two": "服务员，我要加一碗米饭。",
+    "three": "Waiter, I'd like to add a bowl of rice."
+  },
+  {
+    "sid": 206,
+    "one": "hǎo de ， wǒ gěi nín jiā yìwǎn 。",
+    "two": "好的，我给您加一碗。",
+    "three": "Okay, I'll add a bowl to you."
+  },
+  {
+    "sid": 207,
+    "one": "nǐ juéde zhège cài de làdù zěnmeyàng ？",
+    "two": "你觉得这个菜的辣度怎么样？",
+    "three": "What do you think of the spiciness of this dish?"
+  },
+  {
+    "sid": 208,
+    "one": "zhège cài de làdù shìzhōng ， bùtàilà 。",
+    "two": "这个菜的辣度适中，不太辣。",
+    "three": "The spiciness of this dish is moderate, not too spicy."
+  },
+  {
+    "sid": 209,
+    "one": "nǐmen yǒu tígōng wàimài fúwù ma ？",
+    "two": "你们有提供外卖服务吗？",
+    "three": "Do you provide takeaway service?"
+  },
+  {
+    "sid": 210,
+    "one": "wǒmen yǒu tígōng wàimài fúwù 。",
+    "two": "我们有提供外卖服务。",
+    "three": "We offer takeaway service."
+  },
+  {
+    "sid": 211,
+    "one": "zhège cài de kǒuwèi piāntián ma ？",
+    "two": "这个菜的口味偏甜吗？",
+    "three": "Does this dish taste too sweet?"
+  },
+  {
+    "sid": 212,
+    "one": "zhège cài yǒu yīdiǎn tián 。",
+    "two": "这个菜有一点甜。",
+    "three": "This dish is a little sweet."
+  },
+  {
+    "sid": 213,
+    "one": "men yǒu tígōng miǎnfèi de yǐnliào ma ？",
+    "two": "们有提供免费的饮料吗？",
+    "three": "Do we provide free drinks?"
+  },
+  {
+    "sid": 214,
+    "one": "wǒmen yǒu tígōng miǎnfèi de yǐnliào 。",
+    "two": "我们有提供免费的饮料。",
+    "three": "We provide free drinks."
+  },
+  {
+    "sid": 215,
+    "one": "qǐngwèn zhège cài shì málà de ma ？",
+    "two": "请问这个菜是麻辣的吗？",
+    "three": "Is this dish spicy?"
+  },
+  {
+    "sid": 216,
+    "one": "zhège cài shì málà kǒuwèi de 。",
+    "two": "这个菜是麻辣口味的。",
+    "three": "This dish is spicy."
+  }
+]

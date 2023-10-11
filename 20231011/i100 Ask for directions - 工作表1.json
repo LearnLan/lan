@@ -1,0 +1,602 @@
+[
+  {
+    "sid": 1,
+    "one": "qǐngwèn qù huǒchēzhàn zěnme zǒu ？",
+    "two": "请问去火车站怎么走？",
+    "three": "How do I get to the train station?"
+  },
+  {
+    "sid": 2,
+    "one": "zhèlǐ jùlí shìzhōngxīn yǒuduōyuǎn ？",
+    "two": "这里距离市中心有多远？",
+    "three": "How far is it from the city center?"
+  },
+  {
+    "sid": 3,
+    "one": "yǒudiǎn yuǎn le 。",
+    "two": "有点远了。",
+    "three": "A bit far."
+  },
+  {
+    "sid": 4,
+    "one": "tā zài lù de zuǒcè 。",
+    "two": "它在路的左侧。",
+    "three": "It's on the left side of the road."
+  },
+  {
+    "sid": 5,
+    "one": "fùjìn yǒu tíngchēchǎng ma ？",
+    "two": "附近有停车场吗？",
+    "three": "Is there parking nearby?"
+  },
+  {
+    "sid": 6,
+    "one": "qǐngwèn zhè fùjìn yǒu dìtiězhàn ma ？",
+    "two": "请问这附近有地铁站吗？",
+    "three": "Is there a subway station nearby?"
+  },
+  {
+    "sid": 7,
+    "one": "nǐ xūyào zhuǎndào xià yītiáojiē 。",
+    "two": "你需要转到下一条街。",
+    "three": "You need to turn to the next street."
+  },
+  {
+    "sid": 8,
+    "one": "fùjìn yǒu yàofáng ma ？",
+    "two": "附近有药房吗？",
+    "three": "Is there a pharmacy nearby?"
+  },
+  {
+    "sid": 9,
+    "one": "nǐ yīnggāi zài xià yīzhàn xiàchē 。",
+    "two": "你应该在下一站下车。",
+    "three": "You should get off at the next stop."
+  },
+  {
+    "sid": 10,
+    "one": "zhège qūyù tíngchē shōufèi ma ？",
+    "two": "这个区域停车收费吗？",
+    "three": "Are there fees for parking in this area?"
+  },
+  {
+    "sid": 11,
+    "one": "yǒu yīliàng gōnggòngqìchē qù nàli 。",
+    "two": "有一辆公共汽车去那里。",
+    "three": "There is a bus going there."
+  },
+  {
+    "sid": 12,
+    "one": "fùjìn yǒu yīgè tíngchēchǎng 。",
+    "two": "附近有一个停车场。",
+    "three": "There is a parking lot nearby."
+  },
+  {
+    "sid": 13,
+    "one": "zhǐyǒu yīgè tíngchē biāozhì 。",
+    "two": "只有一个停车标志。",
+    "three": "There is only one stop sign."
+  },
+  {
+    "sid": 14,
+    "one": "shízìlùkǒu yǒu yīgè hónglǜdēng 。",
+    "two": "十字路口有一个红绿灯。",
+    "three": "There is a traffic light at the intersection."
+  },
+  {
+    "sid": 15,
+    "one": "dàyuē èrlíng fēnzhōng lùchéng 。",
+    "two": "大约20分钟路程。",
+    "three": "About 20 minutes away."
+  },
+  {
+    "sid": 16,
+    "one": "tā wèiyú chéngzhèn de jiāoqū 。",
+    "two": "它位于城镇的郊区。",
+    "three": "It is located on the outskirts of town."
+  },
+  {
+    "sid": 17,
+    "one": "yǒu dìtiě tú ma ？",
+    "two": "有地铁图吗？",
+    "three": "Is there a subway map?"
+  },
+  {
+    "sid": 18,
+    "one": "xiàwǔ liù diǎn guānmén 。",
+    "two": "下午6点关门。",
+    "three": "Closes at 6pm."
+  },
+  {
+    "sid": 19,
+    "one": "zhège qūyù yǒu tíngchēfèi ma ？",
+    "two": "这个区域有停车费吗？",
+    "three": "Are there parking fees in this area?"
+  },
+  {
+    "sid": 20,
+    "one": "nǐ cuòguò le 。",
+    "two": "你错过了。",
+    "three": "You missed it."
+  },
+  {
+    "sid": 21,
+    "one": "wǒ kěyǐ zuò zhège chē ma ？",
+    "two": "我可以坐这个车吗？",
+    "three": "Can I take this car?"
+  },
+  {
+    "sid": 22,
+    "one": "wǒ yīnggāi liúchū duōshǎo shíjiān ？",
+    "two": "我应该留出多少时间？",
+    "three": "How much time should I set aside?"
+  },
+  {
+    "sid": 23,
+    "one": "jiù zài qiánmiàn 。",
+    "two": "就在前面。",
+    "three": "just in front."
+  },
+  {
+    "sid": 24,
+    "one": "yíngyè zhì wǎnshàng jiǔ diǎn 。",
+    "two": "营业至晚上9点。",
+    "three": "Open until 9pm."
+  },
+  {
+    "sid": 25,
+    "one": "jùlí jiǔdiàn yǒu jǐge jiēqū 。",
+    "two": "距离酒店有几个街区。",
+    "three": "A few blocks from the hotel."
+  },
+  {
+    "sid": 26,
+    "one": "tā wèiyú shìzhōngxīn 。",
+    "two": "它位于市中心。",
+    "three": "It is located in the city center."
+  },
+  {
+    "sid": 27,
+    "one": "fùjìn yǒu yīgè 。",
+    "two": "附近有一个。",
+    "three": "There is one nearby."
+  },
+  {
+    "sid": 28,
+    "one": "zhètiáo lù dǔchē ma ？",
+    "two": "这条路堵车吗？",
+    "three": "Is there a traffic jam on this road?"
+  },
+  {
+    "sid": 29,
+    "one": "nǐ dé zǒu yuǎn yīdiǎn 。",
+    "two": "你得走远一点。",
+    "three": "You have to go further."
+  },
+  {
+    "sid": 30,
+    "one": "zhège chéngshì yǒu gòngxiǎng dānchē ma ？",
+    "two": "这个城市有共享单车吗？",
+    "three": "Are there shared bikes in this city?"
+  },
+  {
+    "sid": 31,
+    "one": "zuìjìn de jiāyóuzhàn zài nǎlǐ ？",
+    "two": "最近的加油站在哪里？",
+    "three": "Where is the nearest gas station?"
+  },
+  {
+    "sid": 32,
+    "one": "nǐ kěyǐ zǒu yītiáo jiéjìng 。",
+    "two": "你可以走一条捷径。",
+    "three": "You can take a shortcut."
+  },
+  {
+    "sid": 33,
+    "one": "qǐngwèn ， zhèlǐ yǒu jiāyóuzhàn ma ？",
+    "two": "请问，这里有加油站吗？",
+    "three": "Excuse me, is there a gas station here?"
+  },
+  {
+    "sid": 34,
+    "one": "qǐngwèn zhètiáo lù tōngwǎng shìzhōngxīn ma ？",
+    "two": "请问这条路通往市中心吗？",
+    "three": "Does this road lead to the city center?"
+  },
+  {
+    "sid": 35,
+    "one": "nàtiáo lùshang yǒu yītiáo zìxíngchēdào 。",
+    "two": "那条路上有一条自行车道。",
+    "three": "There is a bicycle lane on that road."
+  },
+  {
+    "sid": 36,
+    "one": "tā zài yòucè 。",
+    "two": "它在右侧。",
+    "three": "It's on the right side."
+  },
+  {
+    "sid": 37,
+    "one": "nín xūyào chéngzuò chūzū 。",
+    "two": "您需要乘坐出租。",
+    "three": "You need to take a taxi."
+  },
+  {
+    "sid": 38,
+    "one": "tā wèiyú yīlóu 。",
+    "two": "它位于一楼。",
+    "three": "It is located on the first floor."
+  },
+  {
+    "sid": 39,
+    "one": "xià yīgè lùkǒu yǒu hónglǜdēng ma ？",
+    "two": "下一个路口有红绿灯吗？",
+    "three": "Are there traffic lights at the next intersection?"
+  },
+  {
+    "sid": 40,
+    "one": "zài nǐ de zuǒbian 。",
+    "two": "在你的左边。",
+    "three": "On your left."
+  },
+  {
+    "sid": 41,
+    "one": "nàli méiyǒu zìxíngchēdào 。",
+    "two": "那里没有自行车道。",
+    "three": "There are no bike paths there."
+  },
+  {
+    "sid": 42,
+    "one": "qǐngwèn wǒ zěnme qù tǐyùguǎn ？",
+    "two": "请问我怎么去体育馆？",
+    "three": "How can I get to the gym?"
+  },
+  {
+    "sid": 43,
+    "one": "nǐ yǐjīng cuòguò le 。",
+    "two": "你已经错过了。",
+    "three": "You've missed it."
+  },
+  {
+    "sid": 44,
+    "one": "tā zài nǐ de yòubian 。",
+    "two": "它在你的右边。",
+    "three": "It's on your right."
+  },
+  {
+    "sid": 45,
+    "one": "tā zài xià yīgè jiēqū 。",
+    "two": "它在下一个街区。",
+    "three": "It's on the next block."
+  },
+  {
+    "sid": 46,
+    "one": "qǐngwèn ， wǒ zěnme qù huǒchēzhàn ？",
+    "two": "请问，我怎么去火车站？",
+    "three": "Excuse me, how do I get to the train station?"
+  },
+  {
+    "sid": 47,
+    "one": "qǐngwèn dàxué zěnme zǒu ？",
+    "two": "请问大学怎么走？",
+    "three": "How to get to the university?"
+  },
+  {
+    "sid": 48,
+    "one": "cóng zhèlǐ zěnme qù lúndù mǎtóu ？",
+    "two": "从这里怎么去轮渡码头？",
+    "three": "How to get to the ferry terminal from here?"
+  },
+  {
+    "sid": 49,
+    "one": "tā jiù zài jiē duìmiàn 。",
+    "two": "它就在街对面。",
+    "three": "It's right across the street."
+  },
+  {
+    "sid": 50,
+    "one": "gāosùgōnglù shàng dǔchē ma ？",
+    "two": "高速公路上堵车吗？",
+    "three": "Is there a traffic jam on the highway?"
+  },
+  {
+    "sid": 51,
+    "one": "qǐngwèn ， fùjìn yǒu xǐshǒujiān ma ？",
+    "two": "请问，附近有洗手间吗？",
+    "three": "Excuse me, are there restrooms nearby?"
+  },
+  {
+    "sid": 52,
+    "one": "zhè tiáo jiēshang yǒu zìxíngchēdào ma ？",
+    "two": "这条街上有自行车道吗？",
+    "three": "Are there bike lanes on this street?"
+  },
+  {
+    "sid": 53,
+    "one": "yǒu bāshì shíkèbiǎo kěyǐ cānkǎo ma ？",
+    "two": "有巴士时刻表可以参考吗？",
+    "three": "Is there a bus timetable I can refer to?"
+  },
+  {
+    "sid": 54,
+    "one": "fùjìn yǒu zìxíngchē zūlìn diàn ma ？",
+    "two": "附近有自行车租赁店吗？",
+    "three": "Is there a bicycle rental shop nearby?"
+  },
+  {
+    "sid": 55,
+    "one": "qiánmiàn yǒu yīgè rénxínghéngdào 。",
+    "two": "前面有一个人行横道。",
+    "three": "There is a crosswalk ahead."
+  },
+  {
+    "sid": 56,
+    "one": "bāshì shàng duō tíngliú jǐzhàn 。",
+    "two": "巴士上多停留几站。",
+    "three": "Make a few more stops on the bus."
+  },
+  {
+    "sid": 57,
+    "one": "jiǔdiàn wàiyǒu chūzūchē zhàn ma ？",
+    "two": "酒店外有出租车站吗？",
+    "three": "Is there a taxi rank outside the hotel?"
+  },
+  {
+    "sid": 58,
+    "one": "zhè tiáo jiēshang yǒu chūzūchē ma ？",
+    "two": "这条街上有出租车吗？",
+    "three": "Are there taxis on this street?"
+  },
+  {
+    "sid": 59,
+    "one": "qǐngwèn ， zhège dìqū yǒu xǐchēchǎng ma ？",
+    "two": "请问，这个地区有洗车场吗？",
+    "three": "Excuse me, are there any car washes in this area?"
+  },
+  {
+    "sid": 60,
+    "one": "nǐ xūyào wǎngfǎn fāngxiàng zǒu 。",
+    "two": "你需要往反方向走。",
+    "three": "You need to go in the opposite direction."
+  },
+  {
+    "sid": 61,
+    "one": "nín xūyào chéngzuò lìng yīliàng bāshì 。",
+    "two": "您需要乘坐另一辆巴士。",
+    "three": "You need to take another bus."
+  },
+  {
+    "sid": 62,
+    "one": "tā zài tóng yītiáojiē shàng 。",
+    "two": "它在同一条街上。",
+    "three": "It's on the same street."
+  },
+  {
+    "sid": 63,
+    "one": "wǒ yīnggāi zǒu nǎtiáo lùqù gōngyuán ？",
+    "two": "我应该走哪条路去公园？",
+    "three": "Which way should I take to the park?"
+  },
+  {
+    "sid": 64,
+    "one": "jǐge jiēqū wàiyǒu yījiā xǐchēchǎng 。",
+    "two": "几个街区外有一家洗车场。",
+    "three": "There was a car wash a few blocks away."
+  },
+  {
+    "sid": 65,
+    "one": "dàyuē bùxíng wǔfēnzhōng 。",
+    "two": "大约步行五分钟。",
+    "three": "It's about a five-minute walk."
+  },
+  {
+    "sid": 66,
+    "one": "zhè tiáo lùshang yǒu jiāotōng shèxiàngtóu ma ？",
+    "two": "这条路上有交通摄像头吗？",
+    "three": "Are there traffic cameras on this road?"
+  },
+  {
+    "sid": 67,
+    "one": "cāntīng wàimiàn yǒu zìxíngchē jià ma ？",
+    "two": "餐厅外面有自行车架吗？",
+    "three": "Are there bike racks outside the restaurant?"
+  },
+  {
+    "sid": 68,
+    "one": "zhè fùjìn yǒu gōngjiāochēzhàn ma ？",
+    "two": "这附近有公交车站吗？",
+    "three": "Is there a bus stop near here?"
+  },
+  {
+    "sid": 69,
+    "one": "qǐngwèn ， yǒu chéngshìdìtú ma ？",
+    "two": "请问，有城市地图吗？",
+    "three": "Excuse me, is there a city map?"
+  },
+  {
+    "sid": 70,
+    "one": "qǐngwèn ， yǒu qù jīchǎng de bānchē ma ？",
+    "two": "请问，有去机场的班车吗？",
+    "three": "Excuse me, is there a shuttle bus to the airport?"
+  },
+  {
+    "sid": 71,
+    "one": "qiánmiàn yǒu rénxínghéngdào ma ？",
+    "two": "前面有人行横道吗？",
+    "three": "Is there a crosswalk ahead?"
+  },
+  {
+    "sid": 72,
+    "one": "nǐ bìxū zǒu hěncháng de lù 。",
+    "two": "你必须走很长的路。",
+    "three": "You have to walk a long way."
+  },
+  {
+    "sid": 73,
+    "one": "zài jǐge jiēqū zhīwài 。",
+    "two": "在几个街区之外。",
+    "three": "A few blocks away."
+  },
+  {
+    "sid": 74,
+    "one": "zhè shì qù bówùguǎn de bāshì ma ？",
+    "two": "这是去博物馆的巴士吗？",
+    "three": "Is this the bus to the museum?"
+  },
+  {
+    "sid": 75,
+    "one": "xǐchēchǎng zàichéngzhèn de lìngyībiān 。",
+    "two": "洗车场在城镇的另一边。",
+    "three": "The car wash is on the other side of town."
+  },
+  {
+    "sid": 76,
+    "one": "yǒu zhǐshì fāngxiàng de jiāotōngbiāozhì ma ？",
+    "two": "有指示方向的交通标志吗？",
+    "three": "Are there traffic signs indicating the direction?"
+  },
+  {
+    "sid": 77,
+    "one": "zhè tiáo gāosùgōnglù xūyào fùfèi ma ？",
+    "two": "这条高速公路需要付费吗？",
+    "three": "Are there tolls on this highway?"
+  },
+  {
+    "sid": 78,
+    "one": "nǐ de lùxiàn zhèngquè 。",
+    "two": "你的路线正确。",
+    "three": "You are on the right track."
+  },
+  {
+    "sid": 79,
+    "one": "nǐ zài xià yīgè lùkǒu guò mǎlù 。",
+    "two": "你在下一个路口过马路。",
+    "three": "You cross the road at the next intersection."
+  },
+  {
+    "sid": 80,
+    "one": "nǐhǎo ， qǐngwèn shūdiàn zài nǎlǐ ？",
+    "two": "你好，请问书店在哪里？",
+    "three": "Hello, where is the bookstore?"
+  },
+  {
+    "sid": 81,
+    "one": "hébiān yǒu zìxíngchēdào ma ？",
+    "two": "河边有自行车道吗？",
+    "three": "Are there bike paths along the river?"
+  },
+  {
+    "sid": 82,
+    "one": "qù gòuwùzhōngxīn yǒu jiéjìng ma ？",
+    "two": "去购物中心有捷径吗？",
+    "three": "Is there a shortcut to the shopping mall?"
+  },
+  {
+    "sid": 83,
+    "one": "zhè tiáo lùshang yǒu zìxíngchēdào ma ？",
+    "two": "这条路上有自行车道吗？",
+    "three": "Are there bike lanes on this road?"
+  },
+  {
+    "sid": 84,
+    "one": "qǐngwèn fùjìn yǒu gōngjiāochēzhàn ma ？",
+    "two": "请问附近有公交车站吗？",
+    "three": "Is there a bus stop nearby?"
+  },
+  {
+    "sid": 85,
+    "one": "xià yīgè lùkǒu yǒu rénxínghéngdào ma ？",
+    "two": "下一个路口有人行横道吗？",
+    "three": "Is there a crosswalk at the next intersection?"
+  },
+  {
+    "sid": 86,
+    "one": "qǐngwèn láihuí de piàojià shì duōshǎo ？",
+    "two": "请问来回的票价是多少？",
+    "three": "What is the round trip fare?"
+  },
+  {
+    "sid": 87,
+    "one": "tā jiù zài guǎijiǎochù 。",
+    "two": "它就在拐角处。",
+    "three": "It's just around the corner."
+  },
+  {
+    "sid": 88,
+    "one": "yǒu dào jiǔdiàn de bānchē fúwù ma ？",
+    "two": "有到酒店的班车服务吗？",
+    "three": "Is there a shuttle service to the hotel?"
+  },
+  {
+    "sid": 89,
+    "one": "zuìjìn de tíngchēchǎng zài nǎtiáo lùshang ？",
+    "two": "最近的停车场在哪条路上？",
+    "three": "Which road is the nearest parking lot?"
+  },
+  {
+    "sid": 90,
+    "one": "cóng shìzhōngxīn zěnme qù huǒchēzhàn ？",
+    "two": "从市中心怎么去火车站？",
+    "three": "How to get to the train station from the city center?"
+  },
+  {
+    "sid": 91,
+    "one": "nǎlǐ kěyǐ dǎ dào chūzūchē ？",
+    "two": "哪里可以打到出租车？",
+    "three": "Where can I get a taxi?"
+  },
+  {
+    "sid": 92,
+    "one": "tā zài duìmiàn 。",
+    "two": "它在对面。",
+    "three": "It's on the opposite side."
+  },
+  {
+    "sid": 93,
+    "one": "yǒu zhídá jīchǎng de bāshì ma ？",
+    "two": "有直达机场的巴士吗？",
+    "three": "Is there a direct bus to the airport?"
+  },
+  {
+    "sid": 94,
+    "one": "yǒu qiánwǎng jīchǎng de bānchē fúwù 。",
+    "two": "有前往机场的班车服务。",
+    "three": "There is a shuttle service to the airport."
+  },
+  {
+    "sid": 95,
+    "one": "tā zài èrlóu 。",
+    "two": "它在二楼。",
+    "three": "It's on the second floor."
+  },
+  {
+    "sid": 96,
+    "one": "chēchéng yuē shífēnzhōng 。",
+    "two": "车程约十分钟。",
+    "three": "The drive takes about ten minutes."
+  },
+  {
+    "sid": 97,
+    "one": "zhè fùjìn yǒu zìxíngchē chūzū ma ？",
+    "two": "这附近有自行车出租吗？",
+    "three": "Are there bicycle rentals around here?"
+  },
+  {
+    "sid": 98,
+    "one": "dào zuìjìn de záhuòdiàn yǒuduōyuǎn ？",
+    "two": "到最近的杂货店有多远？",
+    "three": "How far is it to the nearest grocery store?"
+  },
+  {
+    "sid": 99,
+    "one": "qǐngwèn huǒchēzhàn zěnme qù ？",
+    "two": "请问火车站怎么去？",
+    "three": "How to get to the train station?"
+  },
+  {
+    "sid": 100,
+    "one": "fùjìn yǒu rénxínghéngdào ma ？",
+    "two": "附近有人行横道吗？",
+    "three": "Is there a crosswalk nearby?"
+  }
+]

@@ -1,0 +1,716 @@
+[
+  {
+    "sid": 1,
+    "one": "tā zuówǎn qù kàn diànyǐng le 。",
+    "two": "他昨晚去看电影了。",
+    "three": "He went to watch a movie last night."
+  },
+  {
+    "sid": 2,
+    "one": "wǒ xǐhuan chīshuǐguǒ 。",
+    "two": "我喜欢吃水果。",
+    "three": "I like to eat fruits."
+  },
+  {
+    "sid": 3,
+    "one": "tā měitiān dōu qù xuéxiào 。",
+    "two": "他每天都去学校。",
+    "three": "He goes to school every day."
+  },
+  {
+    "sid": 4,
+    "one": "wǒ xǐhuan hēkāfēi 。",
+    "two": "我喜欢喝咖啡。",
+    "three": "I like to drink coffee."
+  },
+  {
+    "sid": 5,
+    "one": "nǐ huì kāichē ma ？",
+    "two": "你会开车吗？",
+    "three": "Can you drive?"
+  },
+  {
+    "sid": 6,
+    "one": "tāmen zhèngzài kàn diànyǐng 。",
+    "two": "他们正在看电影。",
+    "three": "They are watching a movie."
+  },
+  {
+    "sid": 7,
+    "one": "wǒmen míngtiān yào qù lǚxíng 。",
+    "two": "我们明天要去旅行。",
+    "three": "We're going on a trip tomorrow."
+  },
+  {
+    "sid": 8,
+    "one": "māma zài zuò wǎnfàn 。",
+    "two": "妈妈在做晚饭。",
+    "three": "Mom is cooking dinner."
+  },
+  {
+    "sid": 9,
+    "one": "gēge měitiān dōu shàngxué 。",
+    "two": "哥哥每天都上学。",
+    "three": "My brother goes to school every day."
+  },
+  {
+    "sid": 10,
+    "one": "tā zài xuéxiào xuéxíwàiyǔ 。",
+    "two": "他在学校学习外语。",
+    "three": "He studies foreign languages at school."
+  },
+  {
+    "sid": 11,
+    "one": "wǒmen qù sànbù bā 。",
+    "two": "我们去散步吧。",
+    "three": "Let's go for a walk."
+  },
+  {
+    "sid": 12,
+    "one": "wǒ jīntiān gǎnjué bù shūfu 。",
+    "two": "我今天感觉不舒服。",
+    "three": "I don't feel well today."
+  },
+  {
+    "sid": 13,
+    "one": "nǐ néng bāng wǒ ma ？",
+    "two": "你能帮我吗？",
+    "three": "Can you help me?"
+  },
+  {
+    "sid": 14,
+    "one": "wǒhuì chǔlǐ hǎo zhèjiàn shì de 。",
+    "two": "我会处理好这件事的。",
+    "three": "I will handle this matter well."
+  },
+  {
+    "sid": 15,
+    "one": "jīntiāntiānqì zěnmeyàng ？",
+    "two": "今天天气怎么样？",
+    "three": "How's the weather today?"
+  },
+  {
+    "sid": 16,
+    "one": "wǒ xǐhuan zhè shǒugē ！",
+    "two": "我喜欢这首歌！",
+    "three": "I like this song!"
+  },
+  {
+    "sid": 17,
+    "one": "nǐ zài nǎlǐ zhǎngdà ？",
+    "two": "你在哪里长大？",
+    "three": "Where did you grow up?"
+  },
+  {
+    "sid": 18,
+    "one": "nǐ zuì xǐhuan de shíwù shì shénme ？",
+    "two": "你最喜欢的食物是什么？",
+    "three": "What's your favorite food?"
+  },
+  {
+    "sid": 19,
+    "one": "wǒmen qù gòuwù bā 。",
+    "two": "我们去购物吧。",
+    "three": "Let's go shopping."
+  },
+  {
+    "sid": 20,
+    "one": "zhège wèntí hěn zhòngyào 。",
+    "two": "这个问题很重要。",
+    "three": "This question is important."
+  },
+  {
+    "sid": 21,
+    "one": "wǒmen yīqǐ qù páshān bā ！",
+    "two": "我们一起去爬山吧！",
+    "three": "Let's go mountain climbing together!"
+  },
+  {
+    "sid": 22,
+    "one": "zhège chéngshì yǒu hěnduō jiànzhù 。",
+    "two": "这个城市有很多建筑。",
+    "three": "This city has many buildings."
+  },
+  {
+    "sid": 23,
+    "one": "nǐ de shūbāo zài yǐzi shàng 。",
+    "two": "你的书包在椅子上。",
+    "three": "Your backpack is on the chair."
+  },
+  {
+    "sid": 24,
+    "one": "nǐ kěyǐ bāng wǒ zhǎodào shīwù ma ？",
+    "two": "你可以帮我找到失物吗？",
+    "three": "Can you help me find my lost item?"
+  },
+  {
+    "sid": 25,
+    "one": "zhège fángzi hěndà hěnpiāoliàng 。",
+    "two": "这个房子很大很漂亮。",
+    "three": "This house is big and beautiful."
+  },
+  {
+    "sid": 26,
+    "one": "wǒmen de chē zài tíngchēchǎng 。",
+    "two": "我们的车在停车场。",
+    "three": "Our car is in the parking lot."
+  },
+  {
+    "sid": 27,
+    "one": "nǐ kěyǐ bāng wǒ xiū diànshì ma ？",
+    "two": "你可以帮我修电视吗？",
+    "three": "Can you help me fix my TV?"
+  },
+  {
+    "sid": 28,
+    "one": "wǒmen yīnggāi bǎohùhuánjìng 。",
+    "two": "我们应该保护环境。",
+    "three": "We should protect the environment."
+  },
+  {
+    "sid": 29,
+    "one": "tā xǐhuan kàn zúqiúbǐsài 。",
+    "two": "他喜欢看足球比赛。",
+    "three": "He likes to watch football games."
+  },
+  {
+    "sid": 30,
+    "one": "zhège xiàngmù hěnjù tiāozhànxìng 。",
+    "two": "这个项目很具挑战性。",
+    "three": "This project is challenging."
+  },
+  {
+    "sid": 31,
+    "one": "tāmen xǐhuan yóuyǒng pǎobù 。",
+    "two": "他们喜欢游泳跑步。",
+    "three": "They like to swim and run."
+  },
+  {
+    "sid": 32,
+    "one": "tā yǐjīng xuéhuì le huàhuà 。",
+    "two": "她已经学会了画画。",
+    "three": "She has learned to draw."
+  },
+  {
+    "sid": 33,
+    "one": "wǒmen xūyào yīxiē jiànyì 。",
+    "two": "我们需要一些建议。",
+    "three": "We need some advice."
+  },
+  {
+    "sid": 34,
+    "one": "tā měitiān dōu duànliànshēntǐ 。",
+    "two": "她每天都锻炼身体。",
+    "three": "She works out every day."
+  },
+  {
+    "sid": 35,
+    "one": "qǐng bùyào zài zhèlǐ luàn rēng lājī 。",
+    "two": "请不要在这里乱扔垃圾。",
+    "three": "Please don't litter here."
+  },
+  {
+    "sid": 36,
+    "one": "tā měige zhōumò dōu qù páshān 。",
+    "two": "他每个周末都去爬山。",
+    "three": "He goes hiking every weekend."
+  },
+  {
+    "sid": 37,
+    "one": "qǐng gàosu wǒ nǐ de diànhuàhàomǎ 。",
+    "two": "请告诉我你的电话号码。",
+    "three": "please tell me your phone number."
+  },
+  {
+    "sid": 38,
+    "one": "tā zhèngzài xuéxí huìhuà 。",
+    "two": "她正在学习绘画。",
+    "three": "She is learning to paint."
+  },
+  {
+    "sid": 39,
+    "one": "tā měige zhōumò dōu qù yīnyuèhuì 。",
+    "two": "她每个周末都去音乐会。",
+    "three": "She goes to concerts every weekend."
+  },
+  {
+    "sid": 40,
+    "one": "tā měige zhōumò dōu qù gòuwù 。",
+    "two": "她每个周末都去购物。",
+    "three": "She goes shopping every weekend."
+  },
+  {
+    "sid": 41,
+    "one": "māma měitiān dōu zuòfàn 。",
+    "two": "妈妈每天都做饭。",
+    "three": "Mom cooks every day."
+  },
+  {
+    "sid": 42,
+    "one": "tāmen yǐjīng tǎolùn le zhège wèntí 。",
+    "two": "他们已经讨论了这个问题。",
+    "three": "They have discussed this issue."
+  },
+  {
+    "sid": 43,
+    "one": "tā měige zhōumò dōu qù jiànshēn 。",
+    "two": "他每个周末都去健身。",
+    "three": "He goes to the gym every weekend."
+  },
+  {
+    "sid": 44,
+    "one": "tā bìyè le ， zhǎodào le gōngzuò 。",
+    "two": "他毕业了，找到了工作。",
+    "three": "He graduated and found a job."
+  },
+  {
+    "sid": 45,
+    "one": "tā yǐjīng xuéhuì le zuò tiándiǎn 。",
+    "two": "她已经学会了做甜点。",
+    "three": "She has learned how to make desserts."
+  },
+  {
+    "sid": 46,
+    "one": "tā měige zhōumò dōu qù jùyuàn 。",
+    "two": "她每个周末都去剧院。",
+    "three": "She goes to the theater every weekend."
+  },
+  {
+    "sid": 47,
+    "one": "qǐng bùyào dǎrǎo wǒ ， wǒ zài xuéxí 。",
+    "two": "请不要打扰我，我在学习。",
+    "three": "Please don't disturb me, I'm studying."
+  },
+  {
+    "sid": 48,
+    "one": "tā yǐjīng xuéhuì le yóuyǒng 。",
+    "two": "她已经学会了游泳。",
+    "three": "She has learned to swim."
+  },
+  {
+    "sid": 49,
+    "one": "bàba měitiān dōu gōngzuò 。",
+    "two": "爸爸每天都工作。",
+    "three": "Dad works every day."
+  },
+  {
+    "sid": 50,
+    "one": "tā zhèngzài xuéxí yīnyuè 。",
+    "two": "他正在学习音乐。",
+    "three": "He is studying music."
+  },
+  {
+    "sid": 51,
+    "one": "tā yǐjīng xuéhuì le kāichē 。",
+    "two": "她已经学会了开车。",
+    "three": "She has learned to drive."
+  },
+  {
+    "sid": 52,
+    "one": "zhège diànyǐng hěn yǒuqù 。",
+    "two": "这个电影很有趣。",
+    "three": "This movie is very interesting."
+  },
+  {
+    "sid": 53,
+    "one": "wǒ měige zhōumò dōu qù yùndòng 。",
+    "two": "我每个周末都去运动。",
+    "three": "I play sports every weekend."
+  },
+  {
+    "sid": 54,
+    "one": "qǐng bùyào zài zhèlǐ túyā 。",
+    "two": "请不要在这里涂鸦。",
+    "three": "Please don't graffiti here."
+  },
+  {
+    "sid": 55,
+    "one": "tā zuótiān gēn wǒ dàoqiàn le 。",
+    "two": "她昨天跟我道歉了。",
+    "three": "She apologized to me yesterday."
+  },
+  {
+    "sid": 56,
+    "one": "wǒmen yīqǐ qù cānguān bówùguǎn bā 。",
+    "two": "我们一起去参观博物馆吧。",
+    "three": "Let's go visit the museum together."
+  },
+  {
+    "sid": 57,
+    "one": "zhège chéngshì yǒu hěnduō huódòng 。",
+    "two": "这个城市有很多活动。",
+    "three": "There is a lot to do in this city."
+  },
+  {
+    "sid": 58,
+    "one": "tā zài bàngōngshì lǐ gōngzuò 。",
+    "two": "她在办公室里工作。",
+    "three": "She works in the office."
+  },
+  {
+    "sid": 59,
+    "one": "wǒmen de gǒu zài huāyuánlǐ 。",
+    "two": "我们的狗在花园里。",
+    "three": "Our dog is in the garden."
+  },
+  {
+    "sid": 60,
+    "one": "wǒmen yīqǐ qù kàn diànyǐngbā ！",
+    "two": "我们一起去看电影吧！",
+    "three": "Let's go to the movies together!"
+  },
+  {
+    "sid": 61,
+    "one": "tā zhèngzài xuéxí fǎlǜ 。",
+    "two": "他正在学习法律。",
+    "three": "He is studying law."
+  },
+  {
+    "sid": 62,
+    "one": "wǒmen xūyào hézuò 。",
+    "two": "我们需要合作。",
+    "three": "We need to cooperate."
+  },
+  {
+    "sid": 63,
+    "one": "wǒmen xūyào yīxiē shuǐguǒ 。",
+    "two": "我们需要一些水果。",
+    "three": "We need some fruit."
+  },
+  {
+    "sid": 64,
+    "one": "zhè běnshū duì wǒ láishuō tàinán le 。",
+    "two": "这本书对我来说太难了。",
+    "three": "This book was too difficult for me."
+  },
+  {
+    "sid": 65,
+    "one": "tā zài túshūguǎn lǐ xuéxí 。",
+    "two": "她在图书馆里学习。",
+    "three": "She studies in the library."
+  },
+  {
+    "sid": 66,
+    "one": "tā měitiān dōu duànliànshēntǐ 。",
+    "two": "他每天都锻炼身体。",
+    "three": "He works out every day."
+  },
+  {
+    "sid": 67,
+    "one": "tāmen zhèngzài xuéxí hànyǔ yǔfǎ 。",
+    "two": "他们正在学习汉语语法。",
+    "three": "They are learning Chinese grammar."
+  },
+  {
+    "sid": 68,
+    "one": "qǐng bùyào zài zhèlǐ luànhuà 。",
+    "two": "请不要在这里乱画。",
+    "three": "Please don't doodle here."
+  },
+  {
+    "sid": 69,
+    "one": "zhège càitàilà le ， wǒ chī buliǎo 。",
+    "two": "这个菜太辣了，我吃不了。",
+    "three": "This dish is too spicy, I can't eat it."
+  },
+  {
+    "sid": 70,
+    "one": "tā zhèngzài xuéxí shèjì 。",
+    "two": "他正在学习设计。",
+    "three": "He is studying design."
+  },
+  {
+    "sid": 71,
+    "one": "zhège wèntí hěn yǒuyìsi 。",
+    "two": "这个问题很有意思。",
+    "three": "This question is very interesting."
+  },
+  {
+    "sid": 72,
+    "one": "tāmen zhèngzài xiě hànzì 。",
+    "two": "他们正在写汉字。",
+    "three": "They are writing Chinese characters."
+  },
+  {
+    "sid": 73,
+    "one": "tā yǐjīng xuéhuì le zuò zhōngguó cài 。",
+    "two": "他已经学会了做中国菜。",
+    "three": "He has learned to cook Chinese food."
+  },
+  {
+    "sid": 74,
+    "one": "nǐ de qiánbāo zài zhuōzi shàng 。",
+    "two": "你的钱包在桌子上。",
+    "three": "Your wallet is on the table."
+  },
+  {
+    "sid": 75,
+    "one": "nǐ kěyǐ bāng wǒ fānyì ma ？",
+    "two": "你可以帮我翻译吗？",
+    "three": "Can you translate it for me?"
+  },
+  {
+    "sid": 76,
+    "one": "wǒmen yīqǐ chīwǎnfàn bā ！",
+    "two": "我们一起吃晚饭吧！",
+    "three": "Let's have dinner together!"
+  },
+  {
+    "sid": 77,
+    "one": "nǐ de shǒujī zài nǎlǐ ？",
+    "two": "你的手机在哪里？",
+    "three": "Where is your cell phone?"
+  },
+  {
+    "sid": 78,
+    "one": "tā zhèngzài xuéxí wǔdǎo 。",
+    "two": "他正在学习舞蹈。",
+    "three": "He is learning to dance."
+  },
+  {
+    "sid": 79,
+    "one": "qǐng bùyào zài zhèlǐ xuānhuá 。",
+    "two": "请不要在这里喧哗。",
+    "three": "Please don't make any noise here."
+  },
+  {
+    "sid": 80,
+    "one": "zhège wèntí hěn róngyì 。",
+    "two": "这个问题很容易。",
+    "three": "This question is easy."
+  },
+  {
+    "sid": 81,
+    "one": "tā zhèngzài dúyī běnshū 。",
+    "two": "他正在读一本书。",
+    "three": "He is reading a book."
+  },
+  {
+    "sid": 82,
+    "one": "jīntiān de tiānqì tàirè le 。",
+    "two": "今天的天气太热了。",
+    "three": "The weather is too hot today."
+  },
+  {
+    "sid": 83,
+    "one": "qǐng bùyào zài zhèlǐ xīyān 。",
+    "two": "请不要在这里吸烟。",
+    "three": "Please don't smoke here."
+  },
+  {
+    "sid": 84,
+    "one": "tāmen xǐhuan kàn zúqiúbǐsài 。",
+    "two": "他们喜欢看足球比赛。",
+    "three": "They like to watch football games."
+  },
+  {
+    "sid": 85,
+    "one": "wǒmen xūyào yīxiē bāngzhù 。",
+    "two": "我们需要一些帮助。",
+    "three": "We need some help."
+  },
+  {
+    "sid": 86,
+    "one": "wǒmen yīnggāi jiǎnshǎo làngfèi 。",
+    "two": "我们应该减少浪费。",
+    "three": "We should reduce waste."
+  },
+  {
+    "sid": 87,
+    "one": "wǒ de péngyou xué hànyǔ 。",
+    "two": "我的朋友学汉语。",
+    "three": "My friend studies Chinese."
+  },
+  {
+    "sid": 88,
+    "one": "zhège wèntí hěn jiǎndān 。",
+    "two": "这个问题很简单。",
+    "three": "The question is simple."
+  },
+  {
+    "sid": 89,
+    "one": "qǐng bùyào zài zhèlǐ tíngchē 。",
+    "two": "请不要在这里停车。",
+    "three": "Please don't park here."
+  },
+  {
+    "sid": 90,
+    "one": "tāmen zhèngzài zhìdìng xīn jìhuà 。",
+    "two": "他们正在制定新计划。",
+    "three": "They are making new plans."
+  },
+  {
+    "sid": 91,
+    "one": "zhège fángjiān hěn gānjìng 。",
+    "two": "这个房间很干净。",
+    "three": "The room was very clean."
+  },
+  {
+    "sid": 92,
+    "one": "nǐ de yàoshi zài nǎlǐ ？",
+    "two": "你的钥匙在哪里？",
+    "three": "Where are your keys?"
+  },
+  {
+    "sid": 93,
+    "one": "wǒmen zài zhǔnbèi yīgè yǎnjiǎng 。",
+    "two": "我们在准备一个演讲。",
+    "three": "We are preparing a speech."
+  },
+  {
+    "sid": 94,
+    "one": "tā zài jiālǐ zuòzuòyè 。",
+    "two": "她在家里做作业。",
+    "three": "She is doing her homework at home."
+  },
+  {
+    "sid": 95,
+    "one": "tā yǐjīng qùguò zhōngguó liǎngcì 。",
+    "two": "她已经去过中国两次。",
+    "three": "She has been to China twice."
+  },
+  {
+    "sid": 96,
+    "one": "tāmen zhèngzài kàndiànshì 。",
+    "two": "他们正在看电视。",
+    "three": "They are watching TV."
+  },
+  {
+    "sid": 97,
+    "one": "tāmen xǐhuan chànggētiàowǔ 。",
+    "two": "他们喜欢唱歌跳舞。",
+    "three": "They like to sing and dance."
+  },
+  {
+    "sid": 98,
+    "one": "tāmen jìhuà xiàgèyuè jiéhūn 。",
+    "two": "他们计划下个月结婚。",
+    "three": "They plan to get married next month."
+  },
+  {
+    "sid": 99,
+    "one": "tāmen xǐhuan dǎlánqiú 。",
+    "two": "他们喜欢打篮球。",
+    "three": "They like to play basketball."
+  },
+  {
+    "sid": 100,
+    "one": "tā zhèngzài xuéxí yújiā 。",
+    "two": "他正在学习瑜伽。",
+    "three": "He is learning yoga."
+  },
+  {
+    "sid": 101,
+    "one": "zhège chéngshì hěndà hěn měi 。",
+    "two": "这个城市很大很美。",
+    "three": "The city is big and beautiful."
+  },
+  {
+    "sid": 102,
+    "one": "tā zài dàxué xuéxí jīngjìxué 。",
+    "two": "他在大学学习经济学。",
+    "three": "He studied economics at university."
+  },
+  {
+    "sid": 103,
+    "one": "qǐng bùyào zài jiàoshì lǐ xīyān 。",
+    "two": "请不要在教室里吸烟。",
+    "three": "Please do not smoke in the classroom."
+  },
+  {
+    "sid": 104,
+    "one": "tā de zhōngwén fāyīn hěn biāozhǔn 。",
+    "two": "他的中文发音很标准。",
+    "three": "His Chinese pronunciation is very standard."
+  },
+  {
+    "sid": 105,
+    "one": "tā zuìjìn xuéhuì le kāichē 。",
+    "two": "他最近学会了开车。",
+    "three": "He recently learned to drive."
+  },
+  {
+    "sid": 106,
+    "one": "wǒmen de xuéxiào zài shānshàng 。",
+    "two": "我们的学校在山上。",
+    "three": "Our school is on the mountain."
+  },
+  {
+    "sid": 107,
+    "one": "wǒmen xūyào shíjiān lái zhǔnbèi 。",
+    "two": "我们需要时间来准备。",
+    "three": "We need time to prepare."
+  },
+  {
+    "sid": 108,
+    "one": "tā de zhōngwén shuǐpíng bǐ wǒ gāo 。",
+    "two": "她的中文水平比我高。",
+    "three": "Her Chinese level is higher than mine."
+  },
+  {
+    "sid": 109,
+    "one": "wǒmen yīqǐ qù gòuwù bā ！",
+    "two": "我们一起去购物吧！",
+    "three": "Let's go shopping together!"
+  },
+  {
+    "sid": 110,
+    "one": "zhège wèntí xūyào jiějué 。",
+    "two": "这个问题需要解决。",
+    "three": "This problem needs to be solved."
+  },
+  {
+    "sid": 111,
+    "one": "wǒhuì gēn nǐ fēnxiǎng wǒ de jīngyàn 。",
+    "two": "我会跟你分享我的经验。",
+    "three": "I will share my experience with you."
+  },
+  {
+    "sid": 112,
+    "one": "zhège wèntí hěnnán 。",
+    "two": "这个问题很难。",
+    "three": "This question is difficult."
+  },
+  {
+    "sid": 113,
+    "one": "tā xǐhuan chànggētiàowǔ 。",
+    "two": "他喜欢唱歌跳舞。",
+    "three": "He likes to sing and dance."
+  },
+  {
+    "sid": 114,
+    "one": "tā zhèngzài xuéxí shèyǐng 。",
+    "two": "他正在学习摄影。",
+    "three": "He is studying photography."
+  },
+  {
+    "sid": 115,
+    "one": "tā zhèngzài xuéxí biānchéng 。",
+    "two": "他正在学习编程。",
+    "three": "He is learning programming."
+  },
+  {
+    "sid": 116,
+    "one": "tāmen zhèngzài tīng yīnyuè 。",
+    "two": "他们正在听音乐。",
+    "three": "They are listening to music."
+  },
+  {
+    "sid": 117,
+    "one": "wǒmen de jiā zài chéngshì lǐ 。",
+    "two": "我们的家在城市里。",
+    "three": "Our home is in the city."
+  },
+  {
+    "sid": 118,
+    "one": "tā yǐjīng xuéhuì le zuòfàn 。",
+    "two": "他已经学会了做饭。",
+    "three": "He has learned to cook."
+  },
+  {
+    "sid": 119,
+    "one": "tā měige zhōumò dōu qù kàn diànyǐng 。",
+    "two": "他每个周末都去看电影。",
+    "three": "He goes to the movies every weekend."
+  }
+]
