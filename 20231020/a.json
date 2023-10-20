@@ -1,0 +1,1154 @@
+[
+  {
+    "sid": 1,
+    "one": "wǒ kěyǐ yùdìng yījiàn fángjiān ma ？",
+    "two": "我可以预订一间房间吗？",
+    "three": "Can I reserve a room?"
+  },
+  {
+    "sid": 2,
+    "one": "kěyǐ tíqián bànlǐ rùzhù shǒuxù ma ？",
+    "two": "可以提前办理入住手续吗？",
+    "three": "Can I check in early?"
+  },
+  {
+    "sid": 3,
+    "one": "qǐng zài gěi wǒ yīxiē xǐshù yòngpǐn 。",
+    "two": "请再给我一些洗漱用品。",
+    "three": "Please give me some more toiletries."
+  },
+  {
+    "sid": 4,
+    "one": "fángjiān kěyǐ dài chǒngwù ma ？",
+    "two": "房间可以带宠物吗？",
+    "three": "Can pets be brought in the room?"
+  },
+  {
+    "sid": 5,
+    "one": "jiǔdiàn yǒu kōngfáng ma ？",
+    "two": "酒店有空房吗？",
+    "three": "Are there any rooms available at the hotel?"
+  },
+  {
+    "sid": 6,
+    "one": "wǒ xūyào tíqián yùdìng ma ？",
+    "two": "我需要提前预订吗？",
+    "three": "Do I need to book in advance?"
+  },
+  {
+    "sid": 7,
+    "one": "jiǔdiàn yǒu cāntīng ma ？",
+    "two": "酒店有餐厅吗？",
+    "three": "Does the hotel have a restaurant?"
+  },
+  {
+    "sid": 8,
+    "one": "jiǔdiàn tígōng xǐyī fúwù ma ？",
+    "two": "酒店提供洗衣服务吗？",
+    "three": "Does the hotel provide laundry services?"
+  },
+  {
+    "sid": 9,
+    "one": "nǐmen tígōng gānxǐ fúwù ma ？",
+    "two": "你们提供干洗服务吗？",
+    "three": "Do you provide dry cleaning services?"
+  },
+  {
+    "sid": 10,
+    "one": "xūyào yùdìng cāntīng ma ？",
+    "two": "需要预订餐厅吗？",
+    "three": "Need a restaurant reservation?"
+  },
+  {
+    "sid": 11,
+    "one": "yǒu ānjìng diǎn de fángjiān ma ？",
+    "two": "有安静点的房间吗？",
+    "three": "Are there any quieter rooms?"
+  },
+  {
+    "sid": 12,
+    "one": "wǒ xūyào tígōng hùzhào ma ？",
+    "two": "我需要提供护照吗？",
+    "three": "Do I need to provide my passport?"
+  },
+  {
+    "sid": 13,
+    "one": "qǐng zài gěi wǒ yīxiē yījià 。",
+    "two": "请再给我一些衣架。",
+    "three": "Please give me some more hangers."
+  },
+  {
+    "sid": 14,
+    "one": "yǒuméiyǒu wúyān fángjiān ？",
+    "two": "有没有无烟房间？",
+    "three": "Are there any non-smoking rooms?"
+  },
+  {
+    "sid": 15,
+    "one": "měiwǎn duōshǎo qián ？",
+    "two": "每晚多少钱？",
+    "three": "How much does it cost per night?"
+  },
+  {
+    "sid": 16,
+    "one": "fángjiānnèi yǒu diànshì ma ？",
+    "two": "房间内有电视吗？",
+    "three": "Is there a TV in the room?"
+  },
+  {
+    "sid": 17,
+    "one": "yǒu gāo lóucéng de fángjiān ma ？",
+    "two": "有高楼层的房间吗？",
+    "three": "Are there rooms on high floors?"
+  },
+  {
+    "sid": 18,
+    "one": "fángjiān lǐ yǒu kōngtiáo ma ？",
+    "two": "房间里有空调吗？",
+    "three": "Is there air conditioning in the room?"
+  },
+  {
+    "sid": 19,
+    "one": "wǒ kěyǐ yāoqiú huànfáng ma ？",
+    "two": "我可以要求换房吗？",
+    "three": "Can I request to change rooms?"
+  },
+  {
+    "sid": 20,
+    "one": "yǒu qù jīchǎng de bānchē ma ？",
+    "two": "有去机场的班车吗？",
+    "three": "Is there a shuttle to the airport?"
+  },
+  {
+    "sid": 21,
+    "one": "shōufèi biāozhǔn shì zěnyàng de ？",
+    "two": "收费标准是怎样的？",
+    "three": "What are the charges?"
+  },
+  {
+    "sid": 22,
+    "one": "wǒ zěnme qù tíngchēchǎng ？",
+    "two": "我怎么去停车场？",
+    "three": "How do I get to the parking lot?"
+  },
+  {
+    "sid": 23,
+    "one": "jiǔdiàn tígōng kèfáng fúwù ma ？",
+    "two": "酒店提供客房服务吗？",
+    "three": "Does the hotel provide room service?"
+  },
+  {
+    "sid": 24,
+    "one": "qǐng tiánxiě yīxià dēngjì biǎogé 。",
+    "two": "请填写一下登记表格。",
+    "three": "Please fill out the registration form."
+  },
+  {
+    "sid": 25,
+    "one": "qǐngwèn nín xūyào jǐdiǎn jiàoxǐng ？",
+    "two": "请问您需要几点叫醒？",
+    "three": "What time do you need to wake up?"
+  },
+  {
+    "sid": 26,
+    "one": "wǒmen tígōng zūchē fúwù 。",
+    "two": "我们提供租车服务。",
+    "three": "We offer car rental services."
+  },
+  {
+    "sid": 27,
+    "one": "yǒu yùgāng de fángjiān ma ？",
+    "two": "有浴缸的房间吗？",
+    "three": "Are there rooms with bathtubs?"
+  },
+  {
+    "sid": 28,
+    "one": "qǐngwèn nín xūyào duōshǎo tiáo máojīn ？",
+    "two": "请问您需要多少条毛巾？",
+    "three": "How many towels do you need?"
+  },
+  {
+    "sid": 29,
+    "one": "bànlǐ rùzhù de shíjiān shì jǐdiǎn ？",
+    "two": "办理入住的时间是几点？",
+    "three": "What time is check-in?"
+  },
+  {
+    "sid": 30,
+    "one": "kěyǐ zài gěi wǒ yīgè zhěntou ma ？",
+    "two": "可以再给我一个枕头吗？",
+    "three": "Can you give me another pillow?"
+  },
+  {
+    "sid": 31,
+    "one": "wǒ kěyǐ yánchí tuìfáng ma ？",
+    "two": "我可以延迟退房吗？",
+    "three": "Can I check out late?"
+  },
+  {
+    "sid": 32,
+    "one": "nínhǎo ， nín de fángjiān yǐ zhǔnbèi hǎo 。",
+    "two": "您好，您的房间已准备好。",
+    "three": "Hello, your room is ready."
+  },
+  {
+    "sid": 33,
+    "one": "wǒmen huì zhǔnshí jiàoxǐng nín 。",
+    "two": "我们会准时叫醒您。",
+    "three": "We will wake you up on time."
+  },
+  {
+    "sid": 34,
+    "one": "qǐng gěi wǒ dài gēng duō de máojīn 。",
+    "two": "请给我带更多的毛巾。",
+    "three": "Please bring me more towels."
+  },
+  {
+    "sid": 35,
+    "one": "jiǔdiàn yǒu cāntīng ma ？",
+    "two": "酒店有餐厅吗？",
+    "three": "Does the hotel have a restaurant?"
+  },
+  {
+    "sid": 36,
+    "one": "jiǔdiàn tígōng zūchē fúwù ma ？",
+    "two": "酒店提供租车服务吗？",
+    "three": "Does the hotel provide car rental services?"
+  },
+  {
+    "sid": 37,
+    "one": "xūyào zhīfù éwài fèiyòng 。",
+    "two": "需要支付额外费用。",
+    "three": "Additional fees apply."
+  },
+  {
+    "sid": 38,
+    "one": "fángjiān lǐ yǒu kāfēijī ma ？",
+    "two": "房间里有咖啡机吗？",
+    "three": "Is there a coffee machine in the room?"
+  },
+  {
+    "sid": 39,
+    "one": "wǒ kěyǐ tíqián bànlǐ rùzhù ma ？",
+    "two": "我可以提前办理入住吗？",
+    "three": "Can I check in early?"
+  },
+  {
+    "sid": 40,
+    "one": "jiǔdiàn tígōng miǎnfèi tíngchē ma ？",
+    "two": "酒店提供免费停车吗？",
+    "three": "Does the hotel provide free parking?"
+  },
+  {
+    "sid": 41,
+    "one": "wǒmen huì jìnliàng ānpái gěi nín 。",
+    "two": "我们会尽量安排给您。",
+    "three": "We will try our best to arrange it for you."
+  },
+  {
+    "sid": 42,
+    "one": "wǒmen huì jìnkuài jiějué 。",
+    "two": "我们会尽快解决。",
+    "three": "We will solve it as soon as possible."
+  },
+  {
+    "sid": 43,
+    "one": "qǐngwèn nín xūyào duōshǎo zhěntou gè ？",
+    "two": "请问您需要多少枕头个？",
+    "three": "How many pillows do you need?"
+  },
+  {
+    "sid": 44,
+    "one": "jiǔdiàn tígōng miǎnfèi de bàozhǐ ma ？",
+    "two": "酒店提供免费的报纸吗？",
+    "three": "Does the hotel provide free newspapers?"
+  },
+  {
+    "sid": 45,
+    "one": "wǒmen tígōng miǎnfèi de wǔcān bāo 。",
+    "two": "我们提供免费的午餐包。",
+    "three": "We provide free lunch packages."
+  },
+  {
+    "sid": 46,
+    "one": "jiǔdiàn tígōng miǎnfèi de bàozhǐ 。",
+    "two": "酒店提供免费的报纸。",
+    "three": "The hotel provides free newspapers."
+  },
+  {
+    "sid": 47,
+    "one": "tuìfáng hòu kěyǐ cúnfàng wǒ de xíngli ma ？",
+    "two": "退房后可以存放我的行李吗？",
+    "three": "Can I store my luggage after check-out?"
+  },
+  {
+    "sid": 48,
+    "one": "yǒu yuǎnlí diàntī de fángjiān ma ？",
+    "two": "有远离电梯的房间吗？",
+    "three": "Are there rooms far away from the elevator?"
+  },
+  {
+    "sid": 49,
+    "one": "nín xūyào éwài de zhěntou ma ？",
+    "two": "您需要额外的枕头吗？",
+    "three": "Do you need extra pillows?"
+  },
+  {
+    "sid": 50,
+    "one": "jiǔdiàn yǒu huìyìshì ma ？",
+    "two": "酒店有会议室吗？",
+    "three": "Does the hotel have a meeting room?"
+  },
+  {
+    "sid": 51,
+    "one": "zuìjìn de dìtiězhàn yǒuduōyuǎn ？",
+    "two": "最近的地铁站有多远？",
+    "three": "How far is the nearest metro station?"
+  },
+  {
+    "sid": 52,
+    "one": "wǒ zěnme shǐyòng jiǔdiàn de Wifi ？",
+    "two": "我怎么使用酒店的WiFi？",
+    "three": "How do I use hotel WiFi?"
+  },
+  {
+    "sid": 53,
+    "one": "wǒmen tígōng èr4 xiǎoshí qiántái fúwù 。",
+    "two": "我们提供24小时前台服务。",
+    "three": "We provide 24-hour front desk service."
+  },
+  {
+    "sid": 54,
+    "one": "wǒ kěyǐ yào yījiàn shuāngchuáng fáng ma ？",
+    "two": "我可以要一间双床房吗？",
+    "three": "Can I have a twin room?"
+  },
+  {
+    "sid": 55,
+    "one": "jiǔdiàn yǒu shìnèi yóuxì qū ma ？",
+    "two": "酒店有室内游戏区吗？",
+    "three": "Does the hotel have an indoor games area?"
+  },
+  {
+    "sid": 56,
+    "one": "tígōng éwài de tǎnzi ma ？",
+    "two": "提供额外的毯子吗？",
+    "three": "Are extra blankets provided?"
+  },
+  {
+    "sid": 57,
+    "one": "jiǔdiàn yǒu lǐbīn fúwù ma ？",
+    "two": "酒店有礼宾服务吗？",
+    "three": "Does the hotel have a concierge service?"
+  },
+  {
+    "sid": 58,
+    "one": "kěyǐ shǐyòng xìnyòngkǎ zhīfù fángfèi ma ？",
+    "two": "可以使用信用卡支付房费吗？",
+    "three": "Can I pay for my room with a credit card?"
+  },
+  {
+    "sid": 59,
+    "one": "jiǔdiàn yǒu yóuyǒngchí ma ？",
+    "two": "酒店有游泳池吗？",
+    "three": "Does the hotel have a swimming pool?"
+  },
+  {
+    "sid": 60,
+    "one": "wǒmen wéi nín jiào yīliàng chūzūchē 。",
+    "two": "我们为您叫一辆出租车。",
+    "three": "We call a taxi for you."
+  },
+  {
+    "sid": 61,
+    "one": "jiǔdiàn tígōng xíngli bānyùn fúwù 。",
+    "two": "酒店提供行李搬运服务。",
+    "three": "The hotel provides luggage porter service."
+  },
+  {
+    "sid": 62,
+    "one": "wǒmen huì lìjí chǔlǐ 。",
+    "two": "我们会立即处理。",
+    "three": "We will deal with it immediately."
+  },
+  {
+    "sid": 63,
+    "one": "huānyíngnín shǐyòng wǒmen de huìyìshì 。",
+    "two": "欢迎您使用我们的会议室。",
+    "three": "You are welcome to use our meeting room."
+  },
+  {
+    "sid": 64,
+    "one": "wǒ yǒu yùdìng ， yùdìng míngzì shì",
+    "two": "我有预订，预订名字是…",
+    "three": "I have a reservation, the reservation name is..."
+  },
+  {
+    "sid": 65,
+    "one": "xǐshù yòngpǐn miǎnfèi tígōng 。",
+    "two": "洗漱用品免费提供。",
+    "three": "Toiletries are provided free of charge."
+  },
+  {
+    "sid": 66,
+    "one": "yǒunéng kàndào fēngjǐng de fángjiān ma ？",
+    "two": "有能看到风景的房间吗？",
+    "three": "Are there any rooms with a view?"
+  },
+  {
+    "sid": 67,
+    "one": "qǐngwèn nín xūyào jiàocān fúwù ma ？",
+    "two": "请问您需要叫餐服务吗？",
+    "three": "Do you need to order food service?"
+  },
+  {
+    "sid": 68,
+    "one": "wǒ de fángkǎ bùnéng yòng le 。",
+    "two": "我的房卡不能用了。",
+    "three": "My room card doesn't work."
+  },
+  {
+    "sid": 69,
+    "one": "jiǔdiàn yǒu wúzhàngài shèshī ma ？",
+    "two": "酒店有无障碍设施吗？",
+    "three": "Does the hotel have disabled facilities?"
+  },
+  {
+    "sid": 70,
+    "one": "wǒmen huì bāng nín ānpái lǚyóu xíngchéng 。",
+    "two": "我们会帮您安排旅游行程。",
+    "three": "We will help you arrange your travel itinerary."
+  },
+  {
+    "sid": 71,
+    "one": "nǐmen tígōng miǎnfèi zǎocān ma ？",
+    "two": "你们提供免费早餐吗？",
+    "three": "Do you offer free breakfast?"
+  },
+  {
+    "sid": 72,
+    "one": "tígōng éwài de zhěntou ma ？",
+    "two": "提供额外的枕头吗？",
+    "three": "Are extra pillows provided?"
+  },
+  {
+    "sid": 73,
+    "one": "jiǔdiàn yǒu miǎnfèi de jiànshēn shèshī ma ？",
+    "two": "酒店有免费的健身设施吗？",
+    "three": "Does the hotel have free fitness facilities?"
+  },
+  {
+    "sid": 74,
+    "one": "nín kěyǐ bànlǐ èr4 xiǎoshí rùzhù 。",
+    "two": "您可以办理24小时入住。",
+    "three": "You can check in 24 hours a day."
+  },
+  {
+    "sid": 75,
+    "one": "jiǔdiàn tígōng miǎnfèi tíngchēwèi 。",
+    "two": "酒店提供免费停车位。",
+    "three": "The hotel provides free parking spaces."
+  },
+  {
+    "sid": 76,
+    "one": "wǒmen tígōng miǎnfèi de wúxiànwǎngluò 。",
+    "two": "我们提供免费的无线网络。",
+    "three": "We provide free WiFi."
+  },
+  {
+    "sid": 77,
+    "one": "zǎocān bāohán zài fángfèi zhōng ma ？",
+    "two": "早餐包含在房费中吗？",
+    "three": "Is breakfast included in the room rate?"
+  },
+  {
+    "sid": 78,
+    "one": "jiǔdiàn tígōng miǎnfèi zǎocān ma ？",
+    "two": "酒店提供免费早餐吗？",
+    "three": "Does the hotel provide free breakfast?"
+  },
+  {
+    "sid": 79,
+    "one": "yǒugōng sāngná shèshī ma ？",
+    "two": "有供桑拿设施吗？",
+    "three": "Are there sauna facilities?"
+  },
+  {
+    "sid": 80,
+    "one": "jiǔdiàn tígōng shāngwùzhōngxīn ma ？",
+    "two": "酒店提供商务中心吗？",
+    "three": "Does the hotel provide a business center?"
+  },
+  {
+    "sid": 81,
+    "one": "wǒmen tígōng miǎnfèi de tíngchēchǎng 。",
+    "two": "我们提供免费的停车场。",
+    "three": "We provide free parking."
+  },
+  {
+    "sid": 82,
+    "one": "wǒ kěyǐ bànlǐ yánchí tuìfáng ma ？",
+    "two": "我可以办理延迟退房吗？",
+    "three": "Can I have a late check-out?"
+  },
+  {
+    "sid": 83,
+    "one": "fángjiān lǐ yǒu bǎoxiǎnxiāng ma ？",
+    "two": "房间里有保险箱吗？",
+    "three": "Is there a safe in the room?"
+  },
+  {
+    "sid": 84,
+    "one": "wǒ xūyào yùndǒu hé yùn yībǎn 。",
+    "two": "我需要熨斗和熨衣板。",
+    "three": "I need an iron and an ironing board."
+  },
+  {
+    "sid": 85,
+    "one": "jiǔdiàn tígōng miǎnfèi de xǐshù yòngpǐn ma ？",
+    "two": "酒店提供免费的洗漱用品吗？",
+    "three": "Does the hotel provide free toiletries?"
+  },
+  {
+    "sid": 86,
+    "one": "yǒu èr4 xiǎoshí jiànshēnfáng ma ？",
+    "two": "有24小时健身房吗？",
+    "three": "Is there a 24-hour gym?"
+  },
+  {
+    "sid": 87,
+    "one": "wǒ xiǎng yùdìng yīgè shuāngrénjiān 。",
+    "two": "我想预订一个双人间。",
+    "three": "I would like to book a double room."
+  },
+  {
+    "sid": 88,
+    "one": "qǐngwèn nín duì fángjiān hái mǎnyì ma ？",
+    "two": "请问您对房间还满意吗？",
+    "three": "Are you satisfied with the room?"
+  },
+  {
+    "sid": 89,
+    "one": "fùjìn yǒu shénme gòuwùzhōngxīn ma ？",
+    "two": "附近有什么购物中心吗？",
+    "three": "Are there any shopping centers nearby?"
+  },
+  {
+    "sid": 90,
+    "one": "yǒudài ànmó yùgāng de fángjiān ma ？",
+    "two": "有带按摩浴缸的房间吗？",
+    "three": "Are there any rooms with jacuzzi?"
+  },
+  {
+    "sid": 91,
+    "one": "wǒ kěyǐ shǐyòng shuǐliáo shèshī ma ？",
+    "two": "我可以使用水疗设施吗？",
+    "three": "Can I use the spa facilities?"
+  },
+  {
+    "sid": 92,
+    "one": "fángjiānnèi yǒu bǎoxiǎnxiāng ma ？",
+    "two": "房间内有保险箱吗？",
+    "three": "Is there a safe in the room?"
+  },
+  {
+    "sid": 93,
+    "one": "qǐngwèn nín xūyào jiào chūzūchē ma ？",
+    "two": "请问您需要叫出租车吗？",
+    "three": "Do you need to call a taxi?"
+  },
+  {
+    "sid": 94,
+    "one": "qǐngwèn wǒ kěyǐ bànlǐ rùzhù ma ？",
+    "two": "请问我可以办理入住吗？",
+    "three": "Can I check in?"
+  },
+  {
+    "sid": 95,
+    "one": "wǒ kěyǐ yāoqiú tígōng yīngrchuáng ma ？",
+    "two": "我可以要求提供婴儿床吗？",
+    "three": "Can I request a crib?"
+  },
+  {
+    "sid": 96,
+    "one": "yǒudài shāfāchuáng de fángjiān ma ？",
+    "two": "有带沙发床的房间吗？",
+    "three": "Are there any rooms with sofa beds?"
+  },
+  {
+    "sid": 97,
+    "one": "hǎijǐngfáng háiyǒu kōngfáng 。",
+    "two": "海景房还有空房。",
+    "three": "Sea view rooms are still available."
+  },
+  {
+    "sid": 98,
+    "one": "qǐng zài qiányītiān tōngzhī qiántái 。",
+    "two": "请在前一天通知前台。",
+    "three": "Please inform the front desk the day before."
+  },
+  {
+    "sid": 99,
+    "one": "qǐng nín bǎoguǎn hǎo guìzhòngwùpǐn 。",
+    "two": "请您保管好贵重物品。",
+    "three": "Please keep your valuables safe."
+  },
+  {
+    "sid": 100,
+    "one": "jiǔdiàn tígōng jiàochē fúwù ma ？",
+    "two": "酒店提供叫车服务吗？",
+    "three": "Does the hotel provide taxi service?"
+  },
+  {
+    "sid": 101,
+    "one": "qǐng gěi wǒ yīzhāng qūyù dìtú 。",
+    "two": "请给我一张区域地图。",
+    "three": "Please give me a map of the area."
+  },
+  {
+    "sid": 102,
+    "one": "jiǔdiàn lǐ yǒu jiànshēnfáng ma ？",
+    "two": "酒店里有健身房吗？",
+    "three": "Is there a gym in the hotel?"
+  },
+  {
+    "sid": 103,
+    "one": "jiǔdiàn tígōng wàibì duìhuàn fúwù 。",
+    "two": "酒店提供外币兑换服务。",
+    "three": "The hotel provides currency exchange services."
+  },
+  {
+    "sid": 104,
+    "one": "wǒmen tígōng èr4 xiǎoshí ānbǎo fúwù 。",
+    "two": "我们提供24小时安保服务。",
+    "three": "We provide 24-hour security service."
+  },
+  {
+    "sid": 105,
+    "one": "tígōng miǎnfèi de xíngli bānyùn fúwù ma ？",
+    "two": "提供免费的行李搬运服务吗？",
+    "three": "Do you provide free luggage porter service?"
+  },
+  {
+    "sid": 106,
+    "one": "wǒmen huì bāng nín liánxì jīchǎng 。",
+    "two": "我们会帮您联系机场。",
+    "three": "We will contact the airport for you."
+  },
+  {
+    "sid": 107,
+    "one": "jiǔdiàn yǒu tíngchēchǎng ma ？",
+    "two": "酒店有停车场吗？",
+    "three": "Does the hotel have parking?"
+  },
+  {
+    "sid": 108,
+    "one": "fùjìn yǒu biànlìdiàn ma ？",
+    "two": "附近有便利店吗？",
+    "three": "Is there a convenience store nearby?"
+  },
+  {
+    "sid": 109,
+    "one": "wǒmen tígōng miǎnfèi de zǎocān 。",
+    "two": "我们提供免费的早餐。",
+    "three": "We provide free breakfast."
+  },
+  {
+    "sid": 110,
+    "one": "yǒudài xiǎochúfáng de fángjiān ma ？",
+    "two": "有带小厨房的房间吗？",
+    "three": "Are there rooms with kitchenettes?"
+  },
+  {
+    "sid": 111,
+    "one": "yǒudài yángtái de fángjiān ma ？",
+    "two": "有带阳台的房间吗？",
+    "three": "Are there rooms with balconies?"
+  },
+  {
+    "sid": 112,
+    "one": "lìkè wéi nín sòng yífèn 。",
+    "two": "立刻为您送一份。",
+    "three": "Get one for you now."
+  },
+  {
+    "sid": 113,
+    "one": "jiǔdiàn tígōng miǎnfèi de tíngchēwèi ma ？",
+    "two": "酒店提供免费的停车位吗？",
+    "three": "Does the hotel provide free parking spaces?"
+  },
+  {
+    "sid": 114,
+    "one": "tígōng yùpáo hé tuōxié ma ？",
+    "two": "提供浴袍和拖鞋吗？",
+    "three": "Are bathrobes and slippers provided?"
+  },
+  {
+    "sid": 115,
+    "one": "fùjìn yǒu hěnduō biànlìdiàn 。",
+    "two": "附近有很多便利店。",
+    "three": "There are many convenience stores nearby."
+  },
+  {
+    "sid": 116,
+    "one": "fángjiānnèi yǒu bīngxiāng ma ？",
+    "two": "房间内有冰箱吗？",
+    "three": "Is there a refrigerator in the room?"
+  },
+  {
+    "sid": 117,
+    "one": "xūyào bànlǐ yánchí tuìfáng shǒuxù ma ？",
+    "two": "需要办理延迟退房手续吗？",
+    "three": "Do I need to apply for late check-out?"
+  },
+  {
+    "sid": 118,
+    "one": "fángjiānnèi yǒu wēibōlú ma ？",
+    "two": "房间内有微波炉吗？",
+    "three": "Is there a microwave in the room?"
+  },
+  {
+    "sid": 119,
+    "one": "jiǔbā jǐdiǎn guānmén ？",
+    "two": "酒吧几点关门？",
+    "three": "What time does the bar close?"
+  },
+  {
+    "sid": 120,
+    "one": "yǒu miǎnfèi de kāfēi hé chá ma ？",
+    "two": "有免费的咖啡和茶吗？",
+    "three": "Is there free coffee and tea?"
+  },
+  {
+    "sid": 121,
+    "one": "jiǔdiàn tígōng lǐpǐndiàn gòuwù fúwù 。",
+    "two": "酒店提供礼品店购物服务。",
+    "three": "The hotel offers gift shop shopping services."
+  },
+  {
+    "sid": 122,
+    "one": "fángjiānnèi yǒu chuīfēngjī ma ？",
+    "two": "房间内有吹风机吗？",
+    "three": "Is there a hairdryer in the room?"
+  },
+  {
+    "sid": 123,
+    "one": "wǒ kěyǐ yào yījiàn hǎijǐngfáng ma ？",
+    "two": "我可以要一间海景房吗？",
+    "three": "Can I have a sea view room?"
+  },
+  {
+    "sid": 124,
+    "one": "wǒmen tígōng xíngli jìcún fúwù 。",
+    "two": "我们提供行李寄存服务。",
+    "three": "We provide luggage storage service."
+  },
+  {
+    "sid": 125,
+    "one": "fángjiān lǐ yǒu chuīfēngjī ma ？",
+    "two": "房间里有吹风机吗？",
+    "three": "Is there a hairdryer in the room?"
+  },
+  {
+    "sid": 126,
+    "one": "fùjìn yǒu hěnduō bùcuò de xuǎnzé 。",
+    "two": "附近有很多不错的选择。",
+    "three": "There are many great options nearby."
+  },
+  {
+    "sid": 127,
+    "one": "dàngtiān rùzhù háishi tíqián yùdìng ？",
+    "two": "当天入住还是提前预订？",
+    "three": "Check in on the day or book in advance?"
+  },
+  {
+    "sid": 128,
+    "one": "wǒmen tígōng értóng yóulè shèshī 。",
+    "two": "我们提供儿童游乐设施。",
+    "three": "We provide children's play equipment."
+  },
+  {
+    "sid": 129,
+    "one": "zǎocān cóng liù diǎn kāishǐ gōngyìng 。",
+    "two": "早餐从6点开始供应。",
+    "three": "Breakfast is served from 6 o'clock."
+  },
+  {
+    "sid": 130,
+    "one": "jiǔdiàn yǒu jiànshēnfáng ma ？",
+    "two": "酒店有健身房吗？",
+    "three": "Does the hotel have a gym?"
+  },
+  {
+    "sid": 131,
+    "one": "qǐngwèn nín jǐdiǎn xūyào chūfā ？",
+    "two": "请问您几点需要出发？",
+    "three": "What time do you need to leave?"
+  },
+  {
+    "sid": 132,
+    "one": "fángjiānnèi yǒu diànrèshuǐhú ma ？",
+    "two": "房间内有电热水壶吗？",
+    "three": "Is there an electric kettle in the room?"
+  },
+  {
+    "sid": 133,
+    "one": "nǐmen tígōng kèfáng fúwù ma ？",
+    "two": "你们提供客房服务吗？",
+    "three": "Do you provide room service?"
+  },
+  {
+    "sid": 134,
+    "one": "wǒ kěyǐ yòng xiànjīn fùkuǎn ma ？",
+    "two": "我可以用现金付款吗？",
+    "three": "Can I pay with cash?"
+  },
+  {
+    "sid": 135,
+    "one": "jiǔdiàn tígōng miǎnfèi de yóuyǒngchí 。",
+    "two": "酒店提供免费的游泳池。",
+    "three": "The hotel offers a free swimming pool."
+  },
+  {
+    "sid": 136,
+    "one": "zuìjìn de wàimài cāntīng shì nǎjiā ？",
+    "two": "最近的外卖餐厅是哪家？",
+    "three": "What's the nearest takeaway restaurant?"
+  },
+  {
+    "sid": 137,
+    "one": "wǒmen yǒu jiànshēnfáng shèshī 。",
+    "two": "我们有健身房设施。",
+    "three": "We have gym facilities."
+  },
+  {
+    "sid": 138,
+    "one": "dāngrán ， wǒmen huì sòng guòqu 。",
+    "two": "当然，我们会送过去。",
+    "three": "Of course, we will send it over."
+  },
+  {
+    "sid": 139,
+    "one": "nǐmen duōjiǔ qīngjié yīcì fángjiān ？",
+    "two": "你们多久清洁一次房间？",
+    "three": "How often do you clean the rooms?"
+  },
+  {
+    "sid": 140,
+    "one": "wǒmen tígōng miǎnfèi de tíngchē fúwù 。",
+    "two": "我们提供免费的停车服务。",
+    "three": "We offer free parking."
+  },
+  {
+    "sid": 141,
+    "one": "jiǔdiàn tígōng jiàoxǐng fúwù ma ？",
+    "two": "酒店提供叫醒服务吗？",
+    "three": "Does the hotel provide wake-up service?"
+  },
+  {
+    "sid": 142,
+    "one": "xūyào tígōng yīngrchuáng ma ？",
+    "two": "需要提供婴儿床吗？",
+    "three": "Do you need a crib?"
+  },
+  {
+    "sid": 143,
+    "one": "jiǔdiàn nèi jìnzhǐ xīyān 。",
+    "two": "酒店内禁止吸烟。",
+    "three": "Smoking is prohibited in the hotel."
+  },
+  {
+    "sid": 144,
+    "one": "zǎocān shénme shíjiān kāishǐ ？",
+    "two": "早餐什么时间开始？",
+    "three": "What time does breakfast start?"
+  },
+  {
+    "sid": 145,
+    "one": "zǎocān bāohán zài fángjià lǐ 。",
+    "two": "早餐包含在房价里。",
+    "three": "Breakfast is included in the price."
+  },
+  {
+    "sid": 146,
+    "one": "yǒngchí shénme shíhou guānmén ？",
+    "two": "泳池什么时候关门？",
+    "three": "When does the pool close?"
+  },
+  {
+    "sid": 147,
+    "one": "qǐng bāng wǒ jiào yīliàng chūzūchē 。",
+    "two": "请帮我叫一辆出租车。",
+    "three": "Please call me a taxi."
+  },
+  {
+    "sid": 148,
+    "one": "fùjìn yǒu shénme cānguān de jǐngdiǎn ma ？",
+    "two": "附近有什么参观的景点吗？",
+    "three": "Are there any places to visit nearby?"
+  },
+  {
+    "sid": 149,
+    "one": "wǒmen huìwéi nín tígōng miǎnfèi de dìtú 。",
+    "two": "我们会为您提供免费的地图。",
+    "three": "We will provide you with a free map."
+  },
+  {
+    "sid": 150,
+    "one": "wǒmen tígōng èr4 xiǎoshí kèfáng fúwù 。",
+    "two": "我们提供24小时客房服务。",
+    "three": "We provide 24-hour room service."
+  },
+  {
+    "sid": 151,
+    "one": "qǐngwèn nín xūyào diǎn shénme ？",
+    "two": "请问您需要点什么？",
+    "three": "What do you need?"
+  },
+  {
+    "sid": 152,
+    "one": "qǐngwèn nín xūyào éwài de máojīn ma ？",
+    "two": "请问您需要额外的毛巾吗？",
+    "three": "Do you need extra towels?"
+  },
+  {
+    "sid": 153,
+    "one": "wǒ kěyǐ yāoqiú yīgè ānquán xiāng ma ？",
+    "two": "我可以要求一个安全箱吗？",
+    "three": "Can I request a safe box?"
+  },
+  {
+    "sid": 154,
+    "one": "wǒ kěyǐ bànlǐ kuàisù tuìfáng ma ？",
+    "two": "我可以办理快速退房吗？",
+    "three": "Can I have an express check-out?"
+  },
+  {
+    "sid": 155,
+    "one": "yǒudài bìlú de fángjiān ma ？",
+    "two": "有带壁炉的房间吗？",
+    "three": "Is there a room with a fireplace?"
+  },
+  {
+    "sid": 156,
+    "one": "wǒ kěyǐ huàn yīgè fángjiān ma ？",
+    "two": "我可以换一个房间吗？",
+    "three": "Can I change rooms?"
+  },
+  {
+    "sid": 157,
+    "one": "qǐng nín zài fángjiānnèi zhùyì jiéyuēyòngshuǐ 。",
+    "two": "请您在房间内注意节约用水。",
+    "three": "Please save water in the room."
+  },
+  {
+    "sid": 158,
+    "one": "xūyào éwài de bèizi ma ？",
+    "two": "需要额外的被子吗？",
+    "three": "Need extra quilts?"
+  },
+  {
+    "sid": 159,
+    "one": "yǒudài gōngzuòzhuō de fángjiān ma ？",
+    "two": "有带工作桌的房间吗？",
+    "three": "Is there a room with a work desk?"
+  },
+  {
+    "sid": 160,
+    "one": "qǐngwèn ， xiànzài kěyǐ rùzhù ma ？",
+    "two": "请问，现在可以入住吗？",
+    "three": "Excuse me, can I check in now?"
+  },
+  {
+    "sid": 161,
+    "one": "jiǔdiàn tígōng jīchǎng jiēsòng fúwù 。",
+    "two": "酒店提供机场接送服务。",
+    "three": "The hotel provides airport transfer service."
+  },
+  {
+    "sid": 162,
+    "one": "Wifi mìmǎ shì shénme ？",
+    "two": "WiFi密码是什么？",
+    "three": "What is the WiFi password?"
+  },
+  {
+    "sid": 163,
+    "one": "wǒmen huì tígōng yífèn yǐnliào 。",
+    "two": "我们会提供一份饮料。",
+    "three": "We will provide a drink."
+  },
+  {
+    "sid": 164,
+    "one": "fángjiān dōu pèibèi le píngbǎndiànshì 。",
+    "two": "房间都配备了平板电视。",
+    "three": "The rooms are equipped with flat-screen TVs."
+  },
+  {
+    "sid": 165,
+    "one": "wǒmen tígōng miǎnfèi de ànmó fúwù 。",
+    "two": "我们提供免费的按摩服务。",
+    "three": "We provide free massage services."
+  },
+  {
+    "sid": 166,
+    "one": "wǒmen huì lìjí pài rén qù chákàn 。",
+    "two": "我们会立即派人去查看。",
+    "three": "We will send someone to check immediately."
+  },
+  {
+    "sid": 167,
+    "one": "yǒudàikè tíngchē fúwù ma ？",
+    "two": "有代客停车服务吗？",
+    "three": "Is there valet parking?"
+  },
+  {
+    "sid": 168,
+    "one": "qiántái fúwù shì èr4 xiǎoshí ？",
+    "two": "前台服务是24小时？",
+    "three": "The front desk service is 24 hours?"
+  },
+  {
+    "sid": 169,
+    "one": "qǐngwèn xūyào bāngmáng bānyùn xíngli ma ？",
+    "two": "请问需要帮忙搬运行李吗？",
+    "three": "Do you need help carrying your luggage?"
+  },
+  {
+    "sid": 170,
+    "one": "wǒmen tígōng miǎnfèi de xǐyī fúwù 。",
+    "two": "我们提供免费的洗衣服务。",
+    "three": "We provide free laundry service."
+  },
+  {
+    "sid": 171,
+    "one": "huānyíngnín shǐyòng wǒmen de yújiā shì 。",
+    "two": "欢迎您使用我们的瑜伽室。",
+    "three": "You are welcome to use our yoga room."
+  },
+  {
+    "sid": 172,
+    "one": "qǐng nín zài fángjiānnèi bǎochí ānjìng 。",
+    "two": "请您在房间内保持安静。",
+    "three": "Please remain quiet in the room."
+  },
+  {
+    "sid": 173,
+    "one": "jiǔdiàn tígōng jīchǎng bānchē fúwù ma ？",
+    "two": "酒店提供机场班车服务吗？",
+    "three": "Does the hotel provide airport shuttle service?"
+  },
+  {
+    "sid": 174,
+    "one": "wǒmen huìwéi nín sònglái xīn de bèidān 。",
+    "two": "我们会为您送来新的被单。",
+    "three": "We will send you new sheets."
+  },
+  {
+    "sid": 175,
+    "one": "kěyǐ wéi nín ānpái yīgè zhédiéchuáng 。",
+    "two": "可以为您安排一个折叠床。",
+    "three": "A rollaway bed can be arranged for you."
+  },
+  {
+    "sid": 176,
+    "one": "yǒu wúzhàngài tōngdào de fángjiān ma ？",
+    "two": "有无障碍通道的房间吗？",
+    "three": "Are there rooms with disabled access?"
+  },
+  {
+    "sid": 177,
+    "one": "yǒu rtónghuódòng shèshī ma ？",
+    "two": "有儿童活动设施吗？",
+    "three": "Are there any activities for children?"
+  },
+  {
+    "sid": 178,
+    "one": "nǐmen tígōng jīchǎng jiēsòng fúwù ma ？",
+    "two": "你们提供机场接送服务吗？",
+    "three": "Do you provide airport transfer service?"
+  },
+  {
+    "sid": 179,
+    "one": "nǐ néng tuījiàn fùjìn de gōngyuán ma ？",
+    "two": "你能推荐附近的公园吗？",
+    "three": "Can you recommend a nearby park?"
+  },
+  {
+    "sid": 180,
+    "one": "jiǔdiàn tígōng jīchǎng jiēsòng fúwù ma ？",
+    "two": "酒店提供机场接送服务吗？",
+    "three": "Does the hotel provide airport shuttle service?"
+  },
+  {
+    "sid": 181,
+    "one": "nínhǎo ， yǒu shénme kěyǐ bāng nín de ma ？",
+    "two": "您好，有什么可以帮您的吗？",
+    "three": "Hello, how can I help you?"
+  },
+  {
+    "sid": 182,
+    "one": "wǒmen huìwéi nín gēnghuàn zhěntou 。",
+    "two": "我们会为您更换枕头。",
+    "three": "We will replace your pillow."
+  },
+  {
+    "sid": 183,
+    "one": "wèn nín jǐdiǎn xūyào yòngchē ？",
+    "two": "问您几点需要用车？",
+    "three": "What time do you need the car?"
+  },
+  {
+    "sid": 184,
+    "one": "kěyǐ tígōng éwài de máojīn ma ？",
+    "two": "可以提供额外的毛巾吗？",
+    "three": "Can extra towels be provided?"
+  },
+  {
+    "sid": 185,
+    "one": "fángjiānnèi yǒu yùndǒu hé yùn yībǎn ma ？",
+    "two": "房间内有熨斗和熨衣板吗？",
+    "three": "Is there an iron and ironing board in the room?"
+  },
+  {
+    "sid": 186,
+    "one": "jiǔdiàn de fángjià shì duōshǎo ？",
+    "two": "酒店的房价是多少？",
+    "three": "What is the hotel room rate?"
+  },
+  {
+    "sid": 187,
+    "one": "shì zìzhù háishi diǎncài ？",
+    "two": "是自助还是点菜？",
+    "three": "Is it buffet or a la carte?"
+  },
+  {
+    "sid": 188,
+    "one": "yǒu chéngshì jǐngguān de fángjiān ma ？",
+    "two": "有城市景观的房间吗？",
+    "three": "Are there rooms with city views?"
+  },
+  {
+    "sid": 189,
+    "one": "tígōng shénme lèixíng de càiyáo ？",
+    "two": "提供什么类型的菜肴？",
+    "three": "What types of dishes are served?"
+  },
+  {
+    "sid": 190,
+    "one": "xūyào tíqián yùyuē ma ？",
+    "two": "需要提前预约吗？",
+    "three": "Do I need to make an appointment in advance?"
+  },
+  {
+    "sid": 191,
+    "one": "chángqī zhùsù de yǒu yōuhuìjià ma ？",
+    "two": "长期住宿的有优惠价吗？",
+    "three": "Are there any discounts for long-term stays?"
+  },
+  {
+    "sid": 192,
+    "one": "wǒnéng huàn yīgèshuāng chuángfáng ma ？",
+    "two": "我能换一个双床房吗？",
+    "three": "Can I change to a twin room?"
+  }
+]
