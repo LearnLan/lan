@@ -1,0 +1,1214 @@
+[
+  {
+    "sid": 1,
+    "one": "nínhǎo ， qǐngwèn zài nǎ dēngjī ？",
+    "two": "您好，请问在哪登机？",
+    "three": "Hello, where do I board my flight?"
+  },
+  {
+    "sid": 2,
+    "one": "qǐngwèn ānjiǎn zài nǎlǐ ？",
+    "two": "请问安检在哪里？",
+    "three": "Excuse me, where is the security checkpoint?"
+  },
+  {
+    "sid": 3,
+    "one": "nǐ yǒu lǚxíng bǎoxiǎn ma ？",
+    "two": "你有旅行保险吗？",
+    "three": "Do you have travel insurance?"
+  },
+  {
+    "sid": 4,
+    "one": "wǒyào bànlǐ zhíjī 。",
+    "two": "我要办理值机。",
+    "three": "I need to check in."
+  },
+  {
+    "sid": 5,
+    "one": "nǐ de xíngli shìfǒu xūyào bāozhuāng ？",
+    "two": "你的行李是否需要包装？",
+    "three": "Do I need to wrap my luggage?"
+  },
+  {
+    "sid": 6,
+    "one": "wǒ de hángbān zài jǐdiǎn ？",
+    "two": "我的航班在几点？",
+    "three": "What time is my flight?"
+  },
+  {
+    "sid": 7,
+    "one": "wǒyào qù tèr hángzhànlóu 。",
+    "two": "我要去T2航站楼。",
+    "three": "I'm headed to Terminal 2."
+  },
+  {
+    "sid": 8,
+    "one": "wǒyào dìng yīzhāng jīpiào 。",
+    "two": "我要订一张机票。",
+    "three": "I'd like to book a plane ticket."
+  },
+  {
+    "sid": 9,
+    "one": "nǐ yào bànlǐ zàixiàn dēngjī shǒuxù ma ？",
+    "two": "你要办理在线登机手续吗？",
+    "three": "Will you check in online?"
+  },
+  {
+    "sid": 10,
+    "one": "wǒ de xíngli zài nǎlǐ ？",
+    "two": "我的行李在哪里？",
+    "three": "Where can I find my luggage?"
+  },
+  {
+    "sid": 11,
+    "one": "wǒ de jīpiào diū le 。",
+    "two": "我的机票丢了。",
+    "three": "I've lost my ticket."
+  },
+  {
+    "sid": 12,
+    "one": "wǒ de fēijī yánwu le ma ？",
+    "two": "我的飞机延误了吗？",
+    "three": "Is my flight delayed?"
+  },
+  {
+    "sid": 13,
+    "one": "wǒyào qù guójì zhuǎnjī 。",
+    "two": "我要去国际转机。",
+    "three": "I'm connecting internationally."
+  },
+  {
+    "sid": 14,
+    "one": "wǒ de xíngli zài nǎlǐ lǐngqǔ ？",
+    "two": "我的行李在哪里领取？",
+    "three": "Where can I collect my luggage?"
+  },
+  {
+    "sid": 15,
+    "one": "wǒ de dēngjī shíjiān tuīchí le ma ？",
+    "two": "我的登机时间推迟了吗？",
+    "three": "Is my departure time delayed?"
+  },
+  {
+    "sid": 16,
+    "one": "wǒyào qù guónèi hángbān dàtīng 。",
+    "two": "我要去国内航班大厅。",
+    "three": "I'm heading to the domestic departure hall."
+  },
+  {
+    "sid": 17,
+    "one": "qǐngwèn jīchǎng yǒu cāntīng ma ？",
+    "two": "请问机场有餐厅吗？",
+    "three": "Is there a restaurant at the airport?"
+  },
+  {
+    "sid": 18,
+    "one": "wǒ de hángbān zài nǎge dēngjīkǒu ？",
+    "two": "我的航班在哪个登机口？",
+    "three": "Which gate is my flight?"
+  },
+  {
+    "sid": 19,
+    "one": "wǒ xūyào yīzhāng dēngjīpái 。",
+    "two": "我需要一张登机牌。",
+    "three": "I need a boarding pass."
+  },
+  {
+    "sid": 20,
+    "one": "nǐ de dēngjīpái zài nǎlǐ ？",
+    "two": "你的登机牌在哪里？",
+    "three": "Where is your boarding pass?"
+  },
+  {
+    "sid": 21,
+    "one": "wǒyào qǔxiāo wǒ de jīpiào 。",
+    "two": "我要取消我的机票。",
+    "three": "I want to cancel my ticket."
+  },
+  {
+    "sid": 22,
+    "one": "wǒ de hángbān zhǔnshí ma ？",
+    "two": "我的航班准时吗？",
+    "three": "Is my flight on time?"
+  },
+  {
+    "sid": 23,
+    "one": "wǒyào bànlǐ dēngjī shǒuxù 。",
+    "two": "我要办理登机手续。",
+    "three": "I need to check in."
+  },
+  {
+    "sid": 24,
+    "one": "nǐ de dēngjīkǒu shìfǒu yǒu biànhuà ？",
+    "two": "你的登机口是否有变化？",
+    "three": "Has my gate changed?"
+  },
+  {
+    "sid": 25,
+    "one": "qǐngwèn zhèlǐ yǒu Wifi ma ？",
+    "two": "请问这里有WiFi吗？",
+    "three": "Is there Wi-Fi here?"
+  },
+  {
+    "sid": 26,
+    "one": "wǒ de hùzhào guòqī le 。",
+    "two": "我的护照过期了。",
+    "three": "My passport has expired."
+  },
+  {
+    "sid": 27,
+    "one": "wǒ zài nǎlǐ nénghuàn wàibì ？",
+    "two": "我在哪里能换外币？",
+    "three": "Where can I exchange currency?"
+  },
+  {
+    "sid": 28,
+    "one": "wǒ de xínglixiāng sǔnhuài le 。",
+    "two": "我的行李箱损坏了。",
+    "three": "My luggage is damaged."
+  },
+  {
+    "sid": 29,
+    "one": "wǒ xūyào yīzhāng jīchǎng dìtú 。",
+    "two": "我需要一张机场地图。",
+    "three": "I need a map of the airport."
+  },
+  {
+    "sid": 30,
+    "one": "wǒ de xíngli chāozhòng le ma ？",
+    "two": "我的行李超重了吗？",
+    "three": "Is my luggage overweight?"
+  },
+  {
+    "sid": 31,
+    "one": "wǒ yǐjīng gòumǎi le bǎoxiǎn 。",
+    "two": "我已经购买了保险。",
+    "three": "I've already purchased insurance."
+  },
+  {
+    "sid": 32,
+    "one": "wǒ xūyào yùdìng cānguǎn 。",
+    "two": "我需要预订餐馆。",
+    "three": "I need to make a restaurant reservation."
+  },
+  {
+    "sid": 33,
+    "one": "wǒ de xíngli zài nǎlǐ kěyǐ qǔ ？",
+    "two": "我的行李在哪里可以取？",
+    "three": "Where can I pick up my luggage?"
+  },
+  {
+    "sid": 34,
+    "one": "qǐngwèn cèsuǒ zài nǎlǐ ？",
+    "two": "请问厕所在哪里？",
+    "three": "Where is the restroom?"
+  },
+  {
+    "sid": 35,
+    "one": "wǒ zài chéngshì nèizhù 。",
+    "two": "我在城市内住。",
+    "three": "I'm staying in the city."
+  },
+  {
+    "sid": 36,
+    "one": "nǐ huì zài fēijī shàng shuìjiào ma ？",
+    "two": "你会在飞机上睡觉吗？",
+    "three": "Will you sleep on the plane?"
+  },
+  {
+    "sid": 37,
+    "one": "wǒ de hángbān tíqián dàodá le ma ？",
+    "two": "我的航班提前到达了吗？",
+    "three": "Did my flight arrive early?"
+  },
+  {
+    "sid": 38,
+    "one": "nǐ zhīdào hòujīlóu zài nǎ ma ？",
+    "two": "你知道候机楼在哪吗？",
+    "three": "Do you know where the terminal is?"
+  },
+  {
+    "sid": 39,
+    "one": "wǒyào qù jiǔdiàn 。",
+    "two": "我要去酒店。",
+    "three": "I'm going to a hotel."
+  },
+  {
+    "sid": 40,
+    "one": "jiù zài ānjiǎn hòumiàn 。",
+    "two": "就在安检后面。",
+    "three": "Just behind security."
+  },
+  {
+    "sid": 41,
+    "one": "wǒyào yùdìng jīchǎng jiǔdiàn 。",
+    "two": "我要预定机场酒店。",
+    "three": "I want to book an airport hotel."
+  },
+  {
+    "sid": 42,
+    "one": "wǒ xūyào yífèn jīchǎng dìtiě tú 。",
+    "two": "我需要一份机场地铁图。",
+    "three": "I need an airport subway map."
+  },
+  {
+    "sid": 43,
+    "one": "wǒ de fēijī shì jǐdiǎn qǐfēi ？",
+    "two": "我的飞机是几点起飞？",
+    "three": "What time does my plane take off?"
+  },
+  {
+    "sid": 44,
+    "one": "qǐngwèn zhètàng fēijī shì zhǔndiǎn de ma ？",
+    "two": "请问这趟飞机是准点的吗？",
+    "three": "Is this flight on time?"
+  },
+  {
+    "sid": 45,
+    "one": "wǒ xūyào zhǎodào jīchǎng dìtiězhàn 。",
+    "two": "我需要找到机场地铁站。",
+    "three": "I need to find the airport metro station."
+  },
+  {
+    "sid": 46,
+    "one": "yǒu zázhì kěyǐ yuèdú 。",
+    "two": "有杂志可以阅读。",
+    "three": "There are magazines to read."
+  },
+  {
+    "sid": 47,
+    "one": "qǐng gàosu wǒ qù tíngchēchǎng de lù 。",
+    "two": "请告诉我去停车场的路。",
+    "three": "Please tell me the way to the parking lot."
+  },
+  {
+    "sid": 48,
+    "one": "nǐ zài jīchǎng chī guò zǎocān le ma ？",
+    "two": "你在机场吃过早餐了吗？",
+    "three": "Have you had breakfast at the airport?"
+  },
+  {
+    "sid": 49,
+    "one": "wǒ xūyào yífèn jīchǎng de yánwu xìnxī 。",
+    "two": "我需要一份机场的延误信息。",
+    "three": "I need information about delays at the airport."
+  },
+  {
+    "sid": 50,
+    "one": "nǐ de xíngli biāoqiān zài nǎ ？",
+    "two": "你的行李标签在哪？",
+    "three": "Where is your luggage tag?"
+  },
+  {
+    "sid": 51,
+    "one": "wǒyào qù tuōyùn xíngli guìtái 。",
+    "two": "我要去托运行李柜台。",
+    "three": "I'm going to the baggage check counter."
+  },
+  {
+    "sid": 52,
+    "one": "wǒyào zài jīchǎng děng wǒ de jiārén 。",
+    "two": "我要在机场等我的家人。",
+    "three": "I'm waiting for my family at the airport."
+  },
+  {
+    "sid": 53,
+    "one": "qǐng gàosu wǒ qù chūfā dàtīng de lù 。",
+    "two": "请告诉我去出发大厅的路。",
+    "three": "Please tell me the way to the departure hall."
+  },
+  {
+    "sid": 54,
+    "one": "qǐngwèn shìfǒu tígōng miǎnfèicān shí ？",
+    "two": "请问是否提供免费餐食？",
+    "three": "Do you provide free meals?"
+  },
+  {
+    "sid": 55,
+    "one": "fēijī shàng tígōng miǎnfèicān shí 。",
+    "two": "飞机上提供免费餐食。",
+    "three": "Free meals are provided on the plane."
+  },
+  {
+    "sid": 56,
+    "one": "wǒ xūyào zhǎo yīgè chūzūchē 。",
+    "two": "我需要找一个出租车。",
+    "three": "I need to find a taxi."
+  },
+  {
+    "sid": 57,
+    "one": "nǐ shìfǒu dānxīn fēixíng ？",
+    "two": "你是否担心飞行？",
+    "three": "Are you worried about flying?"
+  },
+  {
+    "sid": 58,
+    "one": "wǒ yǐjīng yùdìng le 。",
+    "two": "我已经预订了。",
+    "three": "I've already made a reservation."
+  },
+  {
+    "sid": 59,
+    "one": "wǒ kěyǐ jiè yīgè chōngdiànqì ma ？",
+    "two": "我可以借一个充电器吗？",
+    "three": "Can I borrow a charger?"
+  },
+  {
+    "sid": 60,
+    "one": "qǐngwèn jīchǎng yǒu diūshī wùpǐn chù ma ？",
+    "two": "请问机场有丢失物品处吗？",
+    "three": "Is there a lost items office at the airport?"
+  },
+  {
+    "sid": 61,
+    "one": "wǒ de xínglixiāng bèi sǔnhuài le 。",
+    "two": "我的行李箱被损坏了。",
+    "three": "My suitcase was damaged."
+  },
+  {
+    "sid": 62,
+    "one": "qǐngwèn zhèlǐ de chōngdiànzhàn zài nǎlǐ ？",
+    "two": "请问这里的充电站在哪里？",
+    "three": "Where is the charging station here?"
+  },
+  {
+    "sid": 63,
+    "one": "wǒ xūyào yífèn cāntīng càidān 。",
+    "two": "我需要一份餐厅菜单。",
+    "three": "I need a restaurant menu."
+  },
+  {
+    "sid": 64,
+    "one": "wǒ yǒuxiē chángyòng yàopǐn 。",
+    "two": "我有些常用药品。",
+    "three": "I have some commonly used medicines."
+  },
+  {
+    "sid": 65,
+    "one": "nǐ dài le língshí ma ？",
+    "two": "你带了零食吗？",
+    "three": "Did you bring snacks?"
+  },
+  {
+    "sid": 66,
+    "one": "wǒyào yùdìng yīliàng chūzūchē 。",
+    "two": "我要预定一辆出租车。",
+    "three": "I want to book a taxi."
+  },
+  {
+    "sid": 67,
+    "one": "qǐngwèn nǎlǐ kěyǐ zhǎodào yàodiàn ？",
+    "two": "请问哪里可以找到药店？",
+    "three": "Where can I find a pharmacy?"
+  },
+  {
+    "sid": 68,
+    "one": "wǒ xūyào zhǎodào jīchǎng yīwùshì 。",
+    "two": "我需要找到机场医务室。",
+    "three": "I need to find the airport infirmary."
+  },
+  {
+    "sid": 69,
+    "one": "wǒ xūyào zhǎodào jīchǎng xìnxī tái 。",
+    "two": "我需要找到机场信息台。",
+    "three": "I need to find the airport information desk."
+  },
+  {
+    "sid": 70,
+    "one": "wǒyào qù guójì chūfā kǒu 。",
+    "two": "我要去国际出发口。",
+    "three": "I'm going to the international departure gate."
+  },
+  {
+    "sid": 71,
+    "one": "wǒ xūyào zhǎodào cāntīng qū 。",
+    "two": "我需要找到餐厅区。",
+    "three": "I need to find the restaurant area."
+  },
+  {
+    "sid": 72,
+    "one": "nǐ yǒu duōchángshíjiān de zhuǎnjī shíjiān ？",
+    "two": "你有多长时间的转机时间？",
+    "three": "How long do you have for your layover?"
+  },
+  {
+    "sid": 73,
+    "one": "qǐngwèn zhèlǐ yǒu értóng shèshī ma ？",
+    "two": "请问这里有儿童设施吗？",
+    "three": "Are there any facilities for children here?"
+  },
+  {
+    "sid": 74,
+    "one": "wǒ kěyǐ shǐyòng miǎnshuìdiàn ma ？",
+    "two": "我可以使用免税店吗？",
+    "three": "Can I use duty-free shops?"
+  },
+  {
+    "sid": 75,
+    "one": "xīwàng néng xiūxi yīxià 。",
+    "two": "希望能休息一下。",
+    "three": "Hope to get some rest."
+  },
+  {
+    "sid": 76,
+    "one": "nǐ huì zài mùdìdì zūchē ma ？",
+    "two": "你会在目的地租车吗？",
+    "three": "Will you rent a car at your destination?"
+  },
+  {
+    "sid": 77,
+    "one": "wǒ de shǒujī zài nǎlǐ kěyǐ chōngdiàn ？",
+    "two": "我的手机在哪里可以充电？",
+    "three": "Where can I charge my phone?"
+  },
+  {
+    "sid": 78,
+    "one": "wǒ xūyào yífèn jīchǎng de tíngchē xìnxī 。",
+    "two": "我需要一份机场的停车信息。",
+    "three": "I need parking information at the airport."
+  },
+  {
+    "sid": 79,
+    "one": "zài hòujīshì de qiángshàng 。",
+    "two": "在候机室的墙上。",
+    "three": "On the wall of the waiting room."
+  },
+  {
+    "sid": 80,
+    "one": "nǐ xūyào gòumǎi jīpiào bǎoxiǎn ma ？",
+    "two": "你需要购买机票保险吗？",
+    "three": "Do you need to purchase flight insurance?"
+  },
+  {
+    "sid": 81,
+    "one": "wǒ xūyào yífèn jīchǎng de gòuwù pínglùn 。",
+    "two": "我需要一份机场的购物评论。",
+    "three": "I need an airport shopping review."
+  },
+  {
+    "sid": 82,
+    "one": "wǒ kěyǐ shǐyòng chōngdiànzhàn ma ？",
+    "two": "我可以使用充电站吗？",
+    "three": "Can I use a charging station?"
+  },
+  {
+    "sid": 83,
+    "one": "nǐ de hùzhào zhǔnbèi hǎolema ？",
+    "two": "你的护照准备好了吗？",
+    "three": "Is your passport ready?"
+  },
+  {
+    "sid": 84,
+    "one": "wǒ de xíngli tàizhòng le 。",
+    "two": "我的行李太重了。",
+    "three": "My luggage is too heavy."
+  },
+  {
+    "sid": 85,
+    "one": "wǒ de dēngjīpái zài nǎlǐ ？",
+    "two": "我的登机牌在哪里？",
+    "three": "Where is my boarding pass?"
+  },
+  {
+    "sid": 86,
+    "one": "wǒyào gòumǎi yīzhāng diànzǐ ménpiào 。",
+    "two": "我要购买一张电子门票。",
+    "three": "I want to buy an e-ticket."
+  },
+  {
+    "sid": 87,
+    "one": "wǒ de dēngjīpái diū le 。",
+    "two": "我的登机牌丢了。",
+    "three": "I lost my boarding pass."
+  },
+  {
+    "sid": 88,
+    "one": "wǒ xūyào bànlǐ dēngjī shǒuxù 。",
+    "two": "我需要办理登机手续。",
+    "three": "I need to check in."
+  },
+  {
+    "sid": 89,
+    "one": "wǒ xūyào yífèn fēixíng cāndān 。",
+    "two": "我需要一份飞行餐单。",
+    "three": "I need a flight menu."
+  },
+  {
+    "sid": 90,
+    "one": "nǐ de xíngli yǒusuǒ ma ？",
+    "two": "你的行李有锁吗？",
+    "three": "Does your luggage have a lock?"
+  },
+  {
+    "sid": 91,
+    "one": "wǒ xūyào zhǎodào jīchǎng yóujú 。",
+    "two": "我需要找到机场邮局。",
+    "three": "I need to find the airport post office."
+  },
+  {
+    "sid": 92,
+    "one": "nǐ yào zài jīchǎng chī wǎncān ma ？",
+    "two": "你要在机场吃晚餐吗？",
+    "three": "Do you want to have dinner at the airport?"
+  },
+  {
+    "sid": 93,
+    "one": "wǒ xūyào yīzhāng jīchǎng dìtiě dìtú 。",
+    "two": "我需要一张机场地铁地图。",
+    "three": "I need an airport subway map."
+  },
+  {
+    "sid": 94,
+    "one": "wǒ kěyǐ zìjǐ xiédài 。",
+    "two": "我可以自己携带。",
+    "three": "I can carry it myself."
+  },
+  {
+    "sid": 95,
+    "one": "wǒ xūyào gòumǎi jīchǎng tíngchē quàn 。",
+    "two": "我需要购买机场停车券。",
+    "three": "I need to purchase an airport parking ticket."
+  },
+  {
+    "sid": 96,
+    "one": "wǒyào qù guónèi chūfā kǒu 。",
+    "two": "我要去国内出发口。",
+    "three": "I want to go to the domestic departure point."
+  },
+  {
+    "sid": 97,
+    "one": "qǐngwèn nǐ yǒu yùdìng jīchǎng jiǔdiàn ma ？",
+    "two": "请问你有预订机场酒店吗？",
+    "three": "Have you booked an airport hotel?"
+  },
+  {
+    "sid": 98,
+    "one": "wǒyào gòumǎi yífèn jīchǎng dìtiěpiào 。",
+    "two": "我要购买一份机场地铁票。",
+    "three": "I want to buy an airport subway ticket."
+  },
+  {
+    "sid": 99,
+    "one": "nǐ xūyào bāngmáng tuōyùn xíngli ma ？",
+    "two": "你需要帮忙托运行李吗？",
+    "three": "Do you need help checking your luggage?"
+  },
+  {
+    "sid": 100,
+    "one": "wǒ xūyào yīzhāng dìtú 。",
+    "two": "我需要一张地图。",
+    "three": "I need a map."
+  },
+  {
+    "sid": 101,
+    "one": "wǒ xūyào yífèn hángbān shíjiānbiǎo 。",
+    "two": "我需要一份航班时间表。",
+    "three": "I need a flight schedule."
+  },
+  {
+    "sid": 102,
+    "one": "nǐ de xíngli shìfǒu chāozhòng le ？",
+    "two": "你的行李是否超重了？",
+    "three": "Is your luggage overweight?"
+  },
+  {
+    "sid": 103,
+    "one": "wǒ kěyǐ jiè yìběn zázhì ma ？",
+    "two": "我可以借一本杂志吗？",
+    "three": "Can I borrow a magazine?"
+  },
+  {
+    "sid": 104,
+    "one": "wǒ de dēngjīkǒu zài nǎlǐ ？",
+    "two": "我的登机口在哪里？",
+    "three": "Where is my boarding gate?"
+  },
+  {
+    "sid": 105,
+    "one": "qǐng gàosu wǒ dàodá kǒu zài nǎlǐ 。",
+    "two": "请告诉我到达口在哪里。",
+    "three": "Please tell me where the arrival gate is."
+  },
+  {
+    "sid": 106,
+    "one": "wǒ xūyào bànlǐ hùzhào kòngzhì 。",
+    "two": "我需要办理护照控制。",
+    "three": "I need to go through passport control."
+  },
+  {
+    "sid": 107,
+    "one": "wǒ xūyào bànlǐ jǐnjí dēngjī shǒuxù 。",
+    "two": "我需要办理紧急登机手续。",
+    "three": "I need to check in urgently."
+  },
+  {
+    "sid": 108,
+    "one": "wǒ xūyào chōngdiàn shèbèi de chāzuò 。",
+    "two": "我需要充电设备的插座。",
+    "three": "I need an outlet to charge my device."
+  },
+  {
+    "sid": 109,
+    "one": "wǒ xūyào zhǎodào jīchǎng jǐngchájú 。",
+    "two": "我需要找到机场警察局。",
+    "three": "I need to find the airport police station."
+  },
+  {
+    "sid": 110,
+    "one": "wǒ kěyǐ zài jīchǎng xīyān ma ？",
+    "two": "我可以在机场吸烟吗？",
+    "three": "Can I smoke in the airport?"
+  },
+  {
+    "sid": 111,
+    "one": "wǒ xūyào yīzhāng chéngshìdìtú 。",
+    "two": "我需要一张城市地图。",
+    "three": "I need a city map."
+  },
+  {
+    "sid": 112,
+    "one": "nǐ zhīdào fēijī jǐdiǎn qǐfēi ma ？",
+    "two": "你知道飞机几点起飞吗？",
+    "three": "Do you know what time the plane takes off?"
+  },
+  {
+    "sid": 113,
+    "one": "wǒnéng zài jīchǎng zūchē ma ？",
+    "two": "我能在机场租车吗？",
+    "three": "Can I rent a car at the airport?"
+  },
+  {
+    "sid": 114,
+    "one": "nǐ yǒu yùdìng jīchǎng tíngchēwèi ma ？",
+    "two": "你有预订机场停车位吗？",
+    "three": "Have you reserved an airport parking space?"
+  },
+  {
+    "sid": 115,
+    "one": "qǐngwèn zhèlǐ yǒu yàodiàn ma ？",
+    "two": "请问这里有药店吗？",
+    "three": "Is there a pharmacy here?"
+  },
+  {
+    "sid": 116,
+    "one": "qǐngwèn zài nǎlǐ bànlǐ qiānzhèng ？",
+    "two": "请问在哪里办理签证？",
+    "three": "Where can I apply for a visa?"
+  },
+  {
+    "sid": 117,
+    "one": "nǐ fēiwǎng nǎge chéngshì ？",
+    "two": "你飞往哪个城市？",
+    "three": "Which city are you flying to?"
+  },
+  {
+    "sid": 118,
+    "one": "wǒyào bànlǐ jīchǎng tíngchēfèi 。",
+    "two": "我要办理机场停车费。",
+    "three": "I want to pay for airport parking."
+  },
+  {
+    "sid": 119,
+    "one": "zài dàodá dàtīng 。",
+    "two": "在到达大厅。",
+    "three": "In the arrival hall."
+  },
+  {
+    "sid": 120,
+    "one": "wǒ xiǎngyào yīzhāng jīchǎng dìtú 。",
+    "two": "我想要一张机场地图。",
+    "three": "I'd like an airport map."
+  },
+  {
+    "sid": 121,
+    "one": "wǒ kěyǐ shǐyòng Wifi ma ？",
+    "two": "我可以使用WiFi吗？",
+    "three": "Can I use WiFi?"
+  },
+  {
+    "sid": 122,
+    "one": "wǒ xūyào tuōyùn xíngli 。",
+    "two": "我需要托运行李。",
+    "three": "I need to check in my luggage."
+  },
+  {
+    "sid": 123,
+    "one": "wǒyào qù jīchǎng dìtiězhàn 。",
+    "two": "我要去机场地铁站。",
+    "three": "I'm going to the airport subway station."
+  },
+  {
+    "sid": 124,
+    "one": "qǐngwèn zhèlǐ de miǎnshuìdiàn zài nǎ ？",
+    "two": "请问这里的免税店在哪？",
+    "three": "Where is the duty-free shop here?"
+  },
+  {
+    "sid": 125,
+    "one": "qǐng gàosu wǒ qù zūchē zhōngxīn de lù 。",
+    "two": "请告诉我去租车中心的路。",
+    "three": "Please tell me the way to the car rental center."
+  },
+  {
+    "sid": 126,
+    "one": "wǒ xūyào zhǎodào jīchǎng bāshìzhàn 。",
+    "two": "我需要找到机场巴士站。",
+    "three": "I need to find the airport bus stop."
+  },
+  {
+    "sid": 127,
+    "one": "wǒ de xíngli diū le 。",
+    "two": "我的行李丢了。",
+    "three": "My luggage is lost."
+  },
+  {
+    "sid": 128,
+    "one": "wǒ kěyǐ bànlǐ zhíjī ma ？",
+    "two": "我可以办理值机吗？",
+    "three": "Can I check in?"
+  },
+  {
+    "sid": 129,
+    "one": "wǒ xūyào zhǎodào jīchǎng xǐshǒujiān 。",
+    "two": "我需要找到机场洗手间。",
+    "three": "I need to find an airport restroom."
+  },
+  {
+    "sid": 130,
+    "one": "wǒyào qù jīchǎng gōnggòngqìchē zhàn 。",
+    "two": "我要去机场公共汽车站。",
+    "three": "I'm going to the airport bus stop."
+  },
+  {
+    "sid": 131,
+    "one": "wǒ de hángbān yánwu le ma ？",
+    "two": "我的航班延误了吗？",
+    "three": "Is my flight delayed?"
+  },
+  {
+    "sid": 132,
+    "one": "wǒ xǐhuan zuò chuānghù wèizhi 。",
+    "two": "我喜欢坐窗户位置。",
+    "three": "I like the window seat."
+  },
+  {
+    "sid": 133,
+    "one": "wǒ xūyào zhǎodào huòbì duìhuànchù 。",
+    "two": "我需要找到货币兑换处。",
+    "three": "I need to find a currency exchange office."
+  },
+  {
+    "sid": 134,
+    "one": "wǒ xiǎngyào yībēi kāfēi 。",
+    "two": "我想要一杯咖啡。",
+    "three": "I would like a cup of coffee."
+  },
+  {
+    "sid": 135,
+    "one": "wǒyào yùdìng jīchǎng tíngchēwèi 。",
+    "two": "我要预定机场停车位。",
+    "three": "I want to reserve an airport parking space."
+  },
+  {
+    "sid": 136,
+    "one": "wǒyào qù hángzhànlóu c 。",
+    "two": "我要去航站楼C。",
+    "three": "I'm going to Terminal C."
+  },
+  {
+    "sid": 137,
+    "one": "wǒ gēng xǐhuan xiédài shǒutí xíngli 。",
+    "two": "我更喜欢携带手提行李。",
+    "three": "I prefer to carry hand luggage."
+  },
+  {
+    "sid": 138,
+    "one": "wǒyào qù hòujīlóu èr 。",
+    "two": "我要去候机楼2。",
+    "three": "I'm going to Terminal 2."
+  },
+  {
+    "sid": 139,
+    "one": "wǒ zài guìtái bànlǐ dēngjī 。",
+    "two": "我在柜台办理登机。",
+    "three": "I checked in at the counter."
+  },
+  {
+    "sid": 140,
+    "one": "nǐ yào zài jīchǎng děng duōjiǔ ？",
+    "two": "你要在机场等多久？",
+    "three": "How long do you have to wait at the airport?"
+  },
+  {
+    "sid": 141,
+    "one": "wǒyào qù guójìhángbān dàtīng 。",
+    "two": "我要去国际航班大厅。",
+    "three": "I'm going to the international flight hall."
+  },
+  {
+    "sid": 142,
+    "one": "wǒyào qù chūkǒu 。",
+    "two": "我要去出口。",
+    "three": "I'm going to the exit."
+  },
+  {
+    "sid": 143,
+    "one": "wǒ kěyǐ zài zhèlǐ děnghòu ma ？",
+    "two": "我可以在这里等候吗？",
+    "three": "Can I wait here?"
+  },
+  {
+    "sid": 144,
+    "one": "wǒ xūyào zhǎodào jīchǎng chōngdiànzhàn 。",
+    "two": "我需要找到机场充电站。",
+    "three": "I need to find an airport charging station."
+  },
+  {
+    "sid": 145,
+    "one": "wǒ de hángbān qǔxiāo le ma ？",
+    "two": "我的航班取消了吗？",
+    "three": "Has my flight been cancelled?"
+  },
+  {
+    "sid": 146,
+    "one": "qǐng gàosu wǒ hángbān de xìnxī 。",
+    "two": "请告诉我航班的信息。",
+    "three": "Please tell me the flight information."
+  },
+  {
+    "sid": 147,
+    "one": "wǒ kěyǐ zài jīchǎng nèi xīyān ma ？",
+    "two": "我可以在机场内吸烟吗？",
+    "three": "Can I smoke inside the airport?"
+  },
+  {
+    "sid": 148,
+    "one": "wǒ de qiánbāo diū le 。",
+    "two": "我的钱包丢了。",
+    "three": "My wallet is lost."
+  },
+  {
+    "sid": 149,
+    "one": "wǒ de dēngjī shíjiān shì jǐdiǎn ？",
+    "two": "我的登机时间是几点？",
+    "three": "What time is my boarding time?"
+  },
+  {
+    "sid": 150,
+    "one": "wǒ kěyǐ zài jīchǎng gòuwù ma ？",
+    "two": "我可以在机场购物吗？",
+    "three": "Can I shop at the airport?"
+  },
+  {
+    "sid": 151,
+    "one": "nǐ yǒu xiédài wéijìnwùpǐn ma ？",
+    "two": "你有携带违禁物品吗？",
+    "three": "Are you carrying any prohibited items?"
+  },
+  {
+    "sid": 152,
+    "one": "wǒyào qù chéngshì zhōngxīn 。",
+    "two": "我要去城市中心。",
+    "three": "I'm going to the city center."
+  },
+  {
+    "sid": 153,
+    "one": "qǐng gàosu wǒ líkāi kǒu zài nǎlǐ 。",
+    "two": "请告诉我离开口在哪里。",
+    "three": "Please tell me where the exit is."
+  },
+  {
+    "sid": 154,
+    "one": "nǐ zhīdào rúhé zǒu dào chūfā dàtīng ma ？",
+    "two": "你知道如何走到出发大厅吗？",
+    "three": "Do you know how to get to the departure hall?"
+  },
+  {
+    "sid": 155,
+    "one": "wǒhuì yòng jīchǎng tíngchēchǎng 。",
+    "two": "我会用机场停车场。",
+    "three": "I would use the airport parking lot."
+  },
+  {
+    "sid": 156,
+    "one": "wǒ de hángbān yǐjīng qǔxiāo le 。",
+    "two": "我的航班已经取消了。",
+    "three": "My flight has been cancelled."
+  },
+  {
+    "sid": 157,
+    "one": "wǒ de xínglixiāng huài le 。",
+    "two": "我的行李箱坏了。",
+    "three": "My suitcase is broken."
+  },
+  {
+    "sid": 158,
+    "one": "wǒyào qù guójìhángbān dēngjīkǒu 。",
+    "two": "我要去国际航班登机口。",
+    "three": "I'm going to the international flight gate."
+  },
+  {
+    "sid": 159,
+    "one": "qǐng gàosu wǒ qù hǎiguān de lù 。",
+    "two": "请告诉我去海关的路。",
+    "three": "Please tell me the way to the customs."
+  },
+  {
+    "sid": 160,
+    "one": "wǒ de dēngjīpái bùjiàn le 。",
+    "two": "我的登机牌不见了。",
+    "three": "My boarding pass is missing."
+  },
+  {
+    "sid": 161,
+    "one": "wǒyào qù jīchǎng kuàixiàn huǒchēzhàn 。",
+    "two": "我要去机场快线火车站。",
+    "three": "I'm going to the Airport Express train station."
+  },
+  {
+    "sid": 162,
+    "one": "qǐngwèn cāntīng zài nǎlǐ ？",
+    "two": "请问餐厅在哪里？",
+    "three": "Where is the restaurant?"
+  },
+  {
+    "sid": 163,
+    "one": "qǐngwèn zhèlǐ yǒu xíngli jìcún guì ma ？",
+    "two": "请问这里有行李寄存柜吗？",
+    "three": "Are there luggage lockers here?"
+  },
+  {
+    "sid": 164,
+    "one": "xiàwǔ liǎngdiǎn qǐfēi 。",
+    "two": "下午两点起飞。",
+    "three": "Departs at 2pm."
+  },
+  {
+    "sid": 165,
+    "one": "wǒyào qù jīchǎng chūzūchē zhàn 。",
+    "two": "我要去机场出租车站。",
+    "three": "I'm going to the airport taxi stand."
+  },
+  {
+    "sid": 166,
+    "one": "qǐngwèn zài nǎlǐ kěyǐ zūchē ？",
+    "two": "请问在哪里可以租车？",
+    "three": "Where can I rent a car?"
+  },
+  {
+    "sid": 167,
+    "one": "nǐ de dēngjīkǒu zài nǎ ？",
+    "two": "你的登机口在哪？",
+    "three": "Where is your boarding gate?"
+  },
+  {
+    "sid": 168,
+    "one": "chūkǒu wài jiù yǒu chūzūchē zhàn 。",
+    "two": "出口外就有出租车站。",
+    "three": "There is a taxi rank just outside the exit."
+  },
+  {
+    "sid": 169,
+    "one": "zhǐ xū gēnzhe biāozhì zǒu 。",
+    "two": "只需跟着标志走。",
+    "three": "Just follow the signs."
+  },
+  {
+    "sid": 170,
+    "one": "wǒ de xínglixiāng bèidào le 。",
+    "two": "我的行李箱被盗了。",
+    "three": "My suitcase was stolen."
+  },
+  {
+    "sid": 171,
+    "one": "wǒ de hùzhào zài nǎlǐ ？",
+    "two": "我的护照在哪里？",
+    "three": "Where is my passport?"
+  },
+  {
+    "sid": 172,
+    "one": "wǒ xūyào yībēi kāfēi 。",
+    "two": "我需要一杯咖啡。",
+    "three": "I need a cup of coffee."
+  },
+  {
+    "sid": 173,
+    "one": "dàyuē liǎnggè xiǎoshí 。",
+    "two": "大约两个小时。",
+    "three": "About two hours."
+  },
+  {
+    "sid": 174,
+    "one": "wǒyào gòumǎi yífèn jīchǎng zhǐnán 。",
+    "two": "我要购买一份机场指南。",
+    "three": "I want to buy an airport guide."
+  },
+  {
+    "sid": 175,
+    "one": "dēngjīkǒu c7 。",
+    "two": "登机口C7。",
+    "three": "Boarding gate C7."
+  },
+  {
+    "sid": 176,
+    "one": "nǐ zhīdào xíngli lǐngqǔ zài nǎlǐ ma ？",
+    "two": "你知道行李领取在哪里吗？",
+    "three": "Do you know where baggage claim is?"
+  },
+  {
+    "sid": 177,
+    "one": "wǒ xūyào gòumǎi yífèn jīchǎng dìtú 。",
+    "two": "我需要购买一份机场地图。",
+    "three": "I need to purchase an airport map."
+  },
+  {
+    "sid": 178,
+    "one": "wǒ xūyào zhǎodào jīchǎng zūchē guìtái 。",
+    "two": "我需要找到机场租车柜台。",
+    "three": "I need to find the airport car rental counter."
+  },
+  {
+    "sid": 179,
+    "one": "wǒ xūyào bànlǐ tuōyùn xíngli 。",
+    "two": "我需要办理托运行李。",
+    "three": "I need to check in my luggage."
+  },
+  {
+    "sid": 180,
+    "one": "wǒ xūyào yífèn jīchǎng cāntīng càidān 。",
+    "two": "我需要一份机场餐厅菜单。",
+    "three": "I need an airport restaurant menu."
+  },
+  {
+    "sid": 181,
+    "one": "wǒ xūyào yífèn jīchǎng de gòuwù zhǐnán 。",
+    "two": "我需要一份机场的购物指南。",
+    "three": "I need a shopping guide for the airport."
+  },
+  {
+    "sid": 182,
+    "one": "zhèlǐ yǒu miǎnfèi de jiēsòng bāshì ma ？",
+    "two": "这里有免费的接送巴士吗？",
+    "three": "Is there a free shuttle bus here?"
+  },
+  {
+    "sid": 183,
+    "one": "qǐng gàosu wǒ dàodá dàtīng zài nǎlǐ 。",
+    "two": "请告诉我到达大厅在哪里。",
+    "three": "Please tell me where the arrival hall is."
+  },
+  {
+    "sid": 184,
+    "one": "wǒ xūyào zhǎodào rùjìng dàtīng 。",
+    "two": "我需要找到入境大厅。",
+    "three": "I need to find the arrival hall."
+  },
+  {
+    "sid": 185,
+    "one": "wǒyào qù hángzhànlóu b 。",
+    "two": "我要去航站楼B。",
+    "three": "I'm going to Terminal B."
+  },
+  {
+    "sid": 186,
+    "one": "jùshuō fēijī shì zhǔndiǎn de 。",
+    "two": "据说飞机是准点的。",
+    "three": "It is said that the plane is on time."
+  },
+  {
+    "sid": 187,
+    "one": "nǐ dài le yàowù ma ？",
+    "two": "你带了药物吗？",
+    "three": "Did you bring any medication?"
+  },
+  {
+    "sid": 188,
+    "one": "wǒ xūyào zhǎodào wǒ de dēngjīkǒu 。",
+    "two": "我需要找到我的登机口。",
+    "three": "I need to find my gate."
+  },
+  {
+    "sid": 189,
+    "one": "nǐ de zuòwèihào shì duōshǎo ？",
+    "two": "你的座位号是多少？",
+    "three": "What's your seat number?"
+  },
+  {
+    "sid": 190,
+    "one": "wǒ de xíngli diūshī le 。",
+    "two": "我的行李丢失了。",
+    "three": "My luggage is lost."
+  },
+  {
+    "sid": 191,
+    "one": "wǒ xūyào zhǎodào jīchǎng jiēsòng fúwù 。",
+    "two": "我需要找到机场接送服务。",
+    "three": "I need to find an airport transfer service."
+  },
+  {
+    "sid": 192,
+    "one": "qǐngwèn jīchǎng yǒu értóng yóulèqū ma ？",
+    "two": "请问机场有儿童游乐区吗？",
+    "three": "Is there a children's play area at the airport?"
+  },
+  {
+    "sid": 193,
+    "one": "wǒyào qù guónèi zhuǎnjī 。",
+    "two": "我要去国内转机。",
+    "three": "I'm going to transfer domestically."
+  },
+  {
+    "sid": 194,
+    "one": "wǒ xūyào yīgè jīchǎng dìtú 。",
+    "two": "我需要一个机场地图。",
+    "three": "I need an airport map."
+  },
+  {
+    "sid": 195,
+    "one": "wǒyào bànlǐ tuìshuì shǒuxù 。",
+    "two": "我要办理退税手续。",
+    "three": "I want to go through the tax refund procedures."
+  },
+  {
+    "sid": 196,
+    "one": "nǐ de mùdìdì shì nǎge hángzhànlóu ？",
+    "two": "你的目的地是哪个航站楼？",
+    "three": "Which terminal is your destination?"
+  },
+  {
+    "sid": 197,
+    "one": "wǒyào fēiwǎng niǔyuē 。",
+    "two": "我要飞往纽约。",
+    "three": "I'm flying to New York."
+  },
+  {
+    "sid": 198,
+    "one": "wǒ xūyào yífèn jīchǎng zhǐnán 。",
+    "two": "我需要一份机场指南。",
+    "three": "I need an airport guide."
+  },
+  {
+    "sid": 199,
+    "one": "wǒ de xínglixiāng diū le 。",
+    "two": "我的行李箱丢了。",
+    "three": "My suitcase is lost."
+  },
+  {
+    "sid": 200,
+    "one": "yīnggāi méi wèntí 。",
+    "two": "应该没问题。",
+    "three": "should be no problem."
+  },
+  {
+    "sid": 201,
+    "one": "wǒ kěyǐ zài zhèlǐ xīyān ma ？",
+    "two": "我可以在这里吸烟吗？",
+    "three": "Can I smoke here?"
+  },
+  {
+    "sid": 202,
+    "one": "zhège bāo tàizhòng le 。",
+    "two": "这个包太重了。",
+    "three": "This bag is too heavy."
+  }
+]

@@ -1,0 +1,1148 @@
+[
+  {
+    "sid": 1,
+    "one": "nǐhǎo ， qǐngwèn nín xūyào shénme ？",
+    "two": "你好，请问您需要什么？",
+    "three": "Hello, what do you need?"
+  },
+  {
+    "sid": 2,
+    "one": "wǒ xiǎng mǎi yīpíng kuàngquánshuǐ 。",
+    "two": "我想买一瓶矿泉水。",
+    "three": "I want to buy a bottle of mineral water."
+  },
+  {
+    "sid": 3,
+    "one": "gěi wǒ lái yībāo pàomiàn 。",
+    "two": "给我来一包泡面。",
+    "three": "Bring me a pack of instant noodles."
+  },
+  {
+    "sid": 4,
+    "one": "nín yào shénme kǒuwèi de pàomiàn ？",
+    "two": "您要什么口味的泡面？",
+    "three": "What flavor of instant noodles do you want?"
+  },
+  {
+    "sid": 5,
+    "one": "wǒ xiǎng mǎi yīhé bǐnggān 。",
+    "two": "我想买一盒饼干。",
+    "three": "I want to buy a box of cookies."
+  },
+  {
+    "sid": 6,
+    "one": "qǐngwèn nín yào nǎzhǒng ？",
+    "two": "请问您要哪种？",
+    "three": "Which one do you want?"
+  },
+  {
+    "sid": 7,
+    "one": "qǐngwèn xǐfàshuǐ zài nǎge qūyù ？",
+    "two": "请问洗发水在哪个区域？",
+    "three": "In which area is the shampoo located?"
+  },
+  {
+    "sid": 8,
+    "one": "zài zuǒbian xǐhù yòngpǐn qū 。",
+    "two": "在左边洗护用品区。",
+    "three": "In the toiletries section on the left."
+  },
+  {
+    "sid": 9,
+    "one": "wǒ xūyào yīhé yágāo 。",
+    "two": "我需要一盒牙膏。",
+    "three": "I need a box of toothpaste."
+  },
+  {
+    "sid": 10,
+    "one": "qǐngwèn nín nǎzhǒng de yágāo 。",
+    "two": "请问您哪种的牙膏。",
+    "three": "What kind of toothpaste do you use?"
+  },
+  {
+    "sid": 11,
+    "one": "zhège shāngpǐn dǎzhé ma ？",
+    "two": "这个商品打折吗？",
+    "three": "Is this item on sale?"
+  },
+  {
+    "sid": 12,
+    "one": "duìbuqǐ ， zhège shāngpǐn bù dǎzhé 。",
+    "two": "对不起，这个商品不打折。",
+    "three": "Sorry, this item is not on sale."
+  },
+  {
+    "sid": 13,
+    "one": "qǐngwèn nín xūyào fāpiào ma ？",
+    "two": "请问您需要发票吗？",
+    "three": "Do you need an invoice?"
+  },
+  {
+    "sid": 14,
+    "one": "bùyòng ， xièxie 。",
+    "two": "不用，谢谢。",
+    "three": "No, thank you."
+  },
+  {
+    "sid": 15,
+    "one": "qǐngwèn zhège shāngpǐn yǒu bǎozhìqī ma ？",
+    "two": "请问这个商品有保质期吗？",
+    "three": "Does this product have a shelf life?"
+  },
+  {
+    "sid": 16,
+    "one": "zhège shāngpǐn de bǎozhìqī háiyǒu bànnián 。",
+    "two": "这个商品的保质期还有半年。",
+    "three": "The shelf life of this product is still half a year."
+  },
+  {
+    "sid": 17,
+    "one": "wǒ kěyǐ yòng xìnyòngkǎ zhīfù ma ？",
+    "two": "我可以用信用卡支付吗？",
+    "three": "Can I pay by credit card?"
+  },
+  {
+    "sid": 18,
+    "one": "kěyǐ ， wǒmen jiēshòu xìnyòngkǎ zhīfù 。",
+    "two": "可以，我们接受信用卡支付。",
+    "three": "Yes, we accept credit card payments."
+  },
+  {
+    "sid": 19,
+    "one": "wǒ xiǎng mǎi yīxiē yǐnliào 。",
+    "two": "我想买一些饮料。",
+    "three": "I want to buy some drinks."
+  },
+  {
+    "sid": 20,
+    "one": "qǐngwèn nín yào nǎzhǒng yǐnliào 。",
+    "two": "请问您要哪种饮料。",
+    "three": "What kind of drink would you like?"
+  },
+  {
+    "sid": 21,
+    "one": "gěi wǒ lái yībāo língshí 。",
+    "two": "给我来一包零食。",
+    "three": "Bring me a pack of snacks."
+  },
+  {
+    "sid": 22,
+    "one": "nín yào língshí  shǔpiàn  háishi tángguǒ ？",
+    "two": "您要零食、薯片、还是糖果？",
+    "three": "Would you like snacks, chips, or candy?"
+  },
+  {
+    "sid": 23,
+    "one": "qǐngwèn wèishēngzhǐ zài nǎlǐ ？",
+    "two": "请问卫生纸在哪里？",
+    "three": "Where is the toilet paper?"
+  },
+  {
+    "sid": 24,
+    "one": "zài yòubian de shēnghuóyòngpǐn qū 。",
+    "two": "在右边的生活用品区。",
+    "three": "In the daily necessities area on the right."
+  },
+  {
+    "sid": 25,
+    "one": "wǒ xūyào yīpíng xǐshǒuyè 。",
+    "two": "我需要一瓶洗手液。",
+    "three": "I need a bottle of hand sanitizer."
+  },
+  {
+    "sid": 26,
+    "one": "qǐngwèn nín xūyào nǎ zhǒng xǐshǒuyè ？",
+    "two": "请问您需要哪种洗手液？",
+    "three": "What kind of hand sanitizer do you need?"
+  },
+  {
+    "sid": 27,
+    "one": "zhège shāngpǐn yǒu qítā kǒuwèi ma ？",
+    "two": "这个商品有其他口味吗？",
+    "three": "Is this product available in other flavors?"
+  },
+  {
+    "sid": 28,
+    "one": "yǒu de ， yǒu qítā kǒuwèi de 。",
+    "two": "有的，有其他口味的。",
+    "three": "Yes, there are other flavors."
+  },
+  {
+    "sid": 29,
+    "one": "qǐngwèn zhège shāngpǐn yǒuxiàn gòu ma ？",
+    "two": "请问这个商品有限购吗？",
+    "three": "Is there a limited purchase limit for this product?"
+  },
+  {
+    "sid": 30,
+    "one": "méiyǒu ， zhège shāngpǐn méiyǒu xiàngòu 。",
+    "two": "没有，这个商品没有限购。",
+    "three": "No, there is no purchase limit on this product."
+  },
+  {
+    "sid": 31,
+    "one": "wǒ kěyǐ chángshì yīxià zhège ma ？",
+    "two": "我可以尝试一下这个吗？",
+    "three": "Can I try this?"
+  },
+  {
+    "sid": 32,
+    "one": "dāngrán kěyǐ ， qǐng suíyì chángshì 。",
+    "two": "当然可以，请随意尝试。",
+    "three": "Sure, feel free to try it."
+  },
+  {
+    "sid": 33,
+    "one": "zhège shāngpǐn yǒu zhékòu huódòng ma ？",
+    "two": "这个商品有折扣活动吗？",
+    "three": "Are there any discounts on this product?"
+  },
+  {
+    "sid": 34,
+    "one": "yǒu de ， tā zhèngzài cānjiā zhékòu huódòng 。",
+    "two": "有的，它正在参加折扣活动。",
+    "three": "Yes, it is participating in discount activities."
+  },
+  {
+    "sid": 35,
+    "one": "wǒ xiǎngyào yífèn sānmíngzhì 。",
+    "two": "我想要一份三明治。",
+    "three": "I'd like a sandwich."
+  },
+  {
+    "sid": 36,
+    "one": "hǎo de ， qǐng shāoděngyīxià 。",
+    "two": "好的，请稍等一下。",
+    "three": "OK, please wait a moment."
+  },
+  {
+    "sid": 37,
+    "one": "zhège shāngpǐn yǒuwú tiānjiājì ？",
+    "two": "这个商品有无添加剂？",
+    "three": "Does this product have any additives?"
+  },
+  {
+    "sid": 38,
+    "one": "méiyǒu ， tā shì wú tiānjiājì de 。",
+    "two": "没有，它是无添加剂的。",
+    "three": "No, it is additive-free."
+  },
+  {
+    "sid": 39,
+    "one": "wǒ xūyào yīhé miànjīnzhǐ 。",
+    "two": "我需要一盒面巾纸。",
+    "three": "I need a box of Kleenex."
+  },
+  {
+    "sid": 40,
+    "one": "hǎo de ， wǒ bāng nín ná 。",
+    "two": "好的，我帮您拿。",
+    "three": "OK, I'll get it for you."
+  },
+  {
+    "sid": 41,
+    "one": "wǒ xiǎng mǎi yīpíng niúnǎi 。",
+    "two": "我想买一瓶牛奶。",
+    "three": "I want to buy a bottle of milk."
+  },
+  {
+    "sid": 42,
+    "one": "qǐngwèn nín xūyào nǎ zhǒng niúnǎi ？",
+    "two": "请问您需要哪种牛奶？",
+    "three": "What kind of milk do you need?"
+  },
+  {
+    "sid": 43,
+    "one": "bùhǎoyìsi ， niúnǎi zài nǎlǐ ？",
+    "two": "不好意思，牛奶在哪里？",
+    "three": "Excuse me, where is the milk?"
+  },
+  {
+    "sid": 44,
+    "one": "zài hòumiàn de lěngcáng qū 。",
+    "two": "在后面的冷藏区。",
+    "three": "In the refrigerated area in the back."
+  },
+  {
+    "sid": 45,
+    "one": "kěyǐ yòng xìnyòngkǎ zhīfù ma ？",
+    "two": "可以用信用卡支付吗？",
+    "three": "Can I pay by credit card?"
+  },
+  {
+    "sid": 46,
+    "one": "kěyǐ ， wǒmen jiēshòu suǒyǒu xìnyòngkǎ 。",
+    "two": "可以，我们接受所有信用卡。",
+    "three": "Yes, we accept all credit cards."
+  },
+  {
+    "sid": 47,
+    "one": "nǐmen yǒu mài bàozhǐ ma ？",
+    "two": "你们有卖报纸吗？",
+    "three": "Do you sell newspapers?"
+  },
+  {
+    "sid": 48,
+    "one": "yǒu ， tā zài diàn de rùkǒu fùjìn 。",
+    "two": "有，它在店的入口附近。",
+    "three": "Yes, it's near the entrance of the store."
+  },
+  {
+    "sid": 49,
+    "one": "wǒ kěyǐ shǐyòng xǐshǒujiān ma ？",
+    "two": "我可以使用洗手间吗？",
+    "three": "Can I use the restroom?"
+  },
+  {
+    "sid": 50,
+    "one": "hěn bàoqiàn ， xǐshǒujiān zài wéixiū 。",
+    "two": "很抱歉，洗手间在维修。",
+    "three": "Sorry, the restroom is under maintenance."
+  },
+  {
+    "sid": 51,
+    "one": "nǐmen yǒu mài diànchí ma ？",
+    "two": "你们有卖电池吗？",
+    "three": "Do you sell batteries?"
+  },
+  {
+    "sid": 52,
+    "one": "tāmen zài língshí pángbiān de guò dào shàng 。",
+    "two": "它们在零食旁边的过道上。",
+    "three": "They're in the aisle next to the snacks."
+  },
+  {
+    "sid": 53,
+    "one": "yībāo kǒuxiāngtáng duōshǎo qián ？",
+    "two": "一包口香糖多少钱？",
+    "three": "How much does a pack of chewing gum cost?"
+  },
+  {
+    "sid": 54,
+    "one": "yībāo kǒuxiāngtáng yī.jiǔjiǔ měiyuán 。",
+    "two": "一包口香糖1.99美元。",
+    "three": "A pack of gum is $1.99."
+  },
+  {
+    "sid": 55,
+    "one": "kěyǐ gěi wǒ yīzhāng shōujù ma ？",
+    "two": "可以给我一张收据吗？",
+    "three": "Can you give me a receipt?"
+  },
+  {
+    "sid": 56,
+    "one": "dāngrán ， qǐng shōuhǎo nín de shōujù 。",
+    "two": "当然，请收好您的收据。",
+    "three": "Of course, keep your receipt."
+  },
+  {
+    "sid": 57,
+    "one": "xìnyòngkǎ yǒu zuìdī xiāofèi jīné ma ？",
+    "two": "信用卡有最低消费金额吗？",
+    "three": "Is there a minimum spending amount for a credit card?"
+  },
+  {
+    "sid": 58,
+    "one": "méiyǒu zuìdī xiāofèi yāoqiú 。",
+    "two": "没有最低消费要求。",
+    "three": "No minimum spend required."
+  },
+  {
+    "sid": 59,
+    "one": "wǒnéng zài gòumǎi zhīqián shìyòng yīxià ma ？",
+    "two": "我能在购买之前试用一下吗？",
+    "three": "Can I try it before buying?"
+  },
+  {
+    "sid": 60,
+    "one": "hěn bàoqiàn ， wǒmen mùqián bù tígōng shìyòng 。",
+    "two": "很抱歉，我们目前不提供试用。",
+    "three": "Sorry, we don't offer trials at this time."
+  },
+  {
+    "sid": 61,
+    "one": "xǐshù yòngpǐn zài nǎlǐ ？",
+    "two": "洗漱用品在哪里？",
+    "three": "Where are the toiletries?"
+  },
+  {
+    "sid": 62,
+    "one": "tāmen zài dì wǔ guòdào 。",
+    "two": "它们在第5过道。",
+    "three": "They are in aisle 5."
+  },
+  {
+    "sid": 63,
+    "one": "nǐmen yǒu rènhé chúnsù xuǎnxiàng ma ？",
+    "two": "你们有任何纯素选项吗？",
+    "three": "Do you have any vegan options?"
+  },
+  {
+    "sid": 64,
+    "one": "wǒmen yǒu gèzhǒng chúnsù língshí hé yǐnliào 。",
+    "two": "我们有各种纯素零食和饮料。",
+    "three": "We have a variety of vegan snacks and drinks."
+  },
+  {
+    "sid": 65,
+    "one": "běnzhōu yǒu rènhé cùxiāo huódòng ma ？",
+    "two": "本周有任何促销活动吗？",
+    "three": "Are there any promotions this week?"
+  },
+  {
+    "sid": 66,
+    "one": "wǒmen bùfen língshí mǎiyīsòngyī 。",
+    "two": "我们部分零食买一送一。",
+    "three": "Buy one get one free on some of our snacks."
+  },
+  {
+    "sid": 67,
+    "one": "nǐmen yǒu yùfù diànhuàkǎ ma ？",
+    "two": "你们有预付电话卡吗？",
+    "three": "Do you have prepaid phone cards?"
+  },
+  {
+    "sid": 68,
+    "one": "yǒu de ， tā zài shōuyíntái fùjìn 。",
+    "two": "有的，它在收银台附近。",
+    "three": "Yes, it's near the cashier."
+  },
+  {
+    "sid": 69,
+    "one": "wǒ kěyǐ shǐyòng wēibōlú jiārè shíwù ma ？",
+    "two": "我可以使用微波炉加热食物吗？",
+    "three": "Can I use a microwave to heat food?"
+  },
+  {
+    "sid": 70,
+    "one": "kěyǐ ， zài yòngcān qūyǒu yīgè wēibōlú 。",
+    "two": "可以，在用餐区有一个微波炉。",
+    "three": "Yes, there is a microwave in the dining area."
+  },
+  {
+    "sid": 71,
+    "one": "yǒuwú táng xuǎnxiàng kěyòng ？",
+    "two": "有无糖选项可用？",
+    "three": "Are there sugar-free options available?"
+  },
+  {
+    "sid": 72,
+    "one": "yǒu de ， yǒuwú táng chǎnpǐn qūyù 。",
+    "two": "有的，有无糖产品区域。",
+    "three": "Yes, there is an area for sugar-free products."
+  },
+  {
+    "sid": 73,
+    "one": "wǒnéng zìdài kě zhòngfùshǐyòng de dàizi ma ？",
+    "two": "我能自带可重复使用的袋子吗？",
+    "three": "Can I bring my own reusable bag?"
+  },
+  {
+    "sid": 74,
+    "one": "dāngrán kěyǐ ！",
+    "two": "当然可以！",
+    "three": "sure!"
+  },
+  {
+    "sid": 75,
+    "one": "nǐmen mài cǎipiào ma ？",
+    "two": "你们卖彩票吗？",
+    "three": "Do you sell lottery tickets?"
+  },
+  {
+    "sid": 76,
+    "one": "tāmen zài shōuyíntái yǒushòu 。",
+    "two": "它们在收银台有售。",
+    "three": "They are available at the checkout counter."
+  },
+  {
+    "sid": 77,
+    "one": "shāngpǐn quēhuò ， wǒ kěyǐ yāoqiú bǔhuò ma ？",
+    "two": "商品缺货，我可以要求补货吗？",
+    "three": "The product is out of stock, can I request a restock?"
+  },
+  {
+    "sid": 78,
+    "one": "hěn bàoqiàn ， wǒmen mùqián bù tígōng bǔhuò 。",
+    "two": "很抱歉，我们目前不提供补货。",
+    "three": "Sorry, we are not offering restocks at this time."
+  },
+  {
+    "sid": 79,
+    "one": "diànlǐ yǒu tíkuǎnjī ma ？",
+    "two": "店里有提款机吗？",
+    "three": "Is there a cash machine in the store?"
+  },
+  {
+    "sid": 80,
+    "one": "rùkǒuchù yǒu yīgè tíkuǎnjī 。",
+    "two": "入口处有一个提款机。",
+    "three": "There is a cash machine at the entrance."
+  },
+  {
+    "sid": 81,
+    "one": "gòumǎi shùliàng yǒu xiànzhì ma ？",
+    "two": "购买数量有限制吗？",
+    "three": "Are there any purchase quantity limits?"
+  },
+  {
+    "sid": 82,
+    "one": "méiyǒu ， gòumǎi shùliàng méiyǒu xiànzhì 。",
+    "two": "没有，购买数量没有限制。",
+    "three": "No, there is no limit on purchase quantity."
+  },
+  {
+    "sid": 83,
+    "one": "nǐmen yǒuwú rǔzhìpǐn de tìdàipǐn ？",
+    "two": "你们有无乳制品的替代品？",
+    "three": "Do you have dairy-free alternatives?"
+  },
+  {
+    "sid": 84,
+    "one": "yǒu de ， tāmen zài lěngcáng qū 。",
+    "two": "有的，它们在冷藏区。",
+    "three": "Yes, they are in the refrigerated section."
+  },
+  {
+    "sid": 85,
+    "one": "wǒ kěyǐ shǐyòng lǐpǐn kǎ fùkuǎn ma ？",
+    "two": "我可以使用礼品卡付款吗？",
+    "three": "Can I pay with a gift card?"
+  },
+  {
+    "sid": 86,
+    "one": "dāngrán kěyǐ 。",
+    "two": "当然可以。",
+    "three": "sure."
+  },
+  {
+    "sid": 87,
+    "one": "fùjìn yǒu gōnggòngjiāotōng zhàndiǎn ma ？",
+    "two": "附近有公共交通站点吗？",
+    "three": "Are there public transport stations nearby?"
+  },
+  {
+    "sid": 88,
+    "one": "yǒu ， diànwài yǒu yīgè gōngjiāochēzhàn 。",
+    "two": "有，店外有一个公交车站。",
+    "three": "Yes, there is a bus stop outside the store."
+  },
+  {
+    "sid": 89,
+    "one": "yǒuwú fūzhì miànbāo xuǎnxiàng ma ？",
+    "two": "有无麸质面包选项吗？",
+    "three": "Are there gluten-free bread options?"
+  },
+  {
+    "sid": 90,
+    "one": "zài miànbāodiàn yǒuwú fūzhì miànbāo 。",
+    "two": "在面包店有无麸质面包。",
+    "three": "There are gluten-free breads in the bakery."
+  },
+  {
+    "sid": 91,
+    "one": "wǒ kěyǐ shǐyòng yōuhuìquàn gòumǎi ma ？",
+    "two": "我可以使用优惠券购买吗？",
+    "three": "Can I use a coupon to purchase?"
+  },
+  {
+    "sid": 92,
+    "one": "zhǐyào yǒuxiào bìng fúhétiáojiàn jiù néng 。",
+    "two": "只要有效并符合条件就能。",
+    "three": "As long as it is valid and meets the conditions."
+  },
+  {
+    "sid": 93,
+    "one": "yǒuméiyǒu shuǐguǒ hé shūcài ？",
+    "two": "有没有水果和蔬菜？",
+    "three": "Are there any fruits and vegetables?"
+  },
+  {
+    "sid": 94,
+    "one": "wǒmen yǒu nóngchǎnpǐn qūyù 。",
+    "two": "我们有农产品区域。",
+    "three": "We have a produce section."
+  },
+  {
+    "sid": 95,
+    "one": "wǒ kěyǐ dìngzhì sānmíngzhì ma ？",
+    "two": "我可以定制三明治吗？",
+    "three": "Can I customize my sandwich?"
+  },
+  {
+    "sid": 96,
+    "one": "nín kěyǐ dìngzhì sānmíngzhì 。",
+    "two": "您可以定制三明治。",
+    "three": "You can customize your sandwich."
+  },
+  {
+    "sid": 97,
+    "one": "yǒuwú jiǔjīng yǐnliào kěyòng ？",
+    "two": "有无酒精饮料可用？",
+    "three": "Are alcoholic beverages available?"
+  },
+  {
+    "sid": 98,
+    "one": "wǒmen yǒu gèzhǒng wú jiǔjīng yǐnliào 。",
+    "two": "我们有各种无酒精饮料。",
+    "three": "We have a variety of non-alcoholic beverages."
+  },
+  {
+    "sid": 99,
+    "one": "wǒ kěyǐ shǐyòng wàibì fùkuǎn ma ？",
+    "two": "我可以使用外币付款吗？",
+    "three": "Can I pay in foreign currency?"
+  },
+  {
+    "sid": 100,
+    "one": "wǒmen zhǐ jiēshòu dāngdì huòbì zhīfù 。",
+    "two": "我们只接受当地货币支付。",
+    "three": "We only accept payment in local currency."
+  },
+  {
+    "sid": 101,
+    "one": "yǒu jiānguǒ língshí ma ？",
+    "two": "有坚果零食吗？",
+    "three": "Are there any nut snacks?"
+  },
+  {
+    "sid": 102,
+    "one": "yǒu zhuānmén de wú jiānguǒ língshí qūyù 。",
+    "two": "有专门的无坚果零食区域。",
+    "three": "There is a dedicated area for nut-free snacks."
+  },
+  {
+    "sid": 103,
+    "one": "fùjìn yǒu gōnggòng xǐshǒujiān ma ？",
+    "two": "附近有公共洗手间吗？",
+    "three": "Are there public restrooms nearby?"
+  },
+  {
+    "sid": 104,
+    "one": "pángbiān yǒu gōnggòng xǐshǒujiān 。",
+    "two": "旁边有公共洗手间。",
+    "three": "There is a public restroom next to it."
+  },
+  {
+    "sid": 105,
+    "one": "wǒ kěyǐ dài chǒngwù jìndiàn ma ？",
+    "two": "我可以带宠物进店吗？",
+    "three": "Can I bring pets into the store?"
+  },
+  {
+    "sid": 106,
+    "one": "hěn bàoqiàn ， bùnéng 。",
+    "two": "很抱歉，不能。",
+    "three": "Sorry, we can't."
+  },
+  {
+    "sid": 107,
+    "one": "nǐmen yǒuméiyǒu zhǐjīn ？",
+    "two": "你们有没有纸巾？",
+    "three": "Do you have any tissues?"
+  },
+  {
+    "sid": 108,
+    "one": "yǒu de ， nín xūyào duōshǎo bāo ？",
+    "two": "有的，您需要多少包？",
+    "three": "Yes, how many bags do you need?"
+  },
+  {
+    "sid": 109,
+    "one": "zhège xǐyīfěn shìhé cǎisè yīwù ma ？",
+    "two": "这个洗衣粉适合彩色衣物吗？",
+    "three": "Is this laundry detergent suitable for colored clothes?"
+  },
+  {
+    "sid": 110,
+    "one": "zhège xǐyīfěn shìhé cǎisè yīwù 。",
+    "two": "这个洗衣粉适合彩色衣物。",
+    "three": "This laundry detergent is suitable for colored clothes."
+  },
+  {
+    "sid": 111,
+    "one": "wǒ kěyǐ shǐyòng gèrén zhīpiào fùkuǎn ma ？",
+    "two": "我可以使用个人支票付款吗？",
+    "three": "Can I pay with a personal check?"
+  },
+  {
+    "sid": 112,
+    "one": "hěn bàoqiàn ， bù kěyǐ 。",
+    "two": "很抱歉，不可以。",
+    "three": "Sorry, not possible."
+  },
+  {
+    "sid": 113,
+    "one": "qǐngwèn zhèlǐ yǒu wèishēngzhǐ ma ？",
+    "two": "请问这里有卫生纸吗？",
+    "three": "Is there toilet paper here?"
+  },
+  {
+    "sid": 114,
+    "one": "wèishēngzhǐ zài zhège huòjià shàng 。",
+    "two": "卫生纸在这个货架上。",
+    "three": "Toilet paper is on this shelf."
+  },
+  {
+    "sid": 115,
+    "one": "zhège qiǎokèlì duōshǎo qián yīkuài ？",
+    "two": "这个巧克力多少钱一块？",
+    "three": "How much does this chocolate cost?"
+  },
+  {
+    "sid": 116,
+    "one": "zhège qiǎokèlì shì wǔ yuán yīkuài 。",
+    "two": "这个巧克力是5元一块。",
+    "three": "This chocolate is 5 yuan a piece."
+  },
+  {
+    "sid": 117,
+    "one": "nǐmen yǒuméiyǒu yǐnliào ？",
+    "two": "你们有没有饮料？",
+    "three": "Do you have any drinks?"
+  },
+  {
+    "sid": 118,
+    "one": "qǐngwèn nǐ xiǎngyào shénme kǒuwèi de ？",
+    "two": "请问你想要什么口味的？",
+    "three": "What flavor do you want?"
+  },
+  {
+    "sid": 119,
+    "one": "qǐngwèn zhège miànbāo hái xīnxiān ma ？",
+    "two": "请问这个面包还新鲜吗？",
+    "three": "Is this bread still fresh?"
+  },
+  {
+    "sid": 120,
+    "one": "wǒmen měitiān dōu yǒu xīnxiān de miànbāo 。",
+    "two": "我们每天都有新鲜的面包。",
+    "three": "We have fresh bread every day."
+  },
+  {
+    "sid": 121,
+    "one": "kǒuxiāngtáng yǒuméiyǒu bòhe wèi ？",
+    "two": "口香糖有没有薄荷味？",
+    "three": "Does the chewing gum have mint flavor?"
+  },
+  {
+    "sid": 122,
+    "one": "huòjià shàng yǒu bòhe kǒuwèi kǒuxiāngtáng 。",
+    "two": "货架上有薄荷口味口香糖。",
+    "three": "There is mint flavored chewing gum on the shelf."
+  },
+  {
+    "sid": 123,
+    "one": "zhège xǐfàshuǐ shìhé yóuxìng tóufa ma ？",
+    "two": "这个洗发水适合油性头发吗？",
+    "three": "Is this shampoo suitable for oily hair?"
+  },
+  {
+    "sid": 124,
+    "one": "zhè kuǎn xǐfàshuǐ shìhé yóuxìng tóufa 。",
+    "two": "这款洗发水适合油性头发。",
+    "three": "This shampoo is suitable for oily hair."
+  },
+  {
+    "sid": 125,
+    "one": "qǐngwèn zhège xǐyī yè yǒuméiyǒu xiāngwèi ？",
+    "two": "请问这个洗衣液有没有香味？",
+    "three": "Does this laundry detergent have a scent?"
+  },
+  {
+    "sid": 126,
+    "one": "zhège xǐyī yèshì huā xiāngwèi de 。",
+    "two": "这个洗衣液是花香味的。",
+    "three": "This laundry detergent has a floral scent."
+  },
+  {
+    "sid": 127,
+    "one": "qǐngwèn zhège yáshuā yǒu ruǎnmáo de ma ？",
+    "two": "请问这个牙刷有软毛的吗？",
+    "three": "Does this toothbrush have soft bristles?"
+  },
+  {
+    "sid": 128,
+    "one": "zhège huòjià shàng yǒu ruǎnmáo yáshuā 。",
+    "two": "这个货架上有软毛牙刷。",
+    "three": "There are soft-bristled toothbrushes on this shelf."
+  },
+  {
+    "sid": 129,
+    "one": "nǐmen zhèlǐ yǒuméiyǒu chōngdiàn xiàn ？",
+    "two": "你们这里有没有充电线？",
+    "three": "Do you have charging cables here?"
+  },
+  {
+    "sid": 130,
+    "one": "nín yào shénme lèixíng de chōngdiàn xiàn ？",
+    "two": "您要什么类型的充电线？",
+    "three": "What type of charging cable do you want?"
+  },
+  {
+    "sid": 131,
+    "one": "qǐngwèn zhège diànchí duōshǎo qián yījié ？",
+    "two": "请问这个电池多少钱一节？",
+    "three": "How much does this battery cost?"
+  },
+  {
+    "sid": 132,
+    "one": "zhège diànchí shì èr yuán yījié 。",
+    "two": "这个电池是2元一节。",
+    "three": "This battery is 2 yuan a piece."
+  },
+  {
+    "sid": 133,
+    "one": "qǐngwèn zhège língshí yǒuméiyǒu làwèi de ？",
+    "two": "请问这个零食有没有辣味的？",
+    "three": "Is this snack spicy?"
+  },
+  {
+    "sid": 134,
+    "one": "zhèlǐ yǒu làwèi língshí 。",
+    "two": "这里有辣味零食。",
+    "three": "There are spicy snacks here."
+  },
+  {
+    "sid": 135,
+    "one": "qǐngwèn zhège miànmó shìhé mǐngǎn jīfū ma ？",
+    "two": "请问这个面膜适合敏感肌肤吗？",
+    "three": "Is this mask suitable for sensitive skin?"
+  },
+  {
+    "sid": 136,
+    "one": "zhège miànmó shìhé mǐngǎn jīfū 。",
+    "two": "这个面膜适合敏感肌肤。",
+    "three": "This mask is suitable for sensitive skin."
+  },
+  {
+    "sid": 137,
+    "one": "zhège xǐshǒuyè yǒuméiyǒu xiāodú gōngnéng ？",
+    "two": "这个洗手液有没有消毒功能？",
+    "three": "Does this hand sanitizer have disinfecting function?"
+  },
+  {
+    "sid": 138,
+    "one": "zhège xǐshǒuyè jùyǒu xiāodú gōngnéng 。",
+    "two": "这个洗手液具有消毒功能。",
+    "three": "This hand sanitizer has a disinfecting function."
+  },
+  {
+    "sid": 139,
+    "one": "diànchí shì chōngdiàn de háishi yīcìxìng de ？",
+    "two": "电池是充电的还是一次性的？",
+    "three": "Are the batteries rechargeable or disposable?"
+  },
+  {
+    "sid": 140,
+    "one": "zhège diànchí shì yīcìxìng de 。",
+    "two": "这个电池是一次性的。",
+    "three": "This battery is disposable."
+  },
+  {
+    "sid": 141,
+    "one": "nǐmen yǒuméiyǒu miànjīnzhǐ ？",
+    "two": "你们有没有面巾纸？",
+    "three": "Do you have any Kleenex?"
+  },
+  {
+    "sid": 142,
+    "one": "zài shōuyíntái pángbiān de huòjià shàng 。",
+    "two": "在收银台旁边的货架上。",
+    "three": "On the shelf next to the cashier."
+  },
+  {
+    "sid": 143,
+    "one": "zhège xǐfàshuǐ yǒuméiyǒu hùfā gōngnéng ？",
+    "two": "这个洗发水有没有护发功能？",
+    "three": "Does this shampoo have hair care properties?"
+  },
+  {
+    "sid": 144,
+    "one": "zhège xǐfàshuǐ jùyǒu hùfā gōngnéng 。",
+    "two": "这个洗发水具有护发功能。",
+    "three": "This shampoo has hair care properties."
+  },
+  {
+    "sid": 145,
+    "one": "qǐngwèn zhège língshí yǒuméiyǒu tiānjiājì ？",
+    "two": "请问这个零食有没有添加剂？",
+    "three": "Does this snack have any additives?"
+  },
+  {
+    "sid": 146,
+    "one": "zhège língshí shì tiānrán wú tiānjiā de 。",
+    "two": "这个零食是天然无添加的。",
+    "three": "This snack is natural and contains no additives."
+  },
+  {
+    "sid": 147,
+    "one": "qǐngwèn zhège kǒuzhào shì yīcìxìng de ma ？",
+    "two": "请问这个口罩是一次性的吗？",
+    "three": "Is this mask disposable?"
+  },
+  {
+    "sid": 148,
+    "one": "zhège kǒuzhào shì yīcìxìng de 。",
+    "two": "这个口罩是一次性的。",
+    "three": "This mask is disposable."
+  },
+  {
+    "sid": 149,
+    "one": "zhège yáshuā yǒuméiyǒu zhúzhì shǒubǐng ？",
+    "two": "这个牙刷有没有竹制手柄？",
+    "three": "Does this toothbrush have a bamboo handle?"
+  },
+  {
+    "sid": 150,
+    "one": "zhège huòjià shàng yǒu zhúzhì yáshuā 。",
+    "two": "这个货架上有竹制牙刷。",
+    "three": "There are bamboo toothbrushes on this shelf."
+  },
+  {
+    "sid": 151,
+    "one": "zhège xǐmiànnǎi shìhé hùnhéxíng pífū ma ？",
+    "two": "这个洗面奶适合混合型皮肤吗？",
+    "three": "Is this facial cleanser suitable for combination skin?"
+  },
+  {
+    "sid": 152,
+    "one": "zhège xǐmiànnǎi shìhé hùnhéxíng pífū 。",
+    "two": "这个洗面奶适合混合型皮肤。",
+    "three": "This facial cleanser is suitable for combination skin."
+  },
+  {
+    "sid": 153,
+    "one": "nǐmen yǒuméiyǒu zhǐbēi ？",
+    "two": "你们有没有纸杯？",
+    "three": "Do you have any paper cups?"
+  },
+  {
+    "sid": 154,
+    "one": "yǒu de ， qǐngwèn nǐ xūyào duōshǎo gè ？",
+    "two": "有的，请问你需要多少个？",
+    "three": "Yes, how many do you need?"
+  },
+  {
+    "sid": 155,
+    "one": "qǐngwèn zhège bǐnggān yǒuméiyǒu nǎiwèi de ？",
+    "two": "请问这个饼干有没有奶味的？",
+    "three": "Does this biscuit have milk flavor?"
+  },
+  {
+    "sid": 156,
+    "one": "yǒu de ， zhège bǐnggān yǒu nǎiwèi de 。",
+    "two": "有的，这个饼干有奶味的。",
+    "three": "Yes, this biscuit has milk flavor."
+  },
+  {
+    "sid": 157,
+    "one": "zhège xǐshǒuyè yǒuméiyǒu bǎoshī gōngnéng ？",
+    "two": "这个洗手液有没有保湿功能？",
+    "three": "Does this hand sanitizer have moisturizing properties?"
+  },
+  {
+    "sid": 158,
+    "one": "zhège xǐshǒuyè jùyǒu bǎoshī gōngnéng 。",
+    "two": "这个洗手液具有保湿功能。",
+    "three": "This hand sanitizer has moisturizing properties."
+  },
+  {
+    "sid": 159,
+    "one": "nǐmen zhèlǐ yǒuméiyǒu yǎnjìng bù ？",
+    "two": "你们这里有没有眼镜布？",
+    "three": "Do you have glasses cloth here?"
+  },
+  {
+    "sid": 160,
+    "one": "yǎnjìng bùzài guìtái pángbiān de chōuti lǐ 。",
+    "two": "眼镜布在柜台旁边的抽屉里。",
+    "three": "The glasses cloth is in the drawer next to the counter."
+  },
+  {
+    "sid": 161,
+    "one": "qǐngwèn zhège shǔpiàn yǒuméiyǒu làwèi de ？",
+    "two": "请问这个薯片有没有辣味的？",
+    "three": "Are these potato chips spicy?"
+  },
+  {
+    "sid": 162,
+    "one": "zhèlǐ yǒu hěnduō làwèi kě xuǎnzé 。",
+    "two": "这里有很多辣味可选择。",
+    "three": "There are many spicy options here."
+  },
+  {
+    "sid": 163,
+    "one": "nǐmen yǒuméiyǒu yīngér niàobù ？",
+    "two": "你们有没有婴儿尿布？",
+    "three": "Do you have any baby diapers?"
+  },
+  {
+    "sid": 164,
+    "one": "yǒu de ， nín xūyào duōdàhào de ？",
+    "two": "有的，您需要多大号的？",
+    "three": "Yes, what size do you need?"
+  },
+  {
+    "sid": 165,
+    "one": "zhège miànbāo yǒuméiyǒu tiānjiā táng ？",
+    "two": "这个面包有没有添加糖？",
+    "three": "Is there any added sugar in this bread?"
+  },
+  {
+    "sid": 166,
+    "one": "zhège miànbāo shì wútáng de 。",
+    "two": "这个面包是无糖的。",
+    "three": "This bread is sugar-free."
+  },
+  {
+    "sid": 167,
+    "one": "zhège yágāo yǒuméiyǒu měibái gōngnéng ？",
+    "two": "这个牙膏有没有美白功能？",
+    "three": "Does this toothpaste have whitening properties?"
+  },
+  {
+    "sid": 168,
+    "one": "zhège yágāo jùyǒu měibái gōngnéng 。",
+    "two": "这个牙膏具有美白功能。",
+    "three": "This toothpaste has whitening properties."
+  },
+  {
+    "sid": 169,
+    "one": "nǐmen yǒuméiyǒu yǎnyàoshuǐ ？",
+    "two": "你们有没有眼药水？",
+    "three": "Do you have any eye drops?"
+  },
+  {
+    "sid": 170,
+    "one": "nín xūyào shénme yǎnyàoshuǐ ？",
+    "two": "您需要什么眼药水？",
+    "three": "What eye drops do you need?"
+  },
+  {
+    "sid": 171,
+    "one": "zhège yǐnliào yǒuméiyǒu kāfēiyīn ？",
+    "two": "这个饮料有没有咖啡因？",
+    "three": "Does this drink have caffeine?"
+  },
+  {
+    "sid": 172,
+    "one": "zhège yǐnliào hányǒu kāfēiyīn 。",
+    "two": "这个饮料含有咖啡因。",
+    "three": "This drink contains caffeine."
+  },
+  {
+    "sid": 173,
+    "one": "zhège xǐyī yènéng xǐ yángmáoshān ma ？",
+    "two": "这个洗衣液能洗羊毛衫吗？",
+    "three": "Can this laundry detergent wash woolen sweaters?"
+  },
+  {
+    "sid": 174,
+    "one": "zhège xǐyī yènéng xǐ yángmáoshān 。",
+    "two": "这个洗衣液能洗羊毛衫。",
+    "three": "This laundry detergent can wash woolen sweaters."
+  },
+  {
+    "sid": 175,
+    "one": "nǐmen yǒuméiyǒu fángshàishuāng ？",
+    "two": "你们有没有防晒霜？",
+    "three": "Do you have any sunscreen?"
+  },
+  {
+    "sid": 176,
+    "one": "yǒu ， nín xūyào nǎ zhǒng ？",
+    "two": "有，您需要哪种？",
+    "three": "Yes, which one do you need?"
+  },
+  {
+    "sid": 177,
+    "one": "zhège táng yǒuméiyǒu tiānjiā sèsù ？",
+    "two": "这个糖有没有添加色素？",
+    "three": "Is there any coloring added to this sugar?"
+  },
+  {
+    "sid": 178,
+    "one": "méiyǒu ， zhège táng shì wú sèsù de 。",
+    "two": "没有，这个糖是无色素的。",
+    "three": "No, this sugar has no coloring."
+  },
+  {
+    "sid": 179,
+    "one": "zhège miànmó shìhé gānzào jīfū ma ？",
+    "two": "这个面膜适合干燥肌肤吗？",
+    "three": "Is this mask suitable for dry skin?"
+  },
+  {
+    "sid": 180,
+    "one": "zhège miànmó shìhé gānzào jīfū 。",
+    "two": "这个面膜适合干燥肌肤。",
+    "three": "This mask is suitable for dry skin."
+  },
+  {
+    "sid": 181,
+    "one": "nǐmen yǒuméiyǒu zhǐbǐ ？",
+    "two": "你们有没有纸笔？",
+    "three": "Do you have pen and paper?"
+  },
+  {
+    "sid": 182,
+    "one": "yǒu de ， nín yào shénme yánsè de bǐ ？",
+    "two": "有的，您要什么颜色的笔？",
+    "three": "Yes, what color pen do you want?"
+  },
+  {
+    "sid": 183,
+    "one": "zhège xǐmiànnǎi shìhé yóuxìngpífū ma ？",
+    "two": "这个洗面奶适合油性皮肤吗？",
+    "three": "Is this facial cleanser suitable for oily skin?"
+  },
+  {
+    "sid": 184,
+    "one": "zhège língshí yǒuméiyǒu tiānjiā fángfǔjì ？",
+    "two": "这个零食有没有添加防腐剂？",
+    "three": "Are there any preservatives added to this snack?"
+  },
+  {
+    "sid": 185,
+    "one": "méiyǒu ， zhège língshí shì wú fángfǔjì de 。",
+    "two": "没有，这个零食是无防腐剂的。",
+    "three": "No, this snack is preservative-free."
+  },
+  {
+    "sid": 186,
+    "one": "nǐmen yǒuméiyǒu yàochíkòu ？",
+    "two": "你们有没有钥匙扣？",
+    "three": "Do you have keychains?"
+  },
+  {
+    "sid": 187,
+    "one": "yǒu de ， nín yào shénme yàngshì de ？",
+    "two": "有的，您要什么样式的？",
+    "three": "Yes, what style do you want?"
+  },
+  {
+    "sid": 188,
+    "one": "nǐmen yǒuméiyǒu zhǐjīn juǎn ？",
+    "two": "你们有没有纸巾卷？",
+    "three": "Do you have paper towel rolls?"
+  },
+  {
+    "sid": 189,
+    "one": "yǒu de ， nín yào duōshǎo juǎn ？",
+    "two": "有的，您要多少卷？",
+    "three": "Yes, how many rolls do you want?"
+  },
+  {
+    "sid": 190,
+    "one": "zhège xǐfàshuǐ yǒuméiyǒu qùxiè gōngnéng ？",
+    "two": "这个洗发水有没有去屑功能？",
+    "three": "Does this shampoo have anti-dandruff properties?"
+  },
+  {
+    "sid": 191,
+    "one": "yǒu de ， zhège yǒu qùxiè gōngnéng 。",
+    "two": "有的，这个有去屑功能。",
+    "three": "Yes, this one has anti-dandruff function."
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "sid": 1,
+    "one": "zǎoshanghǎo ！",
+    "two": "早上好！",
+    "three": "Good morning!"
+  },
+  {
+    "sid": 2,
+    "one": "zǎocān chī shénme ？",
+    "two": "早餐吃什么？",
+    "three": "What are you having for breakfast?"
+  },
+  {
+    "sid": 3,
+    "one": "wǒyào chídào le 。",
+    "two": "我要迟到了。",
+    "three": "I'm going to be late."
+  },
+  {
+    "sid": 4,
+    "one": "nǐhǎo ma ？",
+    "two": "你好吗？",
+    "three": "How are you?"
+  },
+  {
+    "sid": 5,
+    "one": "tiānqì rúhé ？",
+    "two": "天气如何？",
+    "three": "How's the weather?"
+  },
+  {
+    "sid": 6,
+    "one": "huítóujiàn ！",
+    "two": "回头见！",
+    "three": "See you later!"
+  },
+  {
+    "sid": 7,
+    "one": "xièxie nǐ ！",
+    "two": "谢谢你！",
+    "three": "Thank you!"
+  },
+  {
+    "sid": 8,
+    "one": "duìyú nàgè hěn bàoqiàn 。",
+    "two": "对于那个很抱歉。",
+    "three": "I'm very sorry for that."
+  },
+  {
+    "sid": 9,
+    "one": "nǐ zài xiǎng shénme ？",
+    "two": "你在想什么？",
+    "three": "What are you thinking about?"
+  },
+  {
+    "sid": 10,
+    "one": "wǒ kěyǐ bāng nǐ ma ？",
+    "two": "我可以帮你吗？",
+    "three": "Can I help you?"
+  },
+  {
+    "sid": 11,
+    "one": "zuìxīnxiāoxī shì shénme ？",
+    "two": "最新消息是什么？",
+    "three": "What's the latest news?"
+  },
+  {
+    "sid": 12,
+    "one": "nǐ de jiārén zěnmeyàng ？",
+    "two": "你的家人怎么样？",
+    "three": "How's your family?"
+  },
+  {
+    "sid": 13,
+    "one": "xiǎoxīn ！",
+    "two": "小心！",
+    "three": "Be careful!"
+  },
+  {
+    "sid": 14,
+    "one": "wǒ hǎo lěi 。",
+    "two": "我好累。",
+    "three": "I'm very tired."
+  },
+  {
+    "sid": 15,
+    "one": "zhù nǐ yǒu měihǎo de yītiān ！",
+    "two": "祝你有美好的一天！",
+    "three": "Have a great day!"
+  },
+  {
+    "sid": 16,
+    "one": "nǐ jiào shénme míngzì ？",
+    "two": "你叫什么名字？",
+    "three": "What's your name?"
+  },
+  {
+    "sid": 17,
+    "one": "hěn gāoxìng jiàndào nǐ 。",
+    "two": "很高兴见到你。",
+    "three": "Nice to meet you."
+  },
+  {
+    "sid": 18,
+    "one": "wǒmen qù chī wǔfàn bā 。",
+    "two": "我们去吃午饭吧。",
+    "three": "Let's go out for lunch."
+  },
+  {
+    "sid": 19,
+    "one": "chī le méi ？",
+    "two": "吃了没？",
+    "three": "Have you eaten?"
+  },
+  {
+    "sid": 20,
+    "one": "nǐ háihǎo ma ？",
+    "two": "你还好吗？",
+    "three": "How are you feeling?"
+  },
+  {
+    "sid": 21,
+    "one": "nǐ rènwéi ne ？",
+    "two": "你认为呢？",
+    "three": "What do you think?"
+  },
+  {
+    "sid": 22,
+    "one": "wǒ xiǎng chīshuǐguǒ 。",
+    "two": "我想吃水果。",
+    "three": "I want to eat fruit."
+  },
+  {
+    "sid": 23,
+    "one": "nǐ kànqǐlai hěnlěi 。",
+    "two": "你看起来很累。",
+    "three": "You look very tired."
+  },
+  {
+    "sid": 24,
+    "one": "nǐ zuò dé hěn hǎo ！",
+    "two": "你做得很好！",
+    "three": "You're doing great!"
+  },
+  {
+    "sid": 25,
+    "one": "bù kèqi ！",
+    "two": "不客气！",
+    "three": "You're welcome!"
+  },
+  {
+    "sid": 26,
+    "one": "nǐ xiǎngyào chī shénme ？",
+    "two": "你想要吃什么？",
+    "three": "What would you like to eat?"
+  },
+  {
+    "sid": 27,
+    "one": "wǒ bù zhīdào 。",
+    "two": "我不知道。",
+    "three": "I don't know."
+  },
+  {
+    "sid": 28,
+    "one": "nǐ xǐhuan kànshū ma ？",
+    "two": "你喜欢看书吗？",
+    "three": "Do you like reading books?"
+  },
+  {
+    "sid": 29,
+    "one": "jīntiān yǒu hěnduō rén 。",
+    "two": "今天有很多人。",
+    "three": "It's very crowded today."
+  },
+  {
+    "sid": 30,
+    "one": "wǒ xǐhuan kàn diànyǐng 。",
+    "two": "我喜欢看电影。",
+    "three": "I like watching movies."
+  },
+  {
+    "sid": 31,
+    "one": "nǐ xǐhuan zuò shénme ？",
+    "two": "你喜欢做什么？",
+    "three": "What do you like to do?"
+  },
+  {
+    "sid": 32,
+    "one": "wǒ xiǎng chī miàntiáo 。",
+    "two": "我想吃面条。",
+    "three": "I want to eat noodles."
+  },
+  {
+    "sid": 33,
+    "one": "wǒ juéde yǒudiǎn lěng 。",
+    "two": "我觉得有点冷。",
+    "three": "I feel a bit cold."
+  },
+  {
+    "sid": 34,
+    "one": "zhège zěnmeyàng ？",
+    "two": "这个怎么样？",
+    "three": "How about this?"
+  },
+  {
+    "sid": 35,
+    "one": "nǐ zài nǎlǐ ？",
+    "two": "你在哪里？",
+    "three": "Where are you?"
+  },
+  {
+    "sid": 36,
+    "one": "nǐ yǒu shénme jìhuà ？",
+    "two": "你有什么计划？",
+    "three": "What are your plans?"
+  },
+  {
+    "sid": 37,
+    "one": "wǒhuì zhīchí nǐ de 。",
+    "two": "我会支持你的。",
+    "three": "I'll support you."
+  },
+  {
+    "sid": 38,
+    "one": "wǒ yǐjīng jìnlì le 。",
+    "two": "我已经尽力了。",
+    "three": "I've done my best."
+  },
+  {
+    "sid": 39,
+    "one": "nǐ shénme shíhou huílai ？",
+    "two": "你什么时候回来？",
+    "three": "When will you be back?"
+  },
+  {
+    "sid": 40,
+    "one": "huānyíng zài lái ！",
+    "two": "欢迎再来！",
+    "three": "Welcome back!"
+  },
+  {
+    "sid": 41,
+    "one": "wǒ míngbai le 。",
+    "two": "我明白了。",
+    "three": "I understand."
+  },
+  {
+    "sid": 42,
+    "one": "tā měitiān dōu duànliànshēntǐ 。",
+    "two": "她每天都锻炼身体。",
+    "three": "She exercises every day."
+  },
+  {
+    "sid": 43,
+    "one": "wǒ xǐhuan chuān qúnzi 。",
+    "two": "我喜欢穿裙子。",
+    "three": "I like wearing dresses."
+  },
+  {
+    "sid": 44,
+    "one": "tā de tóufa hěncháng 。",
+    "two": "她的头发很长。",
+    "three": "Her hair is very long."
+  },
+  {
+    "sid": 45,
+    "one": "zhège jièzhi hěnpiāoliàng 。",
+    "two": "这个戒指很漂亮。",
+    "three": "This ring is very beautiful."
+  },
+  {
+    "sid": 46,
+    "one": "ràng wǒmen yīqǐ pǎobù bā ！",
+    "two": "让我们一起跑步吧！",
+    "three": "Let's go for a run together!"
+  },
+  {
+    "sid": 47,
+    "one": "nǐ jīntiān wǎnshàng yǒukòng ma ？",
+    "two": "你今天晚上有空吗？",
+    "three": "Are you free tonight?"
+  },
+  {
+    "sid": 48,
+    "one": "nǐ zhōumò yǒu shénme ānpái ？",
+    "two": "你周末有什么安排？",
+    "three": "What's your weekend schedule?"
+  },
+  {
+    "sid": 49,
+    "one": "wǒmen qù kàn diànyǐngbā 。",
+    "two": "我们去看电影吧。",
+    "three": "Let's go watch a movie."
+  },
+  {
+    "sid": 50,
+    "one": "nǐ xǐhuan shénmeyàng de yīfú ？",
+    "two": "你喜欢什么样的衣服？",
+    "three": "What kind of clothes do you like?"
+  },
+  {
+    "sid": 51,
+    "one": "wǒ de shǒujī huài le 。",
+    "two": "我的手机坏了。",
+    "three": "My phone is broken."
+  },
+  {
+    "sid": 52,
+    "one": "nǐ zài nǎlǐ gōngzuò ？",
+    "two": "你在哪里工作？",
+    "three": "Where do you work?"
+  },
+  {
+    "sid": 53,
+    "one": "nǐ xǐhuan hēkāfēi ma ？",
+    "two": "你喜欢喝咖啡吗？",
+    "three": "Do you like coffee?"
+  },
+  {
+    "sid": 54,
+    "one": "dànshì ， wǒ jìnlì le 。",
+    "two": "但是，我尽力了。",
+    "three": "But I did my best."
+  },
+  {
+    "sid": 55,
+    "one": "wǒ hěn gāoxìng hé nǐ zài yīqǐ 。",
+    "two": "我很高兴和你在一起。",
+    "three": "I'm happy to be with you."
+  },
+  {
+    "sid": 56,
+    "one": "nǐ zhēnshìtài xìngfú le ！",
+    "two": "你真是太幸福了！",
+    "three": "You're so lucky!"
+  },
+  {
+    "sid": 57,
+    "one": "nǐ yào mǎi shénme bīngqílín ？",
+    "two": "你要买什么冰淇淋？",
+    "three": "What ice cream flavor would you like?"
+  },
+  {
+    "sid": 58,
+    "one": "wǒ xiǎng chī pīsà 。",
+    "two": "我想吃披萨。",
+    "three": "I want to eat pizza."
+  },
+  {
+    "sid": 59,
+    "one": "wǒ xiǎng qù lǚxíng 。",
+    "two": "我想去旅行。",
+    "three": "I want to travel."
+  },
+  {
+    "sid": 60,
+    "one": "qǐngwèn zěnme chēnghu nín ？",
+    "two": "请问怎么称呼您？",
+    "three": "May I ask your name?"
+  },
+  {
+    "sid": 61,
+    "one": "zhège fángjiān hěn gānjìng 。",
+    "two": "这个房间很干净。",
+    "three": "This room is very clean."
+  },
+  {
+    "sid": 62,
+    "one": "nǐ zhēnshi gè hǎorén ！",
+    "two": "你真是个好人！",
+    "three": "You're such a good person!"
+  },
+  {
+    "sid": 63,
+    "one": "wǒ xīwàng nǐ néng chénggōng 。",
+    "two": "我希望你能成功。",
+    "three": "I hope you succeed."
+  },
+  {
+    "sid": 64,
+    "one": "nǐ yǒu shénme jìhuà ma ？",
+    "two": "你有什么计划吗？",
+    "three": "Do you have any plans?"
+  },
+  {
+    "sid": 65,
+    "one": "nǐ jīntiān wǎnshàng xiǎng zuò shénme ？",
+    "two": "你今天晚上想做什么？",
+    "three": "What do you want to do tonight?"
+  },
+  {
+    "sid": 66,
+    "one": "nǐ xǐhuan guàngjiē ma ？",
+    "two": "你喜欢逛街吗？",
+    "three": "Do you enjoy shopping?"
+  },
+  {
+    "sid": 67,
+    "one": "jīntiāntiānqì hěn hǎo 。",
+    "two": "今天天气很好。",
+    "three": "The weather is nice today."
+  },
+  {
+    "sid": 68,
+    "one": "nǐ xǐhuan kàn shénme lèixíng de shū ？",
+    "two": "你喜欢看什么类型的书？",
+    "three": "What kind of books do you like to read?"
+  },
+  {
+    "sid": 69,
+    "one": "nǐ xǐhuan shénmeyàng de yīnyuè ？",
+    "two": "你喜欢什么样的音乐？",
+    "three": "What type of music do you enjoy?"
+  },
+  {
+    "sid": 70,
+    "one": "wǒ de chē tíng zài lùbiān 。",
+    "two": "我的车停在路边。",
+    "three": "My car is parked on the street."
+  },
+  {
+    "sid": 71,
+    "one": "wǒ zài xuéxí hànyǔ 。",
+    "two": "我在学习汉语。",
+    "three": "I'm learning Chinese."
+  },
+  {
+    "sid": 72,
+    "one": "wǒ shì zhōngguó rén 。",
+    "two": "我是中国人。",
+    "three": "I'm Chinese."
+  },
+  {
+    "sid": 73,
+    "one": "nǐ rènwéi zhège zěnmeyàng ？",
+    "two": "你认为这个怎么样？",
+    "three": "What do you think of this?"
+  },
+  {
+    "sid": 74,
+    "one": "míngtiān shì xīngqīsì 。",
+    "two": "明天是星期四。",
+    "three": "Tomorrow is Thursday."
+  },
+  {
+    "sid": 75,
+    "one": "nǐ míngtiān xiǎng zuò shénme ？",
+    "two": "你明天想做什么？",
+    "three": "What do you want to do tomorrow?"
+  },
+  {
+    "sid": 76,
+    "one": "nǐ xǐhuan chī shénme shuǐguǒ ？",
+    "two": "你喜欢吃什么水果？",
+    "three": "What fruits do you like?"
+  },
+  {
+    "sid": 77,
+    "one": "wǒ xǐhuan dǎlánqiú 。",
+    "two": "我喜欢打篮球。",
+    "three": "I like playing basketball."
+  },
+  {
+    "sid": 78,
+    "one": "nǐ jīntiān gǎnjué zěnmeyàng ？",
+    "two": "你今天感觉怎么样？",
+    "three": "How are you feeling today?"
+  },
+  {
+    "sid": 79,
+    "one": "nǐ de cāntīng zài nǎge qū ？",
+    "two": "你的餐厅在哪个区？",
+    "three": "Is your restaurant in the downtown area?"
+  },
+  {
+    "sid": 80,
+    "one": "zhèjiàn lǐwù duōshǎo qián ？",
+    "two": "这件礼物多少钱？",
+    "three": "How much does this gift cost?"
+  },
+  {
+    "sid": 81,
+    "one": "wǒ hěn kuàilè 。",
+    "two": "我很快乐。",
+    "three": "I'm very happy."
+  },
+  {
+    "sid": 82,
+    "one": "wǒ hěn gāoxìng hé nǐ yīqǐ gōngzuò 。",
+    "two": "我很高兴和你一起工作。",
+    "three": "I'm glad to work with you."
+  },
+  {
+    "sid": 83,
+    "one": "wǒ tīngshuō nǐ zuìjìn hěn máng 。",
+    "two": "我听说你最近很忙。",
+    "three": "I heard you've been busy lately."
+  },
+  {
+    "sid": 84,
+    "one": "nǐ píngshí xǐhuan zuò shénme ？",
+    "two": "你平时喜欢做什么？",
+    "three": "What do you usually like to do?"
+  },
+  {
+    "sid": 85,
+    "one": "tā de nǚér xǐhuan tiàowǔ 。",
+    "two": "他的女儿喜欢跳舞。",
+    "three": "His daughter likes to dance."
+  },
+  {
+    "sid": 86,
+    "one": "wǒ xīwàng néng hé nǐ jiànmiàn 。",
+    "two": "我希望能和你见面。",
+    "three": "I look forward to meeting you."
+  },
+  {
+    "sid": 87,
+    "one": "qǐngwèn yǒu shénme shì ma ？",
+    "two": "请问有什么事吗？",
+    "three": "Is there something you'd like to discuss?"
+  },
+  {
+    "sid": 88,
+    "one": "wǒ xiǎng chī bīngqílín 。",
+    "two": "我想吃冰淇淋。",
+    "three": "I want to eat ice cream."
+  },
+  {
+    "sid": 89,
+    "one": "ràng wǒmen yīqǐ zuòfàn bā ！",
+    "two": "让我们一起做饭吧！",
+    "three": "Let's cook together!"
+  },
+  {
+    "sid": 90,
+    "one": "wǒ de kāfēi tàirè le 。",
+    "two": "我的咖啡太热了。",
+    "three": "My coffee is too hot."
+  },
+  {
+    "sid": 91,
+    "one": "wǒmen kěyǐ yīqǐ kàn diànyǐng ma ？",
+    "two": "我们可以一起看电影吗？",
+    "three": "Can we watch a movie together?"
+  },
+  {
+    "sid": 92,
+    "one": "jīntiāntiānqì zhēn hǎo ！",
+    "two": "今天天气真好！",
+    "three": "The weather is really nice today!"
+  },
+  {
+    "sid": 93,
+    "one": "nǐ xǐhuan qù nǎlǐ lǚyóu ？",
+    "two": "你喜欢去哪里旅游？",
+    "three": "Where do you like to travel?"
+  },
+  {
+    "sid": 94,
+    "one": "wǒmen qù sànbù bā 。",
+    "two": "我们去散步吧。",
+    "three": "Let's go for a walk."
+  },
+  {
+    "sid": 95,
+    "one": "hěn gāoxìng jiàndào nǐ ！",
+    "two": "很高兴见到你！",
+    "three": "Nice to meet you!"
+  },
+  {
+    "sid": 96,
+    "one": "nǐ yǒuméiyǒu xiǎngguò yào huàn gōngzuò ？",
+    "two": "你有没有想过要换工作？",
+    "three": "Have you ever thought about changing jobs?"
+  },
+  {
+    "sid": 97,
+    "one": "wǒ xiǎng qù gòuwù 。",
+    "two": "我想去购物。",
+    "three": "I want to go shopping."
+  },
+  {
+    "sid": 98,
+    "one": "wǒ xǐhuan yùndòng hé yīnyuè 。",
+    "two": "我喜欢运动和音乐。",
+    "three": "I enjoy sports and music."
+  },
+  {
+    "sid": 99,
+    "one": "wǒmen yīqǐ jiāyóu bā ！",
+    "two": "我们一起加油吧！",
+    "three": "Let's do our best together!"
+  },
+  {
+    "sid": 100,
+    "one": "zhèshì zhèngquè de dáàn ma ？",
+    "two": "这是正确的答案吗？",
+    "three": "Is this the right answer?"
+  },
+  {
+    "sid": 101,
+    "one": "wǒ xǐhuan chī píngguǒ 。",
+    "two": "我喜欢吃苹果。",
+    "three": "I like eating apples."
+  },
+  {
+    "sid": 102,
+    "one": "nǐ jīntiān chī le shénme ？",
+    "two": "你今天吃了什么？",
+    "three": "What did you eat today?"
+  }
+]
