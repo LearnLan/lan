@@ -1,0 +1,782 @@
+[
+  {
+    "sid": 1,
+    "one": "wǒ xūyào mǎi yīxiē miànbāo 。",
+    "two": "我需要买一些面包。",
+    "three": "I need to grab some bread."
+  },
+  {
+    "sid": 2,
+    "one": "nǐ néng gěi wǒ ná yīdài dàmǐ ma ？",
+    "two": "你能给我拿一袋大米吗？",
+    "three": "Can you pass me a bag of rice?"
+  },
+  {
+    "sid": 3,
+    "one": "wǒmen de xīn xiānniúnǎi bùgòu le 。",
+    "two": "我们的新鲜牛奶不够了。",
+    "three": "We're running low on fresh milk."
+  },
+  {
+    "sid": 4,
+    "one": "nǐ néng bāng wǒ zhǎodào chéngzhī ma ？",
+    "two": "你能帮我找到橙汁吗？",
+    "three": "Could you find me some orange juice?"
+  },
+  {
+    "sid": 5,
+    "one": "jīdàn yòng wán le 。",
+    "two": "鸡蛋用完了。",
+    "three": "We're out of eggs."
+  },
+  {
+    "sid": 6,
+    "one": "qǐng bǎ huángyóu fàngrù gòuwùchē 。",
+    "two": "请把黄油放入购物车。",
+    "three": "Put some butter in the cart, please."
+  },
+  {
+    "sid": 7,
+    "one": "zhèlǐ yǒu yōuhuìquàn ma ？",
+    "two": "这里有优惠券吗？",
+    "three": "Do they have any coupons here?"
+  },
+  {
+    "sid": 8,
+    "one": "wǒmen xūyào mǎi yīxiē xīnxiān shūcài 。",
+    "two": "我们需要买一些新鲜蔬菜。",
+    "three": "We need to pick up some fresh vegetables."
+  },
+  {
+    "sid": 9,
+    "one": "bǎ yángcōng jiā dào gòuwù qīngdān shàng 。",
+    "two": "把洋葱加到购物清单上。",
+    "three": "Add onions to the shopping list."
+  },
+  {
+    "sid": 10,
+    "one": "niúròu bùgòu le 。",
+    "two": "牛肉不够了。",
+    "three": "We're getting low on beef."
+  },
+  {
+    "sid": 11,
+    "one": "nǐ zhǎodào niúnǎi le ma ？",
+    "two": "你找到牛奶了吗？",
+    "three": "Have you found the milk?"
+  },
+  {
+    "sid": 12,
+    "one": "wǒyào yīdài dàmǐ 。",
+    "two": "我要一袋大米。",
+    "three": "I need a bag of rice."
+  },
+  {
+    "sid": 13,
+    "one": "qǐng bāng wǒ zhǎo jīdàn 。",
+    "two": "请帮我找鸡蛋。",
+    "three": "Please help me find some eggs."
+  },
+  {
+    "sid": 14,
+    "one": "zhèlǐ yǒu xīnxiān de shūcài ma ？",
+    "two": "这里有新鲜的蔬菜吗？",
+    "three": "Is there fresh vegetables here?"
+  },
+  {
+    "sid": 15,
+    "one": "wǒyào mǎi yīpíng jiàngyóu 。",
+    "two": "我要买一瓶酱油。",
+    "three": "I want to buy a bottle of soy sauce."
+  },
+  {
+    "sid": 16,
+    "one": "qǐng gěi wǒ píngguǒ 。",
+    "two": "请给我苹果。",
+    "three": "Please give me some apples."
+  },
+  {
+    "sid": 17,
+    "one": "wǒyào yīkuài niúròu 。",
+    "two": "我要一块牛肉。",
+    "three": "I want a piece of beef."
+  },
+  {
+    "sid": 18,
+    "one": "zhèlǐ yǒu lěngdòng shípǐn ma ？",
+    "two": "这里有冷冻食品吗？",
+    "three": "Is there frozen food here?"
+  },
+  {
+    "sid": 19,
+    "one": "wǒ xūyào xǐdíjì 。",
+    "two": "我需要洗涤剂。",
+    "three": "I need detergent."
+  },
+  {
+    "sid": 20,
+    "one": "zhège páizi de miànbāo hǎo ma ？",
+    "two": "这个牌子的面包好吗？",
+    "three": "Is this brand of bread good?"
+  },
+  {
+    "sid": 21,
+    "one": "wǒyào zhīshì 。",
+    "two": "我要芝士。",
+    "three": "I want some cheese."
+  },
+  {
+    "sid": 22,
+    "one": "qǐng bāng wǒ zhǎodào kuàngquánshuǐ 。",
+    "two": "请帮我找到矿泉水。",
+    "three": "Please help me find mineral water."
+  },
+  {
+    "sid": 23,
+    "one": "wǒyào miànfěn 。",
+    "two": "我要面粉。",
+    "three": "I want flour."
+  },
+  {
+    "sid": 24,
+    "one": "wǒyào wèishēngzhǐ 。",
+    "two": "我要卫生纸。",
+    "three": "I need some toilet paper."
+  },
+  {
+    "sid": 25,
+    "one": "zhèlǐ yǒu xīnxiān de yú ma ？",
+    "two": "这里有新鲜的鱼吗？",
+    "three": "Is there fresh fish here?"
+  },
+  {
+    "sid": 26,
+    "one": "qǐng gěi wǒ yīxiē jīròu 。",
+    "two": "请给我一些鸡肉。",
+    "three": "Please give me some chicken."
+  },
+  {
+    "sid": 27,
+    "one": "wǒ xūyào guǒzhī 。",
+    "two": "我需要果汁。",
+    "three": "I need some juice."
+  },
+  {
+    "sid": 28,
+    "one": "zhège kāfēi hǎohē ma ？",
+    "two": "这个咖啡好喝吗？",
+    "three": "Is this coffee good?"
+  },
+  {
+    "sid": 29,
+    "one": "wǒyào qiǎokèlì 。",
+    "two": "我要巧克力。",
+    "three": "I want chocolate."
+  },
+  {
+    "sid": 30,
+    "one": "zhèlǐ yǒu lěngdòng shūcài ma ？",
+    "two": "这里有冷冻蔬菜吗？",
+    "three": "Is there frozen vegetables here?"
+  },
+  {
+    "sid": 31,
+    "one": "wǒyào yīpíng pútaojiǔ 。",
+    "two": "我要一瓶葡萄酒。",
+    "three": "I want a bottle of wine."
+  },
+  {
+    "sid": 32,
+    "one": "qǐng bāng wǒ zhǎodào gālífěn 。",
+    "two": "请帮我找到咖喱粉。",
+    "three": "Please help me find curry powder."
+  },
+  {
+    "sid": 33,
+    "one": "wǒyào miànbāopiàn 。",
+    "two": "我要面包片。",
+    "three": "I want cereal."
+  },
+  {
+    "sid": 34,
+    "one": "zhèlǐ yǒu hǎixiān ma ？",
+    "two": "这里有海鲜吗？",
+    "three": "Is there seafood here?"
+  },
+  {
+    "sid": 35,
+    "one": "wǒyào yīxiē huǒtuǐ 。",
+    "two": "我要一些火腿。",
+    "three": "I want some ham."
+  },
+  {
+    "sid": 36,
+    "one": "zhège màipiàn yǒuhuò ma ？",
+    "two": "这个麦片有货吗？",
+    "three": "Is this cereal in stock?"
+  },
+  {
+    "sid": 37,
+    "one": "wǒyào zhǐjīn 。",
+    "two": "我要纸巾。",
+    "three": "I need tissues."
+  },
+  {
+    "sid": 38,
+    "one": "qǐng gěi wǒ yīxiē nǎilào 。",
+    "two": "请给我一些奶酪。",
+    "three": "Please give me some cheese."
+  },
+  {
+    "sid": 39,
+    "one": "wǒyào yīxiē huángyóu 。",
+    "two": "我要一些黄油。",
+    "three": "I want some butter."
+  },
+  {
+    "sid": 40,
+    "one": "zhèlǐ yǒu guàntóushípǐn ma ？",
+    "two": "这里有罐头食品吗？",
+    "three": "Is there canned food here?"
+  },
+  {
+    "sid": 41,
+    "one": "wǒ xūyào yīpíng cù 。",
+    "two": "我需要一瓶醋。",
+    "three": "I need a bottle of vinegar."
+  },
+  {
+    "sid": 42,
+    "one": "zhège páizi de suānnǎi hǎo ma ？",
+    "two": "这个牌子的酸奶好吗？",
+    "three": "Is this brand of yogurt good?"
+  },
+  {
+    "sid": 43,
+    "one": "wǒyào bǐnggān 。",
+    "two": "我要饼干。",
+    "three": "I want cookies."
+  },
+  {
+    "sid": 44,
+    "one": "qǐng bāng wǒ zhǎodào yán 。",
+    "two": "请帮我找到盐。",
+    "three": "Please help me find salt."
+  },
+  {
+    "sid": 45,
+    "one": "wǒyào bīngqílín 。",
+    "two": "我要冰淇淋。",
+    "three": "I want ice cream."
+  },
+  {
+    "sid": 46,
+    "one": "zhèlǐ yǒu guǒjiàng ma ？",
+    "two": "这里有果酱吗？",
+    "three": "Is there jam here?"
+  },
+  {
+    "sid": 47,
+    "one": "wǒyào yībāo yìdàlì miàn 。",
+    "two": "我要一包意大利面。",
+    "three": "I want a package of pasta."
+  },
+  {
+    "sid": 48,
+    "one": "wǒyào yīpíng shālājiàng 。",
+    "two": "我要一瓶沙拉酱。",
+    "three": "I want a bottle of salad dressing."
+  },
+  {
+    "sid": 49,
+    "one": "qǐng gěi wǒ yīdài xǐyīfěn 。",
+    "two": "请给我一袋洗衣粉。",
+    "three": "Please give me a bag of laundry detergent."
+  },
+  {
+    "sid": 50,
+    "one": "zhèlǐ yǒuyóu ma ？",
+    "two": "这里有油吗？",
+    "three": "Is there oil here?"
+  },
+  {
+    "sid": 51,
+    "one": "wǒ xūyào yīdài tǔdòu 。",
+    "two": "我需要一袋土豆。",
+    "three": "I need a bag of potatoes."
+  },
+  {
+    "sid": 52,
+    "one": "zhège páizi de jiàngliào hǎo ma ？",
+    "two": "这个牌子的酱料好吗？",
+    "three": "Is this brand of sauce good?"
+  },
+  {
+    "sid": 53,
+    "one": "wǒyào yīxiē xīnxiān shuǐguǒ 。",
+    "two": "我要一些新鲜水果。",
+    "three": "I want some fresh fruits."
+  },
+  {
+    "sid": 54,
+    "one": "qǐng bāng wǒ zhǎodào kāfēidòu 。",
+    "two": "请帮我找到咖啡豆。",
+    "three": "Please help me find coffee beans."
+  },
+  {
+    "sid": 55,
+    "one": "wǒ xūyào yīxiē táng 。",
+    "two": "我需要一些糖。",
+    "three": "I need sugar."
+  },
+  {
+    "sid": 56,
+    "one": "zhèlǐ yǒu píngzhuāngshuǐ ma ？",
+    "two": "这里有瓶装水吗？",
+    "three": "Is there bottled water?"
+  },
+  {
+    "sid": 57,
+    "one": "wǒyào yùmǐ guàntou 。",
+    "two": "我要玉米罐头。",
+    "three": "I want canned corn."
+  },
+  {
+    "sid": 58,
+    "one": "wǒyào fāngbiànmiàn 。",
+    "two": "我要方便面。",
+    "three": "I want instant noodles."
+  },
+  {
+    "sid": 59,
+    "one": "wǒyào yīxiē guàntou 。",
+    "two": "我要一些罐头。",
+    "three": "I want some canned goods."
+  },
+  {
+    "sid": 60,
+    "one": "zhèlǐ yǒu wèishēngjīn ma ？",
+    "two": "这里有卫生巾吗？",
+    "three": "Is there sanitary pads here?"
+  },
+  {
+    "sid": 61,
+    "one": "wǒyào bīngjīlíng 。",
+    "two": "我要冰激凌。",
+    "three": "I want ice cream."
+  },
+  {
+    "sid": 62,
+    "one": "wǒyào yīxiē huāshēngjiàng 。",
+    "two": "我要一些花生酱。",
+    "three": "I want some peanut butter."
+  },
+  {
+    "sid": 63,
+    "one": "wǒ xūyào yīxiē gǎnlǎnyóu 。",
+    "two": "我需要一些橄榄油。",
+    "three": "I need some olive oil."
+  },
+  {
+    "sid": 64,
+    "one": "zhèlǐ yǒu guǒzhī yǐnliào ma ？",
+    "two": "这里有果汁饮料吗？",
+    "three": "Is there fruit juice drinks here?"
+  },
+  {
+    "sid": 65,
+    "one": "wǒyào yīxiē miàntiáo 。",
+    "two": "我要一些面条。",
+    "three": "I want some noodles."
+  },
+  {
+    "sid": 66,
+    "one": "wǒ xūyào yīxiē cānjīnzhǐ 。",
+    "two": "我需要一些餐巾纸。",
+    "three": "I need napkins."
+  },
+  {
+    "sid": 67,
+    "one": "zhèlǐ yǒu tiáowèiliào ma ？",
+    "two": "这里有调味料吗？",
+    "three": "Is there spices here?"
+  },
+  {
+    "sid": 68,
+    "one": "wǒyào niúnǎi qiǎokèlì 。",
+    "two": "我要牛奶巧克力。",
+    "three": "I want milk chocolate."
+  },
+  {
+    "sid": 69,
+    "one": "wǒyào yīxiē gāodiǎn 。",
+    "two": "我要一些糕点。",
+    "three": "I want some pastries."
+  },
+  {
+    "sid": 70,
+    "one": "qǐng bāng wǒ zhǎodào fānqiéjiàng 。",
+    "two": "请帮我找到番茄酱。",
+    "three": "Please help me find tomato sauce."
+  },
+  {
+    "sid": 71,
+    "one": "wǒ xūyào yīxiē qiǎokèlì jiàng 。",
+    "two": "我需要一些巧克力酱。",
+    "three": "I need some chocolate sauce."
+  },
+  {
+    "sid": 72,
+    "one": "zhèlǐ yǒu bīngqílín dànjuǎn ma ？",
+    "two": "这里有冰淇淋蛋卷吗？",
+    "three": "Is there ice cream cones here?"
+  },
+  {
+    "sid": 73,
+    "one": "wǒyào yīxiē dàn 。",
+    "two": "我要一些蛋。",
+    "three": "I want some eggs."
+  },
+  {
+    "sid": 74,
+    "one": "wǒ xūyào lěngdòng shuǐjiǎo 。",
+    "two": "我需要冷冻水饺。",
+    "three": "I need frozen dumplings."
+  },
+  {
+    "sid": 75,
+    "one": "qǐng gěi wǒ shú jīdàn 。",
+    "two": "请给我熟鸡蛋。",
+    "three": "Please give me boiled eggs."
+  },
+  {
+    "sid": 76,
+    "one": "wǒyào shú de huǒtuǐ 。",
+    "two": "我要熟的火腿。",
+    "three": "I want cooked ham."
+  },
+  {
+    "sid": 77,
+    "one": "zhèlǐ yǒu guàntou guǒzhī ma ？",
+    "two": "这里有罐头果汁吗？",
+    "three": "Is there canned fruit juice here?"
+  },
+  {
+    "sid": 78,
+    "one": "wǒ xūyào yīxiē pàomiàn 。",
+    "two": "我需要一些泡面。",
+    "three": "I need instant noodles."
+  },
+  {
+    "sid": 79,
+    "one": "qǐng bāng wǒ zhǎodào chéngzhī 。",
+    "two": "请帮我找到橙汁。",
+    "three": "Please help me find orange juice."
+  },
+  {
+    "sid": 80,
+    "one": "wǒ xūyào tángguǒ 。",
+    "two": "我需要糖果。",
+    "three": "I need candy."
+  },
+  {
+    "sid": 81,
+    "one": "zhèlǐ yǒu bīngzhèn yǐnliào ma ？",
+    "two": "这里有冰镇饮料吗？",
+    "three": "Is there chilled drinks here?"
+  },
+  {
+    "sid": 82,
+    "one": "wǒyào bīngkuài 。",
+    "two": "我要冰块。",
+    "three": "I want ice cubes."
+  },
+  {
+    "sid": 83,
+    "one": "qǐng gěi wǒ cānpán 。",
+    "two": "请给我餐盘。",
+    "three": "Please give me a tray."
+  },
+  {
+    "sid": 84,
+    "one": "wǒ xūyào zhǐbēi 。",
+    "two": "我需要纸杯。",
+    "three": "I need paper cups."
+  },
+  {
+    "sid": 85,
+    "one": "zhèlǐ yǒu sùliàodài ma ？",
+    "two": "这里有塑料袋吗？",
+    "three": "Is there plastic bags?"
+  },
+  {
+    "sid": 86,
+    "one": "wǒyào gòuwùdài 。",
+    "two": "我要购物袋。",
+    "three": "I want shopping bags."
+  },
+  {
+    "sid": 87,
+    "one": "qǐng bāng wǒ zhǎodào lěngcáng huòjià 。",
+    "two": "请帮我找到冷藏货架。",
+    "three": "Please help me find the refrigerated section."
+  },
+  {
+    "sid": 88,
+    "one": "wǒ xūyào bīngdài 。",
+    "two": "我需要冰袋。",
+    "three": "I need ice packs."
+  },
+  {
+    "sid": 89,
+    "one": "zhèlǐ yǒu tángfěn ma ？",
+    "two": "这里有糖粉吗？",
+    "three": "Is there powdered sugar?"
+  },
+  {
+    "sid": 90,
+    "one": "wǒyào jiāoyán jīchì 。",
+    "two": "我要椒盐鸡翅。",
+    "three": "I want salt and pepper wings."
+  },
+  {
+    "sid": 91,
+    "one": "qǐng gěi wǒ yīxiē xīnxiān miànbāo 。",
+    "two": "请给我一些新鲜面包。",
+    "three": "Please give me some fresh bread."
+  },
+  {
+    "sid": 92,
+    "one": "wǒ xūyào shǔpiàn 。",
+    "two": "我需要薯片。",
+    "three": "I need some potato chips."
+  },
+  {
+    "sid": 93,
+    "one": "zhèlǐ yǒu guàntou guǒdòng ma ？",
+    "two": "这里有罐头果冻吗？",
+    "three": "Is there canned jelly?"
+  },
+  {
+    "sid": 94,
+    "one": "wǒyào dòng shūcài 。",
+    "two": "我要冻蔬菜。",
+    "three": "I want frozen vegetables."
+  },
+  {
+    "sid": 95,
+    "one": "qǐng bāng wǒ zhǎodào kāfēi lǜzhǐ 。",
+    "two": "请帮我找到咖啡滤纸。",
+    "three": "Please help me find coffee filters."
+  },
+  {
+    "sid": 96,
+    "one": "wǒ xūyào bǐnggān 。",
+    "two": "我需要饼干。",
+    "three": "I need some cookies."
+  },
+  {
+    "sid": 97,
+    "one": "zhèlǐ yǒu dàngāo ma ？",
+    "two": "这里有蛋糕吗？",
+    "three": "Is there cake?"
+  },
+  {
+    "sid": 98,
+    "one": "wǒyào xīnxiān niúròu 。",
+    "two": "我要新鲜牛肉。",
+    "three": "I want fresh beef."
+  },
+  {
+    "sid": 99,
+    "one": "qǐng gěi wǒqiè hǎo de shuǐguǒ 。",
+    "two": "请给我切好的水果。",
+    "three": "Please give me cut fruits."
+  },
+  {
+    "sid": 100,
+    "one": "wǒ xiǎng mǎi yīxiē xīnxiān de miànbāo 。",
+    "two": "我想买一些新鲜的面包。",
+    "three": "I want to buy some fresh bread."
+  },
+  {
+    "sid": 101,
+    "one": "zhèlǐ yǒu quánmài miànbāo ma ？",
+    "two": "这里有全麦面包吗？",
+    "three": "Is there whole wheat bread?"
+  },
+  {
+    "sid": 102,
+    "one": "qǐng gěi wǒ yīxiē xīnxiān de shūcài 。",
+    "two": "请给我一些新鲜的蔬菜。",
+    "three": "Please give me some fresh vegetables."
+  },
+  {
+    "sid": 103,
+    "one": "wǒyào mǎidiǎn xīnxiān de shuǐguǒ 。",
+    "two": "我要买点新鲜的水果。",
+    "three": "I want to buy some fresh fruits."
+  },
+  {
+    "sid": 104,
+    "one": "zhège chāoshì yǒu tèjià shāngpǐn ma ？",
+    "two": "这个超市有特价商品吗？",
+    "three": "Does this supermarket have any specials?"
+  },
+  {
+    "sid": 105,
+    "one": "wǒ xūyào yīpíng gǎnlǎnyóu 。",
+    "two": "我需要一瓶橄榄油。",
+    "three": "I need a bottle of olive oil."
+  },
+  {
+    "sid": 106,
+    "one": "wǒyào ròuwánzi 。",
+    "two": "我要肉丸子。",
+    "three": "I want meatballs."
+  },
+  {
+    "sid": 107,
+    "one": "zhèlǐ yǒu dīzhī suānnǎi ma ？",
+    "two": "这里有低脂酸奶吗？",
+    "three": "Is there low-fat yogurt?"
+  },
+  {
+    "sid": 108,
+    "one": "wǒyào dòng jīchì 。",
+    "two": "我要冻鸡翅。",
+    "three": "I want frozen chicken wings."
+  },
+  {
+    "sid": 109,
+    "one": "wǒyào jītuǐ 。",
+    "two": "我要鸡腿。",
+    "three": "I want chicken legs."
+  },
+  {
+    "sid": 110,
+    "one": "wǒyào mǎi hǎixiān 。",
+    "two": "我要买海鲜。",
+    "three": "I want to buy seafood."
+  },
+  {
+    "sid": 111,
+    "one": "zhèlǐ yǒuwú táng de bǐnggān ma ？",
+    "two": "这里有无糖的饼干吗？",
+    "three": "Is there sugar-free cookies?"
+  },
+  {
+    "sid": 112,
+    "one": "wǒ xiǎngyào yìdàlì miànjiàng 。",
+    "two": "我想要意大利面酱。",
+    "three": "I want pasta sauce."
+  },
+  {
+    "sid": 113,
+    "one": "qǐng gěi wǒ yīpíng hóngjiǔ 。",
+    "two": "请给我一瓶红酒。",
+    "three": "Please give me a bottle of red wine."
+  },
+  {
+    "sid": 114,
+    "one": "zhège chāoshì yǒu yǒujī chǎnpǐn ma ？",
+    "two": "这个超市有有机产品吗？",
+    "three": "Does this supermarket have organic products?"
+  },
+  {
+    "sid": 115,
+    "one": "wǒ xūyào yībāo màipiàn 。",
+    "two": "我需要一包麦片。",
+    "three": "I need a packet of cereal."
+  },
+  {
+    "sid": 116,
+    "one": "wǒyào pútao 。",
+    "two": "我要葡萄。",
+    "three": "I want grapes."
+  },
+  {
+    "sid": 117,
+    "one": "qǐng bāng wǒ zhǎodào shípǐn pèiliàobiǎo 。",
+    "two": "请帮我找到食品配料表。",
+    "three": "Please help me find the ingredient list."
+  },
+  {
+    "sid": 118,
+    "one": "wǒyào huǒjī 。",
+    "two": "我要火鸡。",
+    "three": "I want turkey."
+  },
+  {
+    "sid": 119,
+    "one": "wǒyào niúpái 。",
+    "two": "我要牛排。",
+    "three": "I want steak."
+  },
+  {
+    "sid": 120,
+    "one": "zhèlǐ yǒu dī nà shípǐn ma ？",
+    "two": "这里有低钠食品吗？",
+    "three": "Is there low-sodium food?"
+  },
+  {
+    "sid": 121,
+    "one": "qǐng gěi wǒ bīngqílín bēi 。",
+    "two": "请给我冰淇淋杯。",
+    "three": "Please give me an ice cream cone."
+  },
+  {
+    "sid": 122,
+    "one": "wǒyào yángròu 。",
+    "two": "我要羊肉。",
+    "three": "I want lamb."
+  },
+  {
+    "sid": 123,
+    "one": "wǒyào dòngyú 。",
+    "two": "我要冻鱼。",
+    "three": "I want frozen fish."
+  },
+  {
+    "sid": 124,
+    "one": "zhège chāoshì yǒu shūcài qiēpiàn ma ？",
+    "two": "这个超市有蔬菜切片吗？",
+    "three": "Is there pre-cut vegetables?"
+  },
+  {
+    "sid": 125,
+    "one": "wǒ xūyào yīpíng zhíwùyóu 。",
+    "two": "我需要一瓶植物油。",
+    "three": "I need a bottle of vegetable oil."
+  },
+  {
+    "sid": 126,
+    "one": "wǒyào jīxiōngròu 。",
+    "two": "我要鸡胸肉。",
+    "three": "I want chicken breasts."
+  },
+  {
+    "sid": 127,
+    "one": "qǐng gěi wǒ xǐwǎn bù 。",
+    "two": "请给我洗碗布。",
+    "three": "Please give me a dishcloth."
+  },
+  {
+    "sid": 128,
+    "one": "zhège chāoshì yǒu hóngchá ma ？",
+    "two": "这个超市有红茶吗？",
+    "three": "Is there black tea?"
+  },
+  {
+    "sid": 129,
+    "one": "qǐng bāng wǒ zhǎodào yǒujī shūcài 。",
+    "two": "请帮我找到有机蔬菜。",
+    "three": "Please help me find organic vegetables."
+  },
+  {
+    "sid": 130,
+    "one": "wǒ xūyào yīpíng diàowèijiàng 。",
+    "two": "我需要一瓶调味酱。",
+    "three": "I need a bottle of salad dressing."
+  }
+]

@@ -1,0 +1,1028 @@
+[
+  {
+    "sid": 1,
+    "one": "wǒ xǐhuan ...",
+    "two": "我喜欢...",
+    "three": "I like..."
+  },
+  {
+    "sid": 2,
+    "one": "wǒ xǐhuan kàn diànyǐng 。",
+    "two": "我喜欢看电影。",
+    "three": "I like watching movies."
+  },
+  {
+    "sid": 3,
+    "one": "wǒ xǐhuan chī qiǎokèlì 。",
+    "two": "我喜欢吃巧克力。",
+    "three": "I like eating chocolate."
+  },
+  {
+    "sid": 4,
+    "one": "wǒ xǐhuan lǚxíng 。",
+    "two": "我喜欢旅行。",
+    "three": "I like traveling."
+  },
+  {
+    "sid": 5,
+    "one": "wǒ bù xǐhuan ... 。",
+    "two": "我不喜欢...。",
+    "three": "I don't like..."
+  },
+  {
+    "sid": 6,
+    "one": "wǒ bù xǐhuan lěng tiānqì 。",
+    "two": "我不喜欢冷天气。",
+    "three": "I don't like cold weather."
+  },
+  {
+    "sid": 7,
+    "one": "wǒ bù xǐhuan chī mógu 。",
+    "two": "我不喜欢吃蘑菇。",
+    "three": "I don't like eating mushrooms."
+  },
+  {
+    "sid": 8,
+    "one": "wǒ bù xǐhuan yōngjǐ de dìfāng 。",
+    "two": "我不喜欢拥挤的地方。",
+    "three": "I don't like crowded places."
+  },
+  {
+    "sid": 9,
+    "one": "wǒ xiǎngyào ...",
+    "two": "我想要...",
+    "three": "I want..."
+  },
+  {
+    "sid": 10,
+    "one": "wǒ xiǎngyào yībēi kāfēi 。",
+    "two": "我想要一杯咖啡。",
+    "three": "I want a cup of coffee."
+  },
+  {
+    "sid": 11,
+    "one": "wǒ xiǎngyào yīliàngchē 。",
+    "two": "我想要一辆车。",
+    "three": "I want a car."
+  },
+  {
+    "sid": 12,
+    "one": "wǒ xiǎngyào yījiàn yīfú 。",
+    "two": "我想要一件衣服。",
+    "three": "I want a dress."
+  },
+  {
+    "sid": 13,
+    "one": "wǒ xūyào ...",
+    "two": "我需要...",
+    "three": "I need..."
+  },
+  {
+    "sid": 14,
+    "one": "wǒ xūyào yīzhī gāngbǐ 。",
+    "two": "我需要一支钢笔。",
+    "three": "I need a pen."
+  },
+  {
+    "sid": 15,
+    "one": "wǒ xūyào bāngzhù 。",
+    "two": "我需要帮助。",
+    "three": "I need help."
+  },
+  {
+    "sid": 16,
+    "one": "wǒ xūyào yīzhāng dìtú 。",
+    "two": "我需要一张地图。",
+    "three": "I need a map."
+  },
+  {
+    "sid": 17,
+    "one": "wǒ bùcháng ...",
+    "two": "我不常...",
+    "three": "I don't often..."
+  },
+  {
+    "sid": 18,
+    "one": "wǒ bùcháng kàndiànshì 。",
+    "two": "我不常看电视。",
+    "three": "I don't often watch TV."
+  },
+  {
+    "sid": 19,
+    "one": "wǒ bùcháng chīkuàicān 。",
+    "two": "我不常吃快餐。",
+    "three": "I don't often eat fast food."
+  },
+  {
+    "sid": 20,
+    "one": "wǒ bùcháng chūchāi 。",
+    "two": "我不常出差。",
+    "three": "I don't often travel for work."
+  },
+  {
+    "sid": 21,
+    "one": "wǒ zài ...",
+    "two": "我在...",
+    "three": "I am at/in..."
+  },
+  {
+    "sid": 22,
+    "one": "wǒ zài jiālǐ 。",
+    "two": "我在家里。",
+    "three": "I am at home."
+  },
+  {
+    "sid": 23,
+    "one": "wǒ zài xuéxiào shàngkè 。",
+    "two": "我在学校上课。",
+    "three": "I am at school attending class."
+  },
+  {
+    "sid": 24,
+    "one": "wǒ zài bàngōngshì gōngzuò 。",
+    "two": "我在办公室工作。",
+    "three": "I am at the office working."
+  },
+  {
+    "sid": 25,
+    "one": "wǒ qù ...",
+    "two": "我去...",
+    "three": "I am going to..."
+  },
+  {
+    "sid": 26,
+    "one": "wǒ qù chāoshì gòuwù 。",
+    "two": "我去超市购物。",
+    "three": "I am going to the supermarket."
+  },
+  {
+    "sid": 27,
+    "one": "wǒ qù yīyuàn kàn yīshēng 。",
+    "two": "我去医院看医生。",
+    "three": "I'm going to the hospital to see a doctor."
+  },
+  {
+    "sid": 28,
+    "one": "wǒ qù túshūguǎn jièshū 。",
+    "two": "我去图书馆借书。",
+    "three": "I'm going to the library to borrow books."
+  },
+  {
+    "sid": 29,
+    "one": "wǒ yǐjīng ... le 。",
+    "two": "我已经...了。",
+    "three": "I have already..."
+  },
+  {
+    "sid": 30,
+    "one": "wǒ yǐjīng chī guò wǎnfàn le 。",
+    "two": "我已经吃过晚饭了。",
+    "three": "I have already had dinner."
+  },
+  {
+    "sid": 31,
+    "one": "wǒ yǐjīng wánchéng zuòyè le 。",
+    "two": "我已经完成作业了。",
+    "three": "I have already finished my homework."
+  },
+  {
+    "sid": 32,
+    "one": "wǒ yǐjīng qùguò shànghǎi le 。",
+    "two": "我已经去过上海了。",
+    "three": "I have already been to Shanghai."
+  },
+  {
+    "sid": 33,
+    "one": "wǒ xiǎngyào qù ... 。",
+    "two": "我想要去...。",
+    "three": "I want to go to..."
+  },
+  {
+    "sid": 34,
+    "one": "wǒ xiǎngyào qù lǚxíng 。",
+    "two": "我想要去旅行。",
+    "three": "I want to travel."
+  },
+  {
+    "sid": 35,
+    "one": "wǒ xiǎngyào qù túshūguǎn jièshū 。",
+    "two": "我想要去图书馆借书。",
+    "three": "I want to go to the library to borrow books."
+  },
+  {
+    "sid": 36,
+    "one": "wǒ xiǎngyào qù kàn diànyǐng 。",
+    "two": "我想要去看电影。",
+    "three": "I want to go to the movies."
+  },
+  {
+    "sid": 37,
+    "one": "wǒ bùdébù ... 。",
+    "two": "我不得不...。",
+    "three": "I have to..."
+  },
+  {
+    "sid": 38,
+    "one": "wǒ bùdébù qù yīyuàn kànbìng 。",
+    "two": "我不得不去医院看病。",
+    "three": "I have to go to the hospital for treatment."
+  },
+  {
+    "sid": 39,
+    "one": "wǒ bùdébù wánchéng zhèxiàng rènwu 。",
+    "two": "我不得不完成这项任务。",
+    "three": "I have to complete this task."
+  },
+  {
+    "sid": 40,
+    "one": "wǒ bùdébù dǎdiànhuà gěi lǎobǎn 。",
+    "two": "我不得不打电话给老板。",
+    "three": "I have to call the boss."
+  },
+  {
+    "sid": 41,
+    "one": "wǒ kěyǐ ... ma ？",
+    "two": "我可以...吗？",
+    "three": "Can I...?"
+  },
+  {
+    "sid": 42,
+    "one": "wǒ kěyǐ jiè nǐ de qiānbǐ ma ？",
+    "two": "我可以借你的铅笔吗？",
+    "three": "Can I borrow your pencil?"
+  },
+  {
+    "sid": 43,
+    "one": "wǒ kěyǐ qǐngjià ma ？",
+    "two": "我可以请假吗？",
+    "three": "Can I take a leave of absence?"
+  },
+  {
+    "sid": 44,
+    "one": "wǒ kěyǐ zuòzài zhèlǐ ma ？",
+    "two": "我可以坐在这里吗？",
+    "three": "Can I sit here?"
+  },
+  {
+    "sid": 45,
+    "one": "wǒ xiǎng ... 。",
+    "two": "我想...。",
+    "three": "I want to..."
+  },
+  {
+    "sid": 46,
+    "one": "wǒ xiǎng chī pīsà 。",
+    "two": "我想吃披萨。",
+    "three": "I want to eat pizza."
+  },
+  {
+    "sid": 47,
+    "one": "wǒxiǎng xuédàn jítā 。",
+    "two": "我想学弹吉他。",
+    "three": "I want to learn to play the guitar."
+  },
+  {
+    "sid": 48,
+    "one": "wǒ xiǎng lǚxíng dào rìběn 。",
+    "two": "我想旅行到日本。",
+    "three": "I want to travel to Japan."
+  },
+  {
+    "sid": 49,
+    "one": "wǒ bù shàncháng ... 。",
+    "two": "我不擅长...。",
+    "three": "I'm not good at..."
+  },
+  {
+    "sid": 50,
+    "one": "wǒ bù shàncháng chànggē 。",
+    "two": "我不擅长唱歌。",
+    "three": "I'm not good at singing."
+  },
+  {
+    "sid": 51,
+    "one": "wǒ bù shàncháng zuò shùxuétí 。",
+    "two": "我不擅长做数学题。",
+    "three": "I'm not good at solving math problems."
+  },
+  {
+    "sid": 52,
+    "one": "wǒ bù shàncháng yóuyǒng 。",
+    "two": "我不擅长游泳。",
+    "three": "I'm not good at swimming."
+  },
+  {
+    "sid": 53,
+    "one": "wǒ yīzhí zài xuéxí ... 。",
+    "two": "我一直在学习...。",
+    "three": "I've been learning..."
+  },
+  {
+    "sid": 54,
+    "one": "wǒ yīzhí zài xuéxí xīn de jìnéng 。",
+    "two": "我一直在学习新的技能。",
+    "three": "I have been learning new skills all along."
+  },
+  {
+    "sid": 55,
+    "one": "wǒ yīzhí zài xuéxí rúhé zuò pēngrèn 。",
+    "two": "我一直在学习如何做烹饪。",
+    "three": "I have been learning how to cook all along."
+  },
+  {
+    "sid": 56,
+    "one": "wǒ yīzhí zài xuéxíwàiyǔ 。",
+    "two": "我一直在学习外语。",
+    "three": "I have been learning a foreign language all along."
+  },
+  {
+    "sid": 57,
+    "one": "wǒ tōngcháng ... 。",
+    "two": "我通常...。",
+    "three": "I usually..."
+  },
+  {
+    "sid": 58,
+    "one": "wǒ tōngcháng zài zhōumò xiūxi 。",
+    "two": "我通常在周末休息。",
+    "three": "I usually rest on the weekends."
+  },
+  {
+    "sid": 59,
+    "one": "wǒ tōngcháng chī zǎofàn 。",
+    "two": "我通常吃早饭。",
+    "three": "I usually eat breakfast."
+  },
+  {
+    "sid": 60,
+    "one": "wǒ tōngcháng shàngwǔ duànliàn 。",
+    "two": "我通常上午锻炼。",
+    "three": "I usually exercise in the mornin"
+  },
+  {
+    "sid": 61,
+    "one": "wǒ cóngwèi ... 。",
+    "two": "我从未...。",
+    "three": "I have never..."
+  },
+  {
+    "sid": 62,
+    "one": "wǒ cóngwèi qùguò ōuzhōu 。",
+    "two": "我从未去过欧洲。",
+    "three": "I have never been to Europe."
+  },
+  {
+    "sid": 63,
+    "one": "wǒ cóngwèi chángshì guò huáxuě 。",
+    "two": "我从未尝试过滑雪。",
+    "three": "I have never tried skiing."
+  },
+  {
+    "sid": 64,
+    "one": "wǒ cóngwèi chī guò shòusī 。",
+    "two": "我从未吃过寿司。",
+    "three": "I have never eaten sushi."
+  },
+  {
+    "sid": 65,
+    "one": "tā / tā shì ...",
+    "two": "他/她是...",
+    "three": "He/she is…."
+  },
+  {
+    "sid": 66,
+    "one": "tā shì yīwèi lǎoshī 。",
+    "two": "她是一位老师。",
+    "three": "She is a teacher."
+  },
+  {
+    "sid": 67,
+    "one": "tā shì yīmíng yīshēng 。",
+    "two": "他是一名医生。",
+    "three": "He is a doctor."
+  },
+  {
+    "sid": 68,
+    "one": "tā shì wǒ de péngyou 。",
+    "two": "她是我的朋友。",
+    "three": "She is my friend."
+  },
+  {
+    "sid": 69,
+    "one": "nǐ xǐhuan chī ... ma ？",
+    "two": "你喜欢吃...吗？",
+    "three": "do you like ...?"
+  },
+  {
+    "sid": 70,
+    "one": "nǐ xǐhuan chī pīsà ma ？",
+    "two": "你喜欢吃披萨吗？",
+    "three": "Do you like pizza?"
+  },
+  {
+    "sid": 71,
+    "one": "nǐ xǐbùxǐhuān là de shíwù ？",
+    "two": "你喜不喜欢辣的食物？",
+    "three": "Do you like spicy food?"
+  },
+  {
+    "sid": 72,
+    "one": "nǐ xǐhuan qiǎokèlì ma ？",
+    "two": "你喜欢巧克力吗？",
+    "three": "Do you like chocolate?"
+  },
+  {
+    "sid": 73,
+    "one": "qǐng gěi wǒ ...",
+    "two": "请给我...",
+    "three": "please give me..."
+  },
+  {
+    "sid": 74,
+    "one": "qǐng gěi wǒ yībēi shuǐ 。",
+    "two": "请给我一杯水。",
+    "three": "Please give me a glass of water."
+  },
+  {
+    "sid": 75,
+    "one": "qǐng gěi wǒ nǐ de diànhuàhàomǎ 。",
+    "two": "请给我你的电话号码。",
+    "three": "Please give me your phone number."
+  },
+  {
+    "sid": 76,
+    "one": "qǐng gěi wǒ yīxiē jiànyì 。",
+    "two": "请给我一些建议。",
+    "three": "Please give me some advice."
+  },
+  {
+    "sid": 77,
+    "one": "tā / tā huì ...",
+    "two": "他/她会...",
+    "three": "He/she can..."
+  },
+  {
+    "sid": 78,
+    "one": "tā huì shuō fǎyǔ 。",
+    "two": "她会说法语。",
+    "three": "She can speak French."
+  },
+  {
+    "sid": 79,
+    "one": "tāhuìdàn jítā 。",
+    "two": "他会弹吉他。",
+    "three": "He can play the guitar."
+  },
+  {
+    "sid": 80,
+    "one": "tā huì yóuyǒng yóu 。",
+    "two": "她会游泳游。",
+    "three": "She can swim."
+  },
+  {
+    "sid": 81,
+    "one": "wǒ qù ...",
+    "two": "我去...",
+    "three": "I'm going to..."
+  },
+  {
+    "sid": 82,
+    "one": "wǒyào qù chāoshì 。",
+    "two": "我要去超市。",
+    "three": "I'm going to the supermarket."
+  },
+  {
+    "sid": 83,
+    "one": "wǒyào qù bàifǎng wǒ de zǔfùmǔ 。",
+    "two": "我要去拜访我的祖父母。",
+    "three": "I'm going to visit my grandparents."
+  },
+  {
+    "sid": 84,
+    "one": "jīnwǎn wǒyào qù cānjiā yīgè jùhuì 。",
+    "two": "今晚我要去参加一个聚会。",
+    "three": "I'm going to a party tonight."
+  },
+  {
+    "sid": 85,
+    "one": "tā / tā xǐhuan ...",
+    "two": "他/她喜欢...",
+    "three": "He/she likes..."
+  },
+  {
+    "sid": 86,
+    "one": "tā xǐhuan tīzúqiú 。",
+    "two": "她喜欢踢足球。",
+    "three": "She likes to play football."
+  },
+  {
+    "sid": 87,
+    "one": "tā xǐhuan dúshū 。",
+    "two": "他喜欢读书。",
+    "three": "He likes to read."
+  },
+  {
+    "sid": 88,
+    "one": "tā xǐhuan huàhuà 。",
+    "two": "她喜欢画画。",
+    "three": "She likes to draw."
+  },
+  {
+    "sid": 89,
+    "one": "jīntiān shì ...",
+    "two": "今天是...",
+    "three": "Today is..."
+  },
+  {
+    "sid": 90,
+    "one": "jīntiān shì xīngqīyī 。",
+    "two": "今天是星期一。",
+    "three": "Today is Monday."
+  },
+  {
+    "sid": 91,
+    "one": "jīntiān shì shíyuèshírì 。",
+    "two": "今天是十月十日。",
+    "three": "Today is October 10th."
+  },
+  {
+    "sid": 92,
+    "one": "jīntiān shì wǒ de shēngrì 。",
+    "two": "今天是我的生日。",
+    "three": "today is my birthday."
+  },
+  {
+    "sid": 93,
+    "one": "xiànzài shì ...",
+    "two": "现在是...",
+    "three": "It is..."
+  },
+  {
+    "sid": 94,
+    "one": "xiànzài shì xiàwǔ sāndiǎn 。",
+    "two": "现在是下午三点。",
+    "three": "It's three o'clock in the afternoon."
+  },
+  {
+    "sid": 95,
+    "one": "xiànzài shì xiàtiān 。",
+    "two": "现在是夏天。",
+    "three": "it is summer now."
+  },
+  {
+    "sid": 96,
+    "one": "xiànzài shì chīfàn de shíjiān 。",
+    "two": "现在是吃饭的时间。",
+    "three": "It's time to eat."
+  },
+  {
+    "sid": 97,
+    "one": "míngtiān shì ...",
+    "two": "明天是...",
+    "three": "tomorrow is..."
+  },
+  {
+    "sid": 98,
+    "one": "míngtiān shì xīngqīèr 。",
+    "two": "明天是星期二。",
+    "three": "Tomorrow is Tuesday."
+  },
+  {
+    "sid": 99,
+    "one": "míngtiān shì wǒ kāixué de rìzi 。",
+    "two": "明天是我开学的日子。",
+    "three": "Tomorrow is my first day of school."
+  },
+  {
+    "sid": 100,
+    "one": "míngtiān shì shèngdànjié 。",
+    "two": "明天是圣诞节。",
+    "three": "Tomorrow is Christmas."
+  },
+  {
+    "sid": 101,
+    "one": "zhèshì ...",
+    "two": "这是...",
+    "three": "This is..."
+  },
+  {
+    "sid": 102,
+    "one": "zhè shì wǒ de jiā 。",
+    "two": "这是我的家。",
+    "three": "This is my home."
+  },
+  {
+    "sid": 103,
+    "one": "zhè shì wǒ de wòshì 。",
+    "two": "这是我的卧室。",
+    "three": "This is my bedroom."
+  },
+  {
+    "sid": 104,
+    "one": "zhèshì yījiā cāntīng 。",
+    "two": "这是一家餐厅。",
+    "three": "This is a restaurant."
+  },
+  {
+    "sid": 105,
+    "one": "qù ...",
+    "two": "去...",
+    "three": "Go..."
+  },
+  {
+    "sid": 106,
+    "one": "wǒ qù chāoshì mǎi dōngxi 。",
+    "two": "我去超市买东西。",
+    "three": "I go to the supermarket to buy something."
+  },
+  {
+    "sid": 107,
+    "one": "tā qù yīyuàn kànbìng 。",
+    "two": "她去医院看病。",
+    "three": "Let's go to school."
+  },
+  {
+    "sid": 108,
+    "one": "wǒmen qù hǎitān dùjià 。",
+    "two": "我们去海滩度假。",
+    "three": "We go to the beach for vacation."
+  },
+  {
+    "sid": 109,
+    "one": "wǒ fēicháng tǎoyàn ...",
+    "two": "我非常讨厌...",
+    "three": "I hate it very much..."
+  },
+  {
+    "sid": 110,
+    "one": "wǒ fēicháng tǎoyàn chóngzi 。",
+    "two": "我非常讨厌虫子。",
+    "three": "I absolutely hate bugs."
+  },
+  {
+    "sid": 111,
+    "one": "wǒ fēicháng tǎoyàn děngdài 。",
+    "two": "我非常讨厌等待。",
+    "three": "I absolutely hate waiting."
+  },
+  {
+    "sid": 112,
+    "one": "wǒ fēicháng tǎoyàn làngfèishíjiān 。",
+    "two": "我非常讨厌浪费时间。",
+    "three": "I absolutely hate wasting time."
+  },
+  {
+    "sid": 113,
+    "one": "wǒ kěyǐ bāng nǐ ...",
+    "two": "我可以帮你...",
+    "three": "I can help you..."
+  },
+  {
+    "sid": 114,
+    "one": "wǒ kěyǐ bāng nǐ mǎi shíwù 。",
+    "two": "我可以帮你买食物。",
+    "three": "I can help you buy food."
+  },
+  {
+    "sid": 115,
+    "one": "wǒ kěyǐ bāng nǐ zhǎo zīliào 。",
+    "two": "我可以帮你找资料。",
+    "three": "I can help you find information."
+  },
+  {
+    "sid": 116,
+    "one": "wǒ kěyǐ bāng nǐ xuéxí 。",
+    "two": "我可以帮你学习。",
+    "three": "I can help you study."
+  },
+  {
+    "sid": 117,
+    "one": "qǐngwèn ， zhè fùjìn yǒu chāoshì ma ？",
+    "two": "请问，这附近有超市吗？",
+    "three": "Excuse me, is there a supermarket near here?"
+  },
+  {
+    "sid": 118,
+    "one": "qǐngwèn ， zěnme qù huǒchēzhàn ？",
+    "two": "请问，怎么去火车站？",
+    "three": "Excuse me, how to get to the train station?"
+  },
+  {
+    "sid": 119,
+    "one": "qǐngwèn ， cèshì zài nǎlǐ ？",
+    "two": "请问，测试在哪里？",
+    "three": "Excuse me, where is the test?"
+  },
+  {
+    "sid": 120,
+    "one": "wǒ rènwéi ...",
+    "two": "我认为...",
+    "three": "I think..."
+  },
+  {
+    "sid": 121,
+    "one": "wǒ rènwéi yǒuqíng hěn zhòngyào 。",
+    "two": "我认为友情很重要。",
+    "three": "I think friendship is very important."
+  },
+  {
+    "sid": 122,
+    "one": "wǒ rènwéi kànshū hěnbàng 。",
+    "two": "我认为看书很棒。",
+    "three": "I think reading is great."
+  },
+  {
+    "sid": 123,
+    "one": "wǒ rènwéi nǐ shì gè hǎorén 。",
+    "two": "我认为你是个好人。",
+    "three": "I think you are a good person."
+  },
+  {
+    "sid": 124,
+    "one": "zàiwǒkànlái ...",
+    "two": "在我看来...",
+    "three": "In my opinion..."
+  },
+  {
+    "sid": 125,
+    "one": "zàiwǒkànlái ， zhèbù diànyǐng fēicháng yǒuqù 。",
+    "two": "在我看来，这部电影非常有趣。",
+    "three": "In my opinion, this movie is very interesting."
+  },
+  {
+    "sid": 126,
+    "one": "zàiwǒkànlái ， jiànkāng shì zuì zhòngyào de 。",
+    "two": "在我看来，健康是最重要的。",
+    "three": "In my opinion, health is the most important thing."
+  },
+  {
+    "sid": 127,
+    "one": "zàiwǒkànlái ， zhège juédìng shì zhèngquè de 。",
+    "two": "在我看来，这个决定是正确的。",
+    "three": "In my opinion, this decision is correct."
+  },
+  {
+    "sid": 128,
+    "one": "wǒ lǐjiě ...",
+    "two": "我理解...",
+    "three": "I understand..."
+  },
+  {
+    "sid": 129,
+    "one": "wǒ lǐjiě nǐ de guāndiǎn 。",
+    "two": "我理解你的观点。",
+    "three": "I understand your point of view."
+  },
+  {
+    "sid": 130,
+    "one": "wǒ lǐjiě zhège nántí 。",
+    "two": "我理解这个难题。",
+    "three": "I understand this difficult problem."
+  },
+  {
+    "sid": 131,
+    "one": "wǒ lǐjiě nǐ de gǎnshòu 。",
+    "two": "我理解你的感受。",
+    "three": "I understand your feelings."
+  },
+  {
+    "sid": 132,
+    "one": "wǒ xiǎng zhīdào ...",
+    "two": "我想知道...",
+    "three": "I want to know..."
+  },
+  {
+    "sid": 133,
+    "one": "wǒ xiǎng zhīdào míngtiān de tiānqì 。",
+    "two": "我想知道明天的天气。",
+    "three": "I want to know the weather for tomorrow."
+  },
+  {
+    "sid": 134,
+    "one": "wǒ xiǎng zhīdào zhè běnshū de zuòzhě 。",
+    "two": "我想知道这本书的作者。",
+    "three": "I want to know the author of this book."
+  },
+  {
+    "sid": 135,
+    "one": "wǒ xiǎng zhīdào nǐ de jiànyì 。",
+    "two": "我想知道你的建议。",
+    "three": "I want to know your advice."
+  },
+  {
+    "sid": 136,
+    "one": "wǒ gǎndào ...",
+    "two": "我感到...",
+    "three": "I feel..."
+  },
+  {
+    "sid": 137,
+    "one": "wǒ gǎndào kuàilè 。",
+    "two": "我感到快乐。",
+    "three": "I feel happy."
+  },
+  {
+    "sid": 138,
+    "one": "wǒ gǎndào kùnhuò 。",
+    "two": "我感到困惑。",
+    "three": "I feel confused."
+  },
+  {
+    "sid": 139,
+    "one": "wǒ gǎndào jǐnzhāng 。",
+    "two": "我感到紧张。",
+    "three": "I feel nervous."
+  },
+  {
+    "sid": 140,
+    "one": "wǒ xiāngxìn ...",
+    "two": "我相信...",
+    "three": "I believe..."
+  },
+  {
+    "sid": 141,
+    "one": "wǒ xiāngxìn yǒuqíng hěn zhòngyào 。",
+    "two": "我相信友情很重要。",
+    "three": "I believe friendship is important."
+  },
+  {
+    "sid": 142,
+    "one": "wǒ xiāngxìn míngtiān huì gēnghǎo 。",
+    "two": "我相信明天会更好。",
+    "three": "I believe tomorrow will be better."
+  },
+  {
+    "sid": 143,
+    "one": "wǒ xiāngxìn zìjǐ néng chénggōng 。",
+    "two": "我相信自己能成功。",
+    "three": "I believe in my ability to succeed."
+  },
+  {
+    "sid": 144,
+    "one": "wǒ yùdào le ...",
+    "two": "我遇到了...",
+    "three": "I encountered..."
+  },
+  {
+    "sid": 145,
+    "one": "wǒ yùdào le yīgè yǒuqù de rén 。",
+    "two": "我遇到了一个有趣的人。",
+    "three": "I encountered an interesting person."
+  },
+  {
+    "sid": 146,
+    "one": "wǒ yùdào le yīxiē kùnnán 。",
+    "two": "我遇到了一些困难。",
+    "three": "I encountered some difficulties."
+  },
+  {
+    "sid": 147,
+    "one": "wǒ yùdào le yīgè xīn wèntí 。",
+    "two": "我遇到了一个新问题。",
+    "three": "I encountered a new problem."
+  },
+  {
+    "sid": 148,
+    "one": "wǒ wúfǎ ...",
+    "two": "我无法...",
+    "three": "I can't..."
+  },
+  {
+    "sid": 149,
+    "one": "wǒ wúfǎ lǐjiě zhège wèntí 。",
+    "two": "我无法理解这个问题。",
+    "three": "I can't understand this problem."
+  },
+  {
+    "sid": 150,
+    "one": "wǒ wúfǎ qù cānjiā jùhuì 。",
+    "two": "我无法去参加聚会。",
+    "three": "I can't attend the party."
+  },
+  {
+    "sid": 151,
+    "one": "wǒ wúfǎrěnshòu bù gōngpíng dàiyù 。",
+    "two": "我无法忍受不公平待遇。",
+    "three": "I can't tolerate unfair treatment."
+  },
+  {
+    "sid": 152,
+    "one": "wǒ zhèngzài ...",
+    "two": "我正在...",
+    "three": "I am currently..."
+  },
+  {
+    "sid": 153,
+    "one": "wǒ zhèngzài xuéxí yīngyǔ 。",
+    "two": "我正在学习英语。",
+    "three": "I am currently learning English."
+  },
+  {
+    "sid": 154,
+    "one": "wǒ zhèngzài gōngzuò 。",
+    "two": "我正在工作。",
+    "three": "I am currently working."
+  },
+  {
+    "sid": 155,
+    "one": "wǒ zhèngzài yuèdú yìběn hǎoshū 。",
+    "two": "我正在阅读一本好书。",
+    "three": "I am currently reading a good book."
+  },
+  {
+    "sid": 156,
+    "one": "wǒ bù zhīdào ...",
+    "two": "我不知道...",
+    "three": "I don't know..."
+  },
+  {
+    "sid": 157,
+    "one": "wǒ bù zhīdào míngtiān de jìhuà 。",
+    "two": "我不知道明天的计划。",
+    "three": "I don't know the plan for tomorrow."
+  },
+  {
+    "sid": 158,
+    "one": "wǒ bù zhīdào zhège dìfāng de míngzì 。",
+    "two": "我不知道这个地方的名字。",
+    "three": "I don't know the name of this place."
+  },
+  {
+    "sid": 159,
+    "one": "wǒ bù zhīdào dáàn 。",
+    "two": "我不知道答案。",
+    "three": "I don't know the answer."
+  },
+  {
+    "sid": 160,
+    "one": "wǒ xiǎngyào chángshì ...",
+    "two": "我想要尝试...",
+    "three": ""
+  },
+  {
+    "sid": 161,
+    "one": "wǒ xiǎngyào chángshì xīn de shíwù 。",
+    "two": "我想要尝试新的食物。",
+    "three": "I want to try new food."
+  },
+  {
+    "sid": 162,
+    "one": "wǒ xiǎngyào chángshì huáxuě 。",
+    "two": "我想要尝试滑雪。",
+    "three": "I want to try skiing."
+  },
+  {
+    "sid": 163,
+    "one": "wǒ xiǎngyào chángshì xīn de jìnéng 。",
+    "two": "我想要尝试新的技能。",
+    "three": "I want to try new skills."
+  },
+  {
+    "sid": 164,
+    "one": "wǒ xiǎngyào liǎojiě ...",
+    "two": "我想要了解...",
+    "three": "I want to learn about..."
+  },
+  {
+    "sid": 165,
+    "one": "wǒ xiǎngyào liǎojiě lìshǐ shìjiàn 。",
+    "two": "我想要了解历史事件。",
+    "three": "I want to learn about historical events."
+  },
+  {
+    "sid": 166,
+    "one": "wǒ xiǎngyào liǎojiě bùtóng wénhuà 。",
+    "two": "我想要了解不同文化。",
+    "three": "I want to learn about different cultures."
+  },
+  {
+    "sid": 167,
+    "one": "wǒ xiǎngyào liǎojiě zhège zhǔtǐ 。",
+    "two": "我想要了解这个主题。",
+    "three": "I want to learn about this topic."
+  },
+  {
+    "sid": 168,
+    "one": "wǒ xiǎngshòu ...",
+    "two": "我享受...",
+    "three": "I enjoy..."
+  },
+  {
+    "sid": 169,
+    "one": "wǒ xiǎngshòu hùwàihuódòng 。",
+    "two": "我享受户外活动。",
+    "three": "I enjoy outdoor activities."
+  },
+  {
+    "sid": 170,
+    "one": "wǒ xiǎngshòu yuèdú hǎoshū 。",
+    "two": "我享受阅读好书。",
+    "three": "I enjoy reading good books."
+  },
+  {
+    "sid": 171,
+    "one": "wǒ xiǎngshòu yǔ péngyou jùhuì 。",
+    "two": "我享受与朋友聚会。",
+    "three": "I enjoy getting together with friends."
+  }
+]
